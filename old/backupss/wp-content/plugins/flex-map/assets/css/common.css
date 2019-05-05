@@ -1,0 +1,201 @@
+.map-btn{
+    padding:5px !important;
+    color:white;
+    font-size:0.85em;
+    cursor:pointer;
+    border:none;
+    border-radius:3px !important;
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+}
+.map-btn-big{
+    display:inline-block;
+    padding:8px !important;
+    color:white;
+    font-size:1.0em;
+    cursor:pointer;
+    border:none;
+    border-radius:3px !important;
+}
+a.map-btn-big i{
+    margin-right:5px !important;
+    margin-left:5px !important;
+}
+.upload-btn{
+    padding:6px !important;
+    color:white;
+    font-size:0.85em;
+    cursor:pointer;
+    border:none;
+    border-radius:3px !important;
+    border-bottom:2px solid gray !important;
+}
+button i{
+    margin-right:5px !important;
+    margin-left:5px !important;
+}
+.map-btn-out-tab{
+    font-size:1em !important;
+}
+.map-btn:focus{
+    outline:none;
+}
+.wrap-button{
+    padding-top:10px !important;
+    padding-bottom:10px !important;
+}
+.btn-blue{
+    background:#2980B9 !important;
+}
+.btn-blue:hover{
+    background:#01609b !important;
+}
+.color-red{
+    color:#EB5545;
+}
+.btn-red{
+    background:#EB5545 !important;
+}
+.btn-red:hover{
+    background:red !important;
+}
+.color-green{
+    color :#1ABC9C;
+}
+.btn-green{
+    background:#1ABC9C !important;
+}
+.btn-green:hover{
+    background:#00a080 !important;
+}
+.btn-green[disabled="disabled"]{
+    background:#00a080 !important;
+    cursor:wait;
+}
+.btn-orange{
+    background:#F0AD4E !important;
+}
+.btn-orange:hover{
+    background:orange !important;
+}
+.wrap-button .button{
+    margin-left:5px !important;
+    margin-right:5px !important;
+}
+/* Loading style */
+@-moz-keyframes circles-loader {
+    0% {
+        -moz-transform: rotate(-720deg);
+        transform: rotate(-720deg);
+    }
+    50% {
+        -moz-transform: rotate(720deg);
+        transform: rotate(720deg);
+    }
+}@-webkit-keyframes circles-loader {
+     0% {
+         -webkit-transform: rotate(-720deg);
+         transform: rotate(-720deg);
+     }
+     50% {
+         -webkit-transform: rotate(720deg);
+         transform: rotate(720deg);
+     }
+ }@keyframes circles-loader {
+      0% {
+          -moz-transform: rotate(-720deg);
+          -ms-transform: rotate(-720deg);
+          -webkit-transform: rotate(-720deg);
+          transform: rotate(-720deg);
+      }
+      50% {
+          -moz-transform: rotate(720deg);
+          -ms-transform: rotate(720deg);
+          -webkit-transform: rotate(720deg);
+          transform: rotate(720deg);
+      }
+  }.circles-loader:not(:required) {
+       position: absolute;
+          top:50%;
+       text-indent:-9999px;
+       display:inline-block;
+       width:25px;
+       height:25px;
+       background:rgba(255,204,51,.9);border-radius:100%;
+       -moz-animation:circles-loader 3s infinite ease-in-out;
+       -webkit-animation:circles-loader 3s infinite ease-in-out;
+       animation:circles-loader 3s infinite ease-in-out;
+       margin-left:47%;
+       -moz-transform-origin:50% 100%;
+       -ms-transform-origin:50% 100%;
+       -webkit-transform-origin:50% 100%;
+       transform-origin:50% 100%}
+.circles-loader:not(:required)::before {
+    background:rgba(255,102,0,.6);border-radius:100%;
+    content:'';
+    position:absolute;
+    width:25px;
+    height:25px;
+    top:18.75px;
+    left:-10.82532px
+}.circles-loader:not(:required)::after {background:rgba(255,51,0,.4);border-radius:100%;content:'';position:absolute;width:25px;height:25px;top:18.75px;left:10.82532px}
+.wait{
+    width:100%;height:100%;
+    position:absolute;
+    top:0;
+    display:none;
+}
+.wait .background-waiting{
+    position:absolute;
+    background:white;
+    width:100%;
+    height:100%;
+    opacity:0.6;
+}
+/* banner */
+
+
+.inner-banner{
+    width:100%;
+    height:100%;
+}
+.map-banner{
+    width  :100%;
+    height :100px;
+    background:#354a5f;
+    border-bottom:2px solid black;
+}
+.map-banner img {
+
+    border:1px solid white;
+    border-radius:5px;
+    width: 60px;
+}
+.logo-wrapper{
+    padding:20px;
+}
+.logo-text{
+    float:left;
+    height:100%;
+}
+.logo-container{
+    float:left;
+    height:100%;
+}
+
+.logo-text{
+    display:inline-block;
+    width:40%;
+    height:100%;
+}
+.inner-text{
+    display:inline-block;
+    color:white;
+    margin-top:9%;
+}
+.logo-text .name{
+    font-size:35px;
+}
+.logo-text .state{
+    font-size:15px;
+}

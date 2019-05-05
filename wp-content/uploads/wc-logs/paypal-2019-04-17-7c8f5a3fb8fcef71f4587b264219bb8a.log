@@ -1,0 +1,80 @@
+2019-04-17T09:52:51+00:00 INFO Generating payment form for order 1997. Notify URL: http://www.pauluduk.com/?wc-api=WC_Gateway_Paypal
+2019-04-17T09:52:51+00:00 INFO PayPal Request Args for order 1997: Array
+(
+    [cmd] => _cart
+    [business] => pauluduk@gmail.com
+    [no_note] => 1
+    [currency_code] => USD
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://www.pauluduk.com/?page_id=209&order-received=1997&key=wc_order_xsuefomRLJwqH&utm_nooverride=1
+    [cancel_return] => http://www.pauluduk.com/?page_id=208&cancel_order=true&order=wc_order_xsuefomRLJwqH&order_id=1997&redirect&_wpnonce=b593d71750
+    [page_style] => 
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-1997
+    [custom] => {"order_id":1997,"order_key":"wc_order_xsuefomRLJwqH"}
+    [notify_url] => http://www.pauluduk.com/?wc-api=WC_Gateway_Paypal
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_b] => ***
+    [address_override] => 0
+    [no_shipping] => 0
+    [tax_cart] => 0.00
+    [item_name_1] => Bridges to the Customer's Heart
+    [quantity_1] => 1
+    [amount_1] => 500
+    [item_number_1] => 
+    [item_name_2] => The Celebrity Speaker
+    [quantity_2] => 4
+    [amount_2] => 500
+    [item_number_2] => 
+    [bn] => WooThemes_Cart
+)
+
+2019-04-17T12:17:47+00:00 INFO Generating payment form for order 1998. Notify URL: http://www.pauluduk.com/?wc-api=WC_Gateway_Paypal
+2019-04-17T12:17:47+00:00 INFO PayPal Request Args for order 1998: Array
+(
+    [cmd] => _cart
+    [business] => pauluduk@gmail.com
+    [no_note] => 1
+    [currency_code] => USD
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://www.pauluduk.com/?page_id=209&order-received=1998&key=wc_order_gqKGE7acVLoDp&utm_nooverride=1
+    [cancel_return] => http://www.pauluduk.com/?page_id=208&cancel_order=true&order=wc_order_gqKGE7acVLoDp&order_id=1998&redirect&_wpnonce=730b90cabe
+    [page_style] => 
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-1998
+    [custom] => {"order_id":1998,"order_key":"wc_order_gqKGE7acVLoDp"}
+    [notify_url] => http://www.pauluduk.com/?wc-api=WC_Gateway_Paypal
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_b] => ***
+    [address_override] => 0
+    [no_shipping] => 0
+    [tax_cart] => 0.00
+    [item_name_1] => Bridges to the Customer's Heart
+    [quantity_1] => 1
+    [amount_1] => 500
+    [item_number_1] => 
+    [bn] => WooThemes_Cart
+)
+

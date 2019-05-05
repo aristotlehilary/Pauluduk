@@ -1,0 +1,471 @@
+
+.doifdAdminHeader {
+    width: 100%;
+    height: auto;
+    min-height: 185px;
+    text-align: left;
+    background: #000;
+    overflow: auto;
+    clear: both;
+}
+
+.doifdAdminHeader h2 {
+    font-size: 2em;
+    font-weight: bold;
+    color: #D8D8D8;
+}
+.doifdAdminHeader {
+    font-size: 1em;
+    font-weight: bold;
+    color: #fff;
+}
+
+.doifdAdminText {
+    float: left;
+    padding: 15px;
+}
+
+.doifdAdminMisc {
+    float: right;
+}
+
+.rateDOIFD {
+    width: 250px;
+    padding: 15px;
+    /*background: #c5c5c5;*/
+    text-align: center;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    font-size: 1.2em;
+    margin-right: 15px;
+}
+
+.rateDOIFD p {
+    padding-top: 50px;
+    line-height: 2.8em;
+}
+
+.fb-like-box {
+    background: #444;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    border-radius: 20px;
+    padding-left: 3px;
+    padding-top: 1px;
+    opacity: 0.9;
+    width: 257px;
+}
+
+.premium_promo {
+    width: 600px;
+    text-align: center;
+}
+
+.premium_promo p {
+    font-size: 1.5em;
+}
+
+.premium_promo_button {
+    -moz-box-shadow:inset 1px 1px 0px 0px #fed897;
+    -webkit-box-shadow:inset 1px 1px 0px 0px #fed897;
+    box-shadow:inset 1px 1px 0px 0px #fed897;
+    background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f6b33d), color-stop(1, #d29105) );
+    background:-moz-linear-gradient( center top, #f6b33d 5%, #d29105 100% );
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f6b33d', endColorstr='#d29105');
+    background-color:#f6b33d;
+    -webkit-border-top-left-radius:20px;
+    -moz-border-radius-topleft:20px;
+    border-top-left-radius:20px;
+    -webkit-border-top-right-radius:20px;
+    -moz-border-radius-topright:20px;
+    border-top-right-radius:20px;
+    -webkit-border-bottom-right-radius:20px;
+    -moz-border-radius-bottomright:20px;
+    border-bottom-right-radius:20px;
+    -webkit-border-bottom-left-radius:20px;
+    -moz-border-radius-bottomleft:20px;
+    border-bottom-left-radius:20px;
+    text-indent:0;
+    border:1px solid #eda933;
+    display:inline-block;
+    color:#ffffff;
+    font-family:Verdana;
+    font-size:15px;
+    font-weight:bold;
+    font-style:normal;
+    height:65px;
+    line-height:65px;
+    width:400px;
+    text-decoration:none;
+    text-align:center;
+    text-shadow:1px 1px 0px #cd8a15;
+}
+.premium_promo_button:hover {
+    background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #d29105), color-stop(1, #f6b33d) );
+    background:-moz-linear-gradient( center top, #d29105 5%, #f6b33d 100% );
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#d29105', endColorstr='#f6b33d');
+    background-color:#d29105;
+}
+
+.premium_promo_button:active {
+    position:relative;
+    top:1px;
+}
+
+.doifd_button {
+    font-size: 1.3em;
+    margin: 5px;
+}
+.doifd_button:hover {
+    
+}
+
+.doifd_save_button:active {
+    position:relative;
+    top:1px;
+}
+
+.doifd_options_fields p {
+    font-size: 1.5em;
+}
+
+.doifd_options_fields input[type="text"], input[type="password"], select, file {
+    padding: 10px;
+    height: 45px;
+    border: solid 1px #dcdcdc;
+    transition: box-shadow 0.3s, border 0.3s;
+    font-size: 1.2em;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -khtml-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
+.doifd_options_fields input[type="text"]:focus, input[type="password"]:focus, select:focus, file:focus {
+    border: solid 1px #707070;
+    box-shadow: 0 0 5px 1px #969696;
+    -moz-border-radius: 10px;
+    -khtml-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
+
+.uploadallowedfiletypes,
+.editallowedfiletypes {
+    cursor: pointer;
+    padding-left: 150px;
+    display: inline-block;
+    color: #0066cc;
+}
+
+.uploadfilesizelimit,
+.editfilesizelimit {
+    display: inline-block;
+    cursor: pointer;
+    color: #0066cc;
+}
+
+
+/* Upload Form */
+
+/*#doifdListForm fieldset div,
+#doifdUploadForm fieldset div,
+#doifdEditUploadForm fieldset div {
+    margin:1em 0;
+    clear:both;
+}
+#doifdListForm form,
+#doifdUploadForm form,
+#doifdEditUploadForm form {
+    margin:1em;
+    width:27em;
+}
+#doifdListForm label,
+#doifdUploadForm label,
+#doifdEditUploadForm label {
+    float:left;
+    width:10em;
+    text-align:right;
+    margin-right:1em;
+    vertical-algin: middle;
+}
+#doifdListForm legend,
+#doifdUploadForm legend,
+#doifdEditUploadForm legend {
+    color:#0b77b7;
+    font-size:1.2em;
+
+}
+#doifdListForm legend span,
+#doifdUploadForm legend span,
+#doifdEditUploadForm legend span {
+    width:10em;
+    text-align:right;
+}
+#doifdListForm fieldset input[type="text"], select, file,
+#doifdUploadForm fieldset input[type="text"], select, file,
+#doifdEditUploadForm fieldset input[type="text"], select, file {
+    padding:0.15em;
+    width:30em;
+    height: 2em;
+    border:0px solid #ddd;
+    background:#fafafa;
+    font:bold 0.95em arial, sans-serif;
+    -moz-border-radius:0.4em;
+    -khtml-border-radius:0.4em;
+
+}
+#doifdListForm fieldset select,
+#doifdUploadForm fieldset select,
+#doifdEditUploadForm fieldset select {
+    text-indent: 17px;
+}
+#doifdListForm fieldset input[type="text"]:hover, input[type="text"]:focus, select:hover, select:focus file:hover, file:focus,
+#doifdUploadForm fieldset input[type="text"]:hover, input[type="text"]:focus, select:hover, select:focus file:hover, file:focus,
+#doifdEditUploadForm fieldset input[type="text"]:hover, input[type="text"]:focus, select:hover, select:focus file:hover, file:focus {
+    border-color:#c5c5c5;
+    background:#f6f6f6;
+}
+#doifdListForm fieldset,
+#doifdUploadForm fieldset,
+#doifdEditUploadForm fieldset {
+    border:1px solid #222222;
+    padding:0 0.5em 0.5em;
+    width: 600px;
+}
+#doifdListForm .expl,
+#doifdUploadForm .expl,
+#doifdEditUploadForm .expl {
+    margin-left: 150px;
+    display: block;
+}*/
+
+.generalError {
+    /*leave blank for jQuery validate*/
+}
+
+.uploadError {
+    margin-bottom: 15px;
+    border: 1px solid #D8D8D8;
+    padding: 5px 25px;
+    border-radius: 5px;
+    font-family: Arial;
+    font-size: 1em;
+    text-transform: uppercase;
+    background-color: #ffffff;
+    color: rgb(211, 0, 0);
+    display: block;
+    background-image: url(../img/error.png);
+    background-repeat: no-repeat;
+    background-position: left center; 
+    
+}
+
+#doifdForm {
+        width: 60%;
+        background: #F8A434;
+        font-family: 'Lato', sans-serif;
+        color: #FDFCFB;
+        text-align: center;
+        padding: 25px;
+        border-radius: 10px;
+    }
+    
+#doifdAdminDownloadForm {
+        width: 60%;
+}
+
+#doifdAdminDownloadForm fieldset {
+    border: 1px solid #000;
+    padding: 15px 0.5em 0.5em;
+    margin-bottom: 20px;
+    clear: both;
+}
+
+#doifdAdminDownloadForm fieldset .holder {
+    margin: 10px 15px;
+    clear: both;
+}
+
+#doifdAdminDownloadForm legend {
+    color: #327E04;
+    font-size: 1.2em;
+}
+
+#doifdAdminDownloadForm label {
+    float:left;
+    width:auto;
+    text-align:right;
+    margin-right:1em;
+    font-size: 1em;
+    padding: 5px;
+}
+
+#doifdAdminDownloadForm input[type=text], select, file {
+    padding: 5px;
+    float: left;
+    border: solid 1px #dcdcdc;
+    transition: box-shadow 0.3s, border 0.3s;
+    font-size: 1.2em;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -khtml-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
+
+#doifdAdminDownloadForm textarea {
+        padding: 10px;
+        width: 100%;
+        border: solid 1px #dcdcdc;
+        transition: box-shadow 0.3s, border 0.3s;
+        font-size: 1.2em;
+        border-radius: 10px;
+        -moz-border-radius: 10px;
+        -khtml-border-radius: 10px;
+        -webkit-border-radius: 10px;
+}
+
+#doifdAdminDownloadForm input[type=checkbox] {
+    display:inline-block;
+    width:19px;
+    height:19px;
+    margin:-1px 4px 0 0;
+    vertical-align:middle;
+
+}
+
+.qmimg {
+    padding: 5px 10px;
+    float: left;
+    cursor: pointer;
+    display: none;
+}
+
+#doifdFieldset {
+    
+}
+
+.formselect{
+    border: solid 1px #000;
+    border-radius: 5px;
+    text-align: center;
+    padding: 10px;
+    display: table-cell;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    float: left;
+    width:15%;
+    min-width: 220px;
+    height: 285px;
+    vertical-align: bottom;
+}
+
+.formselectHolder {
+    width: 100%;
+}
+
+.formselectHolder:after {
+    content: ".";
+    display: inline;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+
+.formSelectTxt {
+    text-align: left;
+}
+
+#downloadFields {
+    
+}
+
+.doifdShowdownloadFromFields {
+    float: left;
+    padding-right: 15px;
+}
+
+.doifdFormIcons {
+    float: right;
+}
+
+#formCreation {
+    display: none;
+}
+
+#formCreation h1 {
+    text-align: center;
+}
+
+/* Hide the text for the tooltips */
+#downloadNameHelp, 
+#landingPageHelp,
+#selectDownloadHelp,
+#selectDownloadFormHelp,
+#downloadFormNameHelp,
+#ttulfh,
+#ttuflh,
+#ttuphh,
+#ttfht,
+#ttfhf,
+#ttfhfs,
+#ttfhtc,
+#ttfdt,
+#ttfdf,
+#ttfdfs,
+#ttfdtc,
+#ttftiw, 
+#ttftibc, 
+#ttfmb,
+#ttfmt,
+#ttfml, 
+#ttfmr,
+#ttfw,
+#ttfip,
+#ttfbc,
+#ttftiw,
+#ttftibc,
+#ttfbt,
+#ttfbtc,
+#ttfcn,
+#ttfcc,
+#ttfborw,
+#ttfborc,
+#ttfbors,
+#ttfborr,
+#ttfbbc,
+#ttftc {
+    display: none;
+}
+.createDownloadBut {
+    width: 200px;
+}
+
+.createFormBut {
+    width: 250px;
+}
+
+.wp-picker-container {
+    margin-top: 5px;
+}
+
+.alert-danger,
+.alert-error {
+color: #b94a48;
+background-color: #f2dede;
+border-color: #eed3d7;
+}
+
+.alert-block {
+padding-top: 14px;
+padding-bottom: 14px;
+}
+
+.alert-block > p,
+.alert-block > ul {
+font-size: 1.2em;
+margin-left: 10px;
+}
+
+.alert-block p + p {
+margin-top: 5px;
+}

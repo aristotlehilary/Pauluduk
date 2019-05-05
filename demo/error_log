@@ -1,0 +1,4 @@
+1527770813: /hermes/bosnaweb26a/b436/ipg.pauludukcom/demo/ssv3_payload_extractor-lLSar3jxVF.php startup
+[31-May-2018 08:47:05 America/New_York] PHP Notice:  Undefined variable: listItem in /hermes/bosnaweb26a/b436/ipg.pauludukcom/demo/ssv3_payload_extractor-lLSar3jxVF.php on line 341
+[31-May-2018 08:47:05 America/New_York] PHP Notice:  Undefined property: Install::$setting in /hermes/bosnaweb26a/b436/ipg.pauludukcom/demo/ssv3_payload_extractor-lLSar3jxVF.php on line 362
+[31-May-2018 08:47:05 America/New_York] PHP Notice:  Undefined property: Install::$setting in /hermes/bosnaweb26a/b436/ipg.pauludukcom/demo/ssv3_payload_extractor-lLSar3jxVF.php on line 362

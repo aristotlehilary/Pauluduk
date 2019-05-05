@@ -1,0 +1,27 @@
+.img-select li {
+	display: inline-block;
+}
+
+.img-select li img {
+	box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.15);
+	-webkit-transition: all 0.3s ease 0s;
+	-o-transition: all 0.3s ease 0s;
+	transition: all 0.3s ease 0s;
+}
+
+.img-select li:hover img,
+.img-select li.active img {
+	box-shadow: 1px 1px 6px #ff6d84;	
+	cursor: pointer;
+}
+
+.img-select li img {
+	display: block;
+}
+
+body .etabs li.tab a {
+	height: 40px;
+	line-height: 40px;
+	padding: 0 20px;
+	font-size: 12px;
+}

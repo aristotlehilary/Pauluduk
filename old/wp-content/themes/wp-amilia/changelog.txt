@@ -1,0 +1,17 @@
+2016.01.19 - Version 1.0.2
+	1. Fixed issue changed layout of fancybox single
+		Changed file:
+			- Add new folder vc_params/single-fancy
+			- vc_params/cms_fancybox_single.php
+	2. Fixed issue Woo add-to-cart button ajax not work
+		Changed file:
+			- woocommerce/loop/add-to-cart.php
+			- assets/scss/woo.scss
+	3. Add new features: change site color
+		Changed file:
+			- assets/scss/*.scss
+	4. Fixed issue "there is no index file." in child theme
+
+2016.01.19 - Version 1.0.1
+	- Add Sample data folder
+	- Add child theme

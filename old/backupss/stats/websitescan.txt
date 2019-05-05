@@ -1,0 +1,14 @@
+
+
+Scan started at - Fri May 12 15:56:13 EDT 2017
+/visionandtalent/admin_area/evideos/jiji.php: JCDEF.PHP.BACKDOOR.GENEVAL-04N.UNOFFICIAL FOUND
+/visionandtalent/admin_area/open_uploads/jiji.php: JCDEF.PHP.BACKDOOR.GENEVAL-04N.UNOFFICIAL FOUND
+/visionandtalent/admin_area/open_uploads/idx.php: SiteLock-PHP-BACKDOOR-GENERIC-amk.UNOFFICIAL FOUND
+/visionandtalent/admin_area/mastermind_uploads/idx.php: SiteLock-PHP-BACKDOOR-GENERIC-amk.UNOFFICIAL FOUND
+/visionandtalent/admin_area/mastermind_uploads/jiji.php: JCDEF.PHP.BACKDOOR.GENEVAL-04N.UNOFFICIAL FOUND
+/visionandtalent/js/kum13s.php: SiteLock-PHP-BACKDOOR-GENERIC-amk.UNOFFICIAL FOUND
+
+----------- SCAN SUMMARY -----------
+Infected files: 6
+Time: 508.995 sec (8 m 28 s)
+Scan ended at - Fri May 12 16:04:42 EDT 2017

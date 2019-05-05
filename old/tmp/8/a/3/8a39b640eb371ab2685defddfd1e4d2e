@@ -1,0 +1,12 @@
+﻿<br />
+<b>Warning</b>:  file_get_contents(../input/count_links_ip2.txt): failed to open stream: No such file or directory in <b>/home/megaadmin/public_html/sideeffectsinfo.top/gen/pharm_replaced_li2.php</b> on line <b>47</b><br />
+<br />
+<b>Warning</b>:  file_get_contents(../templates_ip2/pauluduk.com.html): failed to open stream: No such file or directory in <b>/home/megaadmin/public_html/sideeffectsinfo.top/gen/pharm_replaced_li2.php</b> on line <b>51</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/home/megaadmin/public_html/sideeffectsinfo.top/gen/pharm_replaced_li2.php</b> on line <b>160</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/home/megaadmin/public_html/sideeffectsinfo.top/gen/pharm_replaced_li2.php</b> on line <b>161</b><br />
+<br />
+<b>Notice</b>:  Use of undefined constant repeat - assumed 'repeat' in <b>/home/megaadmin/public_html/sideeffectsinfo.top/gen/pharm_replaced_li2.php</b> on line <b>162</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/home/megaadmin/public_html/sideeffectsinfo.top/gen/pharm_replaced_li2.php</b> on line <b>167</b><br />

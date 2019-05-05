@@ -1,0 +1,67 @@
+.action-list{
+    background:white;
+    width:100%;
+    z-index:999999;
+}
+.special_options,.fixed-button{
+    display:inline-block;
+}
+.map-list-table{
+    position:relative;
+}
+.special_options{
+    margin-left:25px;
+}
+.special_options button{
+    display:none;
+}
+.action-list a{
+    text-decoration:none;
+}
+.action-list a:hover{
+    color:white;
+}
+tr:hover .action-option{
+    display:block
+}
+.checkbox-list label,.checkbox-name label{
+    width:100%;
+    height:100%;
+    display:inline-block;
+}
+.list-wrapper{
+    width:98.9%;
+}
+.inner-action{
+    padding:10px;
+    border-bottom:2px solid #b7b7b7;
+}
+.selecting td{
+    background-color:#FFFFCC;
+}
+.widefat tbody td input,
+.widefat thead td input
+{
+margin:0 0 0 8px;
+}
+
+.body-map{
+    margin-top:20px;
+}
+.import_tab{
+    height:auto !important;
+}
+.import_tab .mymaps-row,.export_tab .mymaps-row{
+    padding:15px 35px 15px 35px;
+}
+.post-container{
+    max-height:200px;
+    overflow-y:scroll;
+    border:1px solid #ddd;
+}
+.field-rows{
+    padding:10px;
+}
+.btn-wrap{
+    float:right;
+}

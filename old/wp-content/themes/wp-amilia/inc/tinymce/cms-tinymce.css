@@ -1,0 +1,23 @@
+.cms-highlight-gray {
+	background-color: #C0C0C0;
+	color: #fff;
+}
+
+.cms-highlight-yellow {
+	background-color: #ffea00;
+	color:#4b4e53;
+	padding: 0 3px;
+}
+
+.vc_btn3.vc_btn3-color-yellow, .vc_btn3.vc_btn3-color-default, .vc_btn3-colored-dropdown .color .default {background: #ffea00 !important; color: #fff !important;}
+.vc_general.vc_btn3.vc_btn3-color-gray, .vc_btn3-colored-dropdown .color .gray {background: #535961 !important; color: #fff !important;} 
+.vc_btn3.vc_btn3-color-gray-light, .vc_btn3-colored-dropdown .color .gray-light {background: #d7d9dc !important; color: #fff !important;} 
+.vc_btn3.vc_btn3-color-cyan, .vc_btn3-colored-dropdown .color .cyan {background: #4cc1d3 !important; color: #fff !important;}
+.vc_btn3.vc_btn3-color-blue, .vc_btn3-colored-dropdown .color .blue {background: #37a2d6 !important; color: #fff !important;}
+.vc_btn3.vc_btn3-color-teal, .vc_btn3-colored-dropdown .color .teal {background: #1bbc9b !important; color: #fff !important;}
+.vc_btn3.vc_btn3-color-green, .vc_btn3-colored-dropdown .color .green {background: #259b24 !important; color: #fff !important;}
+.vc_btn3.vc_btn3-color-lime, .vc_btn3-colored-dropdown .color .lime {background: #cddc39 !important; color: #fff !important;}
+.vc_btn3.vc_btn3-color-deeporange, .vc_btn3-colored-dropdown .color .deeporange {background: #ff5722 !important; color: #fff !important;}
+.vc_general.vc_btn3 {
+	border-radius: 2px;
+}

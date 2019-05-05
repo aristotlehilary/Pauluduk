@@ -1,0 +1,219 @@
+2019-04-30T14:04:05+00:00 INFO Generating payment form for order 2008. Notify URL: https://www.pauluduk.com/?wc-api=WC_Gateway_Paypal
+2019-04-30T14:04:05+00:00 INFO PayPal Request Args for order 2008: Array
+(
+    [cmd] => _cart
+    [business] => pauluduk@gmail.com
+    [no_note] => 1
+    [currency_code] => USD
+    [charset] => utf-8
+    [rm] => 2
+    [upload] => 1
+    [return] => https://www.pauluduk.com/?page_id=209&order-received=2008&key=wc_order_deol9lquliMwJ&utm_nooverride=1
+    [cancel_return] => https://www.pauluduk.com/?page_id=208&cancel_order=true&order=wc_order_deol9lquliMwJ&order_id=2008&redirect&_wpnonce=b4609bc446
+    [page_style] => 
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-2008
+    [custom] => {"order_id":2008,"order_key":"wc_order_deol9lquliMwJ"}
+    [notify_url] => https://www.pauluduk.com/?wc-api=WC_Gateway_Paypal
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [address_override] => 0
+    [no_shipping] => 0
+    [tax_cart] => 0.00
+    [item_name_1] => Wealth Beyond Your Imagination
+    [quantity_1] => 1
+    [amount_1] => 500
+    [item_number_1] => 
+    [bn] => WooThemes_Cart
+)
+
+2019-04-30T14:07:14+00:00 INFO Checking IPN response is valid
+2019-04-30T14:07:15+00:00 INFO IPN Response: WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 56: GnuTLS recv error (-110): The TLS connection was non-properly terminated.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+)
+
+2019-04-30T14:07:15+00:00 INFO Received invalid response from PayPal IPN
+2019-04-30T14:07:15+00:00 INFO Error response: cURL error 56: GnuTLS recv error (-110): The TLS connection was non-properly terminated.
+2019-04-30T14:10:32+00:00 INFO Checking IPN response is valid
+2019-04-30T14:10:33+00:00 INFO IPN Response: WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 56: GnuTLS recv error (-110): The TLS connection was non-properly terminated.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+)
+
+2019-04-30T14:10:33+00:00 INFO Received invalid response from PayPal IPN
+2019-04-30T14:10:33+00:00 INFO Error response: cURL error 56: GnuTLS recv error (-110): The TLS connection was non-properly terminated.
+2019-04-30T14:12:56+00:00 INFO Checking IPN response is valid
+2019-04-30T14:12:57+00:00 INFO IPN Response: WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 56: GnuTLS recv error (-110): The TLS connection was non-properly terminated.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+)
+
+2019-04-30T14:12:57+00:00 INFO Received invalid response from PayPal IPN
+2019-04-30T14:12:57+00:00 INFO Error response: cURL error 56: GnuTLS recv error (-110): The TLS connection was non-properly terminated.
+2019-04-30T14:15:20+00:00 INFO Checking IPN response is valid
+2019-04-30T14:15:21+00:00 INFO IPN Response: WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 56: GnuTLS recv error (-110): The TLS connection was non-properly terminated.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+)
+
+2019-04-30T14:15:21+00:00 INFO Received invalid response from PayPal IPN
+2019-04-30T14:15:21+00:00 INFO Error response: cURL error 56: GnuTLS recv error (-110): The TLS connection was non-properly terminated.
+2019-04-30T14:18:26+00:00 INFO Checking IPN response is valid
+2019-04-30T14:18:27+00:00 INFO IPN Response: WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 56: GnuTLS recv error (-110): The TLS connection was non-properly terminated.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+)
+
+2019-04-30T14:18:27+00:00 INFO Received invalid response from PayPal IPN
+2019-04-30T14:18:27+00:00 INFO Error response: cURL error 56: GnuTLS recv error (-110): The TLS connection was non-properly terminated.
+2019-04-30T14:22:16+00:00 INFO Checking IPN response is valid
+2019-04-30T14:22:17+00:00 INFO IPN Response: WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 56: GnuTLS recv error (-110): The TLS connection was non-properly terminated.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+)
+
+2019-04-30T14:22:17+00:00 INFO Received invalid response from PayPal IPN
+2019-04-30T14:22:17+00:00 INFO Error response: cURL error 56: GnuTLS recv error (-110): The TLS connection was non-properly terminated.
+2019-04-30T14:29:45+00:00 INFO Checking IPN response is valid
+2019-04-30T14:29:47+00:00 INFO IPN Response: WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 56: GnuTLS recv error (-110): The TLS connection was non-properly terminated.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+)
+
+2019-04-30T14:29:47+00:00 INFO Received invalid response from PayPal IPN
+2019-04-30T14:29:47+00:00 INFO Error response: cURL error 56: GnuTLS recv error (-110): The TLS connection was non-properly terminated.
+2019-04-30T14:43:57+00:00 INFO Checking IPN response is valid
+2019-04-30T14:43:58+00:00 INFO IPN Response: WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 56: GnuTLS recv error (-110): The TLS connection was non-properly terminated.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+)
+
+2019-04-30T14:43:58+00:00 INFO Received invalid response from PayPal IPN
+2019-04-30T14:43:58+00:00 INFO Error response: cURL error 56: GnuTLS recv error (-110): The TLS connection was non-properly terminated.
+2019-04-30T15:06:42+00:00 INFO Checking IPN response is valid
+2019-04-30T15:06:43+00:00 INFO IPN Response: WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 56: GnuTLS recv error (-110): The TLS connection was non-properly terminated.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+)
+
+2019-04-30T15:06:43+00:00 INFO Received invalid response from PayPal IPN
+2019-04-30T15:06:43+00:00 INFO Error response: cURL error 56: GnuTLS recv error (-110): The TLS connection was non-properly terminated.
